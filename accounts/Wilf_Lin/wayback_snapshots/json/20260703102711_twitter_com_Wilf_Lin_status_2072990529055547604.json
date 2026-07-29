@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1139233849991237632",
+          "name": "Marques Brownlee"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1139233849991237632",
+          "name": "Marques Brownlee"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1139233849991237632",
+          "name": "Marques Brownlee"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2072990529055547604",
+    "created_at": "2026-07-03T10:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T11:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072990529055547604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2054884218707046400",
+          "start": 3,
+          "username": "RyanWillia55819"
+        },
+        {
+          "end": 27,
+          "id": "29873662",
+          "start": 21,
+          "username": "MKBHD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072990529055547604",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072695910455234945",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RyanWillia55819: @MKBHD The disc disappeared.\nThe case disappeared.\nThe shipping  disappeared. \nThe resale value disappeared.\nSomehow t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 406,
+        "media_key": "16_2072695899889770496",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMOx8HhWoAAas5f.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMOx8HhWoAAas5f.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1139233849991237632",
+              "name": "Marques Brownlee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1139233849991237632",
+              "name": "Marques Brownlee"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139233849991237632",
+              "name": "Marques Brownlee"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2072990529055547604",
+        "created_at": "2026-07-03T10:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072990529055547604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2054884218707046400",
+              "start": 3,
+              "username": "RyanWillia55819"
+            },
+            {
+              "end": 27,
+              "id": "29873662",
+              "start": 21,
+              "username": "MKBHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072990529055547604",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072695910455234945",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RyanWillia55819: @MKBHD The disc disappeared.\nThe case disappeared.\nThe shipping  disappeared. \nThe resale value disappeared.\nSomehow t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2072695899889770496"
+          ]
+        },
+        "author_id": "2054884218707046400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1139233849991237632",
+              "name": "Marques Brownlee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1139233849991237632",
+              "name": "Marques Brownlee"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139233849991237632",
+              "name": "Marques Brownlee"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2072674883520045415",
+        "created_at": "2026-07-02T14:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072695910455234945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "29873662",
+              "start": 0,
+              "username": "MKBHD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOARpW2Jvz",
+              "end": 160,
+              "expanded_url": "https://x.com/RyanWillia55819/status/2072695910455234945/photo/1",
+              "media_key": "16_2072695899889770496",
+              "start": 137,
+              "url": "https://t.co/vOARpW2Jvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072695910455234945",
+        "in_reply_to_user_id": "29873662",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 60968,
+          "like_count": 3537,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072674883520045415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MKBHD The disc disappeared.\nThe case disappeared.\nThe shipping  disappeared. \nThe resale value disappeared.\nSomehow the price survived. https://t.co/vOARpW2Jvz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 1872,
+          "like_count": 84364,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 8785
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-14T11:19:32.000Z",
+        "description": "Building an AI-native small company.Notes on product judgment,founder systems,and practical AI workflows.",
+        "id": "2054884218707046400",
+        "name": "Ryan W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054884313066254338/LQEVbeR4_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 37,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "RyanWillia55819",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-09T00:50:00.000Z",
+        "description": "Web Video Producer | ⋈ | Pro Ultimate Frisbee Player | Host of @WVFRM @TheStudio",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 63,
+                "username": "WVFRM"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "TheStudio"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MKBHD.com",
+                "end": 23,
+                "expanded_url": "http://MKBHD.com",
+                "start": 0,
+                "url": "https://t.co/ZktXu6nIYz"
+              }
+            ]
+          }
+        },
+        "id": "29873662",
+        "location": "NYC",
+        "name": "Marques Brownlee",
+        "pinned_tweet_id": "1282750287229456385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990855181785759745/CP3H7WsL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6129885,
+          "following_count": 483,
+          "like_count": 30253,
+          "listed_count": 14910,
+          "media_count": 8859,
+          "tweet_count": 56852
+        },
+        "url": "https://t.co/ZktXu6nIYz",
+        "username": "MKBHD",
+        "verified": true
+      }
+    ]
+  }
+}
