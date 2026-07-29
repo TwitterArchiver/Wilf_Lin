@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2079621067329712330",
+    "created_at": "2026-07-21T17:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T18:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079621067329712330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2870102861",
+          "start": 3,
+          "username": "thdxr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079621067329712330",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079561260765446587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thdxr: 5.6 is the most usable model ever made\n\nnot saying it's gonna magically solve all your problems, it's just very easy to get good…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2079621067329712330",
+        "created_at": "2026-07-21T17:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079621067329712330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2870102861",
+              "start": 3,
+              "username": "thdxr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079621067329712330",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079561260765446587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thdxr: 5.6 is the most usable model ever made\n\nnot saying it's gonna magically solve all your problems, it's just very easy to get good…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2870102861",
+        "conversation_id": "2079561260765446587",
+        "created_at": "2026-07-21T13:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079561260765446587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079561260765446587",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 61743,
+          "like_count": 2009,
+          "quote_count": 12,
+          "reply_count": 119,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "5.6 is the most usable model ever made\n\nnot saying it's gonna magically solve all your problems, it's just very easy to get good results from with low effort\n\nat this point if you're still struggling to get good code out of the machine it might be a you thing"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 1958,
+          "like_count": 91154,
+          "listed_count": 3,
+          "media_count": 390,
+          "tweet_count": 9079
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2014-11-10T04:50:37.000Z",
+        "description": "building @opencode at @anomalyco\nnot the ceo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "opencode"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "anomalyco"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thdxr.com",
+                "end": 23,
+                "expanded_url": "https://thdxr.com",
+                "start": 0,
+                "url": "https://t.co/bWom5srB32"
+              }
+            ]
+          }
+        },
+        "id": "2870102861",
+        "location": "Miami, FL",
+        "name": "dax",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602333093485891584/mmVqjFNI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148722,
+          "following_count": 451,
+          "like_count": 87439,
+          "listed_count": 1414,
+          "media_count": 2671,
+          "tweet_count": 42900
+        },
+        "url": "https://t.co/bWom5srB32",
+        "username": "thdxr",
+        "verified": true
+      }
+    ]
+  }
+}

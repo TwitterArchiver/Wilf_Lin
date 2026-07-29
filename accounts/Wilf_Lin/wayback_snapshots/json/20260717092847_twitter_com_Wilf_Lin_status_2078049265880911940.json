@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Firefox",
+          "id": "10052778495",
+          "name": "Firefox"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Google Chrome",
+          "id": "10052778493",
+          "name": "Google Chrome"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Firefox",
+          "id": "10052778495",
+          "name": "Firefox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446727181500416",
+          "name": "Tech industry"
+        }
+      }
+    ],
+    "conversation_id": "2078049265880911940",
+    "created_at": "2026-07-17T09:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T10:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078049265880911940"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wasmerio/statu…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/wasmerio/status/2077788086709420532",
+          "start": 33,
+          "url": "https://t.co/oB60nTkhNk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078049265880911940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077788086709420532",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然这很抽象，但是你现在可以在chrome中运行firefox了 https://t.co/oB60nTkhNk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1976,
+        "media_key": "3_2077788013820817408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXJMKJasAAQ5Nd.jpg",
+        "width": 3248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Chrome",
+              "id": "10052778493",
+              "name": "Google Chrome"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          }
+        ],
+        "conversation_id": "2078049265880911940",
+        "created_at": "2026-07-17T09:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078049265880911940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wasmerio/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/wasmerio/status/2077788086709420532",
+              "start": 33,
+              "url": "https://t.co/oB60nTkhNk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078049265880911940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077788086709420532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然这很抽象，但是你现在可以在chrome中运行firefox了 https://t.co/oB60nTkhNk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077788013820817408"
+          ]
+        },
+        "author_id": "1065483270584844288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          }
+        ],
+        "conversation_id": "2077788086709420532",
+        "created_at": "2026-07-16T16:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077788086709420532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CtPlYqpouY",
+              "end": 89,
+              "expanded_url": "https://x.com/wasmerio/status/2077788086709420532/photo/1",
+              "media_key": "3_2077788013820817408",
+              "start": 66,
+              "url": "https://t.co/CtPlYqpouY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077788086709420532",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 404,
+          "impression_count": 80845,
+          "like_count": 988,
+          "quote_count": 46,
+          "reply_count": 31,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "Firefox compiled to WebAssembly, running inside of your browser 🤯 https://t.co/CtPlYqpouY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 1939,
+          "like_count": 89981,
+          "listed_count": 3,
+          "media_count": 369,
+          "tweet_count": 8976
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-22T05:53:02.000Z",
+        "description": "The Universal WebAssembly Runtime. We ❤️ Open Source",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wasmer.io",
+                "end": 23,
+                "expanded_url": "https://wasmer.io",
+                "start": 0,
+                "url": "https://t.co/uDckh9rTBe"
+              }
+            ]
+          }
+        },
+        "id": "1065483270584844288",
+        "location": "San Francisco, CA",
+        "name": "Wasmer",
+        "pinned_tweet_id": "2033966082944577693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934920853822885888/Y-tiT_3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11284,
+          "following_count": 3237,
+          "like_count": 3020,
+          "listed_count": 145,
+          "media_count": 143,
+          "tweet_count": 1223
+        },
+        "url": "https://t.co/uDckh9rTBe",
+        "username": "wasmerio",
+        "verified": true
+      }
+    ]
+  }
+}

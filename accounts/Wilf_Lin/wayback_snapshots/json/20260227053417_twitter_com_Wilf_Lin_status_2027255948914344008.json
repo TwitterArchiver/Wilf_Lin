@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2027223585514045510",
+    "created_at": "2026-02-27T05:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T06:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027255948914344008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1404738934043602947",
+          "start": 0,
+          "username": "Jackywine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027255948914344008",
+    "in_reply_to_user_id": "1404738934043602947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027223585514045510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jackywine 这个功能是还在灰度吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8766,
+        "height": 720,
+        "media_key": "13_2027223279476539393",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027223279476539393/img/PIiQ-EdfC_gBEtWS.jpg",
+        "public_metrics": {
+          "view_count": 174
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027223279476539393/vid/avc1/414x270/w5Ad1Up1xE0Yxq-4.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027223279476539393/vid/avc1/554x360/T5_SvbPy4KcMWd_9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027223279476539393/vid/avc1/1108x720/J1BFKSii8BTOJHqh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027223279476539393/pl/Z9Wmq6AE3ifsgR4c.m3u8"
+          }
+        ],
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2027223585514045510",
+        "created_at": "2026-02-27T05:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027255948914344008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1404738934043602947",
+              "start": 0,
+              "username": "Jackywine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027255948914344008",
+        "in_reply_to_user_id": "1404738934043602947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027223585514045510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jackywine 这个功能是还在灰度吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027223279476539393"
+          ]
+        },
+        "author_id": "1404738934043602947",
+        "conversation_id": "2027223585514045510",
+        "created_at": "2026-02-27T03:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T04:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027223585514045510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jackywine/stat…",
+              "end": 74,
+              "expanded_url": "https://x.com/Jackywine/status/1873589657956651146?s=20",
+              "start": 51,
+              "url": "https://t.co/m9sNsmLEeV"
+            },
+            {
+              "display_url": "pic.x.com/751WE6dJ2L",
+              "end": 98,
+              "expanded_url": "https://x.com/Jackywine/status/2027223585514045510/video/1",
+              "media_key": "13_2027223279476539393",
+              "start": 75,
+              "url": "https://t.co/751WE6dJ2L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027223585514045510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 749,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873589657956651146",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推特终于更新了内容筛选功能\n\n可以直接查看你喜欢的博主的最多点赞内容：\n\n我教你怎么用：\n\n用法参考：https://t.co/m9sNsmLEeV https://t.co/751WE6dJ2L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 635,
+          "like_count": 9519,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 4885
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-15T09:54:01.000Z",
+        "description": "现苹果、xAI、谷歌、字节跳动用户，清华大学游客\n不过是工作之余分享一些 AI、品牌、UIUX、产品、一人公司、AI创业、梗图、好车的普通网友罢了\n✈️Telegram channel：https://t.co/HRpOru3LUj\n公众号：jackywine\n2026零基础自学 AI 就来我知识库👇🏻",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jackywineEarth",
+                "end": 116,
+                "expanded_url": "http://t.me/jackywineEarth",
+                "start": 93,
+                "url": "https://t.co/HRpOru3LUj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "my.feishu.cn/wiki/BX54wYGhJ…",
+                "end": 23,
+                "expanded_url": "https://my.feishu.cn/wiki/BX54wYGhJizwzhkKLbFcqaSKnPb",
+                "start": 0,
+                "url": "https://t.co/SIc6iP3BDY"
+              }
+            ]
+          }
+        },
+        "id": "1404738934043602947",
+        "name": "Jackywine",
+        "pinned_tweet_id": "2021534129368768671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805875520430915586/x3t_sQdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33996,
+          "following_count": 3116,
+          "like_count": 86602,
+          "listed_count": 323,
+          "media_count": 4283,
+          "tweet_count": 28318
+        },
+        "url": "https://t.co/SIc6iP3BDY",
+        "username": "Jackywine",
+        "verified": true
+      }
+    ]
+  }
+}

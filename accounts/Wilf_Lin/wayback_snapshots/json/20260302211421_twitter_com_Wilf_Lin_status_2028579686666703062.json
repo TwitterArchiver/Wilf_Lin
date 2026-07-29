@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2028460046510965160",
+    "created_at": "2026-03-02T21:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T22:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028579686666703062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753339277386342400",
+          "start": 0,
+          "username": "Alibaba_Qwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028579686666703062",
+    "in_reply_to_user_id": "1753339277386342400",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028460046510965160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alibaba_Qwen “we are winning too much”"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 910,
+        "media_key": "3_2028459990722453504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaJnUQaoAAaMIc.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2028460046510965160",
+        "created_at": "2026-03-02T21:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T22:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028579686666703062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753339277386342400",
+              "start": 0,
+              "username": "Alibaba_Qwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028579686666703062",
+        "in_reply_to_user_id": "1753339277386342400",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028460046510965160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alibaba_Qwen “we are winning too much”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028459990722453504"
+          ]
+        },
+        "author_id": "1753339277386342400",
+        "conversation_id": "2028460046510965160",
+        "created_at": "2026-03-02T13:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028460046510965160"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Qwen",
+              "probability": 0.4926,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/90JfOM9k4T",
+              "end": 298,
+              "expanded_url": "https://x.com/Alibaba_Qwen/status/2028460046510965160/photo/1",
+              "media_key": "3_2028459990722453504",
+              "start": 275,
+              "url": "https://t.co/90JfOM9k4T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028460046510965160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "huggingface.co/collections/Qw…",
+                "end": 620,
+                "expanded_url": "https://huggingface.co/collections/Qwen/qwen35",
+                "start": 597,
+                "url": "https://t.co/wFMdX5pDjU"
+              },
+              {
+                "display_url": "modelscope.cn/collections/Qw…",
+                "end": 656,
+                "expanded_url": "https://modelscope.cn/collections/Qwen/Qwen35",
+                "start": 633,
+                "url": "https://t.co/9NGXcIdCWI"
+              }
+            ]
+          },
+          "text": "🚀 Introducing the Qwen 3.5 Small Model Series\nQwen3.5-0.8B · Qwen3.5-2B · Qwen3.5-4B · Qwen3.5-9B\n\n✨ More intelligence, less compute.\nThese small models are built on the same Qwen3.5 foundation — native multimodal, improved architecture, scaled RL:\n• 0.8B / 2B → tiny, fast, great for edge device\n• 4B → a surprisingly strong multimodal base for lightweight agents\n• 9B → compact, but already closing the gap with much larger models\nAnd yes — we’re also releasing the Base models as well.\nWe hope this better supports research, experimentation, and real-world industrial innovation.\nHugging Face: https://t.co/wFMdX5pDjU\nModelScope: https://t.co/9NGXcIdCWI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4308,
+          "impression_count": 1557551,
+          "like_count": 8729,
+          "quote_count": 522,
+          "reply_count": 369,
+          "retweet_count": 1139
+        },
+        "reply_settings": "everyone",
+        "text": "🚀 Introducing the Qwen 3.5 Small Model Series\nQwen3.5-0.8B · Qwen3.5-2B · Qwen3.5-4B · Qwen3.5-9B\n\n✨ More intelligence, less compute.\nThese small models are built on the same Qwen3.5 foundation — native multimodal, improved architecture, scaled RL:\n• 0.8B / 2B → tiny, fast, https://t.co/90JfOM9k4T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 685,
+          "like_count": 11154,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 5030
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-02T08:47:32.000Z",
+        "description": "Open foundation models for AGI.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qwen.ai",
+                "end": 23,
+                "expanded_url": "https://qwen.ai/",
+                "start": 0,
+                "url": "https://t.co/f8hrbNCQR4"
+              }
+            ]
+          }
+        },
+        "id": "1753339277386342400",
+        "name": "Qwen",
+        "pinned_tweet_id": "2028460046510965160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894073235379273728/0ROUmdkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158359,
+          "following_count": 5,
+          "like_count": 404,
+          "listed_count": 1799,
+          "media_count": 425,
+          "tweet_count": 807
+        },
+        "url": "https://t.co/f8hrbNCQR4",
+        "username": "Alibaba_Qwen",
+        "verified": true
+      }
+    ]
+  }
+}

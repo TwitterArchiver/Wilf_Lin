@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2036830235166216585",
+    "created_at": "2026-03-26T02:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T03:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036988915287027983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1068172934630395904",
+          "start": 0,
+          "username": "jakevin7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036988915287027983",
+    "in_reply_to_user_id": "1068172934630395904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036830235166216585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jakevin7 谷歌：除你帐号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2036830235166216585",
+        "created_at": "2026-03-26T02:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T03:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036988915287027983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1068172934630395904",
+              "start": 0,
+              "username": "jakevin7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036988915287027983",
+        "in_reply_to_user_id": "1068172934630395904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036830235166216585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jakevin7 谷歌：除你帐号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1068172934630395904",
+        "conversation_id": "2036830235166216585",
+        "created_at": "2026-03-25T15:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036830235166216585"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036830235166216585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/jackwener/open…",
+                "end": 242,
+                "expanded_url": "http://github.com/jackwener/open-antigravity",
+                "start": 219,
+                "url": "https://t.co/mpsDkVvtYL"
+              }
+            ]
+          },
+          "text": "用 Antigravity 但想在 Claude Code / Cursor / Continue 里用？\n\n之前写了个工具 open-antigravity ，它把 Antigravity 暴露为标准 OpenAI & Anthropic 兼容 API：\n\nnpm run dev 启动\n设置 base_url=localhost:4000\n任何 AI 客户端直接用\n零依赖、TypeScript、双协议、streaming 全支持\n\nhttps://t.co/mpsDkVvtYL"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 10864,
+          "like_count": 85,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "用 Antigravity 但想在 Claude Code / Cursor / Continue 里用？\n\n之前写了个工具 open-antigravity ，它把 Antigravity 暴露为标准 OpenAI &amp; Anthropic 兼容 API：\n\nnpm run dev 启动\n设置 base_url=localhost:4000\n任何 AI 客户端直接用\n零依赖、TypeScript、双协议、streaming 全支持"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 924,
+          "like_count": 21049,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 5942
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-29T16:00:48.000Z",
+        "description": "Building OpenCLI.\nAI enthusiast ! Love open source! \nBlockChain Worker?ExDatabaseer.\nApache Arrow/Datafusion/Doris PMC member & Committer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/jackwener",
+                "end": 23,
+                "expanded_url": "http://github.com/jackwener",
+                "start": 0,
+                "url": "https://t.co/fB3t3tUqIV"
+              }
+            ]
+          }
+        },
+        "id": "1068172934630395904",
+        "name": "卡比卡比",
+        "pinned_tweet_id": "2035745774211055948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1420768031827841031/36-lz-Jz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13209,
+          "following_count": 561,
+          "like_count": 3280,
+          "listed_count": 130,
+          "media_count": 126,
+          "tweet_count": 1401
+        },
+        "url": "https://t.co/fB3t3tUqIV",
+        "username": "jakevin7",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2037419258607812807",
+    "created_at": "2026-03-27T14:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037539337651241151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1688412716367593472",
+          "start": 0,
+          "username": "YuLin807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037539337651241151",
+    "in_reply_to_user_id": "1688412716367593472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037419258607812807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuLin807 你可以把context windows调回256k试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2037419258607812807",
+        "created_at": "2026-03-27T14:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037539337651241151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688412716367593472",
+              "start": 0,
+              "username": "YuLin807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037539337651241151",
+        "in_reply_to_user_id": "1688412716367593472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037419258607812807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuLin807 你可以把context windows调回256k试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688412716367593472",
+        "conversation_id": "2037419258607812807",
+        "created_at": "2026-03-27T06:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037419258607812807"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037419258607812807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 32426,
+          "like_count": 93,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我现在有一种幻觉\n\n所有的AI都不可靠\n\n以前我最信赖的opus4.6 \n\n现在真傻逼啊 都快和minimax一个水平了\n\n包括龙虾也是 三天两头失忆\n\n难道这个世界要回去古法编程嘛？！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 953,
+          "like_count": 22071,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 6006
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-07T04:53:29.000Z",
+        "description": "自由，希望与爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "clawbotmarket.cc",
+                "end": 23,
+                "expanded_url": "https://clawbotmarket.cc/",
+                "start": 0,
+                "url": "https://t.co/JpqVf3X2ie"
+              }
+            ]
+          }
+        },
+        "id": "1688412716367593472",
+        "name": "QingYue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008945711799476224/vf4XXJoa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5834,
+          "following_count": 3224,
+          "like_count": 8712,
+          "listed_count": 91,
+          "media_count": 507,
+          "tweet_count": 4614
+        },
+        "url": "https://t.co/JpqVf3X2ie",
+        "username": "YuLin807",
+        "verified": true
+      }
+    ]
+  }
+}

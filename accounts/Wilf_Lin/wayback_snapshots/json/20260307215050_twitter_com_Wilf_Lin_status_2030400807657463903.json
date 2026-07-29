@@ -1,0 +1,584 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2030294907420635643",
+    "created_at": "2026-03-07T21:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T22:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030400807657463903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1198313150858383360",
+          "start": 0,
+          "username": "cybrtrkguy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030400807657463903",
+    "in_reply_to_user_id": "1198313150858383360",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030294907420635643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cybrtrkguy Well, share holders."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 428,
+        "media_key": "3_2030293417196990464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0NGyHXMAAi2H1.jpg",
+        "width": 705
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2030294907420635643",
+        "created_at": "2026-03-07T21:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T22:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030400807657463903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1198313150858383360",
+              "start": 0,
+              "username": "cybrtrkguy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030400807657463903",
+        "in_reply_to_user_id": "1198313150858383360",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030294907420635643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cybrtrkguy Well, share holders."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030293417196990464"
+          ]
+        },
+        "author_id": "1198313150858383360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1174344555111469057",
+              "name": "Samsung Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Macbook",
+              "id": "972168210182111232",
+              "name": "Apple Macbook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364234",
+              "name": "Samsung "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10026331316",
+              "name": "Samsung Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10045298641",
+              "name": "Samsung USA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364234",
+              "name": "Samsung "
+            }
+          }
+        ],
+        "conversation_id": "2030294907420635643",
+        "created_at": "2026-03-07T14:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T15:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030294907420635643"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "MacOS",
+              "probability": 0.4604,
+              "start": 26,
+              "type": "Other"
+            },
+            {
+              "end": 50,
+              "normalized_text": "A18 Pro",
+              "probability": 0.5832,
+              "start": 44,
+              "type": "Other"
+            },
+            {
+              "end": 70,
+              "normalized_text": "iPhone",
+              "probability": 0.9565,
+              "start": 65,
+              "type": "Product"
+            },
+            {
+              "end": 99,
+              "normalized_text": "Apple",
+              "probability": 0.6926,
+              "start": 95,
+              "type": "Organization"
+            },
+            {
+              "end": 140,
+              "normalized_text": "iPhone",
+              "probability": 0.9317,
+              "start": 135,
+              "type": "Product"
+            },
+            {
+              "end": 169,
+              "normalized_text": "Samsung",
+              "probability": 0.8678,
+              "start": 163,
+              "type": "Organization"
+            },
+            {
+              "end": 176,
+              "normalized_text": "HP",
+              "probability": 0.4577,
+              "start": 175,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Q9pKnp2mX",
+              "end": 250,
+              "expanded_url": "https://x.com/cybrtrkguy/status/2030294907420635643/photo/1",
+              "media_key": "3_2030293417196990464",
+              "start": 227,
+              "url": "https://t.co/8Q9pKnp2mX"
+            },
+            {
+              "display_url": "x.com/adityadotdev/s…",
+              "end": 274,
+              "expanded_url": "https://twitter.com/adityadotdev/status/2029215627240718462",
+              "start": 251,
+              "url": "https://t.co/Wwygn7gVRb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030294907420635643",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 321,
+          "impression_count": 537722,
+          "like_count": 3805,
+          "quote_count": 61,
+          "reply_count": 423,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029215627240718462",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Wait a damn minute...\n\nIf MacOS runs on the A18 Pro (last year's iPhone chip), what's stopping Apple from creating a dock to make your iPhone into your Desktop? \n\nSamsung and HP tried this a decade ago, and it never caught on. https://t.co/8Q9pKnp2mX https://t.co/Wwygn7gVRb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 735,
+          "like_count": 13226,
+          "listed_count": 3,
+          "media_count": 78,
+          "tweet_count": 5254
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-23T18:51:40.000Z",
+        "description": "Reporting on the industrialization of Tesla Cybertruck 🇺🇸 📐 Foundation Series Cybertruck #38,598 + Model Y owner in Grand Rapids 👍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tesla.com/cybertruck/des…",
+                "end": 23,
+                "expanded_url": "https://www.tesla.com/cybertruck/design?referral=troy92480&redirect=no#overview",
+                "start": 0,
+                "url": "https://t.co/YFwlOVlZzZ"
+              }
+            ]
+          }
+        },
+        "id": "1198313150858383360",
+        "location": "Grand Rapids, MI",
+        "name": "The Cybertruck Guy",
+        "pinned_tweet_id": "2019059712549961791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1198344442807234560/zgOJFX85_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26310,
+          "following_count": 1731,
+          "like_count": 87701,
+          "listed_count": 228,
+          "media_count": 6860,
+          "tweet_count": 26948
+        },
+        "url": "https://t.co/YFwlOVlZzZ",
+        "username": "cybrtrkguy",
+        "verified": true
+      }
+    ]
+  }
+}

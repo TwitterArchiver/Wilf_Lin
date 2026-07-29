@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2028737601692434942",
+    "created_at": "2026-03-03T18:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T19:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028899568125886676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "24313912",
+          "start": 0,
+          "username": "wey_gu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028899568125886676",
+    "in_reply_to_user_id": "24313912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028737601692434942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wey_gu GPQA int4才放出来，llamacpp推不动正常"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2004,
+        "media_key": "3_2028735730131017730",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCeEZdmaIAIo4KM.jpg",
+        "width": 2602
+      },
+      {
+        "height": 2176,
+        "media_key": "3_2028737402253316096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCeF6yvbkAAIRFr.jpg",
+        "width": 3474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2028737601692434942",
+        "created_at": "2026-03-03T18:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T19:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028899568125886676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "24313912",
+              "start": 0,
+              "username": "wey_gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028899568125886676",
+        "in_reply_to_user_id": "24313912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028737601692434942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wey_gu GPQA int4才放出来，llamacpp推不动正常"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028735730131017730",
+            "3_2028737402253316096"
+          ]
+        },
+        "author_id": "24313912",
+        "conversation_id": "2028737601692434942",
+        "created_at": "2026-03-03T07:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T08:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028737601692434942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PF5ISRorfg",
+              "end": 171,
+              "expanded_url": "https://x.com/wey_gu/status/2028737601692434942/photo/1",
+              "media_key": "3_2028735730131017730",
+              "start": 148,
+              "url": "https://t.co/PF5ISRorfg"
+            },
+            {
+              "display_url": "pic.x.com/PF5ISRorfg",
+              "end": 171,
+              "expanded_url": "https://x.com/wey_gu/status/2028737601692434942/photo/1",
+              "media_key": "3_2028737402253316096",
+              "start": 148,
+              "url": "https://t.co/PF5ISRorfg"
+            },
+            {
+              "display_url": "x.com/wey_gu/status/…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/wey_gu/status/2028521438723162169",
+              "start": 172,
+              "url": "https://t.co/1oeJ6uwbdv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028737601692434942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 21726,
+          "like_count": 87,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028521438723162169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不敢相信，4bit 4B 的 qwen3.5 跑 Agentic 的 Nowledge Mem 工作是可以的，2B 的竟然也能跑通很多任务，只是用来做 co-work 类型工作会有一些问题。\n\n不过，现在 lm studio 上的 4B 模型有循环的问题。\n总体来说，非常 promising! https://t.co/PF5ISRorfg https://t.co/1oeJ6uwbdv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 689,
+          "like_count": 11480,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 5053
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-14T02:46:34.000Z",
+        "description": "Build things, troubleshoot& sing.\nCo-Founder @NowledgeLabs, build @NowledgeMem& https://t.co/RVZI2oX9pr\nMicrosoft MVP. Feminist. Prev @NebulaGraph, @Ericsson Cloud",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "NowledgeLabs"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "NowledgeMem"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "NebulaGraph"
+              },
+              {
+                "end": 157,
+                "start": 148,
+                "username": "Ericsson"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nowled.ge/kl",
+                "end": 103,
+                "expanded_url": "https://nowled.ge/kl",
+                "start": 80,
+                "url": "https://t.co/RVZI2oX9pr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "siwei.io/en/",
+                "end": 23,
+                "expanded_url": "https://siwei.io/en/",
+                "start": 0,
+                "url": "https://t.co/rQ8z4IElIi"
+              }
+            ]
+          }
+        },
+        "id": "24313912",
+        "location": "@siwei@mas.to",
+        "name": "Wey Gu 古思为",
+        "pinned_tweet_id": "1952559537703342350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1275624368618397697/kZ6PZRqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16057,
+          "following_count": 3904,
+          "like_count": 32521,
+          "listed_count": 209,
+          "media_count": 861,
+          "tweet_count": 17964
+        },
+        "url": "https://t.co/rQ8z4IElIi",
+        "username": "wey_gu",
+        "verified": true
+      }
+    ]
+  }
+}

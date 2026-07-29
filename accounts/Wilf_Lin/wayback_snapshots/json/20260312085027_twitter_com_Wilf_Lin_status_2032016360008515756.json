@@ -1,0 +1,511 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2031927362712117380",
+    "created_at": "2026-03-12T08:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T09:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032016360008515756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "195504008",
+          "start": 0,
+          "username": "R3DCHOU"
+        },
+        {
+          "end": 23,
+          "id": "1353417394065039360",
+          "start": 9,
+          "username": "techtechchina"
+        },
+        {
+          "end": 34,
+          "id": "192231368",
+          "start": 24,
+          "username": "Alfredxia"
+        },
+        {
+          "end": 44,
+          "id": "25401953",
+          "start": 35,
+          "username": "steipete"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032016360008515756",
+    "in_reply_to_user_id": "195504008",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032003507536961718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R3DCHOU @techtechchina @Alfredxia @steipete I mean, there's hundereds of mirror repo of major linux distributions, no body blame them on copy datas."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2031927362712117380",
+        "created_at": "2026-03-12T08:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T09:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032016360008515756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "195504008",
+              "start": 0,
+              "username": "R3DCHOU"
+            },
+            {
+              "end": 23,
+              "id": "1353417394065039360",
+              "start": 9,
+              "username": "techtechchina"
+            },
+            {
+              "end": 34,
+              "id": "192231368",
+              "start": 24,
+              "username": "Alfredxia"
+            },
+            {
+              "end": 44,
+              "id": "25401953",
+              "start": 35,
+              "username": "steipete"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032016360008515756",
+        "in_reply_to_user_id": "195504008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032003507536961718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R3DCHOU @techtechchina @Alfredxia @steipete I mean, there's hundereds of mirror repo of major linux distributions, no body blame them on copy datas."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "195504008",
+        "conversation_id": "2031927362712117380",
+        "created_at": "2026-03-12T07:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T08:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032003507536961718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353417394065039360",
+              "start": 0,
+              "username": "techtechchina"
+            },
+            {
+              "end": 25,
+              "id": "192231368",
+              "start": 15,
+              "username": "Alfredxia"
+            },
+            {
+              "end": 35,
+              "id": "25401953",
+              "start": 26,
+              "username": "steipete"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/steipete/statu…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/steipete/status/2031928946464366912",
+              "start": 138,
+              "url": "https://t.co/l0TYpc4xAG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032003507536961718",
+        "in_reply_to_user_id": "1353417394065039360",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031928946464366912",
+            "type": "quoted"
+          },
+          {
+            "id": "2031994896610148682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@techtechchina @Alfredxia @steipete That’s not the problem here, they copied everything from the project but don’t contribute in any way… https://t.co/l0TYpc4xAG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 759,
+          "like_count": 14601,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 5363
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2010-09-26T21:48:46.000Z",
+        "description": "",
+        "id": "195504008",
+        "location": "France",
+        "name": "Redchou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900287167991037952/w_jc_OKA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 293,
+          "like_count": 42352,
+          "listed_count": 0,
+          "media_count": 445,
+          "tweet_count": 4086
+        },
+        "username": "R3DCHOU",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T19:00:34.000Z",
+        "description": "A news platform that features the latest Chinese tech news to make sure you are always ahead of the curve!  🔍 🌍 https://t.co/DoDsI3tsON",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "huggingface.co/VivianToh",
+                "end": 135,
+                "expanded_url": "https://huggingface.co/VivianToh",
+                "start": 112,
+                "url": "https://t.co/DoDsI3tsON"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "techtechchina.com",
+                "end": 23,
+                "expanded_url": "https://www.techtechchina.com/",
+                "start": 0,
+                "url": "https://t.co/JsIMwPszxm"
+              }
+            ]
+          }
+        },
+        "id": "1353417394065039360",
+        "name": "Tech Tech China",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1491712242668257282/fahOVY9x_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11872,
+          "following_count": 842,
+          "like_count": 278,
+          "listed_count": 97,
+          "media_count": 2105,
+          "tweet_count": 2760
+        },
+        "url": "https://t.co/JsIMwPszxm",
+        "username": "techtechchina",
+        "verified": true
+      },
+      {
+        "created_at": "2010-09-18T15:11:55.000Z",
+        "description": "CTO @hundun.ai · HDDI = AI × Business Consulting · e/acc ⚡ we ship.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "hundun"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hundun.ai",
+                "end": 23,
+                "expanded_url": "https://hundun.ai",
+                "start": 0,
+                "url": "https://t.co/6Zw9RiH2zV"
+              }
+            ]
+          }
+        },
+        "id": "192231368",
+        "location": "China",
+        "name": "SnowShadow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1171303394/__2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 79,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/6Zw9RiH2zV",
+        "username": "Alfredxia",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-19T22:54:05.000Z",
+        "description": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 109,
+                "username": "openclaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steipete.me",
+                "end": 23,
+                "expanded_url": "https://steipete.me",
+                "start": 0,
+                "url": "https://t.co/VeCkD9BBZx"
+              }
+            ]
+          }
+        },
+        "id": "25401953",
+        "location": "Vienna & London",
+        "name": "Peter Steinberger 🦞",
+        "pinned_tweet_id": "2023154018714100102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1131851609774985216/OcsssQ9J_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430829,
+          "following_count": 2288,
+          "like_count": 59739,
+          "listed_count": 4657,
+          "media_count": 8407,
+          "tweet_count": 136457
+        },
+        "url": "https://t.co/VeCkD9BBZx",
+        "username": "steipete",
+        "verified": true
+      }
+    ]
+  }
+}

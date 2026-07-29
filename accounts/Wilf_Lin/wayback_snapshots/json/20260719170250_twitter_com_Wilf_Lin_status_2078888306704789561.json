@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2078888306704789561",
+    "created_at": "2026-07-19T17:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T18:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078888306704789561"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wilf_lin/statu…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/wilf_lin/status/2078330807685730537",
+          "start": 143,
+          "url": "https://t.co/bmgIatIR0I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078888306704789561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078330807685730537",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个东西的C面看起来很漂亮，但其实不怎么好用，键盘手感比我上一台华为差得多，触控板会有偶发的0.3s延迟导致使用体验非常糟糕（这在bios中复现了，所以我认为是硬件问题）\n反倒是被诟病的触控F区设计，在实际使用中没有造成什么问题。他让这个电脑变得非常帅，然而戴尔在新一代里面把它砍了。 https://t.co/bmgIatIR0I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2078330799305453568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNe22bpa8AAtSRV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2078888306704789561",
+        "created_at": "2026-07-19T17:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T18:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078888306704789561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wilf_lin/statu…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/wilf_lin/status/2078330807685730537",
+              "start": 143,
+              "url": "https://t.co/bmgIatIR0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078888306704789561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078330807685730537",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个东西的C面看起来很漂亮，但其实不怎么好用，键盘手感比我上一台华为差得多，触控板会有偶发的0.3s延迟导致使用体验非常糟糕（这在bios中复现了，所以我认为是硬件问题）\n反倒是被诟病的触控F区设计，在实际使用中没有造成什么问题。他让这个电脑变得非常帅，然而戴尔在新一代里面把它砍了。 https://t.co/bmgIatIR0I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078330799305453568"
+          ]
+        },
+        "author_id": "1554803647909097472",
+        "conversation_id": "2078330807685730537",
+        "created_at": "2026-07-18T04:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078330807685730537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0TfXE2NJLQ",
+              "end": 34,
+              "expanded_url": "https://x.com/Wilf_Lin/status/2078330807685730537/photo/1",
+              "media_key": "3_2078330799305453568",
+              "start": 11,
+              "url": "https://t.co/0TfXE2NJLQ"
+            },
+            {
+              "display_url": "x.com/wilf_lin/statu…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/wilf_lin/status/2078135075578019874",
+              "start": 35,
+              "url": "https://t.co/G5zN2EWwY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078330807685730537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 511,
+          "impression_count": 382423,
+          "like_count": 2774,
+          "quote_count": 11,
+          "reply_count": 111,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078135075578019874",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "codex我操你妈的 https://t.co/0TfXE2NJLQ https://t.co/G5zN2EWwY8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 1949,
+          "like_count": 90714,
+          "listed_count": 3,
+          "media_count": 384,
+          "tweet_count": 9051
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      }
+    ]
+  }
+}

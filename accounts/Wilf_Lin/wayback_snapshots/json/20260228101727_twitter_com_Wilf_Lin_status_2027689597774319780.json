@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2027685207055470676",
+    "created_at": "2026-02-28T10:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T11:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027689597774319780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "28530405",
+          "start": 0,
+          "username": "manateelazycat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027689597774319780",
+    "in_reply_to_user_id": "28530405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027685207055470676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manateelazycat 那我不得不把我的一堆pdf丢进去试试了（"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 75000,
+        "height": 720,
+        "media_key": "13_2027673209777360899",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027673209777360899/img/DdeW_h9HFt2NfUC2.jpg",
+        "public_metrics": {
+          "view_count": 102
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027673209777360899/vid/avc1/480x270/uiCc5oeHAEJW1KII.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027673209777360899/vid/avc1/640x360/qazrlM8xKBm8Eb4O.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027673209777360899/vid/avc1/1280x720/PPj38CZOdGSQyR0a.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027673209777360899/pl/mA956_wcsEtmjxlr.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2027685207055470676",
+        "created_at": "2026-02-28T10:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027689597774319780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "28530405",
+              "start": 0,
+              "username": "manateelazycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027689597774319780",
+        "in_reply_to_user_id": "28530405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027685207055470676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manateelazycat 那我不得不把我的一堆pdf丢进去试试了（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027673209777360899"
+          ]
+        },
+        "author_id": "28530405",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          }
+        ],
+        "conversation_id": "2027685207055470676",
+        "created_at": "2026-02-28T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027685207055470676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w97qG5I9v1",
+              "end": 186,
+              "expanded_url": "https://x.com/manateelazycat/status/2027685207055470676/video/1",
+              "media_key": "13_2027673209777360899",
+              "start": 163,
+              "url": "https://t.co/w97qG5I9v1"
+            },
+            {
+              "display_url": "x.com/manateelazycat…",
+              "end": 210,
+              "expanded_url": "https://twitter.com/manateelazycat/status/2024175594746081668",
+              "start": 187,
+              "url": "https://t.co/kWWP37M5gg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027685207055470676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "😂5分钟开发出平替Adobe PDF付费转换功能\n\nAI时代就是这么牛逼，而且无限调用，还有谁？哈哈哈\n\n懒猫读书支持 『 扫描PDF 转 EPUB 电子书 』后\n\n一份几百页的PDF，全自动转成EPUB电子书，优势如下：\n\n1. 提取图片（别人做不到，需要算力舱的模型支持）\n2. OCR识别（AI模型支持效果更好）\n3. 自动排版（算力舱AI模型牛逼，效果更好）\n\n懒猫算力舱不仅仅是硬件，还有顶级的工程师提供API服务和CEO在线写代码🔥\n\n想详细了解懒猫微服和算力舱，评论区打 1"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 496,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024175594746081668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😂5分钟开发出平替Adobe PDF付费转换功能\n\nAI时代就是这么牛逼，而且无限调用，还有谁？哈哈哈\n\n懒猫读书支持 『 扫描PDF 转 EPUB 电子书 』后\n\n一份几百页的PDF，全自动转成EPUB电子书，优势如下：\n\n1. 提取图片（别人做不到，需要算力舱的模型支持）\n2. OCR识别（AI模型支持效果更好）\n3. https://t.co/w97qG5I9v1 https://t.co/kWWP37M5gg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 642,
+          "like_count": 10162,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 4957
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-03T09:01:38.000Z",
+        "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lazycat.cloud",
+                "end": 64,
+                "expanded_url": "https://lazycat.cloud/",
+                "start": 41,
+                "url": "https://t.co/KVqgWHDvJj"
+              },
+              {
+                "display_url": "x.com/manateelazycat…",
+                "end": 98,
+                "expanded_url": "https://x.com/manateelazycat/status/1970815014861930775",
+                "start": 75,
+                "url": "https://t.co/SF9p24BuTk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manateelazycat.github.io",
+                "end": 23,
+                "expanded_url": "https://manateelazycat.github.io",
+                "start": 0,
+                "url": "https://t.co/twDx1twu9o"
+              }
+            ]
+          }
+        },
+        "id": "28530405",
+        "location": "China",
+        "name": "Andy Stewart",
+        "pinned_tweet_id": "1999726988395938121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50033,
+          "following_count": 290,
+          "like_count": 19439,
+          "listed_count": 352,
+          "media_count": 6205,
+          "tweet_count": 47212
+        },
+        "url": "https://t.co/twDx1twu9o",
+        "username": "manateelazycat",
+        "verified": true
+      }
+    ]
+  }
+}

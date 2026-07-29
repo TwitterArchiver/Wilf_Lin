@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2034059226356830492",
+    "created_at": "2026-03-18T05:58:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T06:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034147483882856628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1735423477799342080",
+          "start": 0,
+          "username": "elliotchen100"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034147483882856628",
+    "in_reply_to_user_id": "1735423477799342080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034059226356830492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elliotchen100 期待"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2034059226356830492",
+        "created_at": "2026-03-18T05:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T06:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034147483882856628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1735423477799342080",
+              "start": 0,
+              "username": "elliotchen100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034147483882856628",
+        "in_reply_to_user_id": "1735423477799342080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034059226356830492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elliotchen100 期待"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735423477799342080",
+        "conversation_id": "2034059226356830492",
+        "created_at": "2026-03-18T00:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T01:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034059226356830492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/elliotchen100/…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/elliotchen100/status/2033317320940998945",
+              "start": 151,
+              "url": "https://t.co/05ORvQzld5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034059226356830492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "人的智能 = 推理能力 + 长期记忆。大模型把推理卷到极致了，但「记忆」这一块，一直是卡点。\n​\n过去大家走过三条路，每一条都撞过墙：\n→ 参数化记忆：精度高，但更新成本爆炸，还会灾难性遗忘\n→ RAG：能扩展，但检索和生成是割裂的，精度有天花板\n→ KV 缓存 / 线性注意力：很快，但一长就丢信息\n​\n扩展性、精度、效率，是一个公认的「不可能三角」。\n​\n我们一直在想：有没有可能，三个都要？\n​\n这周，我们会发布一篇新论文。\n先不剧透细节，只放几个数字在这：\n· 1 亿 token 级的端到端记忆，性能衰减不到 9%\n· 4B 参数模型，打赢 235B 级的顶级 RAG 系统\n· 2 张 A800 就能跑起来\n​\n也许，是时候给这个「不可能三角」，换个名字了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 9335,
+          "like_count": 60,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033317320940998945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人的智能 = 推理能力 + 长期记忆。大模型把推理卷到极致了，但「记忆」这一块，一直是卡点。\n​\n过去大家走过三条路，每一条都撞过墙：\n→ 参数化记忆：精度高，但更新成本爆炸，还会灾难性遗忘\n→ RAG：能扩展，但检索和生成是割裂的，精度有天花板\n→ KV 缓存 / 线性注意力：很快，但一长就丢信息 https://t.co/05ORvQzld5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 812,
+          "like_count": 16967,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 5542
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-14T22:16:36.000Z",
+        "description": "@EverMind \n给🦞 Agents 做得长期记忆方案，懂你，知你还省你 Token. 🤓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "EverMind"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "evermind.ai",
+                "end": 23,
+                "expanded_url": "http://evermind.ai",
+                "start": 0,
+                "url": "https://t.co/oJzLzwvfeB"
+              }
+            ]
+          }
+        },
+        "id": "1735423477799342080",
+        "name": "艾略特",
+        "pinned_tweet_id": "2032387694232494109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762647700103929856/cU4FBIrp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20797,
+          "following_count": 929,
+          "like_count": 10351,
+          "listed_count": 214,
+          "media_count": 859,
+          "tweet_count": 6243
+        },
+        "url": "https://t.co/oJzLzwvfeB",
+        "username": "elliotchen100",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2047467213569802320",
+    "created_at": "2026-04-24T00:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T01:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047467213569802320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "936609800598597633",
+          "start": 3,
+          "username": "Jason_Young1231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047467213569802320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047452353880879470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jason_Young1231: 卧槽，gpt-5.5 说人话了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2047467213569802320",
+        "created_at": "2026-04-24T00:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T01:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047467213569802320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "936609800598597633",
+              "start": 3,
+              "username": "Jason_Young1231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047467213569802320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047452353880879470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jason_Young1231: 卧槽，gpt-5.5 说人话了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "936609800598597633",
+        "conversation_id": "2047452353880879470",
+        "created_at": "2026-04-23T23:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T00:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047452353880879470"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047452353880879470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 353,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽，gpt-5.5 说人话了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 1676,
+          "like_count": 44976,
+          "listed_count": 4,
+          "media_count": 224,
+          "tweet_count": 7330
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-01T14:55:52.000Z",
+        "description": "Building CC Switch, a Claude Code, OpenCode and Codex assistant tool https://t.co/2aciSaL2Ia",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/farion1231/cc-…",
+                "end": 92,
+                "expanded_url": "https://github.com/farion1231/cc-switch",
+                "start": 69,
+                "url": "https://t.co/2aciSaL2Ia"
+              }
+            ]
+          }
+        },
+        "id": "936609800598597633",
+        "name": "Jason Young",
+        "pinned_tweet_id": "2027589395449303306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604123462792249344/9cNRBhXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11062,
+          "following_count": 607,
+          "like_count": 24888,
+          "listed_count": 94,
+          "media_count": 433,
+          "tweet_count": 7393
+        },
+        "username": "Jason_Young1231",
+        "verified": true
+      }
+    ]
+  }
+}

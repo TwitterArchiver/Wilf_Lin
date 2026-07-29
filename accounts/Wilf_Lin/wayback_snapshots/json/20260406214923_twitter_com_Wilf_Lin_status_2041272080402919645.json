@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "SpaceX",
+          "id": "872801738394279936",
+          "name": "SpaceX"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1527725622948077568",
+          "name": "Starlink"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "SpaceX",
+          "id": "872801738394279936",
+          "name": "SpaceX"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1527725622948077568",
+          "name": "Starlink"
+        }
+      }
+    ],
+    "conversation_id": "2041118883117998364",
+    "created_at": "2026-04-06T21:49:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T22:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041272080402919645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "5147381",
+          "start": 0,
+          "username": "realPureNomad"
+        },
+        {
+          "end": 24,
+          "id": "391185967",
+          "start": 15,
+          "username": "buduren9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041272080402919645",
+    "in_reply_to_user_id": "5147381",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041122085817200844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realPureNomad @buduren9 船上有基站，starlink提供上行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1527725622948077568",
+              "name": "Starlink"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1527725622948077568",
+              "name": "Starlink"
+            }
+          }
+        ],
+        "conversation_id": "2041118883117998364",
+        "created_at": "2026-04-06T21:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T22:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041272080402919645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "5147381",
+              "start": 0,
+              "username": "realPureNomad"
+            },
+            {
+              "end": 24,
+              "id": "391185967",
+              "start": 15,
+              "username": "buduren9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041272080402919645",
+        "in_reply_to_user_id": "5147381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041122085817200844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realPureNomad @buduren9 船上有基站，starlink提供上行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "5147381",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1527725622948077568",
+              "name": "Starlink"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1527725622948077568",
+              "name": "Starlink"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2041118883117998364",
+        "created_at": "2026-04-06T11:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041122085817200844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "391185967",
+              "start": 0,
+              "username": "buduren9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041122085817200844",
+        "in_reply_to_user_id": "391185967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4443,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041120631333490921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buduren9 学习了。starlink 还能提供 5G 信号？能打电话的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 1189,
+          "like_count": 29129,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 6324
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2007-04-18T19:09:47.000Z",
+        "description": "关注科技、好用的工具、美股、日常生活 | INTJ-A | 没有建群，不主动私信人，谨防骗子 | 投资有风险，不要听我的 | NFA | 不接广告，勿扰",
+        "id": "5147381",
+        "location": "the world",
+        "name": "Pure Nomad",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999969466017284100/-9cWbr1O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126851,
+          "following_count": 4532,
+          "like_count": 1668,
+          "listed_count": 1975,
+          "media_count": 763,
+          "tweet_count": 4994
+        },
+        "username": "realPureNomad",
+        "verified": true
+      },
+      {
+        "created_at": "2011-10-15T05:37:36.000Z",
+        "description": "U.S. Options Trader｜Not Financial Advise｜No comfort. Only structure｜不渡人｜中文美股期权冷思考者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buduren.com",
+                "end": 23,
+                "expanded_url": "https://buduren.com/",
+                "start": 0,
+                "url": "https://t.co/CueCsp6u8U"
+              }
+            ]
+          }
+        },
+        "id": "391185967",
+        "name": "Buduren",
+        "pinned_tweet_id": "2040991300582040018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027592454707560448/S713a962_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 337,
+          "like_count": 1763,
+          "listed_count": 6,
+          "media_count": 218,
+          "tweet_count": 2314
+        },
+        "url": "https://t.co/CueCsp6u8U",
+        "username": "buduren9",
+        "verified": true
+      }
+    ]
+  }
+}

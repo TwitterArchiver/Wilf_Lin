@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2052913108616954215",
+    "created_at": "2026-05-09T06:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T07:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053000201506324779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1735423477799342080",
+          "start": 0,
+          "username": "elliotchen100"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053000201506324779",
+    "in_reply_to_user_id": "1735423477799342080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052913108616954215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elliotchen100 AI足够强大了之后可以让AI来迁就人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2052913108616954215",
+        "created_at": "2026-05-09T06:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053000201506324779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1735423477799342080",
+              "start": 0,
+              "username": "elliotchen100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053000201506324779",
+        "in_reply_to_user_id": "1735423477799342080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052913108616954215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elliotchen100 AI足够强大了之后可以让AI来迁就人了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735423477799342080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2052913108616954215",
+        "created_at": "2026-05-09T00:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T01:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052913108616954215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/trq212/status/…",
+              "end": 206,
+              "expanded_url": "https://twitter.com/trq212/status/2052809885763747935",
+              "start": 183,
+              "url": "https://t.co/cHXJrwzQFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052913108616954215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Anthropic 的 Thariq 昨天那篇 HTML 的文章爆了，1.5M 阅读。\n\n看上去在讲格式审美，其实他在讲一套全新的工作流。\n\n挑几个最有技术含量的点。\n\n第一，HTML 不是文档，是 throwaway editor。\n\n他举的例子很经典。30 个 Linear ticket 要重排优先级，让 Claude 生成一个 HTML，每个 ticket 做成可拖拽卡片，分 Now / Next / Later / Cut 四列。结尾加一个「copy as markdown」按钮，把最终顺序导出来贴回 Claude Code。\n\n这个模式可以套到所有「用文字很难描述」的场景。调动画缓动曲线，调颜色，调 cron，调 regex，全都比纯文本表达高效一个量级。\n\n第二，用 HTML 网做 spec，不再用单个 Markdown plan。\n\n他的流程是：先让 Claude 生成 6 个不同方向的方案，平铺在一个 HTML 里横向对比。挑一个深入做 mockup 和数据流图。最后写实施计划。开新 session 的时候把整个 HTML 网络当 context 喂回去。\n\nverification agent 也读这堆 HTML。这意味着 spec 不再是给人看的过渡产物，而是 multi agent 协作的共享内存。\n\n第三，SVG 是被严重低估的输出格式。\n\n让 Claude 把 token bucket 限流逻辑画成 SVG 流程图，关键代码片段做内联注释，加一个 gotchas 段落。一张图比 200 行 Markdown 解释清楚一个数量级。\n\n第四，他诚实承认了代价。\n\nHTML 比 Markdown 生成慢 2 到 4 倍，diff 也更难 review。但是在 Opus 4.7 的 1MM context window 下，多出来的 token 在 context 里几乎不可见。这是他做出取舍的关键。\n\n讲到底就一句话：\n\nMarkdown 的隐含假设是「人会从头读到尾」。HTML 的隐含假设是「人只想扫重点和动手改」。\n\n后者才符合 AI 时代人和机器协作的真实形态。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 646,
+          "impression_count": 118340,
+          "like_count": 398,
+          "quote_count": 4,
+          "reply_count": 24,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052809885763747935",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Anthropic 的 Thariq 昨天那篇 HTML 的文章爆了，1.5M 阅读。\n\n看上去在讲格式审美，其实他在讲一套全新的工作流。\n\n挑几个最有技术含量的点。\n\n第一，HTML 不是文档，是 throwaway editor。\n\n他举的例子很经典。30 个 Linear ticket 要重排优先级，让 Claude 生成一个 HTML，每个 ticket https://t.co/cHXJrwzQFk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 1801,
+          "like_count": 57754,
+          "listed_count": 4,
+          "media_count": 274,
+          "tweet_count": 8139
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-14T22:16:36.000Z",
+        "description": "Building @EverMind - memory for self-evolving agents\nhttps://t.co/AUbhZlNBD3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "EverMind"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/EverMind-AI/Ev…",
+                "end": 76,
+                "expanded_url": "https://github.com/EverMind-AI/EverOS",
+                "start": 53,
+                "url": "https://t.co/AUbhZlNBD3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "evermind.ai",
+                "end": 23,
+                "expanded_url": "http://evermind.ai",
+                "start": 0,
+                "url": "https://t.co/oJzLzwvfeB"
+              }
+            ]
+          }
+        },
+        "id": "1735423477799342080",
+        "name": "艾略特",
+        "pinned_tweet_id": "2034479369855590660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762647700103929856/cU4FBIrp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25546,
+          "following_count": 984,
+          "like_count": 10812,
+          "listed_count": 264,
+          "media_count": 728,
+          "tweet_count": 6020
+        },
+        "url": "https://t.co/oJzLzwvfeB",
+        "username": "elliotchen100",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2032037051038908796",
+    "created_at": "2026-03-12T11:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T12:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032057549101367682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "215939847",
+          "start": 0,
+          "username": "bboczeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032057549101367682",
+    "in_reply_to_user_id": "215939847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032037051038908796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bboczeng 你真的做过任何开发工作吗，腾讯搭建了一个人民群众喜闻乐见的镜像站而已。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2032037051038908796",
+        "created_at": "2026-03-12T11:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032057549101367682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "215939847",
+              "start": 0,
+              "username": "bboczeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032057549101367682",
+        "in_reply_to_user_id": "215939847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032037051038908796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bboczeng 你真的做过任何开发工作吗，腾讯搭建了一个人民群众喜闻乐见的镜像站而已。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "215939847",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1188868859400343553",
+              "name": "Tencent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1188868859400343553",
+              "name": "Tencent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1188868859400343553",
+              "name": "Tencent"
+            }
+          }
+        ],
+        "conversation_id": "2032037051038908796",
+        "created_at": "2026-03-12T10:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:00:58.000Z",
+          "edits_remaining": 0,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032034103642788138",
+          "2032034395138507017",
+          "2032034988422828535",
+          "2032035119926595851",
+          "2032035187089928670",
+          "2032037051038908796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alfredxia/stat…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/alfredxia/status/2031927362712117380",
+              "start": 119,
+              "url": "https://t.co/j7pPKw8hsZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032037051038908796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "腾讯公司把Clawhub上的所有OpenClaw技能爬下来，放在自己的平台供人使用的丑事\n\n终于还是被外国人社区发现了\n\n这，很有中国公司的特色\n\n先别说政治体制和权力结构了\n\n咱们中国社会的文化、素质和人文水平\n\n甚至还不如欧洲中世纪\n\n至少人中世纪有教堂，有信仰，有骑士，有道德，有正义，有真正的集体荣誉感和集体意识\n\n而咱们除了污名化宗教信仰，污名化“黑暗的中世纪”\n\n还干了什么呢？\n\n在1000年前的中国大陆，人们又在干什么呢？\n\n是吃人，还是饿死，还是争相做皇帝的奴隶？\n\n愚蠢，愚昧，黑暗，没有信仰，甚至没有文明\n\n为了吃饱一口饭，只能无底线的功利主义\n\n1000年前如此，还情有可原\n\n2026年还是如此，那只能说是\n\n人类的耻辱了\n\n谢谢大家\n\n😅😅😅"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3941,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031927362712117380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "腾讯公司把Clawhub上的所有OpenClaw技能爬下来，放在自己的平台供人使用的丑事\n\n终于还是被外国人社区发现了\n\n这，很有中国公司的特色\n\n先别说政治体制和权力结构了\n\n咱们中国社会的文化、素质和人文水平\n\n甚至还不如欧洲中世纪 https://t.co/j7pPKw8hsZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 759,
+          "like_count": 14685,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 5372
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2010-11-15T10:36:54.000Z",
+        "description": "美股投资日报：https://t.co/8rs6JWg78E，免费订阅即可阅读，东半球最理性的基本面分析与市场总结；仅需$5一月，加入会员群共同讨论、分享和进步。入群链接见网站首页右上角“会员项目”板块。会员群不喊单不带单。推文和博客为个人意见，Not Financial Advice",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 30,
+                "expanded_url": "https://boist.org",
+                "start": 7,
+                "url": "https://t.co/8rs6JWg78E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 23,
+                "expanded_url": "http://boist.org",
+                "start": 0,
+                "url": "https://t.co/Qaw5PWxyqi"
+              }
+            ]
+          }
+        },
+        "id": "215939847",
+        "location": "Texas, USA",
+        "name": "勃勃OC",
+        "pinned_tweet_id": "2030944620449042490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830797876731224064/bg8OYzEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195838,
+          "following_count": 724,
+          "like_count": 134896,
+          "listed_count": 1147,
+          "media_count": 19304,
+          "tweet_count": 115822
+        },
+        "url": "https://t.co/Qaw5PWxyqi",
+        "username": "bboczeng",
+        "verified": true
+      }
+    ]
+  }
+}

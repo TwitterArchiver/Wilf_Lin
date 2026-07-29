@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2035761943743520983",
+    "created_at": "2026-03-22T19:21:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T20:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035799089225269471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963821944668876800",
+          "start": 0,
+          "username": "simplifyinAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035799089225269471",
+    "in_reply_to_user_id": "1963821944668876800",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035761943743520983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@simplifyinAI This is half years ago bro."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1010,
+        "media_key": "3_2035761241776615424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEB6ED-acAAfvUU.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2035761943743520983",
+        "created_at": "2026-03-22T19:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T20:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035799089225269471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963821944668876800",
+              "start": 0,
+              "username": "simplifyinAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035799089225269471",
+        "in_reply_to_user_id": "1963821944668876800",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035761943743520983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@simplifyinAI This is half years ago bro."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035761241776615424"
+          ]
+        },
+        "author_id": "1963821944668876800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1188868859400343553",
+              "name": "Tencent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1188868859400343553",
+              "name": "Tencent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1188868859400343553",
+              "name": "Tencent"
+            }
+          }
+        ],
+        "conversation_id": "2035761943743520983",
+        "created_at": "2026-03-22T16:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T17:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035761943743520983"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Tencent",
+              "probability": 0.4077,
+              "start": 12,
+              "type": "Other"
+            },
+            {
+              "end": 78,
+              "normalized_text": "Tsinghua",
+              "probability": 0.4332,
+              "start": 71,
+              "type": "Other"
+            },
+            {
+              "end": 96,
+              "normalized_text": "CALM",
+              "probability": 0.5035,
+              "start": 93,
+              "type": "Other"
+            },
+            {
+              "end": 199,
+              "normalized_text": "LLMs",
+              "probability": 0.5396,
+              "start": 196,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wRPbDWpxfg",
+              "end": 302,
+              "expanded_url": "https://x.com/simplifyinAI/status/2035761943743520983/photo/1",
+              "media_key": "3_2035761241776615424",
+              "start": 279,
+              "url": "https://t.co/wRPbDWpxfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035761943743520983",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "🚨 BREAKING: Tencent has killed the “next-token” paradigm.\n\nTencent and Tsinghua has released CALM (Continuous Autoregressive Language Models), and it completely disrupts the next-token paradigm.\n\nLLMs currently waste massive amounts of compute predicting discrete, single tokens through a huge vocabulary softmax layer. It’s slow and scales poorly.\n\nCALM bypasses the vocabulary entirely. It uses a high-fidelity autoencoder to compress chunks of text into a single continuous vector with 99.9% reconstruction accuracy.\n\nThe model now predicts the “next vector” in a continuous space.\n\nThe numbers are actually insane:\n\n- Each generative step now carries 4× the semantic bandwidth.\n- Training compute is reduced by 44%.\n- The softmax bottleneck is completely removed.\n\nWe’re literally watching language models evolve from typing discrete symbols to streaming continuous thoughts.\n\nThis changes the entire trajectory of AI."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 555,
+          "impression_count": 34180,
+          "like_count": 635,
+          "quote_count": 8,
+          "reply_count": 40,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "🚨 BREAKING: Tencent has killed the “next-token” paradigm.\n\nTencent and Tsinghua has released CALM (Continuous Autoregressive Language Models), and it completely disrupts the next-token paradigm.\n\nLLMs currently waste massive amounts of compute predicting discrete, single tokens https://t.co/wRPbDWpxfg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 865,
+          "like_count": 19090,
+          "listed_count": 3,
+          "media_count": 92,
+          "tweet_count": 5778
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T04:30:31.000Z",
+        "description": "Helping you master AI daily with step-by-step AI guides, latest news & practical tools • DM for Collabs",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "simplifyingai.co",
+                "end": 23,
+                "expanded_url": "https://simplifyingai.co",
+                "start": 0,
+                "url": "https://t.co/j6WWuBT4pW"
+              }
+            ]
+          }
+        },
+        "id": "1963821944668876800",
+        "location": "Join +30k readers →",
+        "name": "Simplifying AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988117046995873792/-5ps0VAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29134,
+          "following_count": 5,
+          "like_count": 1517,
+          "listed_count": 307,
+          "media_count": 457,
+          "tweet_count": 1042
+        },
+        "url": "https://t.co/j6WWuBT4pW",
+        "username": "simplifyinAI",
+        "verified": true
+      }
+    ]
+  }
+}

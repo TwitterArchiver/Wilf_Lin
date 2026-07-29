@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1139233849991237632",
+          "name": "Marques Brownlee"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1139233849991237632",
+          "name": "Marques Brownlee"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1139233849991237632",
+          "name": "Marques Brownlee"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2080278906888708264",
+    "created_at": "2026-07-24T02:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T03:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080487982440775764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "29873662",
+          "start": 0,
+          "username": "MKBHD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080487982440775764",
+    "in_reply_to_user_id": "29873662",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080278906888708264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MKBHD use adb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080278903302586368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6ipAkXAAAJq22.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1139233849991237632",
+              "name": "Marques Brownlee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1139233849991237632",
+              "name": "Marques Brownlee"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139233849991237632",
+              "name": "Marques Brownlee"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2080278906888708264",
+        "created_at": "2026-07-24T02:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080487982440775764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "29873662",
+              "start": 0,
+              "username": "MKBHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080487982440775764",
+        "in_reply_to_user_id": "29873662",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080278906888708264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MKBHD use adb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080278903302586368"
+          ]
+        },
+        "author_id": "29873662",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1139233849991237632",
+              "name": "Marques Brownlee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1139233849991237632",
+              "name": "Marques Brownlee"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139233849991237632",
+              "name": "Marques Brownlee"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2080278906888708264",
+        "created_at": "2026-07-23T13:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080278906888708264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9H5aVXw0s4",
+              "end": 117,
+              "expanded_url": "https://x.com/MKBHD/status/2080278906888708264/photo/1",
+              "media_key": "3_2080278903302586368",
+              "start": 94,
+              "url": "https://t.co/9H5aVXw0s4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080278906888708264",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 745,
+          "impression_count": 1445136,
+          "like_count": 19251,
+          "quote_count": 65,
+          "reply_count": 381,
+          "retweet_count": 385
+        },
+        "reply_settings": "everyone",
+        "text": "Confirmed, Z Fold 8 doesn’t seem to want to install any benchmarking apps at all. What gives? https://t.co/9H5aVXw0s4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 1960,
+          "like_count": 92052,
+          "listed_count": 3,
+          "media_count": 395,
+          "tweet_count": 9126
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-09T00:50:00.000Z",
+        "description": "Web Video Producer | ⋈ | Pro Ultimate Frisbee Player | Host of @WVFRM @TheStudio",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 63,
+                "username": "WVFRM"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "TheStudio"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MKBHD.com",
+                "end": 23,
+                "expanded_url": "http://MKBHD.com",
+                "start": 0,
+                "url": "https://t.co/ZktXu6nIYz"
+              }
+            ]
+          }
+        },
+        "id": "29873662",
+        "location": "NYC",
+        "name": "Marques Brownlee",
+        "pinned_tweet_id": "1282750287229456385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990855181785759745/CP3H7WsL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6129606,
+          "following_count": 483,
+          "like_count": 30291,
+          "listed_count": 14905,
+          "media_count": 8870,
+          "tweet_count": 56878
+        },
+        "url": "https://t.co/ZktXu6nIYz",
+        "username": "MKBHD",
+        "verified": true
+      }
+    ]
+  }
+}

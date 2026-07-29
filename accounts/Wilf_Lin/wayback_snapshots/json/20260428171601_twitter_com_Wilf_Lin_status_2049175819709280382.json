@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2049175819709280382",
+    "created_at": "2026-04-28T17:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T18:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049175819709280382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "786375418685165568",
+          "start": 3,
+          "username": "theo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049175819709280382",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049059831219384827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @theo: I legitimately believe xAI might have a crazy comeback"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2049175819709280382",
+        "created_at": "2026-04-28T17:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T18:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049175819709280382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "786375418685165568",
+              "start": 3,
+              "username": "theo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049175819709280382",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049059831219384827",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @theo: I legitimately believe xAI might have a crazy comeback"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "786375418685165568",
+        "conversation_id": "2049059831219384827",
+        "created_at": "2026-04-28T09:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049059831219384827"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049059831219384827",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 222033,
+          "like_count": 3486,
+          "quote_count": 54,
+          "reply_count": 422,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "I legitimately believe xAI might have a crazy comeback"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 1721,
+          "like_count": 51317,
+          "listed_count": 3,
+          "media_count": 238,
+          "tweet_count": 7624
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2016-10-13T01:18:04.000Z",
+        "description": "Full time CEO @t3dotchat. Part time YouTuber, investor, and developer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "t3dotchat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t3.gg",
+                "end": 23,
+                "expanded_url": "https://t3.gg",
+                "start": 0,
+                "url": "https://t.co/RIvNYtJWVz"
+              }
+            ]
+          }
+        },
+        "id": "786375418685165568",
+        "location": "San Francisco, CA",
+        "name": "Theo - t3.gg",
+        "pinned_tweet_id": "2048684038123360750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909353910130950147/EeSGdgA5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324999,
+          "following_count": 4109,
+          "like_count": 353232,
+          "listed_count": 2233,
+          "media_count": 8349,
+          "tweet_count": 61481
+        },
+        "url": "https://t.co/RIvNYtJWVz",
+        "username": "theo",
+        "verified": true
+      }
+    ]
+  }
+}

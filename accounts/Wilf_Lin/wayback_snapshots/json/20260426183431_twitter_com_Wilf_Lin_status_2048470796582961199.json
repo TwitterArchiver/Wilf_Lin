@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2048262950381912175",
+    "created_at": "2026-04-26T18:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T19:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048470796582961199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1781373812392550400",
+          "start": 0,
+          "username": "DINESHVERM578"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048470796582961199",
+    "in_reply_to_user_id": "1781373812392550400",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048262950381912175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DINESHVERM578 x86 compilation"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2048262950381912175",
+        "created_at": "2026-04-26T18:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T19:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048470796582961199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1781373812392550400",
+              "start": 0,
+              "username": "DINESHVERM578"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048470796582961199",
+        "in_reply_to_user_id": "1781373812392550400",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048262950381912175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DINESHVERM578 x86 compilation"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781373812392550400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2048262950381912175",
+        "created_at": "2026-04-26T04:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048262950381912175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048262950381912175",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6171,
+          "like_count": 78,
+          "quote_count": 2,
+          "reply_count": 77,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Name a programming language \n\nthat’s difficult to learn as a beginner 👇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 1700,
+          "like_count": 49540,
+          "listed_count": 3,
+          "media_count": 233,
+          "tweet_count": 7526
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-19T17:26:43.000Z",
+        "description": "Aspiring FullStack AI Engineer  |  DSA |  System Design",
+        "id": "1781373812392550400",
+        "location": "404",
+        "name": "Dinesh Verma",
+        "pinned_tweet_id": "2041144586744303633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037949737790480384/eXYL0B18_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2518,
+          "following_count": 1289,
+          "like_count": 17816,
+          "listed_count": 6,
+          "media_count": 5657,
+          "tweet_count": 16097
+        },
+        "username": "DINESHVERM578",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2049675227077234974",
+    "created_at": "2026-04-30T03:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T04:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049699184631001121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1998952052463120389",
+          "start": 0,
+          "username": "ku1zu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049699184631001121",
+    "in_reply_to_user_id": "1998952052463120389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049675227077234974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ku1zu0 这时候适合学数学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2049675227077234974",
+        "created_at": "2026-04-30T03:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T04:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049699184631001121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1998952052463120389",
+              "start": 0,
+              "username": "ku1zu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049699184631001121",
+        "in_reply_to_user_id": "1998952052463120389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049675227077234974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ku1zu0 这时候适合学数学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998952052463120389",
+        "conversation_id": "2049675227077234974",
+        "created_at": "2026-04-30T02:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T03:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049675227077234974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049675227077234974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3375,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想在动车上 coding，但网络太差，AI 编程基本指望不上。\n\n正准备掏出电脑的我猛然发现，不借助 AI 的帮助下，已经不知道该如何介入一个几乎由 AI 写出来的项目。\n\n手写代码能力也已经退化成打字能力了🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 1739,
+          "like_count": 51987,
+          "listed_count": 4,
+          "media_count": 242,
+          "tweet_count": 7672
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T03:04:50.000Z",
+        "description": "会点编程｜逆向 → 全栈｜故事博主｜手部极限运动｜Girlfriend: @NataliyaRo4040\n\n原号愧怍，重生为鬼炸，势必要将失去的夺回。\n历史推文：https://t.co/bZ1zFIFmrk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "NataliyaRo4040"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.kuizuo.me",
+                "end": 104,
+                "expanded_url": "https://x.kuizuo.me",
+                "start": 81,
+                "url": "https://t.co/bZ1zFIFmrk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuizuo.me",
+                "end": 23,
+                "expanded_url": "https://kuizuo.me",
+                "start": 0,
+                "url": "https://t.co/04bZnabIS6"
+              }
+            ]
+          }
+        },
+        "id": "1998952052463120389",
+        "location": "born to differ.",
+        "name": "愧怍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006196631172206592/NfDFoMAz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 219,
+          "like_count": 1868,
+          "listed_count": 7,
+          "media_count": 73,
+          "tweet_count": 288
+        },
+        "url": "https://t.co/04bZnabIS6",
+        "username": "ku1zu0",
+        "verified": true
+      }
+    ]
+  }
+}

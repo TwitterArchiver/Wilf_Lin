@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2029715724672061494",
+    "created_at": "2026-03-06T07:47:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T08:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029826231181410675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "14088384",
+          "start": 0,
+          "username": "laogui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029826231181410675",
+    "in_reply_to_user_id": "14088384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029715724672061494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laogui 超过640k就严重失真了，别开太高"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 394,
+        "media_key": "3_2029715722377859072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCr_shNbkAAgKHz.png",
+        "width": 706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2029715724672061494",
+        "created_at": "2026-03-06T07:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T08:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029826231181410675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "14088384",
+              "start": 0,
+              "username": "laogui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029826231181410675",
+        "in_reply_to_user_id": "14088384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029715724672061494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laogui 超过640k就严重失真了，别开太高"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029715722377859072"
+          ]
+        },
+        "author_id": "14088384",
+        "conversation_id": "2029715724672061494",
+        "created_at": "2026-03-06T00:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T01:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029715724672061494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HI8hmYNdR0",
+              "end": 227,
+              "expanded_url": "https://x.com/laogui/status/2029715724672061494/photo/1",
+              "media_key": "3_2029715722377859072",
+              "start": 204,
+              "url": "https://t.co/HI8hmYNdR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029715724672061494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "咱还是说点 GPT-5.4 与编程相关的能力吧，Codex 里的 fast 模式和 100 万 token 上下文还是挺有吸引力的。\n\nGPT-5.4 融合了 GPT-5.3-Codex 的编码能力，SWE-Bench Pro 得分 57.7%，稍高于 GPT-5.3-Codex 的 56.8%，在推理过程中延迟更低。\n\n在 Codex 中启用 /fast 模式后，GPT-5.4 速度最高可提升 1.5 倍，不过会消耗计划用量的 2 倍。在 Codex 设置中启用快速模式，配置如下：  \n[features]\nfast_mode = true\n\nGPT 5.4 在 Codex 中还有一个实验性的 100 万 token 上下文窗口，启用方法：\nmodel = \"gpt-5.4\"\nmodel_context_window = 1000000\nmodel_auto_compact_token_limit = 900000"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 9733,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "咱还是说点 GPT-5.4 与编程相关的能力吧，Codex 里的 fast 模式和 100 万 token 上下文还是挺有吸引力的。\n\nGPT-5.4 融合了 GPT-5.3-Codex 的编码能力，SWE-Bench Pro 得分 57.7%，稍高于 GPT-5.3-Codex 的 56.8%，在推理过程中延迟更低。\n\n在 Codex 中启用 /fast 模式后，GPT-5.4 速度最高可提升 1.5 https://t.co/HI8hmYNdR0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 717,
+          "like_count": 12662,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 5166
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2008-03-06T12:44:39.000Z",
+        "description": "早期个人站长，blogger。野生程序员 & 产品体验官，专注折腾 Dev / AI / 效率工具，分享产品思考 & 折腾记录。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laogui.com",
+                "end": 23,
+                "expanded_url": "https://www.laogui.com",
+                "start": 0,
+                "url": "https://t.co/GZqA0U4XCx"
+              }
+            ]
+          }
+        },
+        "id": "14088384",
+        "name": "老鬼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022944730913611776/pEN-Kh0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3154,
+          "following_count": 1695,
+          "like_count": 3506,
+          "listed_count": 31,
+          "media_count": 200,
+          "tweet_count": 2270
+        },
+        "url": "https://t.co/GZqA0U4XCx",
+        "username": "laogui",
+        "verified": true
+      }
+    ]
+  }
+}

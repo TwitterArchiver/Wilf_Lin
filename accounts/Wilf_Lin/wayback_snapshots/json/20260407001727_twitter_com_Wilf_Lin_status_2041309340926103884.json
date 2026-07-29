@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2040979907581501679",
+    "created_at": "2026-04-07T00:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T01:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041309340926103884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1529525092442865664",
+          "start": 0,
+          "username": "Hydrogen0E7"
+        },
+        {
+          "end": 28,
+          "id": "28530405",
+          "start": 13,
+          "username": "manateelazycat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041309340926103884",
+    "in_reply_to_user_id": "1529525092442865664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040979907581501679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hydrogen0E7 @manateelazycat 让我们把算力仓变得更有用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2040979907581501679",
+        "created_at": "2026-04-07T00:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T01:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041309340926103884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1529525092442865664",
+              "start": 0,
+              "username": "Hydrogen0E7"
+            },
+            {
+              "end": 28,
+              "id": "28530405",
+              "start": 13,
+              "username": "manateelazycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041309340926103884",
+        "in_reply_to_user_id": "1529525092442865664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040979907581501679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hydrogen0E7 @manateelazycat 让我们把算力仓变得更有用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529525092442865664",
+        "conversation_id": "2040979907581501679",
+        "created_at": "2026-04-06T02:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040979907581501679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040979907581501679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/huangzheng2016…",
+                "end": 270,
+                "expanded_url": "https://github.com/huangzheng2016/FileEngine",
+                "start": 247,
+                "url": "https://t.co/dPG9Ql761b"
+              }
+            ]
+          },
+          "text": "曾经我拥有一台NAS，最初的它很整齐。不过随着每年数据增多，老数据也没整理，已经不知道有哪些分类、老数据一层嵌套一层。\n于是我写了个AI整理文件的Demo\n可以读取部分文本文件、文件夹结构，判断文件(夹)类型，并打上描述方便查找\n还可以根据用户的分类规则及目录划分主动分类\n配合上CoW的机器或NAS，可以无损整理文件。\n自测使用qwen3.5-27b-opus，跑了一周，整理了共计600w个/12T文件，绝大部分分类是准确的，小部分也可以通过AI继续对话分类，终于还我一个干净的系统了！\n\nhttps://t.co/dPG9Ql761b"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 12443,
+          "like_count": 130,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "曾经我拥有一台NAS，最初的它很整齐。不过随着每年数据增多，老数据也没整理，已经不知道有哪些分类、老数据一层嵌套一层。\n于是我写了个AI整理文件的Demo\n可以读取部分文本文件、文件夹结构，判断文件(夹)类型，并打上描述方便查找\n还可以根据用户的分类规则及目录划分主动分类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 1194,
+          "like_count": 29345,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 6331
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-25T18:09:54.000Z",
+        "description": "Full-Stack Security Developer | CTFer in @r3kapig | ACMer | Shotacon | Avatar from @iamuu_n | Enchanting dream, frozen time, unrealized potential.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "r3kapig"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "iamuu_n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "0e7.cn",
+                "end": 23,
+                "expanded_url": "https://0e7.cn",
+                "start": 0,
+                "url": "https://t.co/e4iGNtYvNY"
+              }
+            ]
+          }
+        },
+        "id": "1529525092442865664",
+        "location": "ShangHai",
+        "name": "HydrogenE7",
+        "pinned_tweet_id": "1829368175236133268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006503584154910720/X_JNpuoV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3486,
+          "following_count": 930,
+          "like_count": 8013,
+          "listed_count": 25,
+          "media_count": 664,
+          "tweet_count": 3362
+        },
+        "url": "https://t.co/e4iGNtYvNY",
+        "username": "Hydrogen0E7",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-03T09:01:38.000Z",
+        "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lazycat.cloud",
+                "end": 64,
+                "expanded_url": "https://lazycat.cloud/",
+                "start": 41,
+                "url": "https://t.co/KVqgWHE3yR"
+              },
+              {
+                "display_url": "x.com/manateelazycat…",
+                "end": 97,
+                "expanded_url": "https://x.com/manateelazycat/status/1970815014861930775",
+                "start": 74,
+                "url": "https://t.co/SF9p24C2IS"
+              },
+              {
+                "display_url": "x.com/andy_lcmd",
+                "end": 128,
+                "expanded_url": "https://x.com/andy_lcmd",
+                "start": 105,
+                "url": "https://t.co/OjwSfdlyu8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manateelazycat.github.io",
+                "end": 23,
+                "expanded_url": "https://manateelazycat.github.io",
+                "start": 0,
+                "url": "https://t.co/twDx1tx1YW"
+              }
+            ]
+          }
+        },
+        "id": "28530405",
+        "location": "China",
+        "name": "Andy Stewart",
+        "pinned_tweet_id": "2039939966281920843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51090,
+          "following_count": 299,
+          "like_count": 19722,
+          "listed_count": 362,
+          "media_count": 6803,
+          "tweet_count": 50553
+        },
+        "url": "https://t.co/twDx1tx1YW",
+        "username": "manateelazycat",
+        "verified": true
+      }
+    ]
+  }
+}

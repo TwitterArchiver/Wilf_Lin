@@ -1,0 +1,599 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Google - AI",
+          "id": "10050907858",
+          "name": "Google - AI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2053754008050004286",
+    "created_at": "2026-05-11T08:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T09:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053754008050004286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1111324340136534016",
+          "start": 3,
+          "username": "GrapheneOS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053754008050004286",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1607
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053507778719748465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GrapheneOS: Apple and Google are gradually expanding their use of hardware-based attestation. They're convincing a growing number of se…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google - AI",
+              "id": "10050907858",
+              "name": "Google - AI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2053754008050004286",
+        "created_at": "2026-05-11T08:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053754008050004286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1111324340136534016",
+              "start": 3,
+              "username": "GrapheneOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053754008050004286",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1607
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053507778719748465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GrapheneOS: Apple and Google are gradually expanding their use of hardware-based attestation. They're convincing a growing number of se…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1111324340136534016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google - AI",
+              "id": "10050907858",
+              "name": "Google - AI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2053507778719748465",
+        "created_at": "2026-05-10T16:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:52:03.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053503341641056600",
+          "2053504016420675713",
+          "2053505928360595787",
+          "2053507778719748465"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053507778719748465",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "support.google.com/recaptcha/answ…",
+                "end": 1486,
+                "expanded_url": "https://support.google.com/recaptcha/answer/16609652",
+                "start": 1463,
+                "url": "https://t.co/7rQnioRa8A"
+              }
+            ]
+          },
+          "text": "Apple and Google are gradually expanding their use of hardware-based attestation. They're convincing a growing number of services to adopt it. Google's Play Integrity API and Apple's App Attest API are very similar. Apple brought it to the web via Privacy Pass, which Google intends on doing too.\n\nGoogle's Play Integrity API requires hardware attestation for the strong integrity level and is gradually phasing in requiring it for the more commonly used device integrity level. Apple already has it as a requirement. Over the long term, this will increasingly lock out hardware and OS competition.\n\nThe purpose of these systems is disallowing people from using hardware and software not approved by Apple or Google. This is wrongly presented as being a security feature. Banks and government services are the main ones adopting it but Apple and Google are encouraging every service to use it.\n\nApple's Privacy Pass brought hardware attestation to the web to help with passing captchas on their own hardware. Many people saw that as harmless since few sites would be willing to lock out non-Apple-hardware users. Apple and Google are both likely to bring broader hardware attestation to the web.\n\nGoogle's reCAPTCHA is planning an approach where they use Privacy Pass on Apple hardware, their own approach on Google Mobile Services Android devices and a QR code scanning system to require an iOS or Google certified Android device for Windows and other systems:\n\nhttps://t.co/7rQnioRa8A\n\nBanking and government services increasingly require using a mobile app where they can use attestation to force using an Apple or Google approved device and OS. Apple's privacy pass, Google's 'cancelled' Web Environment Integrity and now reCAPTCHA Mobile Verification are bringing this to the web.\n\nCurrent media coverage for reCAPTCHA Mobile Verification misunderstands it and the impact of it. They're bringing a hardware attestation requirement to Windows, desktop Linux, OpenBSD, etc. by requiring a QR scan from a certified smartphone to pass reCAPTCHA in some cases. They could expand it more.\n\nControl over reCAPTCHA puts Google in a position where they can require having either iOS or a certified Android device to use an enormous amount of the web. Google defines certification requirements for Android which includes forcing bundling Google Chrome, etc. It's enormously anti-competitive.\n\nGoogle's Play Integrity API bans using GrapheneOS despite it being far more secure than anything they permit. It also bans using any other alternative. This isn't somehow specific to an AOSP-based OS. You can't avoid this by using a mobile OS based on FreeBSD instead. You'll just be more locked out.\n\nGoogle's Play Integrity API permits devices with no security patches for 10 years. The device integrity level can be bypassed via spoofing but they can detect it quite well and block it once it starts being done at scale. The strong integrity level requires leaked keys from TEEs/SEs to bypass it.\n\nIt doesn't provide a useful security feature, but it does lock out competition very well. Services requiring Apple App Attest or Google Play Integrity are primarily helping to lock in Apple and Google having a duopoly for mobile devices. Play Integrity is more relevant due to AOSP being open source.\n\nGovernments are increasingly mandating using Apple's App Attest and Google's Play Integrity for not only their own services but also commercial services. The EU is leading the charge of making these requirements for digital payments, ID, age verification, etc. Many EU government apps require them.\n\nInstead of governments stopping Apple and Google from engaging in egregiously anti-competitive behavior, they're directly participating in locking out competition via their own services. Requiring people to have an Apple device or Google-certified Android device is anti-competition, not security.\n\nreCAPTCHA Mobile Verification will currently work with sandboxed Google Play on GrapheneOS but it clearly exists to provide a way for them to start using hardware attestation on systems without it. People without an iOS or Android device will be locked out when this is required even without that.\n\nThis isn't about security or any missing functionality. GrapheneOS can be verified via hardware attestation. Google bans using GrapheneOS for Play Integrity because we don't license Google Mobile Services and conform to anti-competitive rules already found to be illegal in South Korea and elsewhere.\n\nServices shouldn't ban people from using arbitrary hardware and operating systems in the first place. Google's security excuse is clearly bogus when they permit devices with no patches for 10 years but not a much more secure OS. It's for enforcing their monopolies via GMS licensing, that's all."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1323,
+          "impression_count": 175557,
+          "like_count": 6184,
+          "quote_count": 95,
+          "reply_count": 104,
+          "retweet_count": 1607
+        },
+        "reply_settings": "everyone",
+        "text": "Apple and Google are gradually expanding their use of hardware-based attestation. They're convincing a growing number of services to adopt it. Google's Play Integrity API and Apple's App Attest API are very similar. Apple brought it to the web via Privacy Pass, which Google"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 1797,
+          "like_count": 58575,
+          "listed_count": 4,
+          "media_count": 280,
+          "tweet_count": 8236
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-28T17:49:04.000Z",
+        "description": "Open source privacy and security focused mobile OS with Android app compatibility.\n\nForum, Discord and Matrix: https://t.co/C0RaJbZosj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "grapheneos.org/contact#commun…",
+                "end": 134,
+                "expanded_url": "https://grapheneos.org/contact#community",
+                "start": 111,
+                "url": "https://t.co/C0RaJbZosj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grapheneos.org",
+                "end": 23,
+                "expanded_url": "https://grapheneos.org/",
+                "start": 0,
+                "url": "https://t.co/yqHm8Lauji"
+              }
+            ]
+          }
+        },
+        "id": "1111324340136534016",
+        "name": "GrapheneOS",
+        "pinned_tweet_id": "2028448871374803007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747709979220402176/LWwcvNYH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118799,
+          "following_count": 0,
+          "like_count": 9657,
+          "listed_count": 796,
+          "media_count": 65,
+          "tweet_count": 41385
+        },
+        "url": "https://t.co/yqHm8Lauji",
+        "username": "GrapheneOS",
+        "verified": true
+      }
+    ]
+  }
+}

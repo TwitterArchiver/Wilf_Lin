@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2033677804676764049",
+    "created_at": "2026-03-18T00:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T01:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034057435674001484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "431617343",
+          "start": 0,
+          "username": "berryxia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034057435674001484",
+    "in_reply_to_user_id": "431617343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033677804676764049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@berryxia 和moltbook的区别在哪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2033677804676764049",
+        "created_at": "2026-03-18T00:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T01:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034057435674001484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "431617343",
+              "start": 0,
+              "username": "berryxia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034057435674001484",
+        "in_reply_to_user_id": "431617343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033677804676764049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@berryxia 和moltbook的区别在哪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "431617343",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2033677804676764049",
+        "created_at": "2026-03-16T22:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T23:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033677804676764049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/andrewyng/stat…",
+              "end": 219,
+              "expanded_url": "https://twitter.com/andrewyng/status/2033577583200354812",
+              "start": 196,
+              "url": "https://t.co/mKOwir9VRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033677804676764049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/andrewyng/cont…",
+                "end": 310,
+                "expanded_url": "https://github.com/andrewyng/context-hub",
+                "start": 287,
+                "url": "https://t.co/ICuYokNHwN"
+              }
+            ]
+          },
+          "text": "卧槽！Andrew Ng放大招了！😱\n\n他直接问：AI coding agents要不要搞个Stack Overflow互相分享学习？\n\n然后立马干了：推出 Context Hub (chub)开源CLI神器！给coding agents实时最新API文档 + agents间反馈机制（啥好用、缺啥、建议改进），社区一起迭代，越用越准！\n\n成果炸裂：\n- GitHub一周6K+ stars\n- 1000+ API文档（社区狂贡献）\n\n安装就一句话：\n`npm install -g @aisuite/chub`\n\n然后prompt你的agent用它就行！\n\nGitHub：https://t.co/ICuYokNHwN\n\n兄弟们快冲谁已经在用了？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 692,
+          "impression_count": 112040,
+          "like_count": 477,
+          "quote_count": 5,
+          "reply_count": 13,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033577583200354812",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽！Andrew Ng放大招了！😱\n\n他直接问：AI coding agents要不要搞个Stack Overflow互相分享学习？\n\n然后立马干了：推出 Context Hub (chub)开源CLI神器！给coding agents实时最新API文档 + agents间反馈机制（啥好用、缺啥、建议改进），社区一起迭代，越用越准！\n\n成果炸裂：\n- GitHub一周6K+ stars https://t.co/mKOwir9VRu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 811,
+          "like_count": 16793,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 5528
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2011-12-08T13:56:00.000Z",
+        "description": "🧠✨Building AI tools AI System Prompt ❤️🐳      💻 Love Design & Coding & Share Prompt！ 💼📮:Andyhuo@me.com",
+        "id": "431617343",
+        "name": "Berryxia.AI",
+        "pinned_tweet_id": "2033832620627530123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016043556964605952/Tqi9KA2r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29512,
+          "following_count": 447,
+          "like_count": 2260,
+          "listed_count": 418,
+          "media_count": 504,
+          "tweet_count": 3565
+        },
+        "username": "berryxia",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2054909929845403858",
+    "created_at": "2026-05-14T13:32:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T14:32:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054917868614287751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1802653294554230784",
+          "start": 0,
+          "username": "mnweeper"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054917868614287751",
+    "in_reply_to_user_id": "1802653294554230784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054909929845403858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mnweeper 至少美国的右美沙芬是非处方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2054909929845403858",
+        "created_at": "2026-05-14T13:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T14:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054917868614287751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1802653294554230784",
+              "start": 0,
+              "username": "mnweeper"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054917868614287751",
+        "in_reply_to_user_id": "1802653294554230784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054909929845403858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mnweeper 至少美国的右美沙芬是非处方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802653294554230784",
+        "conversation_id": "2054909929845403858",
+        "created_at": "2026-05-14T13:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T14:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054909929845403858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054909929845403858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想知道国外药品管控会松一些吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 1806,
+          "like_count": 60411,
+          "listed_count": 4,
+          "media_count": 290,
+          "tweet_count": 8362
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-17T10:44:00.000Z",
+        "description": "INFP/4w5/agender/acearo/lgbtqa+全友好/06/they\n(them)/ASD/shtwt/jiraikei/精神障碍/一片虚空/\n健全b求远离/举报我的人不得好死\n欢迎互fo^^\nWelcome to my funeral.",
+        "id": "1802653294554230784",
+        "name": "nnnuup",
+        "pinned_tweet_id": "2042260735175319877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041476401283600384/DYY293BN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 236,
+          "like_count": 2177,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 279
+        },
+        "username": "mnweeper",
+        "verified": false
+      }
+    ]
+  }
+}

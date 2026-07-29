@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2028904169986203703",
+    "created_at": "2026-03-03T20:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T21:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028933111673766143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "3178231",
+          "start": 0,
+          "username": "dotey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028933111673766143",
+    "in_reply_to_user_id": "3178231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028904169986203703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dotey 千问基模和应用不是一个团队啊，DAU怎么会管到北京的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2028904169986203703",
+        "created_at": "2026-03-03T20:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T21:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028933111673766143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "3178231",
+              "start": 0,
+              "username": "dotey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028933111673766143",
+        "in_reply_to_user_id": "3178231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028904169986203703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dotey 千问基模和应用不是一个团队啊，DAU怎么会管到北京的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3178231",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2028904169986203703",
+        "created_at": "2026-03-03T18:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T19:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028904169986203703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JustinLin610/s…",
+              "end": 205,
+              "expanded_url": "https://twitter.com/JustinLin610/status/2028865835373359513",
+              "start": 182,
+              "url": "https://t.co/TrDpqQkvxG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028904169986203703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Qwen 技术负责人 Junyang Lin 今天在 X 上发了一条简短的告别：\"me stepping down. bye my beloved qwen.\"（我退出了。再见，我挚爱的 Qwen。）\n\n以下内容由 Grok 和 Claude 辅助整理：\n\n【1】事情来得很突然\n\n就在昨天，Qwen 团队刚发布了 Qwen3.5 小模型系列，0.8B 到 9B 四个版本，支持视觉理解和推理切换，本地跑只要 7GB 内存，性能吊打好几倍大的模型。社区一片叫好。\n\n结果今天一早，技术负责人就宣布走人了。\n\n更让人意外的是，这不是他自己想走的。Qwen 贡献者 Chen Cheng 第一时间回应：\n\n\"leaving wasn't your choice\"（离开不是你的选择）\n\n她说昨晚还跟 Junyang 一起发布 Qwen3.5 小模型，无法想象没有他的 Qwen 会是什么样。\n\n【2】不只走了一个人\n\nJunyang Lin 不是唯一离开的。Hyperbolic Labs CTO Yuchen Jin 确认，Qwen 另一位核心负责人 Binyuan Hui 也走了。这两位是那种北京时间凌晨 6 点还在协作上线模型的人。\n\n随后，Qwen3.5、Qwen VL、Qwen Coder 的核心贡献者 Kaixin Li 也发了告别帖：\n\n\"Signing off from Alibaba Qwen. Grateful for the chance... Onwards and upwards!\"\n\n目前确认离开的至少 3 到 4 人，全是核心骨干。\n\n【3】到底发生了什么？\n\n从各方回应拼出来的图大致是这样的：\n\n阿里云对 Qwen 团队的考核方式变了。Xinyu Yang 批评说，阿里云拿日活（DAU）这类消费级应用的指标来衡量基础模型团队，还用一位 Google Gemini 的非核心成员来替换 Junyang 的位置。一个做基础模型研究的团队，被当成做 App 的来管，创新自然就停了。\n\nYou Jiacheng 说得更直接：\n\n\"Alibaba-Cloud kicked out Qwen's tech lead\"（阿里云把 Qwen 的技术负责人赶走了）\n\n他提到接任者可能是 Hao Zhou，背景偏强化学习方向，社区对他能否带好 Qwen 持怀疑态度。\n\n还有人透露，新领导是绕过 Junyang 直接管理团队的，等于是架空。多位知情人士都指向同一个词：内部政治。\n\n【4】Qwen3 可能就是绝唱了\n\nPanda（Jiaxi Cui）的判断很悲观：Junyang 走后，Qwen3 系列可能是很长一段时间内的最后杰作，团队接下来会转向商业化。\n\n这个判断不是没有道理。Qwen 虽然技术上很强，在 Hugging Face 上下载量巨大，学术界和开发者都在用，但跟字节的豆包比，在国内消费市场的存在感确实弱。阿里云高层可能就是因为这一点，决定换方向换人。\n\nYuchen Jin 担心的是，Qwen 以后可能不再交付前沿开源模型，转向封闭商业化路线。\n\n【5】开源社区的反应\n\nX 上的讨论几乎一边倒。\n\nNathan Lambert 称之为\"legendary run\"（传奇之旅）。Unsloth AI 感谢 Qwen 对开源的贡献。Martin Ziqiao Ma 说 Qwen 一直是前沿实验室和外部社区之间的桥梁，这个桥可能要断了。\n\n批评声音也很多。Maziyar PANAHI 说希望他们出去建个新实验室，然后被阿里巴巴花 20 亿美元收购回来长个教训。Hugo Pinheiro 问了一个很多人想问的问题：为什么商业决策者总是在事情做得好的时候把它毁掉？\n\n社区里流传最广的一句话是：\"Qwen is nothing without its people.\"（Qwen 离开了做事的人，什么都不是。）\n\n【6】他们会去哪？\n\n目前没有确切消息。社区猜测的方向包括：自己创办新实验室、加入 DeepSeek 这类开源友好的团队，甚至有人喊话马斯克的 xAI 和 Hugging Face 赶紧把人抢了。\n\n不管去哪，这些人的能力摆在那里。Qwen 从小模型到大模型、从文本到多模态，能做出这样的成绩，靠的就是这批人。\n\n【最后】\n\n这件事是大公司里开源理想和商业化诉求的老矛盾。Qwen 团队用开源模型攒下了巨大的行业影响力和开发者口碑，但在公司内部的评价体系里，这些可能都不算 KPI。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 26799,
+          "like_count": 166,
+          "quote_count": 7,
+          "reply_count": 31,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028865835373359513",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Qwen 技术负责人 Junyang Lin 今天在 X 上发了一条简短的告别：\"me stepping down. bye my beloved qwen.\"（我退出了。再见，我挚爱的 Qwen。）\n\n以下内容由 Grok 和 Claude 辅助整理：\n\n【1】事情来得很突然\n\n就在昨天，Qwen 团队刚发布了 Qwen3.5 小模型系列，0.8B 到 9B https://t.co/TrDpqQkvxG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 691,
+          "like_count": 11534,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 5057
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2007-04-02T03:42:14.000Z",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "baoyu.io",
+                "end": 23,
+                "expanded_url": "https://baoyu.io",
+                "start": 0,
+                "url": "https://t.co/icobX4A3Ae"
+              }
+            ]
+          }
+        },
+        "id": "3178231",
+        "location": "Chicago, IL",
+        "name": "宝玉",
+        "pinned_tweet_id": "1996285439867556304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189322,
+          "following_count": 1563,
+          "like_count": 46901,
+          "listed_count": 3451,
+          "media_count": 5332,
+          "tweet_count": 30175
+        },
+        "url": "https://t.co/icobX4A3Ae",
+        "username": "dotey",
+        "verified": true
+      }
+    ]
+  }
+}

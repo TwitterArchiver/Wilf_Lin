@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      }
+    ],
+    "conversation_id": "2066205004743217552",
+    "created_at": "2026-06-14T17:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T18:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066205004743217552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xianbao_QIAN/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Xianbao_QIAN/status/2066198768836612327",
+          "start": 14,
+          "url": "https://t.co/AnZT4TjX4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066205004743217552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066198768836612327",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "甚至不愿意用点好的合并工具 https://t.co/AnZT4TjX4i"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2066205004743217552",
+        "created_at": "2026-06-14T17:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066205004743217552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xianbao_QIAN/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Xianbao_QIAN/status/2066198768836612327",
+              "start": 14,
+              "url": "https://t.co/AnZT4TjX4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066205004743217552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066198768836612327",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "甚至不愿意用点好的合并工具 https://t.co/AnZT4TjX4i"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257798068637697",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2066198768836612327",
+        "created_at": "2026-06-14T16:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066198768836612327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xianbao_QIAN/s…",
+              "end": 302,
+              "expanded_url": "https://twitter.com/Xianbao_QIAN/status/2066184929520849346",
+              "start": 279,
+              "url": "https://t.co/BYNO4mcHDR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066198768836612327",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "gist.github.com/xianbaoqian/8d…",
+                "end": 2410,
+                "expanded_url": "https://gist.github.com/xianbaoqian/8dd0b4a25e885707b705e38fd781c8ae",
+                "start": 2387,
+                "url": "https://t.co/vYjdUvb36Q"
+              }
+            ]
+          },
+          "text": "I asked Claude to help me verify the claim: \n\n------\n\nI (Claude) independently verified the claim that Rio-3.5-Open-397B is a weight merge of Nex and Qwen. It checks out.\n\nA developer opened an issue claiming that prefeitura-rio/Rio-3.5-Open-397B is just a ~0.6/0.4 linear blend of the Nex-N2-Pro model and the official Qwen3.5-397B-A17B base, with no original training. \n\nThe method\n\nIf Rio = α·Nex + (1-α)·Qwen, then for every weight tensor, Rio's deviation from Qwen must point in exactly the same direction as Nex's deviation from Qwen. Two numbers tell the story:\n\n- cos_fit: cosine similarity between (Rio - Qwen) and (Nex - Qwen). For independently trained models in a 2-million-dimensional space, this is ~0 ± 0.0007. For a merge, it's ~1.\n- α: how far Rio sits along the line from Qwen toward Nex.\n\nThe trick: no 800GB download needed\n\nSafetensors files have a JSON header with byte offsets for each tensor. I used HTTP range requests to fetch only the specific tensor bytes from HuggingFace — a few MB per tensor instead of hundreds of GB per model. Entire verification runs on a laptop.\n\nWhat I found\n\nI pulled MoE router weights (2M params each) from layers 0, 15, 30, 45, 59, plus shared expert gates and layernorms:\n\nMoE router weights:\nLayer  0:  α = 0.573,  cos_fit = 0.992\nLayer 15:  α = 0.647,  cos_fit = 0.962\nLayer 30:  α = 0.627,  cos_fit = 0.967\nLayer 45:  α = 0.582,  cos_fit = 0.987\nLayer 59:  α = 0.567,  cos_fit = 0.997\n\nShared expert gates:\nLayer  0:  α = 0.568,  cos_fit = 0.997\nLayer 30:  α = 0.581,  cos_fit = 0.988\n\nWhat this means\n\nA cos_fit of 0.99 in a 2-million-dimensional space is not \"high similarity.\" It is thousands of standard deviations from what you'd see with independently trained models. There is no innocent explanation.\n\nThe recovered α clusters tightly around 0.57 across all layers — matching nex-agi's claim of 0.571 almost exactly. This is one model poured into another at a fixed ratio.\n\n(Layernorm weights show a higher α ~0.9. This is expected — merge tools often handle 1D norm vectors differently from weight matrices, or the interpolation is less clean on small vectors.)\n\nBottom line\n\nWith about 10 HTTP range requests per model and 50 lines of NumPy, anyone can verify this independently. The math is unambiguous: Rio-3.5-Open-397B is approximately 57% Nex-N2-Pro + 43% Qwen3.5-397B-A17B.\n\nCode that you can run for yourself: https://t.co/vYjdUvb36Q"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1419,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066184929520849346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I asked Claude to help me verify the claim: \n\n------\n\nI (Claude) independently verified the claim that Rio-3.5-Open-397B is a weight merge of Nex and Qwen. It checks out.\n\nA developer opened an issue claiming that prefeitura-rio/Rio-3.5-Open-397B is just a ~0.6/0.4 linear blend https://t.co/BYNO4mcHDR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "BE",
+              "full_name": "Brugge, Flanders, Belgium",
+              "geo": {
+                "coordinates": [
+                  3.22424,
+                  51.20892
+                ],
+                "type": "Point"
+              },
+              "locality": "Brugge",
+              "region": "Flanders",
+              "sub_region": "Provincie West-Vlaanderen"
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 1855,
+          "like_count": 78225,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 8684
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-28T15:55:26.000Z",
+        "description": "ex-Head of APAC ecosystem @huggingface, interested in future tech. Ex-Googler on TFLite/micro. Ideas are my own. DM me to talk open source and robotics in APAC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "huggingface"
+              }
+            ]
+          }
+        },
+        "id": "1597257798068637697",
+        "name": "Tiezhen WANG",
+        "pinned_tweet_id": "2051482875783254036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608827777175912449/3vaCvfND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11214,
+          "following_count": 2718,
+          "like_count": 9738,
+          "listed_count": 183,
+          "media_count": 865,
+          "tweet_count": 3376
+        },
+        "username": "Xianbao_QIAN",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2033454178169975038",
+    "created_at": "2026-03-17T06:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T07:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033786826058502355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "147786784",
+          "start": 0,
+          "username": "yetone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033786826058502355",
+    "in_reply_to_user_id": "147786784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033454178169975038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yetone tiling应该会通知微信把窗口压缩，最终结果要么zoom了要么窗口中间那块自适应变小了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2033454178169975038",
+        "created_at": "2026-03-17T06:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T07:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033786826058502355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "147786784",
+              "start": 0,
+              "username": "yetone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033786826058502355",
+        "in_reply_to_user_id": "147786784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033454178169975038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yetone tiling应该会通知微信把窗口压缩，最终结果要么zoom了要么窗口中间那块自适应变小了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "147786784",
+        "conversation_id": "2033454178169975038",
+        "created_at": "2026-03-16T08:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T09:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033454178169975038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/heyhuazi/statu…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/heyhuazi/status/2033451834904559727",
+              "start": 116,
+              "url": "https://t.co/AfadfVBYpr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033454178169975038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 30253,
+          "like_count": 78,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033451834904559727",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也觉得，看起来为了弹出额外的 sidebar 自动改变窗口大小会很有帮助，但是这简直是 Tiling Window Manager 的杀手啊，大家但凡想想 Tiling Window Manager 为啥会存在就不会这么小聪明了 https://t.co/AfadfVBYpr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 806,
+          "like_count": 16466,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 5505
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-25T01:52:30.000Z",
+        "description": "Work at @isoformai\n\nBuilt a Coding Agent for Vim: avante.nvim\n\nBuilding: https://t.co/pfq9srNgsd\n\nBuilding: https://t.co/fpGnPR5t9C\n\nBuilding: https://t.co/cBN1yzJPIG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "isoformai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "alma.now",
+                "end": 96,
+                "expanded_url": "https://alma.now",
+                "start": 73,
+                "url": "https://t.co/pfq9srNgsd"
+              },
+              {
+                "display_url": "confirmo.love",
+                "end": 131,
+                "expanded_url": "https://confirmo.love",
+                "start": 108,
+                "url": "https://t.co/fpGnPR5t9C"
+              },
+              {
+                "display_url": "swordgame.ai",
+                "end": 166,
+                "expanded_url": "https://swordgame.ai",
+                "start": 143,
+                "url": "https://t.co/cBN1yzJPIG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/yetone",
+                "end": 23,
+                "expanded_url": "https://github.com/yetone",
+                "start": 0,
+                "url": "https://t.co/KfyoeaqTKV"
+              }
+            ]
+          }
+        },
+        "id": "147786784",
+        "location": "无",
+        "name": "yetone",
+        "pinned_tweet_id": "1996646348964413572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458663772017491971/h1-KC--K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80066,
+          "following_count": 4494,
+          "like_count": 18889,
+          "listed_count": 921,
+          "media_count": 2138,
+          "tweet_count": 18710
+        },
+        "url": "https://t.co/KfyoeaqTKV",
+        "username": "yetone",
+        "verified": true
+      }
+    ]
+  }
+}

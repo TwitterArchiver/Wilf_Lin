@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2078859914588676581",
+    "created_at": "2026-07-19T15:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T16:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078859914588676581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Wilf_Lin/statu…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/Wilf_Lin/status/2078135075578019874",
+          "start": 53,
+          "url": "https://t.co/mbUebyKnf9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078859914588676581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078135075578019874",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不包含中断，总计运行15个小时，干光了我的4个重置，一周之内我不会发布任何commit了。\n另外还没干完 https://t.co/mbUebyKnf9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1236,
+        "media_key": "3_2078134836431314944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcEn5DaYAAyD9Y.jpg",
+        "width": 1636
+      },
+      {
+        "height": 1236,
+        "media_key": "3_2078134921349259265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcEs1ZbYAE8TgB.jpg",
+        "width": 1636
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2078859914588676581",
+        "created_at": "2026-07-19T15:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078859914588676581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Wilf_Lin/statu…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/Wilf_Lin/status/2078135075578019874",
+              "start": 53,
+              "url": "https://t.co/mbUebyKnf9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078859914588676581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078135075578019874",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不包含中断，总计运行15个小时，干光了我的4个重置，一周之内我不会发布任何commit了。\n另外还没干完 https://t.co/mbUebyKnf9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078134836431314944",
+            "3_2078134921349259265"
+          ]
+        },
+        "author_id": "1554803647909097472",
+        "conversation_id": "2078135075578019874",
+        "created_at": "2026-07-17T15:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078135075578019874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w5NzDFFcXU",
+              "end": 115,
+              "expanded_url": "https://x.com/Wilf_Lin/status/2078135075578019874/photo/1",
+              "media_key": "3_2078134836431314944",
+              "start": 92,
+              "url": "https://t.co/w5NzDFFcXU"
+            },
+            {
+              "display_url": "pic.x.com/w5NzDFFcXU",
+              "end": 115,
+              "expanded_url": "https://x.com/Wilf_Lin/status/2078135075578019874/photo/1",
+              "media_key": "3_2078134921349259265",
+              "start": 92,
+              "url": "https://t.co/w5NzDFFcXU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078135075578019874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 418582,
+          "like_count": 106,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我正在把watchrss迁移到rtos,我计划在接下来的数小时内用完我的全部4个reset，通过sol ultra,并且允许其调用claude fable 5作为外援用于个别算法优化 https://t.co/w5NzDFFcXU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 1949,
+          "like_count": 90679,
+          "listed_count": 3,
+          "media_count": 384,
+          "tweet_count": 9048
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      }
+    ]
+  }
+}

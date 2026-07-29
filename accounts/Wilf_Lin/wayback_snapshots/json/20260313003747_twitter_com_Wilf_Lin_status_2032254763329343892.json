@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2032222631538409728",
+    "created_at": "2026-03-13T00:37:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T01:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032254763329343892"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "linux",
+          "probability": 0.6112,
+          "start": 17,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1633874951508721686",
+          "start": 0,
+          "username": "OpenAIDevs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032254763329343892",
+    "in_reply_to_user_id": "1633874951508721686",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032222631538409728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OpenAIDevs when，linux。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2032222608180330497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDPnsekbQAEYNFP.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2032222614299738112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDPns1XaAAA94YD.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2032222620331229184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDPntL1bQAAL4pj.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2032222626480078848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDPntivbQAAxDM0.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2032222631538409728",
+        "created_at": "2026-03-13T00:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T01:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032254763329343892"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "linux",
+              "probability": 0.6112,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1633874951508721686",
+              "start": 0,
+              "username": "OpenAIDevs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032254763329343892",
+        "in_reply_to_user_id": "1633874951508721686",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032222631538409728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OpenAIDevs when，linux。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032222608180330497",
+            "3_2032222614299738112",
+            "3_2032222620331229184",
+            "3_2032222626480078848"
+          ]
+        },
+        "author_id": "1633874951508721686",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Actions",
+              "id": "846770344681627649",
+              "name": "Cooking"
+            }
+          }
+        ],
+        "conversation_id": "2032222631538409728",
+        "created_at": "2026-03-12T22:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T23:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032222631538409728"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "Codex app",
+              "probability": 0.774,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 87,
+              "normalized_text": "Codex app",
+              "probability": 0.7314,
+              "start": 79,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xOg9vzFxh1",
+              "end": 190,
+              "expanded_url": "https://x.com/OpenAIDevs/status/2032222631538409728/photo/1",
+              "media_key": "3_2032222608180330497",
+              "start": 167,
+              "url": "https://t.co/xOg9vzFxh1"
+            },
+            {
+              "display_url": "pic.x.com/xOg9vzFxh1",
+              "end": 190,
+              "expanded_url": "https://x.com/OpenAIDevs/status/2032222631538409728/photo/1",
+              "media_key": "3_2032222614299738112",
+              "start": 167,
+              "url": "https://t.co/xOg9vzFxh1"
+            },
+            {
+              "display_url": "pic.x.com/xOg9vzFxh1",
+              "end": 190,
+              "expanded_url": "https://x.com/OpenAIDevs/status/2032222631538409728/photo/1",
+              "media_key": "3_2032222620331229184",
+              "start": 167,
+              "url": "https://t.co/xOg9vzFxh1"
+            },
+            {
+              "display_url": "pic.x.com/xOg9vzFxh1",
+              "end": 190,
+              "expanded_url": "https://x.com/OpenAIDevs/status/2032222631538409728/photo/1",
+              "media_key": "3_2032222626480078848",
+              "start": 167,
+              "url": "https://t.co/xOg9vzFxh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032222631538409728",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 227,
+          "impression_count": 93282,
+          "like_count": 1130,
+          "quote_count": 41,
+          "reply_count": 112,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "We’ve been cooking.\n\n2 updates in the Codex app 👇\n\nYou can now personalize the Codex app with themes that match your taste.\n\nImport themes you like or share your own. https://t.co/xOg9vzFxh1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 761,
+          "like_count": 14785,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 5386
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-09T16:58:51.000Z",
+        "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "status.openai.com",
+                "end": 115,
+                "expanded_url": "https://status.openai.com",
+                "start": 92,
+                "url": "https://t.co/kZwnwdYYEq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "developers.openai.com",
+                "end": 23,
+                "expanded_url": "https://developers.openai.com",
+                "start": 0,
+                "url": "https://t.co/0AWELwpzJK"
+              }
+            ]
+          }
+        },
+        "id": "1633874951508721686",
+        "name": "OpenAI Developers",
+        "pinned_tweet_id": "2032222631538409728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288325,
+          "following_count": 1,
+          "like_count": 1816,
+          "listed_count": 3751,
+          "media_count": 291,
+          "tweet_count": 1196
+        },
+        "url": "https://t.co/0AWELwpzJK",
+        "username": "OpenAIDevs",
+        "verified": true
+      }
+    ]
+  }
+}

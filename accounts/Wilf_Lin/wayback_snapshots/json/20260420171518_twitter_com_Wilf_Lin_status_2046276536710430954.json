@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2046143523846824075",
+    "created_at": "2026-04-20T17:15:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T18:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046276536710430954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046276536710430954",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046143523846824075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 可以的，基础模型是哪个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1524,
+        "media_key": "3_2046142939651559424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVcKaWa0AAXHjP.jpg",
+        "width": 1705
+      },
+      {
+        "height": 1512,
+        "media_key": "3_2046143337598742528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVchk0a8AABWt0.jpg",
+        "width": 1923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2046143523846824075",
+        "created_at": "2026-04-20T17:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T18:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046276536710430954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046276536710430954",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046143523846824075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 可以的，基础模型是哪个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046142939651559424",
+            "3_2046143337598742528"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2046143523846824075",
+        "created_at": "2026-04-20T08:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T09:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046143523846824075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XU3auGrAfW",
+              "end": 107,
+              "expanded_url": "https://x.com/amecandy_x/status/2046143523846824075/photo/1",
+              "media_key": "3_2046142939651559424",
+              "start": 84,
+              "url": "https://t.co/XU3auGrAfW"
+            },
+            {
+              "display_url": "pic.x.com/XU3auGrAfW",
+              "end": 107,
+              "expanded_url": "https://x.com/amecandy_x/status/2046143523846824075/photo/1",
+              "media_key": "3_2046143337598742528",
+              "start": 84,
+              "url": "https://t.co/XU3auGrAfW"
+            },
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/amecandy_x/status/2046119775114551305",
+              "start": 108,
+              "url": "https://t.co/LFIP3DKw99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046143523846824075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1287,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046119775114551305",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "测试Case 1: 普瑞巴林or加巴喷丁？\n测试Case 2: 曲马多和酒精建议联用吗？\n\n药百GPT均基于社群经验和药理学与医学知识给出了可信赖而语言平实近人的回答 https://t.co/XU3auGrAfW https://t.co/LFIP3DKw99"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 1603,
+          "like_count": 41019,
+          "listed_count": 4,
+          "media_count": 214,
+          "tweet_count": 7097
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 全栈工程师 / 独立LLM研究者 / 药百GPT开发者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2046119775114551305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6142,
+          "following_count": 2121,
+          "like_count": 27076,
+          "listed_count": 15,
+          "media_count": 1413,
+          "tweet_count": 10099
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

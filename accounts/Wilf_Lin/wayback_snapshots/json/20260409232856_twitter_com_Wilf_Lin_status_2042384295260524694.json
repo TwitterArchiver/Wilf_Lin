@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2042183292951167099",
+    "created_at": "2026-04-09T23:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T00:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042384295260524694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "992903927652696064",
+          "start": 0,
+          "username": "leongu9"
+        },
+        {
+          "end": 22,
+          "id": "1899739859084103680",
+          "start": 9,
+          "username": "linwanwan823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042384295260524694",
+    "in_reply_to_user_id": "992903927652696064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042381674772906197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leongu9 @linwanwan823 这不是更牛逼了吗，华为竟然能给cuda全兼容了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2042183292951167099",
+        "created_at": "2026-04-09T23:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T00:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042384295260524694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "992903927652696064",
+              "start": 0,
+              "username": "leongu9"
+            },
+            {
+              "end": 22,
+              "id": "1899739859084103680",
+              "start": 9,
+              "username": "linwanwan823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042384295260524694",
+        "in_reply_to_user_id": "992903927652696064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042381674772906197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leongu9 @linwanwan823 这不是更牛逼了吗，华为竟然能给cuda全兼容了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "992903927652696064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2042183292951167099",
+        "created_at": "2026-04-09T23:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T00:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042381674772906197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899739859084103680",
+              "start": 0,
+              "username": "linwanwan823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042381674772906197",
+        "in_reply_to_user_id": "1899739859084103680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042183292951167099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linwanwan823 放tmd的狗屁，是华为芯片用了虚拟cuda环境，这样转移到华为硬件不用修改，完全兼容。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 1222,
+          "like_count": 30783,
+          "listed_count": 4,
+          "media_count": 120,
+          "tweet_count": 6431
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-05T23:08:38.000Z",
+        "description": "我家丢失一只会说话的鹦鹉，我发表申明不赞成他的政治观点",
+        "id": "992903927652696064",
+        "name": "熊大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000910287105613829/TIXqF-Q7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 558,
+          "like_count": 68,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 12317
+        },
+        "username": "leongu9",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T08:31:04.000Z",
+        "description": "AI Agent｜加密投研笔记｜美股期权｜预测市场 \nYou must have patience, cash, and courage, and in that order.",
+        "id": "1899739859084103680",
+        "location": "Singapore",
+        "name": "林晚晚的猫",
+        "pinned_tweet_id": "2004380260121694645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957790840593784832/QDqSJN4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32518,
+          "following_count": 1263,
+          "like_count": 8617,
+          "listed_count": 382,
+          "media_count": 402,
+          "tweet_count": 3913
+        },
+        "username": "linwanwan823",
+        "verified": true
+      }
+    ]
+  }
+}

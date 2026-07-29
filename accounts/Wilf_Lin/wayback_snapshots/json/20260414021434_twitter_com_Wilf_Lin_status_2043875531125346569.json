@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Hear the best tracks from the chart, interviews with chart artists, and gossip from the music world.",
+          "id": "10027336022",
+          "name": "Top of the Pops"
+        }
+      }
+    ],
+    "conversation_id": "2043529228747223449",
+    "created_at": "2026-04-14T02:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T03:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043875531125346569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1744520765964460032",
+          "start": 0,
+          "username": "angine04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043875531125346569",
+    "in_reply_to_user_id": "1744520765964460032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043529228747223449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angine04 TOTP比较标准"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Hear the best tracks from the chart, interviews with chart artists, and gossip from the music world.",
+              "id": "10027336022",
+              "name": "Top of the Pops"
+            }
+          }
+        ],
+        "conversation_id": "2043529228747223449",
+        "created_at": "2026-04-14T02:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043875531125346569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1744520765964460032",
+              "start": 0,
+              "username": "angine04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043875531125346569",
+        "in_reply_to_user_id": "1744520765964460032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043529228747223449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angine04 TOTP比较标准"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744520765964460032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Hear the best tracks from the chart, interviews with chart artists, and gossip from the music world.",
+              "id": "10027336022",
+              "name": "Top of the Pops"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2043529228747223449",
+        "created_at": "2026-04-13T03:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043529228747223449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043529228747223449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4888,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么GitHub开始强制要求短信或者TOTP 2FA\nPasskey不比totp好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神可能有问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 1335,
+          "like_count": 33926,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 6632
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-09T00:45:48.000Z",
+        "description": "Uraaka @mitsusetoya. Significant other @zianpunk. 汉语/English/日本語少し話せます.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "mitsusetoya"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "zianpunk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angine.tech",
+                "end": 23,
+                "expanded_url": "https://angine.tech",
+                "start": 0,
+                "url": "https://t.co/nzpkkeJMrx"
+              }
+            ]
+          }
+        },
+        "id": "1744520765964460032",
+        "name": "Angine",
+        "pinned_tweet_id": "2008136905632920046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042621548516020224/OYxoP9t1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 1417,
+          "like_count": 26576,
+          "listed_count": 1,
+          "media_count": 333,
+          "tweet_count": 4005
+        },
+        "url": "https://t.co/nzpkkeJMrx",
+        "username": "angine04",
+        "verified": false
+      }
+    ]
+  }
+}

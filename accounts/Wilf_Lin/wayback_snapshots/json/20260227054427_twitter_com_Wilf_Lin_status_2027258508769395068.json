@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2027003596009853280",
+    "created_at": "2026-02-27T05:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T06:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027258508769395068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "22938360",
+          "start": 0,
+          "username": "kevinzhow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027258508769395068",
+    "in_reply_to_user_id": "22938360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027003596009853280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kevinzhow 妈的，termux就是很好啊，你们才发现吗。\n甚至这里触控上下滑动会被转成上下键输入，兼容tmux和vim,全世界就没几个term有这个功能。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2027003586748858368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFdBcqbwAAjxBq.jpg",
+        "width": 1216
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2027003591475748864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFdBuRaYAARWDH.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2027003596009853280",
+        "created_at": "2026-02-27T05:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027258508769395068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "22938360",
+              "start": 0,
+              "username": "kevinzhow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027258508769395068",
+        "in_reply_to_user_id": "22938360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027003596009853280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kevinzhow 妈的，termux就是很好啊，你们才发现吗。\n甚至这里触控上下滑动会被转成上下键输入，兼容tmux和vim,全世界就没几个term有这个功能。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027003586748858368",
+            "3_2027003591475748864"
+          ]
+        },
+        "author_id": "22938360",
+        "conversation_id": "2027003596009853280",
+        "created_at": "2026-02-26T12:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T13:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027003596009853280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1HchYtlDCt",
+              "end": 111,
+              "expanded_url": "https://x.com/kevinzhow/status/2027003596009853280/photo/1",
+              "media_key": "3_2027003586748858368",
+              "start": 88,
+              "url": "https://t.co/1HchYtlDCt"
+            },
+            {
+              "display_url": "pic.x.com/1HchYtlDCt",
+              "end": 111,
+              "expanded_url": "https://x.com/kevinzhow/status/2027003596009853280/photo/1",
+              "media_key": "3_2027003591475748864",
+              "start": 88,
+              "url": "https://t.co/1HchYtlDCt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027003596009853280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 30089,
+          "like_count": 135,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "用了一圈各种 fancy 的 terminal 后换上 Termux 后震惊了，对 TUI 兼容性好到无敌，什么奇奇怪怪的 Bug 都没有，弹键盘后也不会莫名其妙少内容，真神 https://t.co/1HchYtlDCt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 635,
+          "like_count": 9529,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 4886
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-05T16:20:19.000Z",
+        "description": "💻 Maker | Making Japanese Learning App | KanaOrigin | Oyomi｜Miraa 👀 @miraa_app",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 68,
+                "username": "miraa_app"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/kevinzhow",
+                "end": 23,
+                "expanded_url": "https://bento.me/kevinzhow",
+                "start": 0,
+                "url": "https://t.co/UNYCZ8ae41"
+              }
+            ]
+          }
+        },
+        "id": "22938360",
+        "location": "埼玉 越谷市",
+        "name": "kevinzhow",
+        "pinned_tweet_id": "1772810844117819688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808138216585023490/xQ3u-b4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39179,
+          "following_count": 2215,
+          "like_count": 31814,
+          "listed_count": 487,
+          "media_count": 2940,
+          "tweet_count": 41312
+        },
+        "url": "https://t.co/UNYCZ8ae41",
+        "username": "kevinzhow",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2078514339552628880",
+    "created_at": "2026-07-19T02:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T03:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078671400664252873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1560927015334805504",
+          "start": 0,
+          "username": "synthwavedd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078671400664252873",
+    "in_reply_to_user_id": "1560927015334805504",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078514339552628880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@synthwavedd you mean i can use fsble at price of deepeeek?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 591,
+        "media_key": "3_2078491567577276416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhJEYIWoAAtN9E.jpg",
+        "width": 1298
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2078514339552628880",
+        "created_at": "2026-07-19T02:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T03:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078671400664252873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560927015334805504",
+              "start": 0,
+              "username": "synthwavedd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078671400664252873",
+        "in_reply_to_user_id": "1560927015334805504",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078514339552628880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@synthwavedd you mean i can use fsble at price of deepeeek?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078491567577276416"
+          ]
+        },
+        "author_id": "1560927015334805504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078514339552628880",
+        "created_at": "2026-07-18T16:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078514339552628880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wFK4nmuvkZ",
+              "end": 297,
+              "expanded_url": "https://x.com/synthwavedd/status/2078514339552628880/photo/1",
+              "media_key": "3_2078491567577276416",
+              "start": 274,
+              "url": "https://t.co/wFK4nmuvkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078514339552628880",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "🧵  DeepSeek appear to have engaged, or be engaging in, a large-scale operation to collect outputs from proprietary models (including Claude Fable 5) for certain requests via their API as part of a distillation effort.\n\nAfter seeing such claims circulating earlier today, we conducted an investigation into them on our Discord. We found that, when \"Deepseek V4\" was used within OpenCode - via their official API - for complex prompts (i.e. 3D games) and combined with a knowledge-related query, the model provides virtually identical outputs to Fable 5. CoT structure is also very different from what is typically expected from Deepseek models. Both of these behaviours revert to what is expected for V4 when simpler prompts were used.\n\nWhen \"Deepseek V4\" was asked to incorporate answers to questions related to cyber or bio tasks that we verified hit Fable's classifiers into its 3D games, outputs tanked in quality. This is very difficult to explain unless the request was routed to Fable and fell back after hitting a classifier.\n\nFor complex code prompts without anything else mixed in, like 3D games, outputs were remarkably similar to those produced by Fable 5.\n\nWe were able to produce these results most consistently via OpenCode and the official Deepseek API combined with a prompt that specifies a complex code task. Deepseek have continued to modify their routing system since, as we have observed changes in behaviour and CoT style compared to those seen previously. Our investigation was conducted from 7AM-8AM PT."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 323,
+          "impression_count": 163501,
+          "like_count": 1003,
+          "quote_count": 64,
+          "reply_count": 101,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "🧵  DeepSeek appear to have engaged, or be engaging in, a large-scale operation to collect outputs from proprietary models (including Claude Fable 5) for certain requests via their API as part of a distillation effort.\n\nAfter seeing such claims circulating earlier today, we https://t.co/wFK4nmuvkZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 1944,
+          "like_count": 90501,
+          "listed_count": 3,
+          "media_count": 381,
+          "tweet_count": 9030
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-20T09:49:44.000Z",
+        "description": "tech, ai & politics nerd || got info you think i'd be interested in? let's talk! sywv.tips@proton.me || dono: https://t.co/WxQgF8aVkI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/synthwavedd",
+                "end": 133,
+                "expanded_url": "http://buymeacoffee.com/synthwavedd",
+                "start": 110,
+                "url": "https://t.co/WxQgF8aVkI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/rag-tag",
+                "end": 23,
+                "expanded_url": "http://discord.gg/rag-tag",
+                "start": 0,
+                "url": "https://t.co/6iCDyuYtMa"
+              }
+            ]
+          }
+        },
+        "id": "1560927015334805504",
+        "name": "leo 🐾",
+        "pinned_tweet_id": "2069865719223767289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070520587659657216/novnWEZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26405,
+          "following_count": 2628,
+          "like_count": 26118,
+          "listed_count": 427,
+          "media_count": 706,
+          "tweet_count": 3371
+        },
+        "url": "https://t.co/6iCDyuYtMa",
+        "username": "synthwavedd",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2065505960953827698",
+    "created_at": "2026-06-12T18:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T19:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065505960953827698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/manateelazycat…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/manateelazycat/status/2062927775363903574",
+          "start": 21,
+          "url": "https://t.co/y1SzVTm9Y5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065505960953827698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062927775363903574",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你可以通过这个水晶球看到一段时间的过去（ https://t.co/y1SzVTm9Y5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1469,
+        "media_key": "3_2062926640716644352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKD82ZGbAAApTwh.jpg",
+        "width": 1071
+      },
+      {
+        "height": 1451,
+        "media_key": "3_2062926641538736129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKD82cKbIAElssF.jpg",
+        "width": 1084
+      },
+      {
+        "height": 1471,
+        "media_key": "3_2062926641526153217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKD82cHbIAE5tR2.jpg",
+        "width": 1069
+      },
+      {
+        "height": 1438,
+        "media_key": "3_2062926642474004480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKD82fpaMAAAxAI.jpg",
+        "width": 1094
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2065505960953827698",
+        "created_at": "2026-06-12T18:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T19:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065505960953827698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/manateelazycat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/manateelazycat/status/2062927775363903574",
+              "start": 21,
+              "url": "https://t.co/y1SzVTm9Y5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065505960953827698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062927775363903574",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你可以通过这个水晶球看到一段时间的过去（ https://t.co/y1SzVTm9Y5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062926640716644352",
+            "3_2062926641538736129",
+            "3_2062926641526153217",
+            "3_2062926642474004480"
+          ]
+        },
+        "author_id": "28530405",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2062927775363903574",
+        "created_at": "2026-06-05T16:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:56:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062926644940259834",
+          "2062927775363903574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VYn9yhBk93",
+              "end": 175,
+              "expanded_url": "https://x.com/manateelazycat/status/2062927775363903574/photo/1",
+              "media_key": "3_2062926640716644352",
+              "start": 152,
+              "url": "https://t.co/VYn9yhBk93"
+            },
+            {
+              "display_url": "pic.x.com/VYn9yhBk93",
+              "end": 175,
+              "expanded_url": "https://x.com/manateelazycat/status/2062927775363903574/photo/1",
+              "media_key": "3_2062926641538736129",
+              "start": 152,
+              "url": "https://t.co/VYn9yhBk93"
+            },
+            {
+              "display_url": "pic.x.com/VYn9yhBk93",
+              "end": 175,
+              "expanded_url": "https://x.com/manateelazycat/status/2062927775363903574/photo/1",
+              "media_key": "3_2062926641526153217",
+              "start": 152,
+              "url": "https://t.co/VYn9yhBk93"
+            },
+            {
+              "display_url": "pic.x.com/VYn9yhBk93",
+              "end": 175,
+              "expanded_url": "https://x.com/manateelazycat/status/2062927775363903574/photo/1",
+              "media_key": "3_2062926642474004480",
+              "start": 152,
+              "url": "https://t.co/VYn9yhBk93"
+            },
+            {
+              "display_url": "x.com/manateelazycat…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/manateelazycat/status/2039939966281920843",
+              "start": 176,
+              "url": "https://t.co/LRbB0OUwei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062927775363903574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "懒猫摄像头开始预售啦！\n\n继懒猫微服，懒猫 AI 算力舱后，第三款懒猫智能硬件发布啦！\n\n星际太空人，科幻外观设计，从零开模打磨了一年半，头围和蔚来汽车的 Nomi 一样大，意味着买了摄像头后，所有 Nomi 的头饰都可以随意搭配\n\n后期会让懒猫 AI 摄像头结合懒猫 AI 算力舱，让用户自定义 AI 大模型，实现 100% 隐私的家庭 AI 摄像头\n\n最重要的一点是，懒猫 AI 摄像头是 NAS 界第一款智能摄像头，买回家扫码就可以用。以前那种购买第三方摄像头，破解 Token 各种折腾的时代结束彻底了！\n\n正式售卖价格 399 元，预售期间购买 360 元，评论区打 1，先到先得\n\n想要免费获得这款科幻摄像头的推友，只需关注我，写任意评论并转发这个推特，下周三抽奖免费送 10 台懒猫 AI 摄像头，千万不要错过抽奖机会，0 门槛参与！！！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 151619,
+          "like_count": 99,
+          "quote_count": 58,
+          "reply_count": 168,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039939966281920843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "懒猫摄像头开始预售啦！\n\n继懒猫微服，懒猫 AI 算力舱后，第三款懒猫智能硬件发布啦！\n\n星际太空人，科幻外观设计，从零开模打磨了一年半，头围和蔚来汽车的 Nomi 一样大，意味着买了摄像头后，所有 Nomi 的头饰都可以随意搭配\n\n后期会让懒猫 AI 摄像头结合懒猫 AI 算力舱，让用户自定义 AI https://t.co/VYn9yhBk93 https://t.co/LRbB0OUwei"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 1837,
+          "like_count": 75735,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 8674
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-03T09:01:38.000Z",
+        "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lazycat.cloud",
+                "end": 64,
+                "expanded_url": "https://lazycat.cloud/",
+                "start": 41,
+                "url": "https://t.co/KVqgWHE3yR"
+              },
+              {
+                "display_url": "x.com/manateelazycat…",
+                "end": 97,
+                "expanded_url": "https://x.com/manateelazycat/status/1970815014861930775",
+                "start": 74,
+                "url": "https://t.co/SF9p24C2IS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manateelazycat.github.io",
+                "end": 23,
+                "expanded_url": "https://manateelazycat.github.io",
+                "start": 0,
+                "url": "https://t.co/twDx1tx1YW"
+              }
+            ]
+          }
+        },
+        "id": "28530405",
+        "location": "China",
+        "name": "Andy Stewart",
+        "pinned_tweet_id": "2039939966281920843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53299,
+          "following_count": 410,
+          "like_count": 20782,
+          "listed_count": 383,
+          "media_count": 8541,
+          "tweet_count": 59910
+        },
+        "url": "https://t.co/twDx1tx1YW",
+        "username": "manateelazycat",
+        "verified": true
+      }
+    ]
+  }
+}

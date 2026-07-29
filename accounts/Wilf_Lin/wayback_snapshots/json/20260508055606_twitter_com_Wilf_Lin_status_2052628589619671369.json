@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2052616800727183366",
+    "created_at": "2026-05-08T05:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T06:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052628589619671369"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052628589619671369",
+    "in_reply_to_user_id": "1554803647909097472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052616800727183366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对了一百元是不包括everos记忆只算模型的价格，要记忆的话，everos目前是免费，但是按照标准价格计算如果收费你得再掏几百"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2052616800727183366",
+        "created_at": "2026-05-08T05:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052628589619671369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052628589619671369",
+        "in_reply_to_user_id": "1554803647909097472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052616800727183366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对了一百元是不包括everos记忆只算模型的价格，要记忆的话，everos目前是免费，但是按照标准价格计算如果收费你得再掏几百"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2052616800727183366",
+        "created_at": "2026-05-08T05:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052616800727183366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Wilf_Lin/statu…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/Wilf_Lin/status/2050046785830187303",
+              "start": 90,
+              "url": "https://t.co/3UJaKC7mQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052616800727183366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050046785830187303",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我会开源lifefork的所有数据处理脚本和网页代码（以及未来的推特接入代码，这样任何人都可以拿推文数据，用阿里云百炼训一个赛博分身出来。\n成本已经被我压缩到了大约100元一次。 https://t.co/3UJaKC7mQ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 1798,
+          "like_count": 56882,
+          "listed_count": 4,
+          "media_count": 269,
+          "tweet_count": 8039
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      }
+    ]
+  }
+}

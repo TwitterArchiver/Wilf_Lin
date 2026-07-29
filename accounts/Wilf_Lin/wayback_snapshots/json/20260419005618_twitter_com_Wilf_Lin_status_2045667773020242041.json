@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2045477078435615000",
+    "created_at": "2026-04-19T00:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T01:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045667773020242041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1625030759395524608",
+          "start": 0,
+          "username": "xinhaiying521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045667773020242041",
+    "in_reply_to_user_id": "1625030759395524608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045477078435615000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinhaiying521 Q4量化的MOE也不是不能用，就是不咋好用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2045477078435615000",
+        "created_at": "2026-04-19T00:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T01:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045667773020242041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1625030759395524608",
+              "start": 0,
+              "username": "xinhaiying521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045667773020242041",
+        "in_reply_to_user_id": "1625030759395524608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045477078435615000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinhaiying521 Q4量化的MOE也不是不能用，就是不咋好用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625030759395524608",
+        "conversation_id": "2045477078435615000",
+        "created_at": "2026-04-18T12:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T13:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045477078435615000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045477078435615000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 947,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是很能理解为什么有好多使用基础款macmini部署本地模型ww,m4的内存(显存)带宽明显有些过低了,跑出来的效果真的好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 1584,
+          "like_count": 39582,
+          "listed_count": 4,
+          "media_count": 211,
+          "tweet_count": 7003
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-13T07:15:16.000Z",
+        "description": "⭐/05出厂(˵¯͒〰¯͒˵)🌈//本科CS在读///睡觉中毒 //rock//兴趣点广泛//只聊风月不谈政治//清水推一枚/Shanghai🎈喜欢一切可爱的东西~ /💧🐟。o 〇@Romanorum_ Wish You Were Here",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "Romanorum_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xinhaiying520",
+                "end": 23,
+                "expanded_url": "https://t.me/xinhaiying520",
+                "start": 0,
+                "url": "https://t.co/hA3izuibx9"
+              }
+            ]
+          }
+        },
+        "id": "1625030759395524608",
+        "location": "距离你200m",
+        "name": "神樂坂🌸心海",
+        "pinned_tweet_id": "2025465733115986160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997670357936001024/LnXCj7hM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 796,
+          "like_count": 10218,
+          "listed_count": 5,
+          "media_count": 607,
+          "tweet_count": 3594
+        },
+        "url": "https://t.co/hA3izuibx9",
+        "username": "xinhaiying521",
+        "verified": false
+      }
+    ]
+  }
+}

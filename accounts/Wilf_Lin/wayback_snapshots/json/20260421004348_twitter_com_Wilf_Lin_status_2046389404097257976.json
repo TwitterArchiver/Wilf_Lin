@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2046262150583189706",
+    "created_at": "2026-04-21T00:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T01:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046389404097257976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974653328274714624",
+          "start": 0,
+          "username": "AYi_AInotes"
+        },
+        {
+          "end": 22,
+          "id": "25401953",
+          "start": 13,
+          "username": "steipete"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046389404097257976",
+    "in_reply_to_user_id": "1974653328274714624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046262150583189706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AYi_AInotes @steipete 我私有是因为放GitHub丢脸。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2046262150583189706",
+        "created_at": "2026-04-21T00:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T01:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046389404097257976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974653328274714624",
+              "start": 0,
+              "username": "AYi_AInotes"
+            },
+            {
+              "end": 22,
+              "id": "25401953",
+              "start": 13,
+              "username": "steipete"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046389404097257976",
+        "in_reply_to_user_id": "1974653328274714624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046262150583189706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AYi_AInotes @steipete 我私有是因为放GitHub丢脸。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974653328274714624",
+        "conversation_id": "2046262150583189706",
+        "created_at": "2026-04-20T16:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046262150583189706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 67,
+              "id": "25401953",
+              "start": 58,
+              "username": "steipete"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet Z.ai, your free AI-powered assistant. Build websites, create slides, analyze data, and get instant answers. Fast, smart, and reliable, powered by GLM-5.",
+              "display_url": "Z.ai",
+              "end": 145,
+              "expanded_url": "http://Z.ai",
+              "start": 122,
+              "status": 200,
+              "title": "Z.ai - Free AI Chatbot & Agent powered by GLM-5.1 & GLM-5",
+              "unwound_url": "https://chat.z.ai/",
+              "url": "https://t.co/5pnn5PvK2o"
+            },
+            {
+              "display_url": "x.com/steipete/statu…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/steipete/status/2046199257430888878",
+              "start": 162,
+              "url": "https://t.co/XHhdWbGth1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046262150583189706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 67,
+                "id": "25401953",
+                "start": 58,
+                "username": "steipete"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Z.ai",
+                "end": 145,
+                "expanded_url": "http://Z.ai",
+                "start": 122,
+                "url": "https://t.co/numcI0Bpoy"
+              },
+              {
+                "display_url": "Z.ai",
+                "end": 464,
+                "expanded_url": "http://Z.ai",
+                "start": 441,
+                "url": "https://t.co/numcI0Bpoy"
+              }
+            ]
+          },
+          "text": "看完OpenClaw创始人的爆料才明白，为什么低价订阅跑 Agent 会被直接封号不退费🥹\n\nOpenClaw创始人@steipete Peter Steinberger今天戳穿了整个行业的潜规则，他们要的根本不是你的订阅费，而是你的代码，\n\nhttps://t.co/numcI0Bpoy最近刚更新了GLM Coding Plan的政策，明确说这个套餐只能用来写代码，任何非编程用途，包括跑代理，角色扮演，翻译网站，都会被高强度限流，违规3次以上直接永久封号，而且订阅费一分不退，\n\nReddit上已经有一大堆人中招了，很多人之前图便宜买了这个套餐，拿来跑OpenClaw或者聊天，结果毫无预兆就被封了，\n\n你以为你占了便宜，其实他们赚大了，真实的私有代码数据，比GitHub上的公开代码质量高一百倍，是训练下一代AI模型最值钱的黄金矿，\n\n而你跑代理，聊天，角色扮演，不仅不产生任何有价值的数据，还会疯狂消耗他们最稀缺的GPU算力，\n所以补贴立刻就没了，规则说改就改，\n\n这不是https://t.co/numcI0Bpoy一家的问题，整个AI行业都从疯狂补贴抢用户，变成精打细算抢数据，\n\n以后用AI会越来越贵，因为只有能帮他们进化的人，才能继续享受便宜的价格🤪"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 263,
+          "impression_count": 100774,
+          "like_count": 386,
+          "quote_count": 8,
+          "reply_count": 24,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046199257430888878",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看完OpenClaw创始人的爆料才明白，为什么低价订阅跑 Agent 会被直接封号不退费🥹\n\nOpenClaw创始人@steipete Peter Steinberger今天戳穿了整个行业的潜规则，他们要的根本不是你的订阅费，而是你的代码，\n\nhttps://t.co/5pnn5PvK2o最近刚更新了GLM Coding https://t.co/XHhdWbGth1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 1611,
+          "like_count": 41526,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 7140
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-05T01:50:40.000Z",
+        "description": "大厂组织发展专家 × 心理学硕士 × AI 重度实践者  \n分享有用的 AI 实践，也分享工具之外的深度认知\nAIGC |  Prompt Engineering | 商业思维  丨职场✖️心理学\n🐈 和 4 只猫一起生活和工作",
+        "id": "1974653328274714624",
+        "name": "阿绎 AYi",
+        "pinned_tweet_id": "2045874192155824616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989157446829350912/pW828UwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32312,
+          "following_count": 499,
+          "like_count": 10398,
+          "listed_count": 295,
+          "media_count": 767,
+          "tweet_count": 8444
+        },
+        "username": "AYi_AInotes",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-19T22:54:05.000Z",
+        "description": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 110,
+                "username": "OpenClaw"
+              },
+              {
+                "end": 130,
+                "start": 123,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steipete.me",
+                "end": 23,
+                "expanded_url": "https://steipete.me",
+                "start": 0,
+                "url": "https://t.co/VeCkD9C9P5"
+              }
+            ]
+          }
+        },
+        "id": "25401953",
+        "location": "Vienna & London",
+        "name": "Peter Steinberger 🦞",
+        "pinned_tweet_id": "2023154018714100102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1131851609774985216/OcsssQ9J_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488367,
+          "following_count": 2339,
+          "like_count": 61029,
+          "listed_count": 5460,
+          "media_count": 8468,
+          "tweet_count": 138274
+        },
+        "url": "https://t.co/VeCkD9C9P5",
+        "username": "steipete",
+        "verified": true
+      }
+    ]
+  }
+}

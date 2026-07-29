@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2034413601990066379",
+    "created_at": "2026-03-18T23:36:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T00:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034413601990066379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/caterpillarous…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/caterpillarous/status/2034333351449182218",
+          "start": 9,
+          "url": "https://t.co/o96uJCkt8w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034413601990066379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034333351449182218",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个人好像很厉害 https://t.co/o96uJCkt8w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2034413601990066379",
+        "created_at": "2026-03-18T23:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T00:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034413601990066379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/caterpillarous…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/caterpillarous/status/2034333351449182218",
+              "start": 9,
+              "url": "https://t.co/o96uJCkt8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034413601990066379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034333351449182218",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个人好像很厉害 https://t.co/o96uJCkt8w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2677169946",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2034333351449182218",
+        "created_at": "2026-03-18T18:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T19:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034333351449182218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 53,
+              "id": "1146999021527023618",
+              "start": 45,
+              "username": "__endif"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034333351449182218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 53,
+                "id": "1146999021527023618",
+                "start": 45,
+                "username": "__endif"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "idle.systems",
+                "end": 349,
+                "expanded_url": "http://idle.systems",
+                "start": 326,
+                "url": "https://t.co/j0yuUs8vSR"
+              }
+            ]
+          },
+          "text": "解除了锁推，因为从Google辞职了不用再害怕吐槽同事被发现了\n\n现在创业中求求大家关注 @__endif 吧，起号好难\n\n正式的<del>吹牛</del>是：\n- 我从23年开始做LLM coding，领导了内部最初的coding agent，并在24年I/O成为了Google第一个正式发布的coding agent\n- LLM方面我从Palm开始贡献，一直到Gemini 3.0\n- 写过Gemini technical report，被邀请到巴西去第一届AIWare讲过agent，发过Google developer blog，给Google Jules发过专利\n- 读过博士项目退过学，做过程序分析，报过CVE\n\n之前的各种胡言乱语都写在 https://t.co/j0yuUs8vSR 了，因为可以搞个有趣的邮箱叫做 process@idle.systems\n\n求转发啊啊啊啊我tm要起号"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 7161,
+          "like_count": 81,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "解除了锁推，因为从Google辞职了不用再害怕吐槽同事被发现了\n\n现在创业中求求大家关注 @__endif 吧，起号好难\n\n正式的&lt;del&gt;吹牛&lt;/del&gt;是：\n- 我从23年开始做LLM coding，领导了内部最初的coding agent，并在24年I/O成为了Google第一个正式发布的coding agent\n- LLM方面我从Palm开始贡献，一直到Gemini"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 824,
+          "like_count": 17367,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 5596
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-24T14:26:26.000Z",
+        "description": "…comfortably numb",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "idle.systems",
+                "end": 23,
+                "expanded_url": "http://idle.systems",
+                "start": 0,
+                "url": "https://t.co/j0yuUs7Y3j"
+              }
+            ]
+          }
+        },
+        "id": "2677169946",
+        "location": "United States",
+        "name": "#endif",
+        "pinned_tweet_id": "1034478506909069313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1537988398421450752/MW1m0bwA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 600,
+          "like_count": 9311,
+          "listed_count": 19,
+          "media_count": 998,
+          "tweet_count": 5149
+        },
+        "url": "https://t.co/j0yuUs7Y3j",
+        "username": "caterpillarous",
+        "verified": true
+      }
+    ]
+  }
+}

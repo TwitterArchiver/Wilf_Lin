@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2035340412295184649",
+    "created_at": "2026-03-22T04:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T05:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035574631403262460"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "codex",
+          "probability": 0.6599,
+          "start": 33,
+          "type": "Other"
+        },
+        {
+          "end": 46,
+          "normalized_text": "rust",
+          "probability": 0.6749,
+          "start": 43,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1773217467558744064",
+          "start": 0,
+          "username": "robinebers"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035574631403262460",
+    "in_reply_to_user_id": "1773217467558744064",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035340412295184649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@robinebers thata why I only use codex and rust for serious project"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1156,
+        "media_key": "3_2035340409682210816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD77UaQbMAA5VX3.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2035340412295184649",
+        "created_at": "2026-03-22T04:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T05:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035574631403262460"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "codex",
+              "probability": 0.6599,
+              "start": 33,
+              "type": "Other"
+            },
+            {
+              "end": 46,
+              "normalized_text": "rust",
+              "probability": 0.6749,
+              "start": 43,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773217467558744064",
+              "start": 0,
+              "username": "robinebers"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035574631403262460",
+        "in_reply_to_user_id": "1773217467558744064",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035340412295184649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@robinebers thata why I only use codex and rust for serious project"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035340409682210816"
+          ]
+        },
+        "author_id": "1773217467558744064",
+        "conversation_id": "2035340412295184649",
+        "created_at": "2026-03-21T12:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T13:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035340412295184649"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "AI",
+              "probability": 0.4851,
+              "start": 17,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pV76wXvZMO",
+              "end": 190,
+              "expanded_url": "https://x.com/robinebers/status/2035340412295184649/photo/1",
+              "media_key": "3_2035340409682210816",
+              "start": 167,
+              "url": "https://t.co/pV76wXvZMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035340412295184649",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3165,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "just tried a new AI coder (not visible here)\n\nafter 30 min it nuked my entire system\n\n96 GB memory - poof, gone\n\nwhat the actual fuck\n\ntest your vibe coded apps mfers https://t.co/pV76wXvZMO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 857,
+          "like_count": 18694,
+          "listed_count": 3,
+          "media_count": 92,
+          "tweet_count": 5742
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-28T05:16:36.000Z",
+        "description": "🛠️ I help non-technical founders build micro-apps with AI\n👉 Click the link below to learn AI coding fast\n👭 300+ clients shipped already",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "itsbyrob.in/SY3GjlH",
+                "end": 23,
+                "expanded_url": "https://itsbyrob.in/SY3GjlH",
+                "start": 0,
+                "url": "https://t.co/sU0JhfUQHi"
+              }
+            ]
+          }
+        },
+        "id": "1773217467558744064",
+        "location": "Dubai",
+        "name": "Robin Ebers | AI Coach for Founders",
+        "pinned_tweet_id": "1999088052980109536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008557642822938624/0DGwsHuT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5466,
+          "following_count": 796,
+          "like_count": 18764,
+          "listed_count": 78,
+          "media_count": 1425,
+          "tweet_count": 14375
+        },
+        "url": "https://t.co/sU0JhfUQHi",
+        "username": "robinebers",
+        "verified": true
+      }
+    ]
+  }
+}

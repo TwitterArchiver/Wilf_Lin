@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2047528087093731674",
+    "created_at": "2026-04-24T04:32:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T05:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047534083492675667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "5709522",
+          "start": 0,
+          "username": "mranti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047534083492675667",
+    "in_reply_to_user_id": "5709522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047528087093731674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mranti 第三方3.2又没停"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2047528087093731674",
+        "created_at": "2026-04-24T04:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047534083492675667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "5709522",
+              "start": 0,
+              "username": "mranti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047534083492675667",
+        "in_reply_to_user_id": "5709522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047528087093731674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mranti 第三方3.2又没停"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "5709522",
+        "conversation_id": "2047528087093731674",
+        "created_at": "2026-04-24T04:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047528087093731674"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047528087093731674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2280,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我刚才试了下，Deepseek V4的升级是个对老客户很不好的升级。为什么？因为原来的V3.2是便宜而且相当成熟的模型，我一直认为是LLM处理性价比的王者。但V4 Flash的质量不如V3.2（我刚才用在翻译软件中，质量下降很明显），但V4 Pro却比V4 Flash溢价十倍，这立刻让老客户无法再用了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 1679,
+          "like_count": 45566,
+          "listed_count": 4,
+          "media_count": 227,
+          "tweet_count": 7359
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2007-05-02T10:08:45.000Z",
+        "description": "安替, Globus, Global Research. A veteran journalist on International Affairs, Harvard Nieman Fellow '08, TEDGlobal Speaker.",
+        "id": "5709522",
+        "name": "Michael Anti",
+        "pinned_tweet_id": "2047528087093731674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/575475426971119616/mdc9Zm_-_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353686,
+          "following_count": 11390,
+          "like_count": 404,
+          "listed_count": 3410,
+          "media_count": 3160,
+          "tweet_count": 225172
+        },
+        "username": "mranti",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2073231555364053472",
+    "created_at": "2026-07-04T07:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T08:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073304647830516103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1486017329662423044",
+          "start": 0,
+          "username": "mylifcc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073304647830516103",
+    "in_reply_to_user_id": "1486017329662423044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073231555364053472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mylifcc 这个数据量我怀疑是过拟合了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2073231555364053472",
+        "created_at": "2026-07-04T07:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T08:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073304647830516103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1486017329662423044",
+              "start": 0,
+              "username": "mylifcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073304647830516103",
+        "in_reply_to_user_id": "1486017329662423044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073231555364053472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mylifcc 这个数据量我怀疑是过拟合了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486017329662423044",
+        "conversation_id": "2073231555364053472",
+        "created_at": "2026-07-04T02:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T03:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073231555364053472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/waterloo_inter…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/waterloo_intern/status/2073171123542573231",
+              "start": 151,
+              "url": "https://t.co/UgqOJg9Gd1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073231555364053472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "他们拿了 230 万条 Claude（一个很强很贵的AI）在推理时候留下的“思考过程”数据，去训练了一个很小的模型（Qwen3-4B，只有40亿参数）。\n结果这个小模型在测试里表现得非常“稳”：\n\n它在512次不同测试里，每次输出都完全一样（100%一致）。\n输出几乎没有随机性，基本是“确定性”的。\n几乎不胡说八道（幻觉极少）。\n小模型竟然没有被大模型（老师）限制住，反而在“可靠”这个点上做得很出色。\n最离谱的是，它自己还总结出了一个“普世真理”——就是大家在评论区笑的那个“埃及赢了”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 8134,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073171123542573231",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他们拿了 230 万条 Claude（一个很强很贵的AI）在推理时候留下的“思考过程”数据，去训练了一个很小的模型（Qwen3-4B，只有40亿参数）。\n结果这个小模型在测试里表现得非常“稳”：\n\n它在512次不同测试里，每次输出都完全一样（100%一致）。\n输出几乎没有随机性，基本是“确定性”的。 https://t.co/UgqOJg9Gd1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 1881,
+          "like_count": 84688,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 8794
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-25T16:45:32.000Z",
+        "description": "每天用 AI 写代码的工程师\nClaude Code ｜ Codex深度用户  ｜Agentic engineering\n在这里分享 AI 工具实测和开发者工作流",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/majiayu000",
+                "end": 23,
+                "expanded_url": "https://github.com/majiayu000",
+                "start": 0,
+                "url": "https://t.co/ufi5xkagnA"
+              }
+            ]
+          }
+        },
+        "id": "1486017329662423044",
+        "name": "lifcc",
+        "pinned_tweet_id": "2053385535658533072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034239213487681536/2gjQXlXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3766,
+          "following_count": 250,
+          "like_count": 5052,
+          "listed_count": 41,
+          "media_count": 584,
+          "tweet_count": 7822
+        },
+        "url": "https://t.co/ufi5xkagnA",
+        "username": "mylifcc",
+        "verified": true
+      }
+    ]
+  }
+}

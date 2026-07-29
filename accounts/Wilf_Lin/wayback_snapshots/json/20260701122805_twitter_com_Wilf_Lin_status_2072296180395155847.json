@@ -1,0 +1,527 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2071931869612867584"
+      ],
+      "media_source_tweet_id": [
+        "2071931925108056103"
+      ]
+    },
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Weather",
+          "id": "857083369514876928",
+          "name": "Weather"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303720909161689088",
+          "name": "Idols"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1412542101984710656",
+          "name": "Rainy season"
+        }
+      },
+      {
+        "domain": {
+          "description": "Weather-related topics like Boston weather or Earthquakes",
+          "id": "155",
+          "name": "Weather"
+        },
+        "entity": {
+          "id": "1412542101984710656",
+          "name": "Rainy season"
+        }
+      }
+    ],
+    "conversation_id": "2072296180395155847",
+    "created_at": "2026-07-01T12:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T13:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072296180395155847"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 109,
+          "start": 104,
+          "tag": "メン地下"
+        },
+        {
+          "end": 115,
+          "start": 110,
+          "tag": "アイドル"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2014694093792935940",
+          "start": 3,
+          "username": "amtr_info"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6a9JkpcaaW",
+          "end": 139,
+          "expanded_url": "https://x.com/amtr_info/status/2071931925108056103/video/1",
+          "media_key": "13_2071931869612867584",
+          "start": 116,
+          "url": "https://t.co/6a9JkpcaaW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072296180395155847",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071931925108056103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amtr_info: 6月も応援ありがとうございました！\n梅雨時でしたが、沢山の思い出ができました！！\n\nそして、ヒロトの最終活動日でもあり、\n無事に卒業しました🪭🤍\n\nヒロト、卒業おめでとう！！\n\n#メン地下\n#アイドル https://t.co/6a9JkpcaaW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10238,
+        "height": 720,
+        "media_key": "13_2071931869612867584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071931869612867584/img/k6sgRjA4H3lB7GRy.jpg",
+        "public_metrics": {
+          "view_count": 216
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071931869612867584/vid/avc1/480x270/0jAdXh17gED-AVg9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071931869612867584/vid/avc1/640x360/o6jv5SpD1KhuB_v8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071931869612867584/vid/avc1/1280x720/o9rrSjCxLbrjKQHY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071931869612867584/pl/LxFDLS8sDDdr3iNJ.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071931869612867584"
+          ],
+          "media_source_tweet_id": [
+            "2071931925108056103"
+          ]
+        },
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          }
+        ],
+        "conversation_id": "2072296180395155847",
+        "created_at": "2026-07-01T12:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072296180395155847"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 104,
+              "tag": "メン地下"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "アイドル"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2014694093792935940",
+              "start": 3,
+              "username": "amtr_info"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6a9JkpcaaW",
+              "end": 139,
+              "expanded_url": "https://x.com/amtr_info/status/2071931925108056103/video/1",
+              "media_key": "13_2071931869612867584",
+              "start": 116,
+              "url": "https://t.co/6a9JkpcaaW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072296180395155847",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071931925108056103",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amtr_info: 6月も応援ありがとうございました！\n梅雨時でしたが、沢山の思い出ができました！！\n\nそして、ヒロトの最終活動日でもあり、\n無事に卒業しました🪭🤍\n\nヒロト、卒業おめでとう！！\n\n#メン地下\n#アイドル https://t.co/6a9JkpcaaW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071931869612867584"
+          ]
+        },
+        "author_id": "2014694093792935940",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          }
+        ],
+        "conversation_id": "2071931925108056103",
+        "created_at": "2026-06-30T12:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071931925108056103"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 89,
+              "tag": "メン地下"
+            },
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "アイドル"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6a9JkpcaaW",
+              "end": 124,
+              "expanded_url": "https://x.com/amtr_info/status/2071931925108056103/video/1",
+              "media_key": "13_2071931869612867584",
+              "start": 101,
+              "url": "https://t.co/6a9JkpcaaW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071931925108056103",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 810,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "6月も応援ありがとうございました！\n梅雨時でしたが、沢山の思い出ができました！！\n\nそして、ヒロトの最終活動日でもあり、\n無事に卒業しました🪭🤍\n\nヒロト、卒業おめでとう！！\n\n#メン地下\n#アイドル https://t.co/6a9JkpcaaW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 1867,
+          "like_count": 83876,
+          "listed_count": 3,
+          "media_count": 334,
+          "tweet_count": 8771
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-23T13:38:22.000Z",
+        "description": "NEW IDOL GROUP🌇2月デビュー",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freecalend.com/open/mem295030",
+                "end": 23,
+                "expanded_url": "http://freecalend.com/open/mem295030",
+                "start": 0,
+                "url": "https://t.co/EdGlievSWS"
+              }
+            ]
+          }
+        },
+        "id": "2014694093792935940",
+        "location": "スケジュールはこちら⬇️",
+        "name": "天照皇",
+        "pinned_tweet_id": "2071940210334773400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015778746905862144/CM8vFpd4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 10,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 78
+        },
+        "url": "https://t.co/EdGlievSWS",
+        "username": "amtr_info",
+        "verified": false
+      }
+    ]
+  }
+}

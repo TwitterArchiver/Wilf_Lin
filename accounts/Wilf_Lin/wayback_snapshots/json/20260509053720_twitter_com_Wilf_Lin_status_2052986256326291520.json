@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2052689788621521189",
+    "created_at": "2026-05-09T05:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052986256326291520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1890029305205608448",
+          "start": 0,
+          "username": "wsl8297"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052986256326291520",
+    "in_reply_to_user_id": "1890029305205608448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052689788621521189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsl8297 Hyprland也支持scoring layout的，很早以前这是插件功能，现在是内置的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 120000,
+        "height": 540,
+        "media_key": "13_2052689736591097856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052689736591097856/img/wTcVW9Qhps2wndTx.jpg",
+        "public_metrics": {
+          "view_count": 11283
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052689736591097856/vid/avc1/480x270/Vbt5ZCKIJELQ_aNJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052689736591097856/vid/avc1/640x360/8KL8imYizAnfb9Vg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052689736591097856/vid/avc1/960x540/_ZG1b751IyhRxNov.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052689736591097856/pl/J8rt9HLsdB0f-goA.m3u8?tag=14"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2052689788621521189",
+        "created_at": "2026-05-09T05:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052986256326291520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1890029305205608448",
+              "start": 0,
+              "username": "wsl8297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052986256326291520",
+        "in_reply_to_user_id": "1890029305205608448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052689788621521189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsl8297 Hyprland也支持scoring layout的，很早以前这是插件功能，现在是内置的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052689736591097856"
+          ]
+        },
+        "author_id": "1890029305205608448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2052689788621521189",
+        "created_at": "2026-05-08T09:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052689788621521189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7dQHmqxFyY",
+              "end": 175,
+              "expanded_url": "https://x.com/wsl8297/status/2052689788621521189/video/1",
+              "media_key": "13_2052689736591097856",
+              "start": 152,
+              "url": "https://t.co/7dQHmqxFyY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052689788621521189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/YaLTeR/niri",
+                "end": 183,
+                "expanded_url": "http://github.com/YaLTeR/niri",
+                "start": 160,
+                "url": "https://t.co/CqO9t9DUry"
+              }
+            ]
+          },
+          "text": "逛 GitHub 时挖到一个狠角色：niri。它直接绕开传统桌面“窗口一多就被挤变形”的老毛病，把窗口管理方式彻底重做了一遍。\n\nniri 采用可滚动的平铺思路：窗口按列铺在一条“无限延伸”的水平条带上。你开新窗口，不会强行压缩现有窗口；多显示器下，每个屏幕也都有各自独立的工作区和窗口条带，干净利落。\n\nGitHub：https://t.co/CqO9t9DUry\n\n主要功能：\n- 可滚动平铺布局：窗口按列排列在无限水平条带上\n- 动态工作区：带来类似 GNOME 的垂直工作区体验\n- 多显示器独立：每个显示器各自一套窗口条带与工作区\n- 内置截图与录屏：开箱即用的捕捉工具\n- 触摸板/鼠标手势：切换与操作更顺手\n- 窗口标签页分组：把相关应用收拢到一起更好管\n- 渐变边框与动画：支持自定义着色器，颜值和手感都到位\n\nREADME 里有完整的安装与配置说明；实际使用通常会搭配 waybar、fuzzel 等工具一起上手。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 195,
+          "impression_count": 22817,
+          "like_count": 143,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "逛 GitHub 时挖到一个狠角色：niri。它直接绕开传统桌面“窗口一多就被挤变形”的老毛病，把窗口管理方式彻底重做了一遍。\n\nniri 采用可滚动的平铺思路：窗口按列铺在一条“无限延伸”的水平条带上。你开新窗口，不会强行压缩现有窗口；多显示器下，每个屏幕也都有各自独立的工作区和窗口条带，干净利落。 https://t.co/7dQHmqxFyY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 1801,
+          "like_count": 57651,
+          "listed_count": 4,
+          "media_count": 274,
+          "tweet_count": 8130
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-13T13:24:51.000Z",
+        "description": "🧠 AI 程序员，写提示词比写代码还多\n💻 坚持分享高质量、有趣、实用的教程、AI工具\n💃 梦想是成为一名秧歌 STAR",
+        "id": "1890029305205608448",
+        "name": "Joruno",
+        "pinned_tweet_id": "2039967052887425481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890029372645720064/E4FVs5WU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12261,
+          "following_count": 506,
+          "like_count": 10176,
+          "listed_count": 77,
+          "media_count": 538,
+          "tweet_count": 10166
+        },
+        "username": "wsl8297",
+        "verified": true
+      }
+    ]
+  }
+}

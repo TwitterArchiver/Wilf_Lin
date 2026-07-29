@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2052734420122275878",
+    "created_at": "2026-05-08T21:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T22:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052856710553891194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "6782882",
+          "start": 0,
+          "username": "oran_ge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052856710553891194",
+    "in_reply_to_user_id": "6782882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052734420122275878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oran_ge 这应该只算是资本重组，而不是工程上的失败"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2052734420122275878",
+        "created_at": "2026-05-08T21:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T22:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052856710553891194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "6782882",
+              "start": 0,
+              "username": "oran_ge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052856710553891194",
+        "in_reply_to_user_id": "6782882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052734420122275878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oran_ge 这应该只算是资本重组，而不是工程上的失败"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "6782882",
+        "conversation_id": "2052734420122275878",
+        "created_at": "2026-05-08T12:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052734420122275878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052734420122275878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 22548,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点意外马斯克在 xAI 上的第一次尝试竟然失败了\n小扎也是失败了一次\n过去成功的方法论在大模型领域似乎无法复用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 1798,
+          "like_count": 57175,
+          "listed_count": 4,
+          "media_count": 271,
+          "tweet_count": 8071
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2007-06-13T05:03:33.000Z",
+        "description": "we are already living in science fiction. building the os for it",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "colaos.ai",
+                "end": 23,
+                "expanded_url": "https://colaos.ai/",
+                "start": 0,
+                "url": "https://t.co/SMiBlmG0PV"
+              }
+            ]
+          }
+        },
+        "id": "6782882",
+        "location": "Mars",
+        "name": "Orange AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760074488073629696/ceSsuVCY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171275,
+          "following_count": 623,
+          "like_count": 2378,
+          "listed_count": 2464,
+          "media_count": 6333,
+          "tweet_count": 135971
+        },
+        "url": "https://t.co/SMiBlmG0PV",
+        "username": "oran_ge",
+        "verified": true
+      }
+    ]
+  }
+}

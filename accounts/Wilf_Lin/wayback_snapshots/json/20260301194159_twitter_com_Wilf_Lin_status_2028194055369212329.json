@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2027991582188941491",
+    "created_at": "2026-03-01T19:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T20:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028194055369212329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "8512802",
+          "start": 0,
+          "username": "jeff_liz"
+        },
+        {
+          "end": 23,
+          "id": "432822945",
+          "start": 10,
+          "username": "LuckyJoe198x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028194055369212329",
+    "in_reply_to_user_id": "8512802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028060777652056408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jeff_liz @LuckyJoe198x 用adb pair就行了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2027991582188941491",
+        "created_at": "2026-03-01T19:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T20:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028194055369212329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "8512802",
+              "start": 0,
+              "username": "jeff_liz"
+            },
+            {
+              "end": 23,
+              "id": "432822945",
+              "start": 10,
+              "username": "LuckyJoe198x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028194055369212329",
+        "in_reply_to_user_id": "8512802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028060777652056408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jeff_liz @LuckyJoe198x 用adb pair就行了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "8512802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2027991582188941491",
+        "created_at": "2026-03-01T10:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T11:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028060777652056408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "432822945",
+              "start": 0,
+              "username": "LuckyJoe198x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028060777652056408",
+        "in_reply_to_user_id": "432822945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1441,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027991582188941491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuckyJoe198x 不太稳定。\n另外如果需要重启机器的话，adb wifi是自动关闭的。如果想自动启动，还要root。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 676,
+          "like_count": 10960,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 5012
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2007-08-29T15:11:09.000Z",
+        "description": "Simple and Steady",
+        "id": "8512802",
+        "location": "ÜT: 36.152216,-97.083846",
+        "name": "Li Zhen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793915406371233792/luhHmI6j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 556,
+          "like_count": 3279,
+          "listed_count": 6,
+          "media_count": 301,
+          "tweet_count": 3711
+        },
+        "username": "jeff_liz",
+        "verified": true
+      },
+      {
+        "created_at": "2011-12-09T20:37:47.000Z",
+        "description": "Digital Nomad.Keyboard Warriors .臭阿宅 强硬理性派 Lifelong learner 不上网就会死  比特币脑残粉 放荡不羁爱自由 王小波门下走狗 OCD患者 80后空巢老人 精神芬兰人 现实中社恐 网络里社牛  长期主义者 日拱一卒 功不唐捐    这里是我的胡言乱语",
+        "id": "432822945",
+        "location": "墙国",
+        "name": "Joe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1163323677473038336/tMbXMuJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6580,
+          "following_count": 2279,
+          "like_count": 1670,
+          "listed_count": 61,
+          "media_count": 132,
+          "tweet_count": 6418
+        },
+        "username": "LuckyJoe198x",
+        "verified": false
+      }
+    ]
+  }
+}

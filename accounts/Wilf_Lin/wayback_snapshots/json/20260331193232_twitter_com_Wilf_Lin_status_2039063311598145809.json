@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      }
+    ],
+    "conversation_id": "2039063311598145809",
+    "created_at": "2026-03-31T19:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T20:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039063311598145809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chenchengpro/s…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/chenchengpro/status/2038997779834405218",
+          "start": 25,
+          "url": "https://t.co/NOvtr57ZQE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039063311598145809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038997779834405218",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他们应该用codex开发claude code。 https://t.co/NOvtr57ZQE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2039063311598145809",
+        "created_at": "2026-03-31T19:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T20:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039063311598145809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chenchengpro/s…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/chenchengpro/status/2038997779834405218",
+              "start": 25,
+              "url": "https://t.co/NOvtr57ZQE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039063311598145809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038997779834405218",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他们应该用codex开发claude code。 https://t.co/NOvtr57ZQE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "15205852",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2038997779834405218",
+        "created_at": "2026-03-31T15:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038997779834405218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rohan_2502/sta…",
+              "end": 217,
+              "expanded_url": "https://twitter.com/rohan_2502/status/2038927786228998194",
+              "start": 194,
+              "url": "https://t.co/LA3HXIUcPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038997779834405218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Claude Code 源码今天泄露了。有人花了几小时读完 2203 个文件、30MB TypeScript，找出了这 7 个让人停下来说\"等等，真的吗\"的地方：\n\n① 主界面是一个 5005 行的 React 组件\n68 个 useState、43 个 useEffect、22 层 JSX 嵌套。代码里有 `eslint-disable` + `// TODO: fix this` 并排出现，团队知道，但没动。\n\n② 89 个 Feature Flag，960 处引用\nKAIROS、KAIROS_BRIEF、KAIROS_CHANNELS、KAIROS_DREAM……这不是灰度发布，是在同一个代码库里用条件分支搭了整个平行产品线。另有 472 个环境变量，1425 处调用。\n\n③ 61 个文件在注释里承认有循环依赖\n不是隐瞒，是用注释记录绕法。整个 `types/permissions.ts` 文件存在的唯一理由，是打破循环导入。\n\n④ 一个类型名出现了 1193 次\n`AnalyticsMetadata_I_VERIFIED_THIS_IS_NOT_CODE_OR_FILEPATHS`\n初衷是防止把文件路径打进日志。但写了一千遍以后，它就不再是守护机制，只是一句没人读的咒语。\n\n⑤ 用 `String.fromCharCode` 拼出 \"duck\"\n宠物系统的 18 种动物名全用十六进制编码，因为其中一个和内部模型代号撞了，CI 会 grep 构建产物。解法不是加一行正则例外，而是把所有动物都编码了一遍。\n\n⑥ 入口文件 `main.tsx`：4683 行\nOAuth 登录、会话恢复、插件加载、MDM 配置……全塞在一起。理由是 Bun 的 eager import 导致启动延迟，全放一个文件能省 135ms。用户体验换了可读性。\n\n⑦ 大量条件式 `require()` + `as typeof import(...)`\nFeature flag 的编译时消除逼着代码在 ES 模块里用 `require()`，再手动贴类型断言找回类型信息。模块导出形状改了，编译器不会报错，只会在运行时爆。\n\n---\n\n作者说：这不是批评，每个代码库都有债。Claude Code 能跑，每天有大量开发者依赖它，这比架构整洁更重要。但值得诚实面对代价。\n\n下一篇他会写 Claude Code 做得好的地方：查询循环、工具并发系统、权限分类器。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 16365,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038927786228998194",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Claude Code 源码今天泄露了。有人花了几小时读完 2203 个文件、30MB TypeScript，找出了这 7 个让人停下来说\"等等，真的吗\"的地方：\n\n① 主界面是一个 5005 行的 React 组件\n68 个 useState、43 个 useEffect、22 层 JSX 嵌套。代码里有 `eslint-disable` + `// TODO: fix this` https://t.co/LA3HXIUcPr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 1096,
+          "like_count": 25997,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 6195
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2008-06-23T11:04:09.000Z",
+        "description": "engineering @antgroup, created umijs, dvajs, mako and neovate code",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "antgroup"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sorrycc.com",
+                "end": 23,
+                "expanded_url": "https://sorrycc.com",
+                "start": 0,
+                "url": "https://t.co/cJxzvkNPFT"
+              }
+            ]
+          }
+        },
+        "id": "15205852",
+        "location": "浙江, 中华人民共和国",
+        "name": "陈成",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988508365274968065/t6BOO_uc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8916,
+          "following_count": 670,
+          "like_count": 6445,
+          "listed_count": 130,
+          "media_count": 68,
+          "tweet_count": 1500
+        },
+        "url": "https://t.co/cJxzvkNPFT",
+        "username": "chenchengpro",
+        "verified": true
+      }
+    ]
+  }
+}

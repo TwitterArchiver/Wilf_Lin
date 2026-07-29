@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2044662244986798295",
+    "created_at": "2026-04-16T06:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T07:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044662244986798295"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8co28/status/2…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/8co28/status/2044600273474363735",
+          "start": 5,
+          "url": "https://t.co/NggEiM0l6z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044662244986798295",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044600273474363735",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "梦，好诶 https://t.co/NggEiM0l6z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35480,
+        "height": 1080,
+        "media_key": "13_2044599828815261696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044599828815261696/img/SF4hke3XhmTzClsB.jpg",
+        "public_metrics": {
+          "view_count": 21585
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044599828815261696/vid/avc1/640x360/DmZBy9_knUyADYrH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044599828815261696/pl/iKh9SnxDqW8Dbxao.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044599828815261696/vid/avc1/480x270/uzmp50cfxZxlO2y4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044599828815261696/vid/avc1/1280x720/4MRD7ESiC2SlD13y.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044599828815261696/vid/avc1/1920x1080/sXtm1-zXyY6soh46.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2044662244986798295",
+        "created_at": "2026-04-16T06:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044662244986798295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8co28/status/2…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/8co28/status/2044600273474363735",
+              "start": 5,
+              "url": "https://t.co/NggEiM0l6z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044662244986798295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044600273474363735",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "梦，好诶 https://t.co/NggEiM0l6z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044599828815261696"
+          ]
+        },
+        "author_id": "1370299304707989512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2044600273474363735",
+        "created_at": "2026-04-16T02:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044600273474363735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/brC0O5QyoW",
+              "end": 53,
+              "expanded_url": "https://x.com/8co28/status/2044600273474363735/video/1",
+              "media_key": "13_2044599828815261696",
+              "start": 30,
+              "url": "https://t.co/brC0O5QyoW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044600273474363735",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 423,
+          "impression_count": 54721,
+          "like_count": 2820,
+          "quote_count": 16,
+          "reply_count": 8,
+          "retweet_count": 370
+        },
+        "reply_settings": "everyone",
+        "text": "夢の中で初音ミクが現実に存在している姿を見た。\n夢だった。 https://t.co/brC0O5QyoW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神可能有问题 https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 85,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 62,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 1507,
+          "like_count": 36952,
+          "listed_count": 3,
+          "media_count": 187,
+          "tweet_count": 6842
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-12T09:03:18.000Z",
+        "description": "hakoniwa is the Executive Director of And Idea Co., Ltd. @AndIdea_jp For work requests, please contact info@andidea.jp. お仕事のご依頼はメールへどうぞ。AIをツールとして活用しています。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "AndIdea_jp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/8528",
+                "end": 23,
+                "expanded_url": "http://lit.link/8528",
+                "start": 0,
+                "url": "https://t.co/upytk33INI"
+              }
+            ]
+          }
+        },
+        "id": "1370299304707989512",
+        "location": "Tokyo, Japan / 大切な家族最優先",
+        "name": "852話(hakoniwa)",
+        "pinned_tweet_id": "2042584439340044327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1499865775246815232/jRximB_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427060,
+          "following_count": 213,
+          "like_count": 5840,
+          "listed_count": 2885,
+          "media_count": 6507,
+          "tweet_count": 11975
+        },
+        "url": "https://t.co/upytk33INI",
+        "username": "8co28",
+        "verified": true
+      }
+    ]
+  }
+}

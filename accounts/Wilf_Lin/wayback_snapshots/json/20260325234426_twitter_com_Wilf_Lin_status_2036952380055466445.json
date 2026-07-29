@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2036517118779277671",
+    "created_at": "2026-03-25T23:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T00:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036952380055466445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "74654393",
+          "start": 0,
+          "username": "youshenlim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036952380055466445",
+    "in_reply_to_user_id": "74654393",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036517118779277671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youshenlim holy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2036517118779277671",
+        "created_at": "2026-03-25T23:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T00:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036952380055466445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "74654393",
+              "start": 0,
+              "username": "youshenlim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036952380055466445",
+        "in_reply_to_user_id": "74654393",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036517118779277671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youshenlim holy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "74654393",
+        "conversation_id": "2036517118779277671",
+        "created_at": "2026-03-24T18:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T19:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036517118779277671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Latent diffusion models (LDMs) enable high-fidelity synthesis by operating in learned latent spaces. However, training state-of-the-art LDMs requires complex staging: a tokenizer must be trained...",
+              "display_url": "arxiv.org/abs/2603.22283",
+              "end": 251,
+              "expanded_url": "https://arxiv.org/abs/2603.22283",
+              "images": [
+                {
+                  "height": 1000,
+                  "url": "https://pbs.twimg.com/news_img/2036306801331724288/pz6fCOHF?format=jpg&name=orig",
+                  "width": 1000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2036306801331724288/pz6fCOHF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 228,
+              "status": 200,
+              "title": "End-to-End Training for Unified Tokenization and Latent Denoising",
+              "unwound_url": "https://arxiv.org/abs/2603.22283",
+              "url": "https://t.co/IxMaqJ22qd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036517118779277671",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 10998,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "The two-stage training bottleneck in latent diffusion is solved. UNITE unifies tokenization and generation into single-stage end-to-end training, achieving FID 2.12 on ImageNet without adversarial losses or pretrained encoders. https://t.co/IxMaqJ22qd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 921,
+          "like_count": 20849,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 5926
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2009-09-16T04:45:15.000Z",
+        "description": "Fueled by entrepreneurial fuel + Cornell Johnson MBA + Cornell AI Network + Ex-Venture Capital, Ex-Amazon Web Services (AWS), Ex-PropertyGuru & Ex-LinkedIn",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "thecoreai.substack.com",
+                "end": 23,
+                "expanded_url": "http://thecoreai.substack.com",
+                "start": 0,
+                "url": "https://t.co/GdSlO1JutT"
+              }
+            ]
+          }
+        },
+        "id": "74654393",
+        "location": "United States",
+        "name": "Aaron (Youshen) Lim",
+        "pinned_tweet_id": "2033382443290378742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1518210857624244227/aMkrVRun_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 117,
+          "like_count": 348,
+          "listed_count": 14,
+          "media_count": 55,
+          "tweet_count": 10195
+        },
+        "url": "https://t.co/GdSlO1JutT",
+        "username": "youshenlim",
+        "verified": false
+      }
+    ]
+  }
+}

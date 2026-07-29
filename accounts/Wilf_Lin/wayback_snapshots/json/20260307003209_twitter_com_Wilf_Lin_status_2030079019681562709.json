@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2029867666069233958",
+    "created_at": "2026-03-07T00:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T01:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030079019681562709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "750713",
+          "start": 0,
+          "username": "horsezhanbin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030079019681562709",
+    "in_reply_to_user_id": "750713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029867666069233958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@horsezhanbin UI设计和svg生成很好用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2029867666069233958",
+        "created_at": "2026-03-07T00:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T01:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030079019681562709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "750713",
+              "start": 0,
+              "username": "horsezhanbin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030079019681562709",
+        "in_reply_to_user_id": "750713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029867666069233958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@horsezhanbin UI设计和svg生成很好用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "750713",
+        "conversation_id": "2029867666069233958",
+        "created_at": "2026-03-06T10:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T11:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029867666069233958"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029867666069233958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2758,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "X 上似乎没有什么吹 Gemini Cli ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 719,
+          "like_count": 12808,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 5193
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2007-02-03T07:25:33.000Z",
+        "description": "【每个人都走在为自身怯弱辩护的路上。一些人已经完成异化，一些人还是半成品。】（线上：自言自语/少回评论/不处理私信）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "horse.im",
+                "end": 23,
+                "expanded_url": "https://horse.im",
+                "start": 0,
+                "url": "https://t.co/6zccqBSCSa"
+              }
+            ]
+          }
+        },
+        "id": "750713",
+        "location": "Tokyo-to, Japan",
+        "name": "horse",
+        "pinned_tweet_id": "2027619968985227626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1499426930050801688/AIJjw09j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22096,
+          "following_count": 1254,
+          "like_count": 19862,
+          "listed_count": 244,
+          "media_count": 3727,
+          "tweet_count": 63677
+        },
+        "url": "https://t.co/6zccqBSCSa",
+        "username": "horsezhanbin",
+        "verified": false
+      }
+    ]
+  }
+}

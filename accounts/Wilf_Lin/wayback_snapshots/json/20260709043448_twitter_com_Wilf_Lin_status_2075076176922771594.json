@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1942738198360211456",
+          "name": "Grok 4"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2075076176922771594",
+    "created_at": "2026-07-09T04:34:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T05:34:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075076176922771594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kunchenguid/st…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/kunchenguid/status/2075040067257868788",
+          "start": 23,
+          "url": "https://t.co/hG8lnqAUDc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075076176922771594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075040067257868788",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看起来我又多了一个我本没打算可用的agent https://t.co/hG8lnqAUDc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1942738198360211456",
+              "name": "Grok 4"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2075076176922771594",
+        "created_at": "2026-07-09T04:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075076176922771594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kunchenguid/st…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/kunchenguid/status/2075040067257868788",
+              "start": 23,
+              "url": "https://t.co/hG8lnqAUDc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075076176922771594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075040067257868788",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看起来我又多了一个我本没打算可用的agent https://t.co/hG8lnqAUDc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433268230819176451",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1942738198360211456",
+              "name": "Grok 4"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2075040067257868788",
+        "created_at": "2026-07-09T02:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T03:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075040067257868788"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075040067257868788",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "grok 4.5 made me give grok build a serious run today\n\nhere's my honest first impression (non affiliated neutral view point):\n\n1. grok build is a very good harness\n\nfirstmate stretches harness capabilities to their limits, and i've been testing it with claude code, codex, opencode, pi and grok build\n\nso far, grok build and claude code are the only two harnesses that can automatically wake up when the background polling process finishes\n\ncodex hard fails on this kind of background polling task, with no escape hatch. opencode and pi can both do it with custom plugins, but not out of the box\n\ngrok build also feels really clean, smooth, and transparent. you can see what background tasks are running, what hooks got triggered at what step, context window, token usage etc all out of the box and somehow the UI does not feel cluttered at all\n\n2. grok 4.5 is a very good model\n\ni've been using opus 4.8 as my primary firstmate, and today i did a full switch to grok 4.5. so far i don't think anything degraded, while token throughput is a lot faster, although time-to-first-byte for each response seems long - i wonder if prompt caching is done properly or no\n\n3. the quota that comes with X premium is quite generous, and there's no session level limit\n\nso overall i'm quite pleased by this and plan to switch a lot of my tasks to grok. the landscape just got a lot more interesting..."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 15037,
+          "like_count": 194,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "grok 4.5 made me give grok build a serious run today\n\nhere's my honest first impression (non affiliated neutral view point):\n\n1. grok build is a very good harness\n\nfirstmate stretches harness capabilities to their limits, and i've been testing it with claude code, codex,"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 1898,
+          "like_count": 86871,
+          "listed_count": 3,
+          "media_count": 346,
+          "tweet_count": 8865
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-02T03:19:30.000Z",
+        "description": "Member of the Technical Community. Prev L8 eng at Meta, Microsoft, Atlassian.\nhttps://t.co/rxk2joB5Ix\n@myfirstmate",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 102,
+                "username": "myfirstmate"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "axi.md",
+                "end": 101,
+                "expanded_url": "https://axi.md",
+                "start": 78,
+                "url": "https://t.co/rxk2joB5Ix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kunchenguid",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kunchenguid",
+                "start": 0,
+                "url": "https://t.co/dBCX90Xlp3"
+              }
+            ]
+          }
+        },
+        "id": "1433268230819176451",
+        "location": "Bellevue, WA",
+        "name": "Kun Chen",
+        "pinned_tweet_id": "2068367773533667565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14851,
+          "following_count": 160,
+          "like_count": 2009,
+          "listed_count": 143,
+          "media_count": 165,
+          "tweet_count": 2557
+        },
+        "url": "https://t.co/dBCX90Xlp3",
+        "username": "kunchenguid",
+        "verified": true
+      }
+    ]
+  }
+}

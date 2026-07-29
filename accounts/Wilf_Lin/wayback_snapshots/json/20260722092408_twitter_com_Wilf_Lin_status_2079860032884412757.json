@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2079860032884412757",
+    "created_at": "2026-07-22T09:24:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T10:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079860032884412757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jason_Young123…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/Jason_Young1231/status/2079826847160783262",
+          "start": 60,
+          "url": "https://t.co/3DdIYqjZmH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079860032884412757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079826847160783262",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "PR就像：这里有一只免费的小狗\n\n不过我还是很感谢那些给我PR而不是issue的人，反正给我issue也是codex写 https://t.co/3DdIYqjZmH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2079860032884412757",
+        "created_at": "2026-07-22T09:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079860032884412757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jason_Young123…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/Jason_Young1231/status/2079826847160783262",
+              "start": 60,
+              "url": "https://t.co/3DdIYqjZmH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079860032884412757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079826847160783262",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "PR就像：这里有一只免费的小狗\n\n不过我还是很感谢那些给我PR而不是issue的人，反正给我issue也是codex写 https://t.co/3DdIYqjZmH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "936609800598597633",
+        "conversation_id": "2079826847160783262",
+        "created_at": "2026-07-22T07:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079826847160783262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cyandev/status…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/cyandev/status/2079797580045889575",
+              "start": 162,
+              "url": "https://t.co/hZUXU39Xr6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079826847160783262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得这是目前 AI 时代还没有一个很好的解法的一个问题，CC Switch 选择以 MIT 协议开源，一方面是因为这是一个涉及到 API key 的软件，开源才能赢得用户的信任；另一方面是希望如果用户有自己很 niche 的需求，可以定制化自己的版本。\n\nCC Switch 这个项目本身可以说就是建立在开源的基础上，从 issue 中统计 bug 制定开发方向，有很多很关键的功能也都是由 PR 贡献。但是项目到一定规模之后，即使在高强度 AI 协助下，issue 和 PR 的量级也已经远超预期，到了已经不可能每一个都详细处理的程度。AI 降低了提 PR 的门槛，却没有降低 review 和长期维护的成本，尤其一些关键的 PR，稍有不慎就有可能需要花很大的成本去修复，比如3.18版本修复的 codex 天量统计问题。再比如增加一个支持的应用，贡献者可能只需要提交几千行代码的一个 PR，但是后续的维护是一个长期的问题。还有一些新人上来就喜欢写一些比较大的功能，可能修复了几十轮都无法合并，让作者和审查者都非常心累。\n\n如果是开源新人的话，我建议可以先从文档（这个其实很受欢迎）、小型的修复或者小型的功能开始做起，如果长时间没有后续的话，可以 ping 一下作者，证明自己不是 AI😂"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4743,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079797580045889575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得这是目前 AI 时代还没有一个很好的解法的一个问题，CC Switch 选择以 MIT 协议开源，一方面是因为这是一个涉及到 API key 的软件，开源才能赢得用户的信任；另一方面是希望如果用户有自己很 niche 的需求，可以定制化自己的版本。\n\nCC Switch 这个项目本身可以说就是建立在开源的基础上，从 https://t.co/hZUXU39Xr6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 1963,
+          "like_count": 91327,
+          "listed_count": 3,
+          "media_count": 391,
+          "tweet_count": 9090
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-01T14:55:52.000Z",
+        "description": "Building CC Switch(120K🌟)— open-source tooling for AI coding workflows across Claude Code, Codex, GrokBuild, OpenClaw, Hermes and more: https://t.co/gpx1V4w3UM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ccswitch.io",
+                "end": 159,
+                "expanded_url": "https://www.ccswitch.io",
+                "start": 136,
+                "url": "https://t.co/gpx1V4w3UM"
+              }
+            ]
+          }
+        },
+        "id": "936609800598597633",
+        "name": "Jason Young",
+        "pinned_tweet_id": "2050969805721874786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604123462792249344/9cNRBhXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18629,
+          "following_count": 682,
+          "like_count": 29180,
+          "listed_count": 157,
+          "media_count": 534,
+          "tweet_count": 8974
+        },
+        "url": "",
+        "username": "Jason_Young1231",
+        "verified": true
+      }
+    ]
+  }
+}

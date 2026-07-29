@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2080231054825443404",
+    "created_at": "2026-07-23T09:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080231054825443404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1656894144617545728",
+          "start": 3,
+          "username": "kiveri_"
+        },
+        {
+          "end": 21,
+          "id": "1398530874400935937",
+          "start": 13,
+          "username": "akazwz_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080231054825443404",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079618815269421313",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiveri_: @akazwz_ 感觉额度又被暗削了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2080231054825443404",
+        "created_at": "2026-07-23T09:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080231054825443404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1656894144617545728",
+              "start": 3,
+              "username": "kiveri_"
+            },
+            {
+              "end": 21,
+              "id": "1398530874400935937",
+              "start": 13,
+              "username": "akazwz_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080231054825443404",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079618815269421313",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiveri_: @akazwz_ 感觉额度又被暗削了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656894144617545728",
+        "conversation_id": "2079614388609421407",
+        "created_at": "2026-07-21T17:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079618815269421313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1398530874400935937",
+              "start": 0,
+              "username": "akazwz_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079618815269421313",
+        "in_reply_to_user_id": "1398530874400935937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079614388609421407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akazwz_ 感觉额度又被暗削了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 1961,
+          "like_count": 91619,
+          "listed_count": 3,
+          "media_count": 392,
+          "tweet_count": 9108
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-12T05:29:01.000Z",
+        "description": "独立开发者",
+        "id": "1656894144617545728",
+        "name": "kiveri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707370433220325376/ydfOJN5A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 653,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 919
+        },
+        "url": "",
+        "username": "kiveri_",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-29T06:45:30.000Z",
+        "description": "个人观点",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/akazwz",
+                "end": 23,
+                "expanded_url": "https://github.com/akazwz",
+                "start": 0,
+                "url": "https://t.co/TV6tKuNYBA"
+              }
+            ]
+          }
+        },
+        "id": "1398530874400935937",
+        "name": "akazwz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048289331509624832/eXseLqig_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6114,
+          "following_count": 901,
+          "like_count": 92457,
+          "listed_count": 62,
+          "media_count": 1270,
+          "tweet_count": 11890
+        },
+        "url": "https://t.co/TV6tKuNYBA",
+        "username": "akazwz_",
+        "verified": true
+      }
+    ]
+  }
+}

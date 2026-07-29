@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2031514290646299047",
+    "created_at": "2026-03-11T20:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T21:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031837551036604417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1302118861995536387",
+          "start": 0,
+          "username": "Jiaxi_Cui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031837551036604417",
+    "in_reply_to_user_id": "1302118861995536387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031514290646299047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiaxi_Cui 有的人都开始typeless了，还手打代码呢（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2031514290646299047",
+        "created_at": "2026-03-11T20:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T21:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031837551036604417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1302118861995536387",
+              "start": 0,
+              "username": "Jiaxi_Cui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031837551036604417",
+        "in_reply_to_user_id": "1302118861995536387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031514290646299047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiaxi_Cui 有的人都开始typeless了，还手打代码呢（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1302118861995536387",
+        "conversation_id": "2031514290646299047",
+        "created_at": "2026-03-10T23:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T00:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031514290646299047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031514290646299047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11370,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在甚至觉得手打“ git checkout main &amp;&amp; git pull”都是非常费劲的事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 758,
+          "like_count": 14493,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 5352
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-05T05:38:34.000Z",
+        "description": "Building https://t.co/HJNWPWVGSs in public | \nVideo retrieval, indexing & embeddings for AI agents API | \nPKU Dropout",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Cerul.ai",
+                "end": 32,
+                "expanded_url": "http://Cerul.ai",
+                "start": 9,
+                "url": "https://t.co/HJNWPWVGSs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cerul.ai",
+                "end": 23,
+                "expanded_url": "https://cerul.ai",
+                "start": 0,
+                "url": "https://t.co/UIZjPHhc8D"
+              }
+            ]
+          }
+        },
+        "id": "1302118861995536387",
+        "location": "BeiJing",
+        "name": "Panda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677124881144770560/W6zZ-Zux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18920,
+          "following_count": 916,
+          "like_count": 3085,
+          "listed_count": 189,
+          "media_count": 518,
+          "tweet_count": 3075
+        },
+        "url": "https://t.co/UIZjPHhc8D",
+        "username": "Jiaxi_Cui",
+        "verified": true
+      }
+    ]
+  }
+}

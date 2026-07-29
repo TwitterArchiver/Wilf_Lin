@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2028973870456410377",
+    "created_at": "2026-03-04T07:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T08:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029093592728256661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1243930550529818625",
+          "start": 0,
+          "username": "NovusZhenyi"
+        },
+        {
+          "end": 27,
+          "id": "1153412646575546368",
+          "start": 13,
+          "username": "hankinbeijing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029093592728256661",
+    "in_reply_to_user_id": "1243930550529818625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029001838293319760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NovusZhenyi @hankinbeijing 首先你用的是bf16或者FP8的吗，参数按照推荐设置了吗（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2028973870456410377",
+        "created_at": "2026-03-04T07:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T08:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029093592728256661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1243930550529818625",
+              "start": 0,
+              "username": "NovusZhenyi"
+            },
+            {
+              "end": 27,
+              "id": "1153412646575546368",
+              "start": 13,
+              "username": "hankinbeijing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029093592728256661",
+        "in_reply_to_user_id": "1243930550529818625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029001838293319760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NovusZhenyi @hankinbeijing 首先你用的是bf16或者FP8的吗，参数按照推荐设置了吗（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243930550529818625",
+        "conversation_id": "2028973870456410377",
+        "created_at": "2026-03-04T01:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T02:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029001838293319760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1153412646575546368",
+              "start": 0,
+              "username": "hankinbeijing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029001838293319760",
+        "in_reply_to_user_id": "1153412646575546368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 38186,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028973870456410377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hankinbeijing 一群二货都没有好好体验过QWEN 3.5，他们发的本地模型一个简单问题直接给我干笑了，根本就是不可用的东西。是，你是开发出了一个本地占用小的玩意，然后呢？用那玩意你还不如用用豆包，Deepseek的客户端。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 699,
+          "like_count": 11706,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 5069
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-28T15:59:11.000Z",
+        "description": "Observing",
+        "id": "1243930550529818625",
+        "location": "USA",
+        "name": "Zenith",
+        "pinned_tweet_id": "1347076521672941572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026176081154211840/QZLKacGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 583,
+          "like_count": 80656,
+          "listed_count": 7,
+          "media_count": 684,
+          "tweet_count": 44336
+        },
+        "username": "NovusZhenyi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-22T21:12:59.000Z",
+        "description": "由内而外\n管中窥豹\n只渡有缘人\n\nSneakpeek into Chinese Politics, within and beyond.",
+        "id": "1153412646575546368",
+        "location": "天堂的下面是你们的天堂",
+        "name": "HANK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689943432351961089/mtzbIidz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47893,
+          "following_count": 1157,
+          "like_count": 5152,
+          "listed_count": 441,
+          "media_count": 419,
+          "tweet_count": 5266
+        },
+        "username": "hankinbeijing",
+        "verified": false
+      }
+    ]
+  }
+}

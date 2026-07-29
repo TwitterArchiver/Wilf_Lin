@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      }
+    ],
+    "conversation_id": "2075023173926674783",
+    "created_at": "2026-07-09T01:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T02:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075023173926674783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "809233214",
+          "start": 3,
+          "username": "typescript"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Today we are proud to announce the availability of TypeScript 7, a 10x faster native port of TypeScript! Since its early days, TypeScript has promised to",
+          "display_url": "devblogs.microsoft.com/typescript/ann…",
+          "end": 106,
+          "expanded_url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+          "images": [
+            {
+              "height": 350,
+              "url": "https://pbs.twimg.com/news_img/2074885930351996928/Ajz4K1km?format=png&name=orig",
+              "width": 562
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2074885930351996928/Ajz4K1km?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 83,
+          "status": 200,
+          "title": "Announcing TypeScript 7.0 - TypeScript",
+          "unwound_url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+          "url": "https://t.co/D7Mbq7vWpy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075023173926674783",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1589
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074892178745327926",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @typescript: 📣 The moment is here. 📣\n\nTypeScript 7 is officially released! 7️⃣\n\nhttps://t.co/D7Mbq7vWpy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2075023173926674783",
+        "created_at": "2026-07-09T01:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075023173926674783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "809233214",
+              "start": 3,
+              "username": "typescript"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Today we are proud to announce the availability of TypeScript 7, a 10x faster native port of TypeScript! Since its early days, TypeScript has promised to",
+              "display_url": "devblogs.microsoft.com/typescript/ann…",
+              "end": 106,
+              "expanded_url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+              "images": [
+                {
+                  "height": 350,
+                  "url": "https://pbs.twimg.com/news_img/2074885930351996928/Ajz4K1km?format=png&name=orig",
+                  "width": 562
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074885930351996928/Ajz4K1km?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 83,
+              "status": 200,
+              "title": "Announcing TypeScript 7.0 - TypeScript",
+              "unwound_url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+              "url": "https://t.co/D7Mbq7vWpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075023173926674783",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1589
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074892178745327926",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @typescript: 📣 The moment is here. 📣\n\nTypeScript 7 is officially released! 7️⃣\n\nhttps://t.co/D7Mbq7vWpy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "809233214",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2074892178745327926",
+        "created_at": "2026-07-08T16:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074892178745327926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Today we are proud to announce the availability of TypeScript 7, a 10x faster native port of TypeScript! Since its early days, TypeScript has promised to",
+              "display_url": "devblogs.microsoft.com/typescript/ann…",
+              "end": 90,
+              "expanded_url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+              "images": [
+                {
+                  "height": 350,
+                  "url": "https://pbs.twimg.com/news_img/2074885930351996928/Ajz4K1km?format=png&name=orig",
+                  "width": 562
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074885930351996928/Ajz4K1km?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 67,
+              "status": 200,
+              "title": "Announcing TypeScript 7.0 - TypeScript",
+              "unwound_url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+              "url": "https://t.co/D7Mbq7vWpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074892178745327926",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1192,
+          "impression_count": 880317,
+          "like_count": 7249,
+          "quote_count": 297,
+          "reply_count": 119,
+          "retweet_count": 1589
+        },
+        "reply_settings": "everyone",
+        "text": "📣 The moment is here. 📣\n\nTypeScript 7 is officially released! 7️⃣\n\nhttps://t.co/D7Mbq7vWpy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 1897,
+          "like_count": 86715,
+          "listed_count": 3,
+          "media_count": 346,
+          "tweet_count": 8859
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2012-09-07T16:57:49.000Z",
+        "description": "TypeScript is a language for application-scale JavaScript development. It's a typed superset of JavaScript that compiles to plain JavaScript.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "typescriptlang.org",
+                "end": 23,
+                "expanded_url": "http://www.typescriptlang.org/",
+                "start": 0,
+                "url": "https://t.co/3egBqgPk14"
+              }
+            ]
+          }
+        },
+        "id": "809233214",
+        "location": "Redmond, WA",
+        "name": "TypeScript",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648471227416346625/v84A9gXA_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418468,
+          "following_count": 50,
+          "like_count": 115,
+          "listed_count": 3996,
+          "media_count": 50,
+          "tweet_count": 423
+        },
+        "url": "https://t.co/3egBqgPk14",
+        "username": "typescript",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,511 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2029252598851879265",
+    "created_at": "2026-03-05T00:15:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T01:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029350168219316604"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "Linux",
+          "probability": 0.975,
+          "start": 18,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "58865213",
+          "start": 0,
+          "username": "ajambrosino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029350168219316604",
+    "in_reply_to_user_id": "58865213",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029252598851879265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ajambrosino when Linux"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2092,
+        "media_key": "3_2029250876519714816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HClY67cbkAAe5xr.jpg",
+        "width": 2952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2029252598851879265",
+        "created_at": "2026-03-05T00:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T01:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029350168219316604"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Linux",
+              "probability": 0.975,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "58865213",
+              "start": 0,
+              "username": "ajambrosino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029350168219316604",
+        "in_reply_to_user_id": "58865213",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029252598851879265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ajambrosino when Linux"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029250876519714816"
+          ]
+        },
+        "author_id": "58865213",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2029252598851879265",
+        "created_at": "2026-03-04T17:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T18:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029252598851879265"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Codex",
+              "probability": 0.7553,
+              "start": 4,
+              "type": "Other"
+            },
+            {
+              "end": 35,
+              "normalized_text": "Windows",
+              "probability": 0.9658,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 75,
+              "normalized_text": "WSL",
+              "probability": 0.6881,
+              "start": 73,
+              "type": "Other"
+            },
+            {
+              "end": 117,
+              "normalized_text": "PowerShell",
+              "probability": 0.8536,
+              "start": 108,
+              "type": "Other"
+            },
+            {
+              "end": 126,
+              "normalized_text": "Command",
+              "probability": 0.5539,
+              "start": 120,
+              "type": "Other"
+            },
+            {
+              "end": 143,
+              "normalized_text": "Git Bash",
+              "probability": 0.761,
+              "start": 136,
+              "type": "Other"
+            },
+            {
+              "end": 151,
+              "normalized_text": "WSL",
+              "probability": 0.6105,
+              "start": 149,
+              "type": "Other"
+            },
+            {
+              "end": 185,
+              "normalized_text": "Windows",
+              "probability": 0.7489,
+              "start": 179,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t7tQRvf3ft",
+              "end": 297,
+              "expanded_url": "https://x.com/ajambrosino/status/2029252598851879265/photo/1",
+              "media_key": "3_2029250876519714816",
+              "start": 274,
+              "url": "https://t.co/t7tQRvf3ft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029252598851879265",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "ASP.NET",
+                "end": 446,
+                "expanded_url": "http://ASP.NET",
+                "start": 423,
+                "url": "https://t.co/r7nDJ6PFcc"
+              }
+            ]
+          },
+          "text": "The Codex app is now live on Windows.\n\nThe app runs both natively and in WSL, with integrated terminals for PowerShell, Command Prompt, Git Bash, or WSL.\n\nWe also built the first Windows-native agent sandbox — using OS-level controls to block filesystem writes outside your working folder and prevent outbound network access unless you explicitly approve it.\n\nPlus: 7 new “Open in …” apps and 2 new Windows skills (WinUI + https://t.co/r7nDJ6PFcc).\n\nTry it and tell us what you think."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 102984,
+          "like_count": 954,
+          "quote_count": 32,
+          "reply_count": 71,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "The Codex app is now live on Windows.\n\nThe app runs both natively and in WSL, with integrated terminals for PowerShell, Command Prompt, Git Bash, or WSL.\n\nWe also built the first Windows-native agent sandbox — using OS-level controls to block filesystem writes outside your https://t.co/t7tQRvf3ft"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 703,
+          "like_count": 11972,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 5097
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-21T17:52:33.000Z",
+        "description": "Codex App @OpenAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 10,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ambrosino.io",
+                "end": 23,
+                "expanded_url": "https://ambrosino.io",
+                "start": 0,
+                "url": "https://t.co/6hzsnLdSdp"
+              }
+            ]
+          }
+        },
+        "id": "58865213",
+        "location": "San Francisco, CA",
+        "name": "Andrew Ambrosino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948102508636729344/oTZX9XdL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10105,
+          "following_count": 1287,
+          "like_count": 8995,
+          "listed_count": 153,
+          "media_count": 172,
+          "tweet_count": 2168
+        },
+        "url": "https://t.co/6hzsnLdSdp",
+        "username": "ajambrosino",
+        "verified": true
+      }
+    ]
+  }
+}

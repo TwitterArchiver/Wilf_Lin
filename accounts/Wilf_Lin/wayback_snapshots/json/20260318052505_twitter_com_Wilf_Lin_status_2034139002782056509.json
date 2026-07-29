@@ -1,0 +1,440 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2033824161097769273",
+    "created_at": "2026-03-18T05:25:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T06:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034139002782056509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1704983803125452800",
+          "start": 0,
+          "username": "rustaceans_rs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034139002782056509",
+    "in_reply_to_user_id": "1704983803125452800",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033824161097769273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rustaceans_rs WTF？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_2033824159306768384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDmYTBcWYAA8U02.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2033824161097769273",
+        "created_at": "2026-03-18T05:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T06:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034139002782056509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1704983803125452800",
+              "start": 0,
+              "username": "rustaceans_rs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034139002782056509",
+        "in_reply_to_user_id": "1704983803125452800",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033824161097769273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rustaceans_rs WTF？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033824159306768384"
+          ]
+        },
+        "author_id": "1704983803125452800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Chrome",
+              "id": "10052778493",
+              "name": "Google Chrome"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          }
+        ],
+        "conversation_id": "2033824161097769273",
+        "created_at": "2026-03-17T08:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T09:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033824161097769273"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "Oxichrome\n\nOxichrome",
+              "probability": 0.8934,
+              "start": 33,
+              "type": "Other"
+            },
+            {
+              "end": 104,
+              "normalized_text": "Rust",
+              "probability": 0.8528,
+              "start": 101,
+              "type": "Other"
+            },
+            {
+              "end": 129,
+              "normalized_text": "WebAssembly",
+              "probability": 0.8236,
+              "start": 119,
+              "type": "Other"
+            },
+            {
+              "end": 140,
+              "normalized_text": "Chrome",
+              "probability": 0.9502,
+              "start": 135,
+              "type": "Other"
+            },
+            {
+              "end": 152,
+              "normalized_text": "Firefox",
+              "probability": 0.9652,
+              "start": 146,
+              "type": "Other"
+            },
+            {
+              "end": 171,
+              "normalized_text": "rustlang",
+              "probability": 0.4909,
+              "start": 164,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 162,
+              "start": 157,
+              "tag": "rust"
+            },
+            {
+              "end": 172,
+              "start": 163,
+              "tag": "rustlang"
+            },
+            {
+              "end": 185,
+              "start": 173,
+              "tag": "programming"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Em2mki1Ioa",
+              "end": 209,
+              "expanded_url": "https://x.com/rustaceans_rs/status/2033824161097769273/photo/1",
+              "media_key": "3_2033824159306768384",
+              "start": 186,
+              "url": "https://t.co/Em2mki1Ioa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033824161097769273",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 9281,
+          "like_count": 208,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "This Week's Project Spotlight 🦀\n\nOxichrome\n\nOxichrome helps you write browser extensions entirely in Rust, compiled to WebAssembly for Chrome and Firefox. \n\n#rust #rustlang #programming https://t.co/Em2mki1Ioa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 812,
+          "like_count": 16941,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 5535
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-21T22:20:07.000Z",
+        "description": "Bi-weekly Digest For Rustaceans 🦀 #rustlang #rust",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 34,
+                "tag": "rustlang"
+              },
+              {
+                "end": 49,
+                "start": 44,
+                "tag": "rust"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "weeklyrust.substack.com",
+                "end": 23,
+                "expanded_url": "https://weeklyrust.substack.com/",
+                "start": 0,
+                "url": "https://t.co/rnmYjgtfTH"
+              }
+            ]
+          }
+        },
+        "id": "1704983803125452800",
+        "location": "Newsletter →",
+        "name": "Rust Bytes 🦀",
+        "pinned_tweet_id": "2033453747418824838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785754752103366656/CQJ0vvGU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4565,
+          "following_count": 33,
+          "like_count": 14203,
+          "listed_count": 27,
+          "media_count": 270,
+          "tweet_count": 3092
+        },
+        "url": "https://t.co/rnmYjgtfTH",
+        "username": "rustaceans_rs",
+        "verified": false
+      }
+    ]
+  }
+}

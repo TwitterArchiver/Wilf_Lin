@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2029086616766300371",
+    "created_at": "2026-03-05T00:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T01:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029349534879318019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1339413625270796289",
+          "start": 0,
+          "username": "JeffreyCalm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029349534879318019",
+    "in_reply_to_user_id": "1339413625270796289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029086616766300371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JeffreyCalm 给他单开一个用户就是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2029086616766300371",
+        "created_at": "2026-03-05T00:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T01:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029349534879318019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1339413625270796289",
+              "start": 0,
+              "username": "JeffreyCalm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029349534879318019",
+        "in_reply_to_user_id": "1339413625270796289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029086616766300371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JeffreyCalm 给他单开一个用户就是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339413625270796289",
+        "conversation_id": "2029086616766300371",
+        "created_at": "2026-03-04T06:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T07:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029086616766300371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029086616766300371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2604,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "提示一下，使用一台独立 Mac 搭建 OpenClaw 并不算是一个安全环境。\n除非你的 Mac 没有登录 iCloud ID，否则你整个 iCloud 钥匙串和所有云文档都是可以被 OpenClaw 访问的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 703,
+          "like_count": 11969,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 5094
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-17T03:34:39.000Z",
+        "description": "Former researcher, living and working in Beijing, storyteller.\nAlso known as 评论尸。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "1q43.blog",
+                "end": 23,
+                "expanded_url": "https://1q43.blog",
+                "start": 0,
+                "url": "https://t.co/neCCGr8PEa"
+              }
+            ]
+          }
+        },
+        "id": "1339413625270796289",
+        "location": "Beijing",
+        "name": "Jeffrey.W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1339415034493956096/iAQCFTOk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 205,
+          "like_count": 321,
+          "listed_count": 15,
+          "media_count": 191,
+          "tweet_count": 808
+        },
+        "url": "https://t.co/neCCGr8PEa",
+        "username": "JeffreyCalm",
+        "verified": false
+      }
+    ]
+  }
+}

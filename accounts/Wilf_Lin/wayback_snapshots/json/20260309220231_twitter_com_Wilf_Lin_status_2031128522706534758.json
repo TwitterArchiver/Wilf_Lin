@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2031009715782660504",
+    "created_at": "2026-03-09T22:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T23:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031128522706534758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1865484067883409408",
+          "start": 0,
+          "username": "wildmindai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031128522706534758",
+    "in_reply_to_user_id": "1865484067883409408",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031009715782660504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wildmindai because this is a dense model"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2031009617237422080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-YfHLWsAAStHJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2031009715782660504",
+        "created_at": "2026-03-09T22:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T23:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031128522706534758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1865484067883409408",
+              "start": 0,
+              "username": "wildmindai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031128522706534758",
+        "in_reply_to_user_id": "1865484067883409408",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031009715782660504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wildmindai because this is a dense model"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031009617237422080"
+          ]
+        },
+        "author_id": "1865484067883409408",
+        "conversation_id": "2031009715782660504",
+        "created_at": "2026-03-09T14:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031009715782660504"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Qwen3",
+              "probability": 0.5637,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PlOTg0rLeW",
+              "end": 175,
+              "expanded_url": "https://x.com/wildmindai/status/2031009715782660504/photo/1",
+              "media_key": "3_2031009617237422080",
+              "start": 152,
+              "url": "https://t.co/PlOTg0rLeW"
+            },
+            {
+              "display_url": "x.com/bdsqlsz/status…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/bdsqlsz/status/2030960451132194878",
+              "start": 176,
+              "url": "https://t.co/zaJabjzsR9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031009715782660504",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 5602,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030960451132194878",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Totally agree. Qwen3.5 27B looks like the better pick over the 35B. \n\nThey're on par for agentic tasks, but for local coding, the 27B is a solid choice https://t.co/PlOTg0rLeW https://t.co/zaJabjzsR9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 753,
+          "like_count": 14062,
+          "listed_count": 3,
+          "media_count": 78,
+          "tweet_count": 5301
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-07T19:51:06.000Z",
+        "description": "Physicist, Programmer, Designer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/TokenDiff",
+                "end": 23,
+                "expanded_url": "https://t.me/TokenDiff",
+                "start": 0,
+                "url": "https://t.co/zafGJqEOeb"
+              }
+            ]
+          }
+        },
+        "id": "1865484067883409408",
+        "location": "Berlin",
+        "name": "Wildminder",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899795293991800832/yFjmMj-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7893,
+          "following_count": 74,
+          "like_count": 23,
+          "listed_count": 85,
+          "media_count": 1567,
+          "tweet_count": 1907
+        },
+        "url": "https://t.co/zafGJqEOeb",
+        "username": "wildmindai",
+        "verified": true
+      }
+    ]
+  }
+}

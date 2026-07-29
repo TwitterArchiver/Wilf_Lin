@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2053619125420015953",
+    "created_at": "2026-05-11T08:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T09:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053758217893883961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "885086674828578816",
+          "start": 0,
+          "username": "PandaTalk8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053758217893883961",
+    "in_reply_to_user_id": "885086674828578816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053619125420015953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PandaTalk8 我最近的项目基本都是C++，都是codex写的，codex不会把它自己添加到贡献者里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2053619125420015953",
+        "created_at": "2026-05-11T08:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053758217893883961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "885086674828578816",
+              "start": 0,
+              "username": "PandaTalk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053758217893883961",
+        "in_reply_to_user_id": "885086674828578816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053619125420015953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PandaTalk8 我最近的项目基本都是C++，都是codex写的，codex不会把它自己添加到贡献者里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "885086674828578816",
+        "conversation_id": "2053619125420015953",
+        "created_at": "2026-05-10T23:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T00:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053619125420015953"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053619125420015953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 13446,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我用ai 生成的代码超过90%的都是ts 项目。 \n\n从来没有vibe coding c/c++ 的项目"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 1797,
+          "like_count": 58640,
+          "listed_count": 4,
+          "media_count": 280,
+          "tweet_count": 8244
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-12T10:41:22.000Z",
+        "description": "AI builder & indie founder. Building products, writing ideas, and selling myself in public.\n公众号：PandaTalk8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pandatalk8.com",
+                "end": 23,
+                "expanded_url": "https://pandatalk8.com",
+                "start": 0,
+                "url": "https://t.co/2wfmDDE9YA"
+              }
+            ]
+          }
+        },
+        "id": "885086674828578816",
+        "name": "Mr Panda",
+        "pinned_tweet_id": "2052651518923592136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053332948989132800/q_Nnb7-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74979,
+          "following_count": 7443,
+          "like_count": 71868,
+          "listed_count": 542,
+          "media_count": 1571,
+          "tweet_count": 25662
+        },
+        "url": "https://t.co/2wfmDDE9YA",
+        "username": "PandaTalk8",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2050460599545405440"
+      ]
+    },
+    "author_id": "1554803647909097472",
+    "conversation_id": "2050460618017157529",
+    "created_at": "2026-05-02T06:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T07:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050460618017157529"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "github.com/gfhdhytghd/cod",
+          "end": 103,
+          "expanded_url": "http://github.com/gfhdhytghd/cod",
+          "start": 80,
+          "status": 404,
+          "unwound_url": "https://github.com/gfhdhytghd/cod",
+          "url": "https://t.co/jpIP4ibnCC"
+        },
+        {
+          "display_url": "pic.x.com/tKNJSEOgzn",
+          "end": 128,
+          "expanded_url": "https://x.com/Wilf_Lin/status/2050460618017157529/video/1",
+          "media_key": "7_2050460599545405440",
+          "start": 105,
+          "url": "https://t.co/tKNJSEOgzn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050460618017157529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我开了个claude to im的fork并针对codex和飞书进行了优化\n主要利用动态卡片消息和app server的能力，做到了实时消息推送和打断式引导\n\nhttps://t.co/jpIP4ibnCC… https://t.co/tKNJSEOgzn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 53333,
+        "height": 1920,
+        "media_key": "7_2050460599545405440",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050460599545405440/pu/img/igxydkjPIbqKAd0u.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050460599545405440/pu/vid/avc1/320x706/Ti5xlr6NVgtvsTz3.mp4?tag=25"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050460599545405440/pu/vid/avc1/868x1920/Y5vZNl87RmYnNxWT.mp4?tag=25"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050460599545405440/pu/pl/VwyKIuNhKnHZ8Tor.m3u8?tag=25"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050460599545405440/pu/vid/avc1/480x1060/QsdUuYG_PXhJV5gN.mp4?tag=25"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050460599545405440/pu/vid/avc1/720x1592/B8_aGuXqlTSwwaBP.mp4?tag=25"
+          }
+        ],
+        "width": 868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050460599545405440"
+          ]
+        },
+        "author_id": "1554803647909097472",
+        "conversation_id": "2050460618017157529",
+        "created_at": "2026-05-02T06:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050460618017157529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/gfhdhytghd/cod",
+              "end": 103,
+              "expanded_url": "http://github.com/gfhdhytghd/cod",
+              "start": 80,
+              "status": 404,
+              "unwound_url": "https://github.com/gfhdhytghd/cod",
+              "url": "https://t.co/jpIP4ibnCC"
+            },
+            {
+              "display_url": "pic.x.com/tKNJSEOgzn",
+              "end": 128,
+              "expanded_url": "https://x.com/Wilf_Lin/status/2050460618017157529/video/1",
+              "media_key": "7_2050460599545405440",
+              "start": 105,
+              "url": "https://t.co/tKNJSEOgzn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050460618017157529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我开了个claude to im的fork并针对codex和飞书进行了优化\n主要利用动态卡片消息和app server的能力，做到了实时消息推送和打断式引导\n\nhttps://t.co/jpIP4ibnCC… https://t.co/tKNJSEOgzn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 1760,
+          "like_count": 53796,
+          "listed_count": 4,
+          "media_count": 248,
+          "tweet_count": 7751
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      }
+    ]
+  }
+}

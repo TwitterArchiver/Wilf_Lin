@@ -1,0 +1,700 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Google Chrome",
+          "id": "10052778493",
+          "name": "Google Chrome"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      }
+    ],
+    "conversation_id": "2032197444042440851",
+    "created_at": "2026-03-13T03:23:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T04:23:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032296485694427342"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "chromeos",
+          "probability": 0.8173,
+          "start": 32,
+          "type": "Other"
+        },
+        {
+          "end": 48,
+          "normalized_text": "arm64",
+          "probability": 0.8415,
+          "start": 44,
+          "type": "Other"
+        },
+        {
+          "end": 79,
+          "normalized_text": "chrome",
+          "probability": 0.8641,
+          "start": 74,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "37975275",
+          "start": 0,
+          "username": "laparisa"
+        },
+        {
+          "end": 23,
+          "id": "56505125",
+          "start": 10,
+          "username": "googlechrome"
+        },
+        {
+          "end": 31,
+          "id": "61559439",
+          "start": 24,
+          "username": "nvidia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032296485694427342",
+    "in_reply_to_user_id": "37975275",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032197444042440851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laparisa @googlechrome @nvidia chromeos on arm64 is a long time ago, why chrome comes so late"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Chrome",
+              "id": "10052778493",
+              "name": "Google Chrome"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2032197444042440851",
+        "created_at": "2026-03-13T03:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T04:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032296485694427342"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "chromeos",
+              "probability": 0.8173,
+              "start": 32,
+              "type": "Other"
+            },
+            {
+              "end": 48,
+              "normalized_text": "arm64",
+              "probability": 0.8415,
+              "start": 44,
+              "type": "Other"
+            },
+            {
+              "end": 79,
+              "normalized_text": "chrome",
+              "probability": 0.8641,
+              "start": 74,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "37975275",
+              "start": 0,
+              "username": "laparisa"
+            },
+            {
+              "end": 23,
+              "id": "56505125",
+              "start": 10,
+              "username": "googlechrome"
+            },
+            {
+              "end": 31,
+              "id": "61559439",
+              "start": 24,
+              "username": "nvidia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032296485694427342",
+        "in_reply_to_user_id": "37975275",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032197444042440851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laparisa @googlechrome @nvidia chromeos on arm64 is a long time ago, why chrome comes so late"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "37975275",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Chrome",
+              "id": "10052778493",
+              "name": "Google Chrome"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2032197444042440851",
+        "created_at": "2026-03-12T20:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T21:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032197444042440851"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 63,
+              "normalized_text": "ARM64",
+              "probability": 0.8056,
+              "start": 59,
+              "type": "Other"
+            },
+            {
+              "end": 69,
+              "normalized_text": "Linux",
+              "probability": 0.8422,
+              "start": 65,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 35,
+              "id": "56505125",
+              "start": 22,
+              "username": "googlechrome"
+            },
+            {
+              "end": 98,
+              "id": "61559439",
+              "start": 91,
+              "username": "nvidia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032197444042440851",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 35,
+                "id": "56505125",
+                "start": 22,
+                "username": "GoogleChrome"
+              },
+              {
+                "end": 98,
+                "id": "61559439",
+                "start": 91,
+                "username": "nvidia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "blog.chromium.org/2026/03/bringi…",
+                "end": 288,
+                "expanded_url": "https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html",
+                "start": 265,
+                "url": "https://t.co/QDCRiDiktN"
+              }
+            ]
+          },
+          "text": "Excited to share that @GoogleChrome will soon be coming to ARM64 Linux devices!\n\nThanks to @nvidia for the awesome product & engineering partnership to bring one of the fastest and safest browsers to some of the most powerful computers in the world! 🛠️🕸️🤝\n\nMore at https://t.co/QDCRiDiktN"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 34960,
+          "like_count": 550,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "Excited to share that @GoogleChrome will soon be coming to ARM64 Linux devices!\n\nThanks to @nvidia for the awesome product &amp; engineering partnership to bring one of the fastest and safest browsers to some of the most powerful computers in the world! 🛠️🕸️🤝\n\nMore at"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 761,
+          "like_count": 14781,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 5387
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-05T17:44:51.000Z",
+        "description": "Browser Boss @googlechrome; Security Princess @google; former @usds; skilled at baking, eating, and hijacking cookies.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "googlechrome"
+              },
+              {
+                "end": 53,
+                "start": 46,
+                "username": "google"
+              },
+              {
+                "end": 67,
+                "start": 62,
+                "username": "usds"
+              }
+            ]
+          }
+        },
+        "id": "37975275",
+        "location": "Bay Area, California",
+        "name": "Parisa Tabriz",
+        "pinned_tweet_id": "2016574963273322902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696919635/2557811014_6dbcecdccd_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55625,
+          "following_count": 3633,
+          "like_count": 25452,
+          "listed_count": 1245,
+          "media_count": 1249,
+          "tweet_count": 11031
+        },
+        "username": "laparisa",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-13T21:51:56.000Z",
+        "description": "The official X account for the Google Chrome browser.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chrome.com",
+                "end": 23,
+                "expanded_url": "http://chrome.com",
+                "start": 0,
+                "url": "https://t.co/RN9HNPpGXL"
+              }
+            ]
+          }
+        },
+        "id": "56505125",
+        "location": "Mountain View, California",
+        "name": "Chrome",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1605280848089169920/IuDGmUk__normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6255708,
+          "following_count": 79,
+          "like_count": 1750,
+          "listed_count": 17159,
+          "media_count": 711,
+          "tweet_count": 182534
+        },
+        "url": "https://t.co/RN9HNPpGXL",
+        "username": "googlechrome",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-30T18:25:14.000Z",
+        "description": "The official handle for NVIDIA. Blog: https://t.co/JAn5eKOTBT Support: https://t.co/6ln5FVnA2o All our social media: https://t.co/Uc56dL57Dh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "blogs.nvidia.com",
+                "end": 61,
+                "expanded_url": "https://blogs.nvidia.com",
+                "start": 38,
+                "url": "https://t.co/JAn5eKOTBT"
+              },
+              {
+                "display_url": "nvda.ws/2ei5pio",
+                "end": 94,
+                "expanded_url": "http://nvda.ws/2ei5pio",
+                "start": 71,
+                "url": "https://t.co/6ln5FVnA2o"
+              },
+              {
+                "display_url": "nvda.ws/2wmlfGB",
+                "end": 140,
+                "expanded_url": "http://nvda.ws/2wmlfGB",
+                "start": 117,
+                "url": "https://t.co/Uc56dL57Dh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nvidia.com",
+                "end": 23,
+                "expanded_url": "https://www.nvidia.com",
+                "start": 0,
+                "url": "https://t.co/d1gaHqtMJD"
+              }
+            ]
+          }
+        },
+        "id": "61559439",
+        "location": "Santa Clara, CA",
+        "name": "NVIDIA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828904711124078593/SRvCZSfQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2453469,
+          "following_count": 48,
+          "like_count": 4948,
+          "listed_count": 9213,
+          "media_count": 3160,
+          "tweet_count": 13805
+        },
+        "url": "https://t.co/d1gaHqtMJD",
+        "username": "nvidia",
+        "verified": true
+      }
+    ]
+  }
+}

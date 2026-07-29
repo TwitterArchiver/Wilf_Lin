@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2051528774584504669",
+    "created_at": "2026-05-06T04:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T05:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051888929037550005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1834710271698649088",
+          "start": 0,
+          "username": "Shahahahzaman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051888929037550005",
+    "in_reply_to_user_id": "1834710271698649088",
+    "lang": "hu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051528774584504669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shahahahzaman Qwen 3.6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 330,
+        "media_key": "3_2051528768846729216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHh-i7makAA774u.jpg",
+        "width": 588
+      },
+      {
+        "height": 183,
+        "media_key": "3_2051528768855179264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHh-i7obgAAAKRn.jpg",
+        "width": 276
+      },
+      {
+        "height": 452,
+        "media_key": "3_2051528768855105536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHh-i7oaYAAP1Dr.jpg",
+        "width": 678
+      },
+      {
+        "height": 415,
+        "media_key": "3_2051528768846774272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHh-i7mbQAAn_2I.jpg",
+        "width": 739
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2051528774584504669",
+        "created_at": "2026-05-06T04:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051888929037550005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834710271698649088",
+              "start": 0,
+              "username": "Shahahahzaman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051888929037550005",
+        "in_reply_to_user_id": "1834710271698649088",
+        "lang": "hu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051528774584504669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shahahahzaman Qwen 3.6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051528768846729216",
+            "3_2051528768855179264",
+            "3_2051528768855105536",
+            "3_2051528768846774272"
+          ]
+        },
+        "author_id": "1834710271698649088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2051528774584504669",
+        "created_at": "2026-05-05T05:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T06:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051528774584504669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/goQRPd44sf",
+              "end": 124,
+              "expanded_url": "https://x.com/Shahahahzaman/status/2051528774584504669/photo/1",
+              "media_key": "3_2051528768846729216",
+              "start": 101,
+              "url": "https://t.co/goQRPd44sf"
+            },
+            {
+              "display_url": "pic.x.com/goQRPd44sf",
+              "end": 124,
+              "expanded_url": "https://x.com/Shahahahzaman/status/2051528774584504669/photo/1",
+              "media_key": "3_2051528768855179264",
+              "start": 101,
+              "url": "https://t.co/goQRPd44sf"
+            },
+            {
+              "display_url": "pic.x.com/goQRPd44sf",
+              "end": 124,
+              "expanded_url": "https://x.com/Shahahahzaman/status/2051528774584504669/photo/1",
+              "media_key": "3_2051528768855105536",
+              "start": 101,
+              "url": "https://t.co/goQRPd44sf"
+            },
+            {
+              "display_url": "pic.x.com/goQRPd44sf",
+              "end": 124,
+              "expanded_url": "https://x.com/Shahahahzaman/status/2051528774584504669/photo/1",
+              "media_key": "3_2051528768846774272",
+              "start": 101,
+              "url": "https://t.co/goQRPd44sf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051528774584504669",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 11799,
+          "like_count": 149,
+          "quote_count": 0,
+          "reply_count": 87,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "be honest, which is the best open source AI model?\n\n1. DeepSeek v4\n2. Kimi K2.6\n3. GLM-5\n4. Qwen 3.5 https://t.co/goQRPd44sf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 1783,
+          "like_count": 55340,
+          "listed_count": 4,
+          "media_count": 261,
+          "tweet_count": 7903
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-13T21:46:38.000Z",
+        "description": "Web dev for now. Figuring out the rest\nBuilding web apps and open to collabs",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "faisalshahzaman.vercel.app",
+                "end": 23,
+                "expanded_url": "https://faisalshahzaman.vercel.app",
+                "start": 0,
+                "url": "https://t.co/pLOc9O3xpi"
+              }
+            ]
+          }
+        },
+        "id": "1834710271698649088",
+        "location": "404",
+        "name": "Shah💤aman",
+        "pinned_tweet_id": "2048282098298212554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051232054193598464/pMOEmEiU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 699,
+          "like_count": 16467,
+          "listed_count": 2,
+          "media_count": 920,
+          "tweet_count": 11332
+        },
+        "url": "https://t.co/pLOc9O3xpi",
+        "username": "Shahahahzaman",
+        "verified": true
+      }
+    ]
+  }
+}

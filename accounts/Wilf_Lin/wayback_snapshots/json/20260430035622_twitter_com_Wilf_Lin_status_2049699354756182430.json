@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2049680708621488558",
+    "created_at": "2026-04-30T03:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T04:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049699354756182430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "7755562",
+          "start": 0,
+          "username": "blackanger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049699354756182430",
+    "in_reply_to_user_id": "7755562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049680708621488558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blackanger 是词元化处理器的问题，anth没对中文做优化"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2049680708621488558",
+        "created_at": "2026-04-30T03:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T04:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049699354756182430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "7755562",
+              "start": 0,
+              "username": "blackanger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049699354756182430",
+        "in_reply_to_user_id": "7755562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049680708621488558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackanger 是词元化处理器的问题，anth没对中文做优化"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "7755562",
+        "conversation_id": "2049680708621488558",
+        "created_at": "2026-04-30T02:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T03:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049680708621488558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/arankomatsuzak…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/arankomatsuzaki/status/2049177688402022730",
+              "start": 90,
+              "url": "https://t.co/NpW7OUrDrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049680708621488558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 578,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049177688402022730",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Claude 翻译中文要多花 65% 的 Token。。。\n\n而韩要多花 159%。。。\n\n这可能是因为 Claude 不是稀疏模型的原因吧？\n\n下次翻译工作还是交给 GPT 吧 https://t.co/NpW7OUrDrM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 1739,
+          "like_count": 51988,
+          "listed_count": 4,
+          "media_count": 242,
+          "tweet_count": 7673
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2007-07-27T07:35:57.000Z",
+        "description": "System in Rust, Application in AI.\nSlow down. Have fun. Live well.\nINTJ-A. No ism.\nLifelong Programmer and  Writer.\nStudy in Public, Building in Public.\n\n🦀 保命",
+        "id": "7755562",
+        "location": "China",
+        "name": "AlexZ 🦀",
+        "pinned_tweet_id": "2044433848247931376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588061971714256896/Rwi_kcm7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19265,
+          "following_count": 1575,
+          "like_count": 30958,
+          "listed_count": 312,
+          "media_count": 2960,
+          "tweet_count": 26470
+        },
+        "username": "blackanger",
+        "verified": true
+      }
+    ]
+  }
+}

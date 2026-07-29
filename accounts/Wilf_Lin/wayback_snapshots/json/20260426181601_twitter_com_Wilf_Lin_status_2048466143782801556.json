@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2048466143782801556",
+    "created_at": "2026-04-26T18:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T19:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048466143782801556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "996744811",
+          "start": 3,
+          "username": "hjc4869"
+        },
+        {
+          "end": 20,
+          "id": "1560671619218960384",
+          "start": 13,
+          "username": "silsrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048466143782801556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048455457757593775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hjc4869: @silsrc X的anti spam历来只封正常用户（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2048466143782801556",
+        "created_at": "2026-04-26T18:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T19:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048466143782801556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "996744811",
+              "start": 3,
+              "username": "hjc4869"
+            },
+            {
+              "end": 20,
+              "id": "1560671619218960384",
+              "start": 13,
+              "username": "silsrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048466143782801556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048455457757593775",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hjc4869: @silsrc X的anti spam历来只封正常用户（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "996744811",
+        "conversation_id": "2048430258492461165",
+        "created_at": "2026-04-26T17:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048455457757593775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1560671619218960384",
+              "start": 0,
+              "username": "silsrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048455457757593775",
+        "in_reply_to_user_id": "1560671619218960384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048430258492461165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silsrc X的anti spam历来只封正常用户（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 1700,
+          "like_count": 49511,
+          "listed_count": 3,
+          "media_count": 233,
+          "tweet_count": 7521
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2012-12-08T08:37:27.000Z",
+        "description": "个人频道：https://t.co/3wRKiAztOc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/david_random",
+                "end": 28,
+                "expanded_url": "https://t.me/david_random",
+                "start": 5,
+                "url": "https://t.co/3wRKiAztOc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.hjc.im",
+                "end": 23,
+                "expanded_url": "http://blog.hjc.im",
+                "start": 0,
+                "url": "https://t.co/lSyjKmnXiO"
+              }
+            ]
+          }
+        },
+        "id": "996744811",
+        "location": "Sydney",
+        "name": "David Huang",
+        "pinned_tweet_id": "1675401146607738882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862363656572239872/fKy6Wh6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5550,
+          "following_count": 162,
+          "like_count": 23,
+          "listed_count": 67,
+          "media_count": 874,
+          "tweet_count": 4814
+        },
+        "url": "https://t.co/lSyjKmnXiO",
+        "username": "hjc4869",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T16:55:06.000Z",
+        "description": "开源爱好，万能工程师（存疑），现代魔法老中登，不擅长写代码，假装是计算机科学家。",
+        "id": "1560671619218960384",
+        "location": "Beijing",
+        "name": "scr.c",
+        "pinned_tweet_id": "1619387209844682753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728125838284189698/IGci3p0y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10233,
+          "following_count": 531,
+          "like_count": 29946,
+          "listed_count": 62,
+          "media_count": 273,
+          "tweet_count": 3969
+        },
+        "username": "silsrc",
+        "verified": false
+      }
+    ]
+  }
+}

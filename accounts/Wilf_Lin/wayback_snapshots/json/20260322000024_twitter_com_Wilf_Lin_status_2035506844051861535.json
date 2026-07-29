@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2035133605190471998",
+    "created_at": "2026-03-22T00:00:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T01:00:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035506844051861535"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "WSE-4",
+          "probability": 0.6692,
+          "start": 32,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "272239060",
+          "start": 0,
+          "username": "VictorTaelin"
+        },
+        {
+          "end": 23,
+          "id": "751545566778171392",
+          "start": 14,
+          "username": "cerebras"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035506844051861535",
+    "in_reply_to_user_id": "272239060",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035133605190471998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VictorTaelin @cerebras We need WSE-4 with 2T model capability."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 470,
+        "media_key": "3_2035130236791037952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD48KvOWIAA2bjX.jpg",
+        "width": 1288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2035133605190471998",
+        "created_at": "2026-03-22T00:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T01:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035506844051861535"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "WSE-4",
+              "probability": 0.6692,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "272239060",
+              "start": 0,
+              "username": "VictorTaelin"
+            },
+            {
+              "end": 23,
+              "id": "751545566778171392",
+              "start": 14,
+              "username": "cerebras"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035506844051861535",
+        "in_reply_to_user_id": "272239060",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035133605190471998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VictorTaelin @cerebras We need WSE-4 with 2T model capability."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035130236791037952"
+          ]
+        },
+        "author_id": "272239060",
+        "conversation_id": "2035133605190471998",
+        "created_at": "2026-03-20T23:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T00:15:40.000Z",
+          "edits_remaining": 1,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035133198879830148",
+          "2035133255427494174",
+          "2035133339192143935",
+          "2035133475477758351",
+          "2035133605190471998"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 117,
+              "normalized_text": "Opus",
+              "probability": 0.7011,
+              "start": 114,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OzBIZS76oI",
+              "end": 318,
+              "expanded_url": "https://x.com/VictorTaelin/status/2035133605190471998/photo/1",
+              "media_key": "3_2035130236791037952",
+              "start": 295,
+              "url": "https://t.co/OzBIZS76oI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035133605190471998",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Sorry for posting this again, I'm still processing it:\n\nIt'd cost >>> $743k per year <<< to run Opus-4.6 fast-mode nonstop\n\nLiterally my company cannot afford a single person using it for daily coding. And that's a shame because the experience is truly magical. I've spent the last 2 days using it on Pi (nearly $500 gone 💀), and it was the first time I kinda got into the flow state while using an agent, because the feedback is just so fast. This is not something I ever experienced before, definitely not with GPT 5.4's own fast mode.\n\nI can't wait for this kind of super fast, super high intelligence to be available for a reasonable cost..."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 796,
+          "impression_count": 256545,
+          "like_count": 2730,
+          "quote_count": 22,
+          "reply_count": 178,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "Sorry for posting this again, I'm still processing it:\n\nIt'd cost &gt;&gt;&gt; $743k per year &lt;&lt;&lt; to run Opus-4.6 fast-mode nonstop\n\nLiterally my company cannot afford a single person using it for daily coding. And that's a shame because the experience is truly magical. I've spent the https://t.co/OzBIZS76oI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 856,
+          "like_count": 18557,
+          "listed_count": 3,
+          "media_count": 92,
+          "tweet_count": 5717
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-26T03:28:43.000Z",
+        "description": "Kind / Bend / HVM / INets / λCalculus",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/VictorTaelin",
+                "end": 23,
+                "expanded_url": "https://github.com/VictorTaelin",
+                "start": 0,
+                "url": "https://t.co/K3TRf4HdCG"
+              }
+            ]
+          }
+        },
+        "id": "272239060",
+        "location": "São Paulo",
+        "name": "Taelin",
+        "pinned_tweet_id": "1791213162525524076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757844208591704065/HOiAtIbv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68550,
+          "following_count": 2242,
+          "like_count": 52513,
+          "listed_count": 756,
+          "media_count": 996,
+          "tweet_count": 18385
+        },
+        "url": "https://t.co/K3TRf4HdCG",
+        "username": "VictorTaelin",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-08T22:36:41.000Z",
+        "description": "The world's fastest AI inference and training.\nTry the latest open models at: https://t.co/jREGhLI2nj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "inference.cerebras.ai",
+                "end": 101,
+                "expanded_url": "https://inference.cerebras.ai/",
+                "start": 78,
+                "url": "https://t.co/jREGhLI2nj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cerebras.ai",
+                "end": 23,
+                "expanded_url": "https://www.cerebras.ai/",
+                "start": 0,
+                "url": "https://t.co/SUREW9ZthN"
+              }
+            ]
+          }
+        },
+        "id": "751545566778171392",
+        "location": "Sunnyvale, CA",
+        "name": "Cerebras",
+        "pinned_tweet_id": "2032476817508974993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894806880804913152/zLdh072p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45423,
+          "following_count": 258,
+          "like_count": 1705,
+          "listed_count": 660,
+          "media_count": 1087,
+          "tweet_count": 2565
+        },
+        "url": "https://t.co/SUREW9ZthN",
+        "username": "cerebras",
+        "verified": true
+      }
+    ]
+  }
+}

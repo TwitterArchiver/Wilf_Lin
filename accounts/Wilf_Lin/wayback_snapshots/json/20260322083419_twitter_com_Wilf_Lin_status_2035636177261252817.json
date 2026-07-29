@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2035369803956080937",
+    "created_at": "2026-03-22T08:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T09:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035636177261252817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "893331398",
+          "start": 0,
+          "username": "gxgexiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035636177261252817",
+    "in_reply_to_user_id": "893331398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035369803956080937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gxgexiao 基础功能扎实且体验不差，机器本身性能很不错，应用丰富但更新不及时（所以我把一部分应用放Linux虚拟机里了），默认不支持公网文件分享比较烦，客户端软件设计丑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2035369803956080937",
+        "created_at": "2026-03-22T08:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T09:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035636177261252817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "893331398",
+              "start": 0,
+              "username": "gxgexiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035636177261252817",
+        "in_reply_to_user_id": "893331398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035369803956080937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gxgexiao 基础功能扎实且体验不差，机器本身性能很不错，应用丰富但更新不及时（所以我把一部分应用放Linux虚拟机里了），默认不支持公网文件分享比较烦，客户端软件设计丑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "893331398",
+        "conversation_id": "2035369803956080937",
+        "created_at": "2026-03-21T14:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T15:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035369803956080937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gxgexiao/statu…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/gxgexiao/status/1859597067590816109",
+              "start": 22,
+              "url": "https://t.co/XmvsBF28P5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035369803956080937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 27527,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859597067590816109",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请问还有懒猫微服用户吗，一年多用下来如何？ https://t.co/XmvsBF28P5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 860,
+          "like_count": 18786,
+          "listed_count": 3,
+          "media_count": 92,
+          "tweet_count": 5755
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2012-10-20T14:14:48.000Z",
+        "description": "The more I know, the less I understand.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gexiao.me",
+                "end": 23,
+                "expanded_url": "http://www.gexiao.me",
+                "start": 0,
+                "url": "https://t.co/R8w1Unbb7q"
+              }
+            ]
+          }
+        },
+        "id": "893331398",
+        "name": "Xiao",
+        "pinned_tweet_id": "1328579872898355200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/671330181693333504/TPWVKtXt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9616,
+          "following_count": 594,
+          "like_count": 2114,
+          "listed_count": 110,
+          "media_count": 306,
+          "tweet_count": 5835
+        },
+        "url": "https://t.co/R8w1Unbb7q",
+        "username": "gxgexiao",
+        "verified": true
+      }
+    ]
+  }
+}

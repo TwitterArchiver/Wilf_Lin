@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2029598249904923002",
+    "created_at": "2026-03-06T07:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T08:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029825567101428092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1010498049058201600",
+          "start": 0,
+          "username": "JagersbergKnut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029825567101428092",
+    "in_reply_to_user_id": "1010498049058201600",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029598249904923002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JagersbergKnut nb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2029598249904923002",
+        "created_at": "2026-03-06T07:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T08:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029825567101428092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1010498049058201600",
+              "start": 0,
+              "username": "JagersbergKnut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029825567101428092",
+        "in_reply_to_user_id": "1010498049058201600",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029598249904923002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JagersbergKnut nb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1010498049058201600",
+        "conversation_id": "2029598249904923002",
+        "created_at": "2026-03-05T16:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T17:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029598249904923002"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "HauhauCS",
+              "probability": 0.7108,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 13,
+              "normalized_text": "Qwen3",
+              "probability": 0.6243,
+              "start": 9,
+              "type": "Other"
+            },
+            {
+              "end": 38,
+              "normalized_text": "HauhauCS",
+              "probability": 0.6938,
+              "start": 31,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+              "display_url": "huggingface.co/HauhauCS/Qwen3…",
+              "end": 227,
+              "expanded_url": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+              "images": [
+                {
+                  "height": 648,
+                  "url": "https://pbs.twimg.com/news_img/2029205051538112512/wozHtblj?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2029205051538112512/wozHtblj?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 204,
+              "status": 200,
+              "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive · Hugging Face",
+              "unwound_url": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+              "url": "https://t.co/yalbsXsmM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029598249904923002",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1270,
+          "impression_count": 41354,
+          "like_count": 1029,
+          "quote_count": 6,
+          "reply_count": 23,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive\n\n0/465 refusals. Fully uncensored with zero capability loss.\n\nFully functional, 100% of what the original authors intended - just without the refusals.\n\nhttps://t.co/yalbsXsmM7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 717,
+          "like_count": 12659,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 5164
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-23T12:21:23.000Z",
+        "description": "Content Strategy & AI  \n\nhttps://t.co/xnBUK02hWS\nhttps://t.co/XFrvARyX4j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "huggingface.co/KnutJaegersberg",
+                "end": 48,
+                "expanded_url": "http://huggingface.co/KnutJaegersberg",
+                "start": 25,
+                "url": "https://t.co/xnBUK02hWS"
+              },
+              {
+                "display_url": "youtube.com/@knutjagersber…",
+                "end": 72,
+                "expanded_url": "https://www.youtube.com/@knutjagersberg381/playlists",
+                "start": 49,
+                "url": "https://t.co/XFrvARyX4j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/knut-jägers…",
+                "end": 23,
+                "expanded_url": "https://www.linkedin.com/in/knut-jägersberg",
+                "start": 0,
+                "url": "https://t.co/4HZ8MR61IN"
+              }
+            ]
+          }
+        },
+        "id": "1010498049058201600",
+        "location": "Gronau, Germany",
+        "name": "Knut Jägersberg",
+        "pinned_tweet_id": "1896942380152242501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1416049148722360320/_fKe7C6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7093,
+          "following_count": 5981,
+          "like_count": 185544,
+          "listed_count": 133,
+          "media_count": 8329,
+          "tweet_count": 142007
+        },
+        "url": "https://t.co/4HZ8MR61IN",
+        "username": "JagersbergKnut",
+        "verified": false
+      }
+    ]
+  }
+}

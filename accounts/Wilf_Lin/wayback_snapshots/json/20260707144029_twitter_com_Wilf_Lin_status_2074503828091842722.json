@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2074503828091842722",
+    "created_at": "2026-07-07T14:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074503828091842722"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/blackanger/sta…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/blackanger/status/2074452254929912184",
+          "start": 55,
+          "url": "https://t.co/7f0yvVzUlA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074503828091842722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074452254929912184",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在一个20刀订阅的5h窗口内使用fable 5完成了一个完整的项目\n\n技巧在于让他把所有活丢给codex干 https://t.co/7f0yvVzUlA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2074503828091842722",
+        "created_at": "2026-07-07T14:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074503828091842722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/blackanger/sta…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/blackanger/status/2074452254929912184",
+              "start": 55,
+              "url": "https://t.co/7f0yvVzUlA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074503828091842722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074452254929912184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在一个20刀订阅的5h窗口内使用fable 5完成了一个完整的项目\n\n技巧在于让他把所有活丢给codex干 https://t.co/7f0yvVzUlA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "7755562",
+        "conversation_id": "2074452254929912184",
+        "created_at": "2026-07-07T11:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:05:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074449651064021414",
+          "2074452254929912184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/blackanger/sta…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/blackanger/status/2074255455468290416",
+              "start": 155,
+              "url": "https://t.co/udHzPUbB5R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074452254929912184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "交了 600 刀学费之后，我现在用 Fable 5 的成本，已经从以前一个任务 70 刀，降到了大约 2 刀/任务。\n\n这里面确实有一些技巧。X 上大家常说的方法，比如先让 Fable 做计划，再把耗 token 的机械活交给便宜模型，确实管用。但最关键的不是某个固定套路，而是你自己要明白：什么任务真的会耗 token，以及应该在什么时机提醒 Fable 5 调整策略。\n\n不要盲目用 subagent。Subagent 适合多个相互独立、边界清楚、可以并行验证的问题；如果任务依赖统一判断、共享上下文，或者最后仍然需要主模型逐条复核，那么 spawn、上下文打包、结果整合和冲突检查的成本，很容易抵消并行带来的收益。\n\n真正要学会的是区分「判断密集」和「token 密集」。\n\n对 Claude/GPT 这类模型来说，有些任务的瓶颈不在生成多少文字，而在每一句都要做正确取舍：判断需求边界、验收标准、约束优先级和整体一致性。这类任务就是判断密集，最好直接交给主模型 Fable 5，在同一个上下文里完成。\n\n而 token 密集任务通常是大量但相对机械的工作，比如扫很多文件、整理重复信息、批量改格式、生成 boilerplate、做初步分类。这类任务适合拆给 subagent 或便宜模型，因为各部分相对独立，最后汇总即可。\n\n模型可以很快产出文字，但高风险点往往在判断、约束、边界和一致性。越是核心交付，越应该由同一个上下文里的主模型亲自完成。\n\n最后一个原则：不要太相信 AI。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 8632,
+          "like_count": 40,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074255455468290416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "交了 600 刀学费之后，我现在用 Fable 5 的成本，已经从以前一个任务 70 刀，降到了大约 2 刀/任务。\n\n这里面确实有一些技巧。X 上大家常说的方法，比如先让 Fable 做计划，再把耗 token 的机械活交给便宜模型，确实管用。但最关键的不是某个固定套路，而是你自己要明白：什么任务真的会耗 https://t.co/udHzPUbB5R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 1896,
+          "like_count": 86297,
+          "listed_count": 3,
+          "media_count": 341,
+          "tweet_count": 8835
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2007-07-27T07:35:57.000Z",
+        "description": "System in Rust, Application in AI.\nSlow down. Have fun. Live well.\nINTJ-A. No ism.\nLifelong Programmer and Writer.\nStudy in Public, Building in Public.\n\n🦀 保命",
+        "id": "7755562",
+        "location": "Earth",
+        "name": "AlexZ 🦀",
+        "pinned_tweet_id": "2070807168807588090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588061971714256896/Rwi_kcm7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19886,
+          "following_count": 1667,
+          "like_count": 33032,
+          "listed_count": 316,
+          "media_count": 3287,
+          "tweet_count": 28346
+        },
+        "url": "",
+        "username": "blackanger",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2040353396419711327",
+    "created_at": "2026-04-04T17:37:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T18:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040483853538636157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1068613543384309760",
+          "start": 0,
+          "username": "HeLiuLeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040483853538636157",
+    "in_reply_to_user_id": "1068613543384309760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040353396419711327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HeLiuLeo 字节有点太低调了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2040353396419711327",
+        "created_at": "2026-04-04T17:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040483853538636157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1068613543384309760",
+              "start": 0,
+              "username": "HeLiuLeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040483853538636157",
+        "in_reply_to_user_id": "1068613543384309760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040353396419711327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HeLiuLeo 字节有点太低调了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1068613543384309760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2040353396419711327",
+        "created_at": "2026-04-04T08:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040353396419711327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040353396419711327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 53679,
+          "like_count": 146,
+          "quote_count": 5,
+          "reply_count": 84,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "中国AI公司里，最被低估的就是字节跳动。从智谱到Minimax、月之暗面，都是虾兵蟹将，不能打。百米赛跑只有前三重要，AI也是一样。字节跳动从芯片到模型都是世界顶级，资本支出预算充足，可人们居然极少谈论字节，相反整天都在谈Deepseek、开源、华为芯片、Openrouter这些根本不重要的东西，令我诧异。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 1163,
+          "like_count": 27847,
+          "listed_count": 4,
+          "media_count": 116,
+          "tweet_count": 6259
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-30T21:11:37.000Z",
+        "description": "Research Fellow @HooverInst. Host @ Peking Hotel & @Jifengbooks. 季风播客主持人. A polemicist grew up in China and UK, building a united front against bullshit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "HooverInst"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Jifengbooks"
+              }
+            ]
+          }
+        },
+        "id": "1068613543384309760",
+        "name": "何流 | Liu He",
+        "pinned_tweet_id": "1986224961074430046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455829354001289216/8tfy86vY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7639,
+          "following_count": 4366,
+          "like_count": 16821,
+          "listed_count": 82,
+          "media_count": 140,
+          "tweet_count": 4415
+        },
+        "username": "HeLiuLeo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2036161909691429106",
+    "created_at": "2026-03-23T21:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T22:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036194856490446983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1825243643529027584",
+          "start": 0,
+          "username": "scaling01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036194856490446983",
+    "in_reply_to_user_id": "1825243643529027584",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036161909691429106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scaling01 That's why it's cheap and fast"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2036161909691429106",
+        "created_at": "2026-03-23T21:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T22:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036194856490446983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1825243643529027584",
+              "start": 0,
+              "username": "scaling01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036194856490446983",
+        "in_reply_to_user_id": "1825243643529027584",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036161909691429106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scaling01 That's why it's cheap and fast"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825243643529027584",
+        "conversation_id": "2036161909691429106",
+        "created_at": "2026-03-23T19:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T20:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036161909691429106"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "GPT-",
+              "probability": 0.6469,
+              "start": 21,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036161909691429106",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 23770,
+          "like_count": 328,
+          "quote_count": 6,
+          "reply_count": 35,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "first time I see raw GPT-5.4 reasoning chains\n\nthey length-penalized it so hard that it doesn't generate grammatically correct sentences anymore\n\nit's just skipping a bunch of words"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 877,
+          "like_count": 19391,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 5808
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-18T18:50:26.000Z",
+        "description": "lead them to paradise\n\nhttps://t.co/IiP4VZlGU3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/voice-from-the…",
+                "end": 46,
+                "expanded_url": "https://github.com/voice-from-the-outer-world",
+                "start": 23,
+                "url": "https://t.co/IiP4VZlGU3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mein.online-impressum.de/scaling01/",
+                "end": 23,
+                "expanded_url": "https://mein.online-impressum.de/scaling01/",
+                "start": 0,
+                "url": "https://t.co/6LP0Dtq0Yv"
+              }
+            ]
+          }
+        },
+        "id": "1825243643529027584",
+        "name": "Lisan al Gaib",
+        "pinned_tweet_id": "2006774538990715280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831493788679761920/-q9w6dzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38271,
+          "following_count": 987,
+          "like_count": 40439,
+          "listed_count": 607,
+          "media_count": 4148,
+          "tweet_count": 18905
+        },
+        "url": "https://t.co/6LP0Dtq0Yv",
+        "username": "scaling01",
+        "verified": true
+      }
+    ]
+  }
+}

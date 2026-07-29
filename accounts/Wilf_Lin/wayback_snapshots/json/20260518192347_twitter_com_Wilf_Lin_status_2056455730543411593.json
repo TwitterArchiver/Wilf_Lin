@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157181954",
+          "name": "Hospitality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783337372406517762",
+          "name": "Online Services - Hospitality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10032901311",
+          "name": "Airbnb"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10032901311",
+          "name": "Airbnb"
+        }
+      },
+      {
+        "domain": {
+          "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+          "id": "163",
+          "name": "Travel"
+        },
+        "entity": {
+          "id": "1395109724786290690",
+          "name": "Travel accommodations "
+        }
+      }
+    ],
+    "conversation_id": "2056455730543411593",
+    "created_at": "2026-05-18T19:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T20:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056455730543411593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "147786784",
+          "start": 3,
+          "username": "yetone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056455730543411593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056452387171430672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yetone: 哈哈，不得不再分享一个我们的 Yansu App 的 aha moment！\n\n事情是这样的，上周我在给 Yansu 的 Memory 系统开发 Dream 功能：就是每天定时清理过期的、重复的、低质量的记忆，保证 Memory 系统里的记忆都是最新鲜和…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1760,
+        "media_key": "3_2056451927337304064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIn8IeKbgAAx7YQ.jpg",
+        "width": 2556
+      },
+      {
+        "height": 1760,
+        "media_key": "3_2056451985935884288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIn8L4da4AA3-Pu.jpg",
+        "width": 2556
+      },
+      {
+        "height": 1760,
+        "media_key": "3_2056452158053318656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIn8V5pagAAJNq4.jpg",
+        "width": 2556
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157181954",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337372406517762",
+              "name": "Online Services - Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10032901311",
+              "name": "Airbnb"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10032901311",
+              "name": "Airbnb"
+            }
+          },
+          {
+            "domain": {
+              "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+              "id": "163",
+              "name": "Travel"
+            },
+            "entity": {
+              "id": "1395109724786290690",
+              "name": "Travel accommodations "
+            }
+          }
+        ],
+        "conversation_id": "2056455730543411593",
+        "created_at": "2026-05-18T19:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056455730543411593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "147786784",
+              "start": 3,
+              "username": "yetone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056455730543411593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056452387171430672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yetone: 哈哈，不得不再分享一个我们的 Yansu App 的 aha moment！\n\n事情是这样的，上周我在给 Yansu 的 Memory 系统开发 Dream 功能：就是每天定时清理过期的、重复的、低质量的记忆，保证 Memory 系统里的记忆都是最新鲜和…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056451927337304064",
+            "3_2056451985935884288",
+            "3_2056452158053318656"
+          ]
+        },
+        "author_id": "147786784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157181954",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337372406517762",
+              "name": "Online Services - Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10032901311",
+              "name": "Airbnb"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10032901311",
+              "name": "Airbnb"
+            }
+          },
+          {
+            "domain": {
+              "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+              "id": "163",
+              "name": "Travel"
+            },
+            "entity": {
+              "id": "1395109724786290690",
+              "name": "Travel accommodations "
+            }
+          }
+        ],
+        "conversation_id": "2056452387171430672",
+        "created_at": "2026-05-18T19:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056452387171430672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HXCgWYDFGW",
+              "end": 198,
+              "expanded_url": "https://x.com/yetone/status/2056452387171430672/photo/1",
+              "media_key": "3_2056451927337304064",
+              "start": 175,
+              "url": "https://t.co/HXCgWYDFGW"
+            },
+            {
+              "display_url": "pic.x.com/HXCgWYDFGW",
+              "end": 198,
+              "expanded_url": "https://x.com/yetone/status/2056452387171430672/photo/1",
+              "media_key": "3_2056451985935884288",
+              "start": 175,
+              "url": "https://t.co/HXCgWYDFGW"
+            },
+            {
+              "display_url": "pic.x.com/HXCgWYDFGW",
+              "end": 198,
+              "expanded_url": "https://x.com/yetone/status/2056452387171430672/photo/1",
+              "media_key": "3_2056452158053318656",
+              "start": 175,
+              "url": "https://t.co/HXCgWYDFGW"
+            },
+            {
+              "display_url": "x.com/yetone/status/…",
+              "end": 222,
+              "expanded_url": "https://twitter.com/yetone/status/2055204767220355437",
+              "start": 199,
+              "url": "https://t.co/RhGNsg2RfJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056452387171430672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "哈哈，不得不再分享一个我们的 Yansu App 的 aha moment！\n\n事情是这样的，上周我在给 Yansu 的 Memory 系统开发 Dream 功能：就是每天定时清理过期的、重复的、低质量的记忆，保证 Memory 系统里的记忆都是最新鲜和最高质量的。\n\n结果到了周末我猛然发现 Yansu 通过它时刻记录的我的 activities 自动创建了一个叫做 daily-memory-cleanup 的 Automation，这个 Automation 的任务就是每天定时清理过期的记忆，而且已经成功跑了好几天了，重点的是它每次跑完都的确成功清理了过期的记忆，在某些体验上，甚至比我实现的那个 Dream 功能还好，因为它还会报告清理这些记忆的原因是什么。也就是说 Yansu 基于它记录的我的 activities 它自己完全自动地实现了一个可以正常工作的 mini 版本的 Dream 功能！\n\n这也是为什么 Yansu 的 Slogan 是：「Other AIs waits, Yansu ships. 」我们就是要做一个 proactive 的 Agent，我们在一定程度上已经真正实现了我们的愿景。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 703,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055204767220355437",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈，不得不再分享一个我们的 Yansu App 的 aha moment！\n\n事情是这样的，上周我在给 Yansu 的 Memory 系统开发 Dream 功能：就是每天定时清理过期的、重复的、低质量的记忆，保证 Memory 系统里的记忆都是最新鲜和最高质量的。\n\n结果到了周末我猛然发现 Yansu 通过它时刻记录的我的 activities https://t.co/HXCgWYDFGW https://t.co/RhGNsg2RfJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 1814,
+          "like_count": 63086,
+          "listed_count": 4,
+          "media_count": 296,
+          "tweet_count": 8460
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-25T01:52:30.000Z",
+        "description": "Work at @isoformai\n\nBuilt a Coding Agent for Vim: avante.nvim\n\nBuilding: https://t.co/pfq9srNgsd\n\nBuilding: https://t.co/fpGnPR5t9C\n\nBuilding: https://t.co/cBN1yzJPIG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "isoformai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "alma.now",
+                "end": 96,
+                "expanded_url": "https://alma.now",
+                "start": 73,
+                "url": "https://t.co/pfq9srNgsd"
+              },
+              {
+                "display_url": "confirmo.love",
+                "end": 131,
+                "expanded_url": "https://confirmo.love",
+                "start": 108,
+                "url": "https://t.co/fpGnPR5t9C"
+              },
+              {
+                "display_url": "swordgame.ai",
+                "end": 166,
+                "expanded_url": "https://swordgame.ai",
+                "start": 143,
+                "url": "https://t.co/cBN1yzJPIG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/yetone",
+                "end": 23,
+                "expanded_url": "https://github.com/yetone",
+                "start": 0,
+                "url": "https://t.co/KfyoeaqTKV"
+              }
+            ]
+          }
+        },
+        "id": "147786784",
+        "location": "无",
+        "name": "yetone",
+        "pinned_tweet_id": "1996646348964413572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458663772017491971/h1-KC--K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84327,
+          "following_count": 4526,
+          "like_count": 19290,
+          "listed_count": 1005,
+          "media_count": 2203,
+          "tweet_count": 19431
+        },
+        "url": "https://t.co/KfyoeaqTKV",
+        "username": "yetone",
+        "verified": true
+      }
+    ]
+  }
+}

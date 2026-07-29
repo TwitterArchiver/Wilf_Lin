@@ -1,0 +1,522 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Design",
+          "id": "847872720331079681",
+          "name": "Design"
+        }
+      }
+    ],
+    "conversation_id": "2076330709514629322",
+    "created_at": "2026-07-12T15:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T16:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076330709514629322"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/emilkowalski/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/emilkowalski/status/2075188252877672732",
+          "start": 4,
+          "url": "https://t.co/4SPjbwWrKS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076330709514629322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075188252877672732",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好东西 https://t.co/4SPjbwWrKS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Design",
+              "id": "847872720331079681",
+              "name": "Design"
+            }
+          }
+        ],
+        "conversation_id": "2076330709514629322",
+        "created_at": "2026-07-12T15:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076330709514629322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/emilkowalski/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/emilkowalski/status/2075188252877672732",
+              "start": 4,
+              "url": "https://t.co/4SPjbwWrKS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076330709514629322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075188252877672732",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好东西 https://t.co/4SPjbwWrKS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1255500442898964481",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Design",
+              "id": "847872720331079681",
+              "name": "Design"
+            }
+          }
+        ],
+        "conversation_id": "2075188252877672732",
+        "created_at": "2026-07-09T12:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075188252877672732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Skills for Design Engineers. Contribute to emilkowalski/skills development by creating an account on GitHub.",
+              "display_url": "github.com/emilkowalski/s…",
+              "end": 270,
+              "expanded_url": "http://github.com/emilkowalski/skills",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2074192347554865152/GqpRkqs3?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074192347554865152/GqpRkqs3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 247,
+              "status": 200,
+              "title": "GitHub - emilkowalski/skills: Skills for Design Engineers.",
+              "unwound_url": "https://github.com/emilkowalski/skills",
+              "url": "https://t.co/jCwhthpi20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075188252877672732",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22886,
+          "impression_count": 1895120,
+          "like_count": 12889,
+          "quote_count": 94,
+          "reply_count": 117,
+          "retweet_count": 900
+        },
+        "reply_settings": "everyone",
+        "text": "New skill: /apple-design\n\nApple’s WWDC videos are a goldmine of knowledge. I’ve combed through my favorite ones and came up with 17 design and motion principles.\n\nUse them to review existing work or when working on something new to get it right.\n\nhttps://t.co/jCwhthpi20"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 1907,
+          "like_count": 88351,
+          "listed_count": 3,
+          "media_count": 351,
+          "tweet_count": 8896
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-29T14:13:35.000Z",
+        "description": "Currently @linear,  https://t.co/uxXxCQx3aK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 10,
+                "username": "linear"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "animations.dev",
+                "end": 43,
+                "expanded_url": "https://animations.dev/",
+                "start": 20,
+                "url": "https://t.co/uxXxCQx3aK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "emilkowal.ski",
+                "end": 23,
+                "expanded_url": "http://emilkowal.ski",
+                "start": 0,
+                "url": "https://t.co/sFR78xS9QA"
+              }
+            ]
+          }
+        },
+        "id": "1255500442898964481",
+        "name": "Emil Kowalski",
+        "pinned_tweet_id": "1747257917919932905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1469017066795679751/CjEOyirb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78423,
+          "following_count": 118,
+          "like_count": 4474,
+          "listed_count": 824,
+          "media_count": 206,
+          "tweet_count": 850
+        },
+        "url": "https://t.co/sFR78xS9QA",
+        "username": "emilkowalski",
+        "verified": true
+      }
+    ]
+  }
+}

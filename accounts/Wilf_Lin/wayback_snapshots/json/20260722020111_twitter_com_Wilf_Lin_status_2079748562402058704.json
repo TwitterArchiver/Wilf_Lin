@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2079717394940088803",
+    "created_at": "2026-07-22T02:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T03:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079748562402058704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1365020011123773442",
+          "start": 0,
+          "username": "Teknium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079748562402058704",
+    "in_reply_to_user_id": "1365020011123773442",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079717394940088803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Teknium what harness are you on？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2079717394940088803",
+        "created_at": "2026-07-22T02:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T03:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079748562402058704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1365020011123773442",
+              "start": 0,
+              "username": "Teknium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079748562402058704",
+        "in_reply_to_user_id": "1365020011123773442",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079717394940088803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Teknium what harness are you on？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1365020011123773442",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2079717394940088803",
+        "created_at": "2026-07-21T23:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T00:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079717394940088803"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079717394940088803",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "One thing that kind of annoys me and I hope is solved soon is cheap and accurate long context.\n\nAfter testing GPT-5.6 Sol and Terra over the last few weeks, it's clear anthropic destroys everyone at long context coherence, and maybe cost(?). \n\nOpenAI charges I believe 2x for >350K ctx, but no point going there anyways, the models are complete failures at that point. I regularly use opus and fable at 800K+ and they feel as coherent and high quality as at 25K context.\n\nI havent thoroughly tested many other models at such lengths but really we are a long way in the general space it feels like outside of claude's at handling this well or cheaply.\n\nWhat ever happened to Magic .dev's 100M token contexts? Did this all just not work out"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 17247,
+          "like_count": 385,
+          "quote_count": 7,
+          "reply_count": 63,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "One thing that kind of annoys me and I hope is solved soon is cheap and accurate long context.\n\nAfter testing GPT-5.6 Sol and Terra over the last few weeks, it's clear anthropic destroys everyone at long context coherence, and maybe cost(?). \n\nOpenAI charges I believe 2x for"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 1961,
+          "like_count": 91261,
+          "listed_count": 3,
+          "media_count": 390,
+          "tweet_count": 9083
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-25T19:25:11.000Z",
+        "description": "Cofounder and Lead Engineer - Hermes Agent @NousResearch, prev @StabilityAI\nGithub: https://t.co/LZwHTUFwPq\nHuggingFace: https://t.co/sN2FFU8PVE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "NousResearch"
+              },
+              {
+                "end": 75,
+                "start": 63,
+                "username": "StabilityAI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/teknium1",
+                "end": 107,
+                "expanded_url": "http://github.com/teknium1",
+                "start": 84,
+                "url": "https://t.co/LZwHTUFwPq"
+              },
+              {
+                "display_url": "huggingface.co/teknium",
+                "end": 144,
+                "expanded_url": "http://huggingface.co/teknium",
+                "start": 121,
+                "url": "https://t.co/sN2FFU8PVE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sponsors/tekni…",
+                "end": 23,
+                "expanded_url": "http://github.com/sponsors/teknium1",
+                "start": 0,
+                "url": "https://t.co/7DnNfZEOPh"
+              }
+            ]
+          }
+        },
+        "id": "1365020011123773442",
+        "location": "USA",
+        "name": "Teknium 🪽",
+        "pinned_tweet_id": "2026760653743206502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642401912648777728/2KFikPsE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110332,
+          "following_count": 6193,
+          "like_count": 189522,
+          "listed_count": 1979,
+          "media_count": 3370,
+          "tweet_count": 66544
+        },
+        "url": "https://t.co/7DnNfZEOPh",
+        "username": "Teknium",
+        "verified": true
+      }
+    ]
+  }
+}

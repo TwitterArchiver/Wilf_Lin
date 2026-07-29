@@ -1,0 +1,549 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Data Science",
+          "id": "930484568305541120",
+          "name": "Data science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Design",
+          "id": "847872720331079681",
+          "name": "Design"
+        }
+      }
+    ],
+    "conversation_id": "2078046088385413467",
+    "created_at": "2026-07-17T09:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T10:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078046088385413467"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/arena/status/2…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/arena/status/2077824029126504525",
+          "start": 3,
+          "url": "https://t.co/OAyxBKfIuc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078046088385413467",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077824029126504525",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啥？ https://t.co/OAyxBKfIuc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4088,
+        "media_key": "3_2077823589617901568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXpi8UaIAAM6Ag.jpg",
+        "width": 4088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Data Science",
+              "id": "930484568305541120",
+              "name": "Data science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Design",
+              "id": "847872720331079681",
+              "name": "Design"
+            }
+          }
+        ],
+        "conversation_id": "2078046088385413467",
+        "created_at": "2026-07-17T09:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078046088385413467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/arena/status/2…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/arena/status/2077824029126504525",
+              "start": 3,
+              "url": "https://t.co/OAyxBKfIuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078046088385413467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077824029126504525",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啥？ https://t.co/OAyxBKfIuc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077823589617901568"
+          ]
+        },
+        "author_id": "1641378826537295874",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Data Science",
+              "id": "930484568305541120",
+              "name": "Data science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Design",
+              "id": "847872720331079681",
+              "name": "Design"
+            }
+          }
+        ],
+        "conversation_id": "2077824029126504525",
+        "created_at": "2026-07-16T18:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077824029126504525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1863959670169501696",
+              "start": 21,
+              "username": "Kimi_Moonshot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oa6teaQnWp",
+              "end": 314,
+              "expanded_url": "https://x.com/arena/status/2077824029126504525/photo/1",
+              "media_key": "3_2077823589617901568",
+              "start": 291,
+              "url": "https://t.co/Oa6teaQnWp"
+            },
+            {
+              "display_url": "x.com/Kimi_Moonshot/…",
+              "end": 338,
+              "expanded_url": "https://twitter.com/Kimi_Moonshot/status/2077821890207547467",
+              "start": 315,
+              "url": "https://t.co/YDN3BufGkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077824029126504525",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 35,
+                "id": "1863959670169501696",
+                "start": 21,
+                "username": "Kimi_Moonshot"
+              },
+              {
+                "end": 465,
+                "id": "1863959670169501696",
+                "start": 451,
+                "username": "Kimi_Moonshot"
+              }
+            ]
+          },
+          "text": "Big news: Kimi-K3 by @Kimi_Moonshot is now #1 in the Frontend Code Arena with 1679 pts, surpassing Claude Fable 5.\n\nThis is a 17-place jump from Kimi-k2.6 (#18 -> #1).\n\nIn Frontend, Kimi-K3 ranked #1 in 6 of 7 domains: Brand & Marketing, Reference-Based Design, Data & Analytics, Consumer Product, Simulations, and Content Creation Tools, landing #2 only in Gaming behind Fable 5.\n\nThe full model weights will be released by July 27.\n\nCongrats to the @Kimi_Moonshot team on this major milestone!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5423,
+          "impression_count": 8358968,
+          "like_count": 18677,
+          "quote_count": 2342,
+          "reply_count": 729,
+          "retweet_count": 2592
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077821890207547467",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Big news: Kimi-K3 by @Kimi_Moonshot is now #1 in the Frontend Code Arena with 1679 pts, surpassing Claude Fable 5.\n\nThis is a 17-place jump from Kimi-k2.6 (#18 -&gt; #1).\n\nIn Frontend, Kimi-K3 ranked #1 in 6 of 7 domains: Brand &amp; Marketing, Reference-Based Design, Data &amp; Analytics, https://t.co/Oa6teaQnWp https://t.co/YDN3BufGkC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 1938,
+          "like_count": 89953,
+          "listed_count": 3,
+          "media_count": 369,
+          "tweet_count": 8975
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-30T09:56:38.000Z",
+        "description": "Where AI meets the real world. Formerly LMArena. We measure and advance the frontier of AI through community-driven evaluation. We’re hiring → https://t.co/XBZCrseaWF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "arena.ai/jobs",
+                "end": 166,
+                "expanded_url": "http://arena.ai/jobs",
+                "start": 143,
+                "url": "https://t.co/XBZCrseaWF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arena.ai",
+                "end": 23,
+                "expanded_url": "https://arena.ai",
+                "start": 0,
+                "url": "https://t.co/e6ZOLLZ9N1"
+              }
+            ]
+          }
+        },
+        "id": "1641378826537295874",
+        "location": "US",
+        "name": "Arena.ai",
+        "pinned_tweet_id": "2062565126600114484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017015061454438400/iNKfXZ_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187458,
+          "following_count": 217,
+          "like_count": 2582,
+          "listed_count": 2275,
+          "media_count": 1551,
+          "tweet_count": 3516
+        },
+        "url": "https://t.co/e6ZOLLZ9N1",
+        "username": "arena",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2030048241778327750",
+    "created_at": "2026-03-07T07:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T08:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030185417824244043"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 70,
+          "normalized_text": "shell",
+          "probability": 0.6764,
+          "start": 66,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1943555851173646337",
+          "start": 0,
+          "username": "UtryddelseX"
+        },
+        {
+          "end": 26,
+          "id": "1525723727941361664",
+          "start": 13,
+          "username": "app_settings"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030185417824244043",
+    "in_reply_to_user_id": "1943555851173646337",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030056774787551317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UtryddelseX @app_settings how about screen keyboard trackpad and shell"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2030048241778327750",
+        "created_at": "2026-03-07T07:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T08:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030185417824244043"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 70,
+              "normalized_text": "shell",
+              "probability": 0.6764,
+              "start": 66,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943555851173646337",
+              "start": 0,
+              "username": "UtryddelseX"
+            },
+            {
+              "end": 26,
+              "id": "1525723727941361664",
+              "start": 13,
+              "username": "app_settings"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030185417824244043",
+        "in_reply_to_user_id": "1943555851173646337",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030056774787551317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UtryddelseX @app_settings how about screen keyboard trackpad and shell"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943555851173646337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743196",
+              "name": "Forza"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743196",
+              "name": "Forza"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898463822381057",
+              "name": "Racing games"
+            }
+          }
+        ],
+        "conversation_id": "2030048241778327750",
+        "created_at": "2026-03-06T23:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T00:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030056774787551317"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "Acer Nitro V",
+              "probability": 0.5963,
+              "start": 14,
+              "type": "Other"
+            },
+            {
+              "end": 85,
+              "normalized_text": "Neo",
+              "probability": 0.5237,
+              "start": 83,
+              "type": "Other"
+            },
+            {
+              "end": 162,
+              "normalized_text": "USB C",
+              "probability": 0.3884,
+              "start": 158,
+              "type": "Other"
+            },
+            {
+              "end": 230,
+              "normalized_text": "NoobAI",
+              "probability": 0.6909,
+              "start": 225,
+              "type": "Other"
+            },
+            {
+              "end": 262,
+              "normalized_text": "UEFI",
+              "probability": 0.462,
+              "start": 259,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1525723727941361664",
+              "start": 0,
+              "username": "app_settings"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030056774787551317",
+        "in_reply_to_user_id": "1525723727941361664",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7249,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030048241778327750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@app_settings Acer Nitro V.\n\n350€.\nRTX 4050.\n14 cores.\n12 hours of battery life vs Neo’s 11.\nKeyboard, touchpad etc aren’t shit.\nInstall any OS.\nSupports any USB C charger from 60W to 240W.\n16GB REAL DDR5, NOT fake.\n2it/s in NoobAI.\nRuns FH5 in 4K144HZ.\nBios/UEFI.\n\nFrom a FUCKING ACER."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 730,
+          "like_count": 13107,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 5217
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-11T06:20:34.000Z",
+        "description": "Hi, I have a generic Bio because Grok keeps accidentally reading my Bio when trying to analyze my posts.",
+        "id": "1943555851173646337",
+        "name": "Menneskelig Utryddelse",
+        "pinned_tweet_id": "1960610196482404796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943556526821572608/dkAPpCp5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 29,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 672
+        },
+        "username": "UtryddelseX",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T06:24:34.000Z",
+        "description": "the settings app from macOS! (irl, i’m an 18 year old ui/ux designer and tech enthusiast) • follow for tech & design!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/thesettingsapp",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/thesettingsapp",
+                "start": 0,
+                "url": "https://t.co/LPIko0hcgi"
+              }
+            ]
+          }
+        },
+        "id": "1525723727941361664",
+        "name": "System Settings",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967639425095176201/1Gt73fOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46873,
+          "following_count": 249,
+          "like_count": 38880,
+          "listed_count": 150,
+          "media_count": 4520,
+          "tweet_count": 29084
+        },
+        "url": "https://t.co/LPIko0hcgi",
+        "username": "app_settings",
+        "verified": true
+      }
+    ]
+  }
+}

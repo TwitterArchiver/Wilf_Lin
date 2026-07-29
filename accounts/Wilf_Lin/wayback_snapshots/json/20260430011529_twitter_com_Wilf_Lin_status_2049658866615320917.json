@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2049510950001414179",
+    "created_at": "2026-04-30T01:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T02:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049658866615320917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1877440800",
+          "start": 0,
+          "username": "li9292"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049658866615320917",
+    "in_reply_to_user_id": "1877440800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049510950001414179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li9292 开个terminal跑个caffeinate"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2049510950001414179",
+        "created_at": "2026-04-30T01:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049658866615320917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1877440800",
+              "start": 0,
+              "username": "li9292"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049658866615320917",
+        "in_reply_to_user_id": "1877440800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049510950001414179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li9292 开个terminal跑个caffeinate"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877440800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2049510950001414179",
+        "created_at": "2026-04-29T15:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049510950001414179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexfinn/statu…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/alexfinn/status/2043900482155098212",
+              "start": 91,
+              "url": "https://t.co/NKRc2WWjrS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049510950001414179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 752,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043900482155098212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实我没有在vps上安装任何agent\n因为本韭二被vps复杂度完全搞懵\n不过到底有什么好的办法可以让\nMac一直不休眠状态\n我感觉我自己没有出现过类似得情况呀\n为什么大家要用软件 https://t.co/NKRc2WWjrS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 1739,
+          "like_count": 51935,
+          "listed_count": 4,
+          "media_count": 241,
+          "tweet_count": 7668
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2013-09-18T00:52:13.000Z",
+        "description": "🤡亏过500万 → 现在用AI认真搞钱 💸\n🤖OpenClaw & Claude AI深度用户分享亲测AI技巧\n🎤前新东方老师 · 讲过脱口秀 ·祖传三代文科生\n📍从0到100搭建AI工作流\n李韭二 @lijiuer9888 微信同号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "lijiuer9888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "evermind.ai",
+                "end": 23,
+                "expanded_url": "https://evermind.ai/",
+                "start": 0,
+                "url": "https://t.co/9lRYy7O4h7"
+              }
+            ]
+          }
+        },
+        "id": "1877440800",
+        "location": "Hong Kong",
+        "name": "李韭二",
+        "pinned_tweet_id": "2042922136897990866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958447835365707776/pezBwxG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8416,
+          "following_count": 745,
+          "like_count": 8007,
+          "listed_count": 78,
+          "media_count": 309,
+          "tweet_count": 3814
+        },
+        "url": "https://t.co/9lRYy7O4h7",
+        "username": "li9292",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2048399621492236615",
+    "created_at": "2026-04-26T18:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T19:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048476730680082604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "48008938",
+          "start": 0,
+          "username": "ylecun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048476730680082604",
+    "in_reply_to_user_id": "48008938",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048399621492236615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ylecun LAMO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2048399621492236615",
+        "created_at": "2026-04-26T18:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T19:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048476730680082604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "48008938",
+              "start": 0,
+              "username": "ylecun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048476730680082604",
+        "in_reply_to_user_id": "48008938",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048399621492236615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ylecun LAMO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "48008938",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The Republican National Convention is about to convene in Milwaukee to nominate President Donald J. Trump! Tune in live on X starting July 15th at 6pm CT to watch LIVE as we unite for a stronger America!",
+              "id": "1811085126010281984",
+              "name": "2024 Republican National Convention"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2048399621492236615",
+        "created_at": "2026-04-26T13:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048399621492236615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NewsfromScienc…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/NewsfromScience/status/2048167923361996810",
+              "start": 79,
+              "url": "https://t.co/3FW2kt2bkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048399621492236615",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 171,
+          "impression_count": 267328,
+          "like_count": 3025,
+          "quote_count": 16,
+          "reply_count": 121,
+          "retweet_count": 412
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048167923361996810",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Shooting oneself in the foot?\nNope.\nShooting oneself in the prefrontal cortex. https://t.co/3FW2kt2bkj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 1701,
+          "like_count": 49662,
+          "listed_count": 3,
+          "media_count": 233,
+          "tweet_count": 7528
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-17T16:05:51.000Z",
+        "description": "Professor at NYU & Executive Chairman at AMI Labs. \nEx-Chief AI Scientist at Meta.\nResearcher in AI, Machine Learning, Robotics, etc.\nACM Turing Award Laureate.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yann.lecun.com",
+                "end": 23,
+                "expanded_url": "http://yann.lecun.com",
+                "start": 0,
+                "url": "https://t.co/POp7IBHfXy"
+              }
+            ]
+          }
+        },
+        "id": "48008938",
+        "location": "New York",
+        "name": "Yann LeCun",
+        "pinned_tweet_id": "1862598063275061484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139304,
+          "following_count": 783,
+          "like_count": 28759,
+          "listed_count": 15655,
+          "media_count": 462,
+          "tweet_count": 25959
+        },
+        "url": "https://t.co/POp7IBHfXy",
+        "username": "ylecun",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2050427808456077541",
+    "created_at": "2026-05-02T04:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T05:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050434769272418377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3102051970",
+          "start": 0,
+          "username": "Theoladeledada"
+        },
+        {
+          "end": 21,
+          "id": "1605",
+          "start": 16,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050434769272418377",
+    "in_reply_to_user_id": "3102051970",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050431997911167127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Theoladeledada @sama jusr make a skill"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2050427808456077541",
+        "created_at": "2026-05-02T04:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050434769272418377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3102051970",
+              "start": 0,
+              "username": "Theoladeledada"
+            },
+            {
+              "end": 21,
+              "id": "1605",
+              "start": 16,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050434769272418377",
+        "in_reply_to_user_id": "3102051970",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050431997911167127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Theoladeledada @sama jusr make a skill"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3102051970",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2050427808456077541",
+        "created_at": "2026-05-02T04:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050431997911167127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1605",
+              "start": 0,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050431997911167127",
+        "in_reply_to_user_id": "1605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050427808456077541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama Can we have a Gpt dedicated to African cultures? Speaks our languages well and the model is based on how Africans react?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 1758,
+          "like_count": 53785,
+          "listed_count": 4,
+          "media_count": 247,
+          "tweet_count": 7750
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2015-03-21T15:32:32.000Z",
+        "description": "Saddest days of my life - 11.04.2024 & 14.07.2024 🕊️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kreateng.com",
+                "end": 23,
+                "expanded_url": "http://kreateng.com",
+                "start": 0,
+                "url": "https://t.co/9QaUA7YJzL"
+              }
+            ]
+          }
+        },
+        "id": "3102051970",
+        "location": "Nigeria",
+        "name": "Ọládélé 🇳🇬👑",
+        "pinned_tweet_id": "2024113983939043490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603539679055331329/6rbN9fv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167936,
+          "following_count": 13420,
+          "like_count": 41618,
+          "listed_count": 143,
+          "media_count": 31280,
+          "tweet_count": 121661
+        },
+        "url": "https://t.co/9QaUA7YJzL",
+        "username": "Theoladeledada",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4747136,
+          "following_count": 1011,
+          "like_count": 1020,
+          "listed_count": 28599,
+          "media_count": 390,
+          "tweet_count": 7642
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

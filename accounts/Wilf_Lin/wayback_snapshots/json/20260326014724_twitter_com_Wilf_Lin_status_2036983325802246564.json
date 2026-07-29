@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2036980052093702215",
+    "created_at": "2026-03-26T01:47:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T02:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036983325802246564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1071224721046261760",
+          "start": 0,
+          "username": "karminski3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036983325802246564",
+    "in_reply_to_user_id": "1071224721046261760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036980052093702215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karminski3 这不就qwen 3.5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1177,
+        "media_key": "3_2036979873101864960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HETOZvbbYAAPJVQ.jpg",
+        "width": 1177
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2036980052093702215",
+        "created_at": "2026-03-26T01:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T02:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036983325802246564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1071224721046261760",
+              "start": 0,
+              "username": "karminski3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036983325802246564",
+        "in_reply_to_user_id": "1071224721046261760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036980052093702215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karminski3 这不就qwen 3.5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036979873101864960"
+          ]
+        },
+        "author_id": "1071224721046261760",
+        "conversation_id": "2036980052093702215",
+        "created_at": "2026-03-26T01:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T02:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036980052093702215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kfpPGAD6xv",
+              "end": 202,
+              "expanded_url": "https://x.com/karminski3/status/2036980052093702215/photo/1",
+              "media_key": "3_2036979873101864960",
+              "start": 179,
+              "url": "https://t.co/kfpPGAD6xv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036980052093702215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "立个FLAG, 今年下半年应该是多模态Agent之年. \n\n龙虾(openclaw)这类的Agent框架本身system prompt 巨大无比 + 多轮对话积累的 prompt + 图片/视频模态本身嵌入后 token 量也不小, 所以目前最大的瓶颈反而又回到了 prefill 速度上, 即, 真正拼GPU性能的时代又回来了.\n\nTFLOPS/TOPS 性能不够的情况下，多模态Agent的TTFT会非常长(10s以上), 导致完全不可用, 厂商会被迫压缩多模态模型的尺寸, 预测一波又会有一大堆新的 omni 模型出来了. 主打日常办事, 数学/代码能力不高, 但是多模态和Agent能力爆表且搭配极端注意力机制 (线性注意力/mHC/AttnRes)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 327,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "立个FLAG, 今年下半年应该是多模态Agent之年. \n\n龙虾(openclaw)这类的Agent框架本身system prompt 巨大无比 + 多轮对话积累的 prompt + 图片/视频模态本身嵌入后 token 量也不小, 所以目前最大的瓶颈反而又回到了 prefill 速度上, 即, 真正拼GPU性能的时代又回来了.\n\nTFLOPS/TOPS https://t.co/kfpPGAD6xv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 924,
+          "like_count": 21006,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 5940
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-08T02:07:30.000Z",
+        "description": "A coder, road bike rider, server fortune teller, electronic waste collector, co-founder of KCORES, ex-director at IllaSoft, KingsoftOffice, Juejin.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kcores.com",
+                "end": 23,
+                "expanded_url": "https://kcores.com",
+                "start": 0,
+                "url": "https://t.co/LWSjN208w4"
+              }
+            ]
+          }
+        },
+        "id": "1071224721046261760",
+        "location": "Asia/Beijing",
+        "name": "karminski-牙医",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1071225168360427520/2tY0hY6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33975,
+          "following_count": 1512,
+          "like_count": 2071,
+          "listed_count": 535,
+          "media_count": 2627,
+          "tweet_count": 4543
+        },
+        "url": "https://t.co/LWSjN208w4",
+        "username": "karminski3",
+        "verified": true
+      }
+    ]
+  }
+}

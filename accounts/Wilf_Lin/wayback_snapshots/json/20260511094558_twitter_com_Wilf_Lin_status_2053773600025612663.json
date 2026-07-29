@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2053759446191640609",
+    "created_at": "2026-05-11T09:45:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T10:45:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053773600025612663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "28530405",
+          "start": 0,
+          "username": "manateelazycat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053773600025612663",
+    "in_reply_to_user_id": "28530405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053759446191640609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manateelazycat 硬件图形加速用的什么方案"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 99689,
+        "height": 1280,
+        "media_key": "13_2053759336971997184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053759336971997184/img/fsFMus_CNtyV1AaM.jpg",
+        "public_metrics": {
+          "view_count": 475
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053759336971997184/vid/avc1/320x568/9Dtm1jRLqZk-NiIv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053759336971997184/vid/avc1/480x852/fkr3Gesf4tZE4MTh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053759336971997184/vid/avc1/720x1280/-YGeJx6ZuIQ91IwO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053759336971997184/pl/xWBck69_APXRODvJ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2053759446191640609",
+        "created_at": "2026-05-11T09:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053773600025612663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "28530405",
+              "start": 0,
+              "username": "manateelazycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053773600025612663",
+        "in_reply_to_user_id": "28530405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053759446191640609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manateelazycat 硬件图形加速用的什么方案"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053759336971997184"
+          ]
+        },
+        "author_id": "28530405",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042866033",
+              "name": "VMware"
+            }
+          }
+        ],
+        "conversation_id": "2053759446191640609",
+        "created_at": "2026-05-11T08:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053759446191640609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/07hfqX6nGZ",
+              "end": 174,
+              "expanded_url": "https://x.com/manateelazycat/status/2053759446191640609/video/1",
+              "media_key": "13_2053759336971997184",
+              "start": 151,
+              "url": "https://t.co/07hfqX6nGZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053759446191640609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天问公司研发大佬Windows虚拟机软件进度，结果他造了一个云电脑😅\n\n有些用户一直想要一款支持多 Windows 版本的虚拟机软件，完全用鼠标点两下就可以使用的那种。\n\n我特别理解，大家其实就是想要一个简易版的 vmware。\n\n今天找研发大佬确认了一下，他们其实做出来了，但是一直没有二次推进，\n主要原因是越做越想把它做得完美，所以把它实现的越来越像专业级的 vmware 了。\n而界面本身没有做特别多的优化，导致觉得界面上拿不出手，就一直放在仓库自己本地使用。\n\n我看到这么好的效果，等不及了，直接录给大家看。\n最牛逼的在于，他把虚拟机的访问方式做到了浏览器里面\n这意味着你制作好的虚拟机成果，直接分享链接就可以给你的同事使用。\n\n重要的事情说三遍：\n你创建好的Windows虚拟机，可以一条链接分享给同事\n你创建好的Windows虚拟机，可以一条链接分享给同事\n你创建好的Windows虚拟机，可以一条链接分享给同事\n\n这不就是妥妥的私有云电脑吗？微服还是太强大了\n懒猫微服硬件强、性价比高、软件功能多、服务好，这么牛逼的软件，老板们下单一定要说具体想法\n\n说我想要哪个功能，我们就立减优惠，主打一个你主动我们必须安排优惠哈哈哈哈哈"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1078,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天问公司研发大佬Windows虚拟机软件进度，结果他造了一个云电脑😅\n\n有些用户一直想要一款支持多 Windows 版本的虚拟机软件，完全用鼠标点两下就可以使用的那种。\n\n我特别理解，大家其实就是想要一个简易版的 vmware。\n\n今天找研发大佬确认了一下，他们其实做出来了，但是一直没有二次推进， https://t.co/07hfqX6nGZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 1798,
+          "like_count": 58721,
+          "listed_count": 4,
+          "media_count": 280,
+          "tweet_count": 8254
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-03T09:01:38.000Z",
+        "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lazycat.cloud",
+                "end": 64,
+                "expanded_url": "https://lazycat.cloud/",
+                "start": 41,
+                "url": "https://t.co/KVqgWHE3yR"
+              },
+              {
+                "display_url": "x.com/manateelazycat…",
+                "end": 97,
+                "expanded_url": "https://x.com/manateelazycat/status/1970815014861930775",
+                "start": 74,
+                "url": "https://t.co/SF9p24C2IS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manateelazycat.github.io",
+                "end": 23,
+                "expanded_url": "https://manateelazycat.github.io",
+                "start": 0,
+                "url": "https://t.co/twDx1tx1YW"
+              }
+            ]
+          }
+        },
+        "id": "28530405",
+        "location": "China",
+        "name": "Andy Stewart",
+        "pinned_tweet_id": "2039939966281920843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53013,
+          "following_count": 319,
+          "like_count": 20073,
+          "listed_count": 375,
+          "media_count": 7539,
+          "tweet_count": 55062
+        },
+        "url": "https://t.co/twDx1tx1YW",
+        "username": "manateelazycat",
+        "verified": true
+      }
+    ]
+  }
+}

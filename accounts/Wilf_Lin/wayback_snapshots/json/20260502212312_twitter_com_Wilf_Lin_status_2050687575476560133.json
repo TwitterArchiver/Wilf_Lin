@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2050485064396358006",
+    "created_at": "2026-05-02T21:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T22:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050687575476560133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1922297466566934532",
+          "start": 0,
+          "username": "lhong001"
+        },
+        {
+          "end": 23,
+          "id": "1596695231717871616",
+          "start": 10,
+          "username": "dontbesilent"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20504…",
+          "end": 52,
+          "expanded_url": "https://x.com/i/status/2050460618017157529",
+          "start": 29,
+          "url": "https://t.co/ZCbg9r9ysz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050687575476560133",
+    "in_reply_to_user_id": "1922297466566934532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050460618017157529",
+        "type": "quoted"
+      },
+      {
+        "id": "2050552322292645987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lhong001 @dontbesilent 现在就可以https://t.co/ZCbg9r9ysz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 53333,
+        "height": 1920,
+        "media_key": "7_2050460599545405440",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050460599545405440/pu/img/igxydkjPIbqKAd0u.jpg",
+        "public_metrics": {
+          "view_count": 467
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050460599545405440/pu/vid/avc1/320x706/Ti5xlr6NVgtvsTz3.mp4?tag=25"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050460599545405440/pu/vid/avc1/868x1920/Y5vZNl87RmYnNxWT.mp4?tag=25"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050460599545405440/pu/pl/VwyKIuNhKnHZ8Tor.m3u8?tag=25"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050460599545405440/pu/vid/avc1/480x1060/QsdUuYG_PXhJV5gN.mp4?tag=25"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050460599545405440/pu/vid/avc1/720x1592/B8_aGuXqlTSwwaBP.mp4?tag=25"
+          }
+        ],
+        "width": 868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2050485064396358006",
+        "created_at": "2026-05-02T21:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T22:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050687575476560133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1922297466566934532",
+              "start": 0,
+              "username": "lhong001"
+            },
+            {
+              "end": 23,
+              "id": "1596695231717871616",
+              "start": 10,
+              "username": "dontbesilent"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20504…",
+              "end": 52,
+              "expanded_url": "https://x.com/i/status/2050460618017157529",
+              "start": 29,
+              "url": "https://t.co/ZCbg9r9ysz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050687575476560133",
+        "in_reply_to_user_id": "1922297466566934532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050460618017157529",
+            "type": "quoted"
+          },
+          {
+            "id": "2050552322292645987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lhong001 @dontbesilent 现在就可以https://t.co/ZCbg9r9ysz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050460599545405440"
+          ]
+        },
+        "author_id": "1554803647909097472",
+        "conversation_id": "2050460618017157529",
+        "created_at": "2026-05-02T06:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050460618017157529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/gfhdhytghd/cod",
+              "end": 103,
+              "expanded_url": "http://github.com/gfhdhytghd/cod",
+              "start": 80,
+              "status": 404,
+              "unwound_url": "https://github.com/gfhdhytghd/cod",
+              "url": "https://t.co/jpIP4ibnCC"
+            },
+            {
+              "display_url": "pic.x.com/tKNJSEOgzn",
+              "end": 128,
+              "expanded_url": "https://x.com/Wilf_Lin/status/2050460618017157529/video/1",
+              "media_key": "7_2050460599545405440",
+              "start": 105,
+              "url": "https://t.co/tKNJSEOgzn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050460618017157529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1059,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我开了个claude to im的fork并针对codex和飞书进行了优化\n主要利用动态卡片消息和app server的能力，做到了实时消息推送和打断式引导\n\nhttps://t.co/jpIP4ibnCC… https://t.co/tKNJSEOgzn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922297466566934532",
+        "conversation_id": "2050485064396358006",
+        "created_at": "2026-05-02T12:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050552322292645987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1596695231717871616",
+              "start": 0,
+              "username": "dontbesilent"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050552322292645987",
+        "in_reply_to_user_id": "1596695231717871616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1489,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050485064396358006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dontbesilent 什么时候可以对接飞书，就真的厉害了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 1762,
+          "like_count": 54063,
+          "listed_count": 4,
+          "media_count": 248,
+          "tweet_count": 7771
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-13T14:26:57.000Z",
+        "description": "40+的老登， 10 年媒体人，8 年小厂 PM，现在 Ai 自由人。不为别的就为了做点自己喜欢的。  ps：别扛，你说的啥都对",
+        "id": "1922297466566934532",
+        "name": "lhong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008192310748557312/_LsSTI3w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 264,
+          "like_count": 28,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 766
+        },
+        "username": "lhong001",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-27T02:39:52.000Z",
+        "description": "💡 商业哲学爱好者\n📱 抖音/小红书/视频号：dontbesilent 聊赚钱\n🎟️ 6.12 广州线下课，微信 DBsilent",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.douyin.com/tpvq1fYuG6s/",
+                "end": 23,
+                "expanded_url": "https://v.douyin.com/tpvq1fYuG6s/",
+                "start": 0,
+                "url": "https://t.co/bWQO8Ru6nw"
+              }
+            ]
+          }
+        },
+        "id": "1596695231717871616",
+        "name": "dontbesilent",
+        "pinned_tweet_id": "2050231248254103808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77921,
+          "following_count": 1255,
+          "like_count": 11082,
+          "listed_count": 775,
+          "media_count": 1730,
+          "tweet_count": 15494
+        },
+        "url": "https://t.co/bWQO8Ru6nw",
+        "username": "dontbesilent",
+        "verified": true
+      }
+    ]
+  }
+}

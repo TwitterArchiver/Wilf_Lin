@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2032063905321652719",
+    "created_at": "2026-03-13T03:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T04:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032296871985635672"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 48,
+          "normalized_text": "Mac",
+          "probability": 0.3705,
+          "start": 46,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1601374154",
+          "start": 0,
+          "username": "GregoryMcFadden"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032296871985635672",
+    "in_reply_to_user_id": "1601374154",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032063905321652719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GregoryMcFadden There should be a 249 or 299 Mac neo in the future"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1954,
+        "media_key": "3_2032063901605494784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNXWigXAAAt5fq.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2032063905321652719",
+        "created_at": "2026-03-13T03:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T04:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032296871985635672"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "Mac",
+              "probability": 0.3705,
+              "start": 46,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1601374154",
+              "start": 0,
+              "username": "GregoryMcFadden"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032296871985635672",
+        "in_reply_to_user_id": "1601374154",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032063905321652719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GregoryMcFadden There should be a 249 or 299 Mac neo in the future"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032063901605494784"
+          ]
+        },
+        "author_id": "1601374154",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2032063905321652719",
+        "created_at": "2026-03-12T11:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032063905321652719"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Neo",
+              "probability": 0.7062,
+              "start": 4,
+              "type": "Organization"
+            },
+            {
+              "end": 33,
+              "normalized_text": "Apple",
+              "probability": 0.9138,
+              "start": 29,
+              "type": "Organization"
+            },
+            {
+              "end": 55,
+              "normalized_text": "Mac",
+              "probability": 0.6586,
+              "start": 53,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I8p0hXRkQO",
+              "end": 100,
+              "expanded_url": "https://x.com/GregoryMcFadden/status/2032063905321652719/photo/1",
+              "media_key": "3_2032063901605494784",
+              "start": 77,
+              "url": "https://t.co/I8p0hXRkQO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032063905321652719",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 500715,
+          "like_count": 3547,
+          "quote_count": 21,
+          "reply_count": 72,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "The Neo made me realize that Apple could make a $129 Mac if they wanted to 😭 https://t.co/I8p0hXRkQO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 762,
+          "like_count": 14783,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 5388
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-17T16:46:41.000Z",
+        "description": "Official Twitter of GregsGadgets | Internet Soldier | Host of GadgetCast | Werther’s Original Influencer | Contact: business@gregsgadgets.net",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/GregsGadgets",
+                "end": 23,
+                "expanded_url": "http://youtube.com/GregsGadgets",
+                "start": 0,
+                "url": "https://t.co/MrnZDDyOGE"
+              }
+            ]
+          }
+        },
+        "id": "1601374154",
+        "location": "New York, USA",
+        "name": "GregsGadgets",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1488287395199991815/bRvRj7Dm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12259,
+          "following_count": 428,
+          "like_count": 29029,
+          "listed_count": 141,
+          "media_count": 6700,
+          "tweet_count": 27026
+        },
+        "url": "https://t.co/MrnZDDyOGE",
+        "username": "GregoryMcFadden",
+        "verified": true
+      }
+    ]
+  }
+}

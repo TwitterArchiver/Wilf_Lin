@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2073551262197625254",
+    "created_at": "2026-07-05T09:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T10:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073693387354677444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "74064214",
+          "start": 0,
+          "username": "mrbleem_eth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073693387354677444",
+    "in_reply_to_user_id": "74064214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073551262197625254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrbleem_eth 开个排序的数组遍历一遍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2073551262197625254",
+        "created_at": "2026-07-05T09:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073693387354677444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "74064214",
+              "start": 0,
+              "username": "mrbleem_eth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073693387354677444",
+        "in_reply_to_user_id": "74064214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073551262197625254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrbleem_eth 开个排序的数组遍历一遍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "74064214",
+        "conversation_id": "2073551262197625254",
+        "created_at": "2026-07-04T23:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T00:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073551262197625254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wsl8297/status…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/wsl8297/status/2073312359301742700",
+              "start": 113,
+              "url": "https://t.co/mF8cngq6pK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073551262197625254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6417,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073312359301742700",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同样这个题，问问大家，下述四种答案你们认为谁是最佳候选人（注意是候选人，不单纯指算法）\na) 快排，找前十\nb) 建数组，for循环扫一遍，每次和数组里比，找出前十\nc) timsort来排，找前十\nd) 都不对，我还有妙计 https://t.co/mF8cngq6pK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 1881,
+          "like_count": 85102,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 8806
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2009-09-14T03:57:25.000Z",
+        "description": "一事无成",
+        "id": "74064214",
+        "location": "瓦坎达",
+        "name": "克斯马",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854461099221139456/MMyjd2hg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31478,
+          "following_count": 869,
+          "like_count": 2827,
+          "listed_count": 248,
+          "media_count": 1872,
+          "tweet_count": 68995
+        },
+        "url": "",
+        "username": "mrbleem_eth",
+        "verified": false
+      }
+    ]
+  }
+}

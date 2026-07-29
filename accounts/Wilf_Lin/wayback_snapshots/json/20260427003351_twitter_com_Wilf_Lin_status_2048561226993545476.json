@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2048465248814850129",
+    "created_at": "2026-04-27T00:33:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T01:33:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048561226993545476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3431572810",
+          "start": 0,
+          "username": "k1rallik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048561226993545476",
+    "in_reply_to_user_id": "3431572810",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048465248814850129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k1rallik you can’t use 5.5 pro with 20$."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 763,
+        "media_key": "3_2048465085300097024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2cJFAaQAARIGC.png",
+        "width": 667
+      },
+      {
+        "height": 784,
+        "media_key": "3_2048465105889996800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2cKRtbMAAJ2Nv.png",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2048465248814850129",
+        "created_at": "2026-04-27T00:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T01:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048561226993545476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3431572810",
+              "start": 0,
+              "username": "k1rallik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048561226993545476",
+        "in_reply_to_user_id": "3431572810",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048465248814850129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k1rallik you can’t use 5.5 pro with 20$."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048465085300097024",
+            "3_2048465105889996800"
+          ]
+        },
+        "author_id": "3431572810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2048465248814850129",
+        "created_at": "2026-04-26T18:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T19:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048465248814850129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6iblXTUjWd",
+              "end": 302,
+              "expanded_url": "https://x.com/k1rallik/status/2048465248814850129/photo/1",
+              "media_key": "3_2048465085300097024",
+              "start": 279,
+              "url": "https://t.co/6iblXTUjWd"
+            },
+            {
+              "display_url": "pic.x.com/6iblXTUjWd",
+              "end": 302,
+              "expanded_url": "https://x.com/k1rallik/status/2048465248814850129/photo/1",
+              "media_key": "3_2048465105889996800",
+              "start": 279,
+              "url": "https://t.co/6iblXTUjWd"
+            },
+            {
+              "display_url": "x.com/sengpt/status/…",
+              "end": 326,
+              "expanded_url": "https://twitter.com/sengpt/status/2048421286091604187",
+              "start": 303,
+              "url": "https://t.co/2T0PLaYuI6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048465248814850129",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "🚨do you understand what just happened to mathematics..\n\nA 23 year old with ZERO math degree opened ChatGPT on a Monday afternoon out of boredom.\n\n80 minutes later - a 60-year-old unsolved problem was dead.\n\nThe problem? World's top mathematicians had tried for decades. Failed..\nThe tool? A $20/month subscription..\nThe effort? One single prompt..\n\nAnd here's the wild part - the AI used a method everyone already knew existed. Nobody just thought to apply it HERE.\n\nTerence Tao (literally the greatest living mathematician) called it \"a meaningful contribution that goes well beyond solving this one problem\"\n\nWe are not ready for what's coming next.."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2602,
+          "impression_count": 929358,
+          "like_count": 4822,
+          "quote_count": 65,
+          "reply_count": 145,
+          "retweet_count": 570
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048421286091604187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🚨do you understand what just happened to mathematics..\n\nA 23 year old with ZERO math degree opened ChatGPT on a Monday afternoon out of boredom.\n\n80 minutes later - a 60-year-old unsolved problem was dead.\n\nThe problem? World's top mathematicians had tried for decades. Failed.. https://t.co/6iblXTUjWd https://t.co/2T0PLaYuI6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 1709,
+          "like_count": 50253,
+          "listed_count": 3,
+          "media_count": 233,
+          "tweet_count": 7545
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-19T13:52:24.000Z",
+        "description": "Chasing dreams & cat cuddles 🐾\nall content here is sponsored or commissioned",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "polymarket.com/?r=bubblik",
+                "end": 23,
+                "expanded_url": "https://polymarket.com/?r=bubblik",
+                "start": 0,
+                "url": "https://t.co/odFJHaqoFR"
+              }
+            ]
+          }
+        },
+        "id": "3431572810",
+        "location": "🌆 Brooklyn Rooftop, NYC Vibes",
+        "name": "BuBBliK",
+        "pinned_tweet_id": "2033530122150502482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957215896788717568/DleHEDIC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16834,
+          "following_count": 465,
+          "like_count": 48047,
+          "listed_count": 220,
+          "media_count": 2163,
+          "tweet_count": 16490
+        },
+        "url": "https://t.co/odFJHaqoFR",
+        "username": "k1rallik",
+        "verified": true
+      }
+    ]
+  }
+}

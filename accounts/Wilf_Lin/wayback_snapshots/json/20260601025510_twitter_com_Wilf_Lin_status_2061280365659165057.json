@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2061262494853939417",
+    "created_at": "2026-06-01T02:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T03:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061280365659165057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1120638103306117120",
+          "start": 0,
+          "username": "siantgirl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061280365659165057",
+    "in_reply_to_user_id": "1120638103306117120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061262494853939417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siantgirl windows文本编辑器"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2061262494853939417",
+        "created_at": "2026-06-01T02:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061280365659165057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1120638103306117120",
+              "start": 0,
+              "username": "siantgirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061280365659165057",
+        "in_reply_to_user_id": "1120638103306117120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061262494853939417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siantgirl windows文本编辑器"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1120638103306117120",
+        "conversation_id": "2061262494853939417",
+        "created_at": "2026-06-01T01:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T02:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061262494853939417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061262494853939417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1617,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有什么内存不泄漏 的IDE吗，我发现cursor 一直10个G的占用。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 1838,
+          "like_count": 71076,
+          "listed_count": 3,
+          "media_count": 321,
+          "tweet_count": 8635
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-23T10:38:39.000Z",
+        "description": "做过UI设计和前端开发，现在主要是AI工作，喜欢艺术。\n希望今年探索出AI做 OPC 的方向。\n爱好广泛，喜欢玄学八字紫微奇门。\n付费算命调运收费一次  1000 元（包天随便畅聊，隐私保密）。",
+        "id": "1120638103306117120",
+        "name": "Ryo",
+        "pinned_tweet_id": "2061091917929361508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820993730393870336/8OvYVwXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15238,
+          "following_count": 1002,
+          "like_count": 12503,
+          "listed_count": 108,
+          "media_count": 2985,
+          "tweet_count": 20463
+        },
+        "username": "siantgirl",
+        "verified": true
+      }
+    ]
+  }
+}

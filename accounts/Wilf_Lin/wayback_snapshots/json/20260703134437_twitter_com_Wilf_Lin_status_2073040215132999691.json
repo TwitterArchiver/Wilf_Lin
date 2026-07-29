@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2073040215132999691",
+    "created_at": "2026-07-03T13:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T14:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073040215132999691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "50683",
+          "start": 3,
+          "username": "dingyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073040215132999691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072981935941390687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dingyi: 阿里巴巴内部禁用 Claude，腾讯内部员工的 AI 额度从 2000 美金降到 2000 元，只有字节没限制了吧？本来这俩加一起都干不过字节，这下更干不过了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2073040215132999691",
+        "created_at": "2026-07-03T13:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073040215132999691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "50683",
+              "start": 3,
+              "username": "dingyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073040215132999691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072981935941390687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dingyi: 阿里巴巴内部禁用 Claude，腾讯内部员工的 AI 额度从 2000 美金降到 2000 元，只有字节没限制了吧？本来这俩加一起都干不过字节，这下更干不过了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "50683",
+        "conversation_id": "2072981935941390687",
+        "created_at": "2026-07-03T09:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072981935941390687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072981935941390687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 11985,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "阿里巴巴内部禁用 Claude，腾讯内部员工的 AI 额度从 2000 美金降到 2000 元，只有字节没限制了吧？本来这俩加一起都干不过字节，这下更干不过了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 1876,
+          "like_count": 84560,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 8785
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2006-12-08T15:10:12.000Z",
+        "description": "promote your product  ‣ dingyi@me.com\nnewsletter ‣ https://t.co/q1JG1yCzdb\nrefine your startup ‣ https://t.co/FfUYboxOr5\nnewest product ‣ https://t.co/cP6NQ3keo5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "quaily.com/dingyi",
+                "end": 74,
+                "expanded_url": "http://quaily.com/dingyi",
+                "start": 51,
+                "url": "https://t.co/q1JG1yCzdb"
+              },
+              {
+                "display_url": "vibeflow.co",
+                "end": 120,
+                "expanded_url": "http://vibeflow.co/",
+                "start": 97,
+                "url": "https://t.co/FfUYboxOr5"
+              },
+              {
+                "display_url": "topfeed.xyz",
+                "end": 161,
+                "expanded_url": "http://topfeed.xyz",
+                "start": 138,
+                "url": "https://t.co/cP6NQ3keo5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ding.one",
+                "end": 23,
+                "expanded_url": "http://ding.one",
+                "start": 0,
+                "url": "https://t.co/cf71jdxlkm"
+              }
+            ]
+          }
+        },
+        "id": "50683",
+        "location": "Remote",
+        "name": "Ding",
+        "pinned_tweet_id": "2072509702886613413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153235,
+          "following_count": 5090,
+          "like_count": 2510,
+          "listed_count": 763,
+          "media_count": 2850,
+          "tweet_count": 62524
+        },
+        "url": "https://t.co/cf71jdxlkm",
+        "username": "dingyi",
+        "verified": true
+      }
+    ]
+  }
+}

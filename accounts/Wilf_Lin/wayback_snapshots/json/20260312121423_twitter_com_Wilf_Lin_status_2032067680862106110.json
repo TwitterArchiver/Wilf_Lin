@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2032039070726230362",
+    "created_at": "2026-03-12T12:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T13:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032067680862106110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3007505119",
+          "start": 0,
+          "username": "NekoStranding"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032067680862106110",
+    "in_reply_to_user_id": "3007505119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032039070726230362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NekoStranding 他大概真的会找出前100家公司的相关数据，然后给你算一个出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2032039070726230362",
+        "created_at": "2026-03-12T12:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T13:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032067680862106110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3007505119",
+              "start": 0,
+              "username": "NekoStranding"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032067680862106110",
+        "in_reply_to_user_id": "3007505119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032039070726230362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NekoStranding 他大概真的会找出前100家公司的相关数据，然后给你算一个出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3007505119",
+        "conversation_id": "2032039070726230362",
+        "created_at": "2026-03-12T10:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:20:20.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032038978631974940",
+          "2032039070726230362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032039070726230362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5433,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草生。刚刚写回测，把中证1000 敲错了敲成了中证 100\n\nClaude: 我看你数据集里好像没有这个指数。来，我来给你造一个！\n\n我: 你别...！！！😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 760,
+          "like_count": 14761,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 5377
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-02T03:40:52.000Z",
+        "description": "AI Native + Quant/ Agent 鼓励师/ Vibe Trader/ 探究 Agent 的设计模式/ 特技是毒鸡汤/ Full Stack Gamer, Toxic Developer/ 🏍️🛹🎮🦞/ @Yuki3White 的老父亲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 109,
+                "username": "Yuki3White"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/NekoApocalypse",
+                "end": 23,
+                "expanded_url": "https://github.com/NekoApocalypse",
+                "start": 0,
+                "url": "https://t.co/YYDhtHvqj2"
+              }
+            ]
+          }
+        },
+        "id": "3007505119",
+        "location": "心有多大鱼塘就有多大",
+        "name": "毒猫猫🤔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1098377782109696000/lJr4Z4pg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5324,
+          "following_count": 3814,
+          "like_count": 159864,
+          "listed_count": 50,
+          "media_count": 2847,
+          "tweet_count": 53524
+        },
+        "url": "https://t.co/YYDhtHvqj2",
+        "username": "NekoStranding",
+        "verified": true
+      }
+    ]
+  }
+}

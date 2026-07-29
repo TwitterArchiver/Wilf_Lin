@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2081631306707001483",
+    "created_at": "2026-07-27T14:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T15:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081744484929524180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1529730274992738304",
+          "start": 0,
+          "username": "dinah_zhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081744484929524180",
+    "in_reply_to_user_id": "1529730274992738304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081631306707001483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dinah_zhang 做了点好玩的东西的时候发出去炫耀一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2081631306707001483",
+        "created_at": "2026-07-27T14:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081744484929524180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1529730274992738304",
+              "start": 0,
+              "username": "dinah_zhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081744484929524180",
+        "in_reply_to_user_id": "1529730274992738304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081631306707001483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dinah_zhang 做了点好玩的东西的时候发出去炫耀一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529730274992738304",
+        "conversation_id": "2081631306707001483",
+        "created_at": "2026-07-27T06:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081631306707001483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081631306707001483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16654,
+          "like_count": 30,
+          "quote_count": 3,
+          "reply_count": 59,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以现在开源的价值是什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 1970,
+          "like_count": 92675,
+          "listed_count": 3,
+          "media_count": 408,
+          "tweet_count": 9178
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-26T07:45:08.000Z",
+        "description": "Vibe DevRel  |  CNCF Ambassador @CNCFAmbassadors,DevRel @OceanBaseDB, Ambassador @chaos_mesh, KCD Beijing organizer\nBuilding build",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "CNCFAmbassadors"
+              },
+              {
+                "end": 68,
+                "start": 56,
+                "username": "OceanBaseDB"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "chaos_mesh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhanghuidinah",
+                "end": 23,
+                "expanded_url": "https://github.com/zhanghuidinah",
+                "start": 0,
+                "url": "https://t.co/Qf9IZ4Hfnr"
+              }
+            ]
+          }
+        },
+        "id": "1529730274992738304",
+        "name": "Dinah",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049507373354786816/0nlQMat__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2739,
+          "following_count": 1406,
+          "like_count": 24581,
+          "listed_count": 14,
+          "media_count": 327,
+          "tweet_count": 3637
+        },
+        "url": "https://t.co/Qf9IZ4Hfnr",
+        "username": "dinah_zhang",
+        "verified": true
+      }
+    ]
+  }
+}

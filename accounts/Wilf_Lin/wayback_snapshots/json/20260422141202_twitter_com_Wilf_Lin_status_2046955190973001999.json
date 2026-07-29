@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2046774364964893031",
+    "created_at": "2026-04-22T14:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T15:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046955190973001999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "732437001572474880",
+          "start": 0,
+          "username": "caiyue5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046955190973001999",
+    "in_reply_to_user_id": "732437001572474880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046774364964893031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caiyue5 只敢codex"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2046774364964893031",
+        "created_at": "2026-04-22T14:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046955190973001999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "732437001572474880",
+              "start": 0,
+              "username": "caiyue5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046955190973001999",
+        "in_reply_to_user_id": "732437001572474880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046774364964893031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caiyue5 只敢codex"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "732437001572474880",
+        "conversation_id": "2046774364964893031",
+        "created_at": "2026-04-22T02:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T03:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046774364964893031"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046774364964893031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 35168,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 105,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "问个问题，你们敢让 Claude Code 通过 ssh 到你服务器上直接操作线上环境吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 1638,
+          "like_count": 42875,
+          "listed_count": 4,
+          "media_count": 219,
+          "tweet_count": 7220
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2016-05-17T05:06:04.000Z",
+        "description": "Founder of Sup Space. Pro-level sharing ⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "better-vibe.com",
+                "end": 23,
+                "expanded_url": "https://better-vibe.com",
+                "start": 0,
+                "url": "https://t.co/A1JtszpKLI"
+              }
+            ]
+          }
+        },
+        "id": "732437001572474880",
+        "location": "Earth",
+        "name": "Yue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018576894258819073/hhWTGjCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9105,
+          "following_count": 477,
+          "like_count": 9904,
+          "listed_count": 93,
+          "media_count": 642,
+          "tweet_count": 5748
+        },
+        "url": "https://t.co/A1JtszpKLI",
+        "username": "caiyue5",
+        "verified": true
+      }
+    ]
+  }
+}

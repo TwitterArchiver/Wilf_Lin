@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2036275430630760499",
+    "created_at": "2026-03-24T15:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T16:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036472854162575605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "437246171",
+          "start": 0,
+          "username": "shadowglenelf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036472854162575605",
+    "in_reply_to_user_id": "437246171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036275430630760499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shadowglenelf 我真不理解gpt怎么做到疯狂惩罚输出长度的同时废话连篇的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2036275430630760499",
+        "created_at": "2026-03-24T15:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036472854162575605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "437246171",
+              "start": 0,
+              "username": "shadowglenelf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036472854162575605",
+        "in_reply_to_user_id": "437246171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036275430630760499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shadowglenelf 我真不理解gpt怎么做到疯狂惩罚输出长度的同时废话连篇的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "437246171",
+        "conversation_id": "2036275430630760499",
+        "created_at": "2026-03-24T02:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T03:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036275430630760499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036275430630760499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5355,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所以你们到底为什么要给个AI加那么多情绪化输出的? 我连gpt-5.4废话连篇都受不了 工具就老老实实干活 输出必要信息就够了 浪费那么多token做什么…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 887,
+          "like_count": 19872,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 5848
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2011-12-15T05:24:41.000Z",
+        "description": "#小灵 #幽影谷之灵 #看热闹不嫌事大 #嫖总 #祸从眼入囍自口出 married @cio_tobu",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "小灵"
+              },
+              {
+                "end": 10,
+                "start": 4,
+                "tag": "幽影谷之灵"
+              },
+              {
+                "end": 19,
+                "start": 11,
+                "tag": "看热闹不嫌事大"
+              },
+              {
+                "end": 23,
+                "start": 20,
+                "tag": "嫖总"
+              },
+              {
+                "end": 33,
+                "start": 24,
+                "tag": "祸从眼入囍自口出"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "cio_tobu"
+              }
+            ]
+          }
+        },
+        "id": "437246171",
+        "location": "98052",
+        "name": "变态黄连飘飘",
+        "pinned_tweet_id": "1199454239044489217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/580020407295549441/Cry1hf9j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19226,
+          "following_count": 1055,
+          "like_count": 2615,
+          "listed_count": 125,
+          "media_count": 2056,
+          "tweet_count": 162929
+        },
+        "username": "shadowglenelf",
+        "verified": false
+      }
+    ]
+  }
+}

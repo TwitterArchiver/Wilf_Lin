@@ -1,0 +1,527 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044699070212763648"
+      ],
+      "media_source_tweet_id": [
+        "2044699095923855527"
+      ]
+    },
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1250915122278567936",
+          "name": "Obon Week"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1250915122278567936",
+          "name": "Obon Week"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2044903950894108867",
+    "created_at": "2026-04-16T22:21:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T23:21:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044903950894108867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3433524712",
+          "start": 3,
+          "username": "taku_photo47"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2s7Oe9MsyH",
+          "end": 98,
+          "expanded_url": "https://x.com/taku_photo47/status/2044699095923855527/photo/1",
+          "media_key": "3_2044699070212763648",
+          "start": 75,
+          "url": "https://t.co/2s7Oe9MsyH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044903950894108867",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 278
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044699095923855527",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taku_photo47: 天の川×富士山×ネモフィラの共演が最高でした\nAIでなく合成無しの1枚撮りです\n勝手にAI判定が出て困っています https://t.co/2s7Oe9MsyH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2044699070212763648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGA6-JiacAAdR73.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044699070212763648"
+          ],
+          "media_source_tweet_id": [
+            "2044699095923855527"
+          ]
+        },
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2044903950894108867",
+        "created_at": "2026-04-16T22:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T23:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044903950894108867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3433524712",
+              "start": 3,
+              "username": "taku_photo47"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2s7Oe9MsyH",
+              "end": 98,
+              "expanded_url": "https://x.com/taku_photo47/status/2044699095923855527/photo/1",
+              "media_key": "3_2044699070212763648",
+              "start": 75,
+              "url": "https://t.co/2s7Oe9MsyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044903950894108867",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 278
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044699095923855527",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taku_photo47: 天の川×富士山×ネモフィラの共演が最高でした\nAIでなく合成無しの1枚撮りです\n勝手にAI判定が出て困っています https://t.co/2s7Oe9MsyH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044699070212763648"
+          ]
+        },
+        "author_id": "3433524712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2044699095923855527",
+        "created_at": "2026-04-16T08:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044699095923855527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2s7Oe9MsyH",
+              "end": 80,
+              "expanded_url": "https://x.com/taku_photo47/status/2044699095923855527/photo/1",
+              "media_key": "3_2044699070212763648",
+              "start": 57,
+              "url": "https://t.co/2s7Oe9MsyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044699095923855527",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 243,
+          "impression_count": 97937,
+          "like_count": 2709,
+          "quote_count": 12,
+          "reply_count": 29,
+          "retweet_count": 278
+        },
+        "reply_settings": "everyone",
+        "text": "天の川×富士山×ネモフィラの共演が最高でした\nAIでなく合成無しの1枚撮りです\n勝手にAI判定が出て困っています https://t.co/2s7Oe9MsyH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神可能有问题 https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 85,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 62,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 1524,
+          "like_count": 37545,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 6877
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-20T23:23:44.000Z",
+        "description": "Since 2022.2〜￤📷：SONY α7Ⅴ￤風景￤人物￤スナップ￤東京・千葉 時々遠征￤自由に写真を撮るバナナ。投稿写真はメディア欄からご覧くださいませ。よろしければInstagramもお願いいたします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/taku_photo47",
+                "end": 23,
+                "expanded_url": "http://instagram.com/taku_photo47",
+                "start": 0,
+                "url": "https://t.co/A7LdryoXGw"
+              }
+            ]
+          }
+        },
+        "id": "3433524712",
+        "location": "Chiba",
+        "name": "𝑇𝑎𝑘𝑢",
+        "pinned_tweet_id": "1776530278791663983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926966442613719040/IqwvB1Ca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21526,
+          "following_count": 318,
+          "like_count": 203178,
+          "listed_count": 228,
+          "media_count": 1856,
+          "tweet_count": 122652
+        },
+        "url": "https://t.co/A7LdryoXGw",
+        "username": "taku_photo47",
+        "verified": true
+      }
+    ]
+  }
+}

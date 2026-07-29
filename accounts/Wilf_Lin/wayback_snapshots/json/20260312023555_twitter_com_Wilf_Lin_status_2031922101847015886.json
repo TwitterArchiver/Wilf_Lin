@@ -1,0 +1,573 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2031607949358252046",
+    "created_at": "2026-03-12T02:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T03:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031922101847015886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "250592541",
+          "start": 0,
+          "username": "nia2046"
+        },
+        {
+          "end": 17,
+          "id": "820124419674677249",
+          "start": 9,
+          "username": "Im_Sdog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031922101847015886",
+    "in_reply_to_user_id": "250592541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031687573882765650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nia2046 @Im_Sdog 那个触控板在24年前的iPad pro妙控键盘和此后的ipad air妙控键盘上一直在用，那个妙控键盘可是个2000多的玩意儿，那个触控板真的不差的，比windows那边除了顶级的压感（比如华为）以外的都好多了。绝对比我的xps手感好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2031607949358252046",
+        "created_at": "2026-03-12T02:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T03:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031922101847015886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "250592541",
+              "start": 0,
+              "username": "nia2046"
+            },
+            {
+              "end": 17,
+              "id": "820124419674677249",
+              "start": 9,
+              "username": "Im_Sdog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031922101847015886",
+        "in_reply_to_user_id": "250592541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031687573882765650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nia2046 @Im_Sdog 那个触控板在24年前的iPad pro妙控键盘和此后的ipad air妙控键盘上一直在用，那个妙控键盘可是个2000多的玩意儿，那个触控板真的不差的，比windows那边除了顶级的压感（比如华为）以外的都好多了。绝对比我的xps手感好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "250592541",
+        "conversation_id": "2031607949358252046",
+        "created_at": "2026-03-11T11:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T12:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031687573882765650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "820124419674677249",
+              "start": 0,
+              "username": "Im_Sdog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031687573882765650",
+        "in_reply_to_user_id": "820124419674677249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11971,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031607949358252046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Im_Sdog 看到那个十一年前的按压触摸板绷不住了，也太欺负人了2333"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 759,
+          "like_count": 14546,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 5357
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2011-02-11T12:00:50.000Z",
+        "description": "见自己，见天地，见众生。叫我萌宝！爱好睡觉、动漫、书影音，吐槽，偶尔毒舌！（定期回fo，多互动）",
+        "id": "250592541",
+        "location": "Shanghai",
+        "name": "软软人",
+        "pinned_tweet_id": "1887898105666019721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031791645143023620/FxraFfCd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 269,
+          "like_count": 64481,
+          "listed_count": 13,
+          "media_count": 1651,
+          "tweet_count": 32609
+        },
+        "username": "nia2046",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-14T04:24:33.000Z",
+        "description": "https://t.co/OWcnOxROk5 |\n文不识评测，武不能拆机 |\n山景城上单：Pixel，NM（指 Google）什么时候肆啊？ |\n腰间盘突出 | 酒精成瘾 | 肾结石 |\n@ChelseaFC 车路士的男孩 |\n#アズールレーン |\n#メタルマックス |\nfo 满 7500，无法及时回关🥲 |",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 123,
+                "start": 115,
+                "tag": "アズールレーン"
+              },
+              {
+                "end": 134,
+                "start": 126,
+                "tag": "メタルマックス"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "ChelseaFC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/sdog",
+                "end": 23,
+                "expanded_url": "http://lit.link/sdog",
+                "start": 0,
+                "url": "https://t.co/OWcnOxROk5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sdog9527/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/sdog9527/",
+                "start": 0,
+                "url": "https://t.co/kMNkAoHQ9Y"
+              }
+            ]
+          }
+        },
+        "id": "820124419674677249",
+        "location": "People's Republic of China",
+        "name": "𝕊𝕕𝕠𝕘",
+        "pinned_tweet_id": "1953104018437242925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876546693145210880/KWlA4Q6A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 7499,
+          "like_count": 257913,
+          "listed_count": 11,
+          "media_count": 9037,
+          "tweet_count": 35092
+        },
+        "url": "https://t.co/kMNkAoHQ9Y",
+        "username": "Im_Sdog",
+        "verified": false
+      }
+    ]
+  }
+}

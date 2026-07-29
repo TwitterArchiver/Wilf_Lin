@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2052716291405099060",
+    "created_at": "2026-05-08T19:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T20:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052827541757428115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1766683750757519360",
+          "start": 0,
+          "username": "howlemont"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052827541757428115",
+    "in_reply_to_user_id": "1766683750757519360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052716291405099060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@howlemont Alma的browser use插件是可以并行工作的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2052716291405099060",
+        "created_at": "2026-05-08T19:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T20:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052827541757428115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1766683750757519360",
+              "start": 0,
+              "username": "howlemont"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052827541757428115",
+        "in_reply_to_user_id": "1766683750757519360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052716291405099060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@howlemont Alma的browser use插件是可以并行工作的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766683750757519360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Chrome",
+              "id": "10052778493",
+              "name": "Google Chrome"
+            }
+          }
+        ],
+        "conversation_id": "2052716291405099060",
+        "created_at": "2026-05-08T11:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052716291405099060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ajambrosino/st…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/ajambrosino/status/2052560673436282885",
+              "start": 158,
+              "url": "https://t.co/jjacmOcWp0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052716291405099060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天大家都在激动，codex可以调用Chrome扩展插件了，\n\n但是之前不是已经有browser use了吗？有什么新鲜的呢？\n\n看了一下它们还是不一样的\n\n虽然目标类似（让 Codex控制浏览器），但新的 Chrome 扩展解决了标准“Browse use”或 Computer Use 一直存在的一个具体痛点。\n\n之前codex虽然可以驱动浏览器，但通常是和你共享同一个浏览器实例/应用。这会导致资源争用，标签页、焦点、Cookies、登录状态和会话之间互相冲突。你的正常浏览会被打断，可能会干扰你已打开的标签页、把你登出网站，而且很难同时运行多个任务（或子代理）而不互相干扰。\n\n新的 Chrome 扩展 +Codex 现在可以直接在你真实的 Chrome 浏览器中驱动独立的后台标签页，完全不会干扰你正在使用的主标签页。  \n\n子代理可以各自并行运行独立的标签页。  \n\n你可以正常浏览网页，而 Codex 在后台安静工作。\n\n让浏览器密集型工作流变得“更加神奇”，因为它彻底消除了 Computer Use 风格浏览器控制中一直存在的“共享应用争用”问题。\n\n简单来说这个扩展让它变得支持多任务，通过给 Codex 在你实际 Chrome 里分配隔离的标签页，而不是共享同一个争用会话。\n\n这也是性能升级的原因。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 8467,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052560673436282885",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天大家都在激动，codex可以调用Chrome扩展插件了，\n\n但是之前不是已经有browser use了吗？有什么新鲜的呢？\n\n看了一下它们还是不一样的\n\n虽然目标类似（让 Codex控制浏览器），但新的 Chrome 扩展解决了标准“Browse use”或 Computer Use 一直存在的一个具体痛点。 https://t.co/jjacmOcWp0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 1798,
+          "like_count": 57151,
+          "listed_count": 4,
+          "media_count": 270,
+          "tweet_count": 8069
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-10T04:37:18.000Z",
+        "description": "复合增长 | Agentic AI 跟进中 | 意识流 | 量基策略 | 场浸ing | 简衣锦行 | 好吃 | 不懒做 | 狗狗好可爱 | https://t.co/ZOXuzZnCkx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "substack.com/@howlemont",
+                "end": 94,
+                "expanded_url": "https://substack.com/@howlemont",
+                "start": 71,
+                "url": "https://t.co/ZOXuzZnCkx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCyGMu…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCyGMulH_sbnKIcTC3IWZqlA",
+                "start": 0,
+                "url": "https://t.co/xC9y4gYRKO"
+              }
+            ]
+          }
+        },
+        "id": "1766683750757519360",
+        "location": "ASTRAL",
+        "name": "皓樂芒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766687190409740288/K5kcLqIg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12873,
+          "following_count": 588,
+          "like_count": 2677,
+          "listed_count": 118,
+          "media_count": 516,
+          "tweet_count": 6957
+        },
+        "url": "https://t.co/xC9y4gYRKO",
+        "username": "howlemont",
+        "verified": true
+      }
+    ]
+  }
+}

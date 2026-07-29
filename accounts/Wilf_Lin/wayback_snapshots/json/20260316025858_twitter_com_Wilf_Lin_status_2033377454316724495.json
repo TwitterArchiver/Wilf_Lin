@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2033152509829869577",
+    "created_at": "2026-03-16T02:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T03:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033377454316724495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "5382142",
+          "start": 0,
+          "username": "oasisfeng"
+        },
+        {
+          "end": 21,
+          "id": "256559269",
+          "start": 11,
+          "username": "ixiaowenz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033377454316724495",
+    "in_reply_to_user_id": "5382142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033244591399539163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oasisfeng @ixiaowenz iPhone就能跑4b，你愿意自己调试的话9b也可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2033152509829869577",
+        "created_at": "2026-03-16T02:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T03:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033377454316724495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "5382142",
+              "start": 0,
+              "username": "oasisfeng"
+            },
+            {
+              "end": 21,
+              "id": "256559269",
+              "start": 11,
+              "username": "ixiaowenz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033377454316724495",
+        "in_reply_to_user_id": "5382142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033244591399539163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oasisfeng @ixiaowenz iPhone就能跑4b，你愿意自己调试的话9b也可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "5382142",
+        "conversation_id": "2033152509829869577",
+        "created_at": "2026-03-15T18:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T19:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033244591399539163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "256559269",
+              "start": 0,
+              "username": "ixiaowenz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033244591399539163",
+        "in_reply_to_user_id": "256559269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1561,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033152509829869577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ixiaowenz 如果是 12G 内存的手机，估计 4B 版本也能跑吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 777,
+          "like_count": 15817,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 5458
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2007-04-21T16:21:30.000Z",
+        "description": "Ancient Geeeek, Life Hacker, Indie Developer, Economics Rookie",
+        "id": "5382142",
+        "location": "Hangzhou, China",
+        "name": "Oasis Feng",
+        "pinned_tweet_id": "2032106841245995010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731824343/Smile_normal.JPG",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25738,
+          "following_count": 191,
+          "like_count": 968,
+          "listed_count": 362,
+          "media_count": 1594,
+          "tweet_count": 19478
+        },
+        "username": "oasisfeng",
+        "verified": true
+      },
+      {
+        "created_at": "2011-02-23T15:58:45.000Z",
+        "description": "Senior Director in Finance Technology, Payment Network | Enterprise Architecture and Strategy | Extreme INTJ | Alcoholic",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaowenz.com",
+                "end": 23,
+                "expanded_url": "https://xiaowenz.com",
+                "start": 0,
+                "url": "https://t.co/4Rk8ZqHejL"
+              }
+            ]
+          }
+        },
+        "id": "256559269",
+        "location": "Hangzhou",
+        "name": "Xiaowen",
+        "pinned_tweet_id": "2025065030102970525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1182459197788545024/Z8Nb4YiI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21571,
+          "following_count": 1902,
+          "like_count": 5034,
+          "listed_count": 185,
+          "media_count": 4748,
+          "tweet_count": 24397
+        },
+        "url": "https://t.co/4Rk8ZqHejL",
+        "username": "ixiaowenz",
+        "verified": true
+      }
+    ]
+  }
+}

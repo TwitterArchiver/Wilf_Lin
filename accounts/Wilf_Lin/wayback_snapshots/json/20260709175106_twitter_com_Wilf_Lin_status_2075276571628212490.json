@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1942738198360211456",
+          "name": "Grok 4"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2075276571628212490",
+    "created_at": "2026-07-09T17:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T18:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075276571628212490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/farzyness/stat…",
+          "end": 117,
+          "expanded_url": "https://twitter.com/farzyness/status/2074957849059643497",
+          "start": 94,
+          "url": "https://t.co/BvYKO5HP94"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075276571628212490",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074957849059643497",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Just imagine workingbwith gpt 5.6 sol at 750 tps everyone. The bottleneck becane the network. https://t.co/BvYKO5HP94"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1942738198360211456",
+              "name": "Grok 4"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2075276571628212490",
+        "created_at": "2026-07-09T17:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T18:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075276571628212490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/farzyness/stat…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/farzyness/status/2074957849059643497",
+              "start": 94,
+              "url": "https://t.co/BvYKO5HP94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075276571628212490",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074957849059643497",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Just imagine workingbwith gpt 5.6 sol at 750 tps everyone. The bottleneck becane the network. https://t.co/BvYKO5HP94"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "17862108",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1942738198360211456",
+              "name": "Grok 4"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2074957849059643497",
+        "created_at": "2026-07-08T20:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T21:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074957849059643497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074957849059643497",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 2259,
+                "id": "1661523610111193088",
+                "start": 2250,
+                "username": "SpaceXAI"
+              },
+              {
+                "end": 2273,
+                "id": "44196397",
+                "start": 2264,
+                "username": "elonmusk"
+              }
+            ]
+          },
+          "text": "I think AI has just hit a gigantic threshold, and Grok 4.5 is the PERFECT example as to why that is.\n\nOne of the hardest parts of working with AI is iterating on a project or task that you're working on.\n\nAs the models have gotten smarter (and more expensive), it's taking longer and longer to get an answer or action back.\n\nThis creates a ton of stall time per query or action, which is actually quite bad for creativity and staying in a state of flow.\n\nYou have SO many extended starts and stops. Which inevitably leads to your brain going somewhere else. And then when the AI comes back, you have to redirect your brain to that original task, spool your brain back up to what you were working on at that moment, and then adjust as needed.\n\nThere's a ton of mental friction involved.\n\nThis ESPECIALLY sucks when the AI takes a REALLY long time to get something back for you, but it's not quite what you were looking for or asked for. And what sucks EVEN MORE is that these \"mistakes\" are getting MORE expensive!!!\n\nSo wait time is going up. AND it costs more per run.\n\nHOWEVER - even after using Grok 4.5 for about an hour - what's become obvious is that it's SO MUCH MORE ENJOYABLE AND BETTER to use a model that is FAST... and capable ENOUGH.\n\nCapable ENOUGH is the real unlock here.\n\nImagine having Fable 5 performance but at the speed of Gemini 3.5 flash. Or Haiku. That's where we're inevitably going.\n\nI think Grok 4.5 (and models like it) have really solved for one of the biggest unlocks in AI - a model that will get you a GOOD ENOUGH answer VERY FAST, at which point iteration can happen VERY QUICKLY.\n\nThis - counter intuitively - keeps the user in a state of flow and creativity for MUCH longer because you are constantly ENGAGED with your project... instead of letting the AI loose for a long time.\n\nAnd as long as humans are involved, I think 'not quite right' will be a FOREVER problem with AI - because AIs, by default, CANNOT have human taste.\n\nBecause they are NOT human.\n\nBut they can be UNBELIEVABLE tools. And unbelievable tools are the ones that are VERY GOOD and VERY FAST.\n\nI think that's the true unlock with Grok 4.5 and models like it.\n\nDifficult to describe until you experience it.\n\nI think this is a VERY big deal for @SpaceXAI and @elonmusk."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 1405944,
+          "like_count": 1122,
+          "quote_count": 28,
+          "reply_count": 111,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "I think AI has just hit a gigantic threshold, and Grok 4.5 is the PERFECT example as to why that is.\n\nOne of the hardest parts of working with AI is iterating on a project or task that you're working on.\n\nAs the models have gotten smarter (and more expensive), it's taking longer"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 1901,
+          "like_count": 87269,
+          "listed_count": 3,
+          "media_count": 346,
+          "tweet_count": 8870
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2008-12-04T06:33:32.000Z",
+        "description": "Abundance or Collapse: https://t.co/IZNjdFzcwi\nMaster Plan: https://t.co/Ujh87zX3TJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "a.co/d/0cJGDxHS",
+                "end": 46,
+                "expanded_url": "https://a.co/d/0cJGDxHS",
+                "start": 23,
+                "url": "https://t.co/IZNjdFzcwi"
+              },
+              {
+                "display_url": "a.co/d/065mQr77",
+                "end": 83,
+                "expanded_url": "https://a.co/d/065mQr77",
+                "start": 60,
+                "url": "https://t.co/Ujh87zX3TJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "farzad.fm",
+                "end": 23,
+                "expanded_url": "https://farzad.fm/",
+                "start": 0,
+                "url": "https://t.co/gKzl6uXMBQ"
+              }
+            ]
+          }
+        },
+        "id": "17862108",
+        "location": "Texas, US 🇺🇸",
+        "name": "Farzad 🇺🇸 🇮🇷",
+        "pinned_tweet_id": "2075193439419830578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863976029368270848/NccgxqmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384901,
+          "following_count": 1747,
+          "like_count": 104051,
+          "listed_count": 1984,
+          "media_count": 6511,
+          "tweet_count": 91483
+        },
+        "url": "https://t.co/gKzl6uXMBQ",
+        "username": "farzyness",
+        "verified": true
+      }
+    ]
+  }
+}

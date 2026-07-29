@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2042139204701077569",
+    "created_at": "2026-04-10T00:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T01:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042405556745367968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "19838082",
+          "start": 0,
+          "username": "huihoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042405556745367968",
+    "in_reply_to_user_id": "19838082",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042139204701077569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huihoo Chinese"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2042139204701077569",
+        "created_at": "2026-04-10T00:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T01:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042405556745367968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "19838082",
+              "start": 0,
+              "username": "huihoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042405556745367968",
+        "in_reply_to_user_id": "19838082",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042139204701077569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihoo Chinese"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "19838082",
+        "conversation_id": "2042139204701077569",
+        "created_at": "2026-04-09T07:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042139204701077569"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042139204701077569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 12485,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "三代编程语言，不太准确，仅供思考\n第一代：C for System，主机操作系统\n第二代：PHP for Web，互联网普及\n第三代：Golang for Cloud，云原生时代\n\n第四代：？？？？，AI 时代？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 1223,
+          "like_count": 30817,
+          "listed_count": 4,
+          "media_count": 120,
+          "tweet_count": 6439
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2009-01-31T23:47:35.000Z",
+        "description": "透过简单与美丽认识真理",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "huihoo.com",
+                "end": 23,
+                "expanded_url": "https://huihoo.com",
+                "start": 0,
+                "url": "https://t.co/R3EMK5rMj9"
+              }
+            ]
+          }
+        },
+        "id": "19838082",
+        "location": "Chengdu, China",
+        "name": "灰狐",
+        "pinned_tweet_id": "2023710122955206670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1233132661608071169/_PRc7chX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22324,
+          "following_count": 1900,
+          "like_count": 4531,
+          "listed_count": 194,
+          "media_count": 1103,
+          "tweet_count": 7429
+        },
+        "url": "https://t.co/R3EMK5rMj9",
+        "username": "huihoo",
+        "verified": true
+      }
+    ]
+  }
+}

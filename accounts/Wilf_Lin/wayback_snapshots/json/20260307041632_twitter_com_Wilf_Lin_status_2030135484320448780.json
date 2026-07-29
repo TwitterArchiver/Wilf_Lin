@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237004504219828224",
+          "name": "Computer hardware"
+        }
+      }
+    ],
+    "conversation_id": "2029733316828745746",
+    "created_at": "2026-03-07T04:16:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T05:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030135484320448780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "781049427926536193",
+          "start": 0,
+          "username": "Ralph_Lafayette"
+        },
+        {
+          "end": 25,
+          "id": "1821167929662304263",
+          "start": 17,
+          "username": "kz152cx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030135484320448780",
+    "in_reply_to_user_id": "781049427926536193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029798915630109011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ralph_Lafayette @kz152cx 这玩意CPU强，M1 GPU强，但持续烤鸡之后这个更强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2029733316828745746",
+        "created_at": "2026-03-07T04:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T05:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030135484320448780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "781049427926536193",
+              "start": 0,
+              "username": "Ralph_Lafayette"
+            },
+            {
+              "end": 25,
+              "id": "1821167929662304263",
+              "start": 17,
+              "username": "kz152cx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030135484320448780",
+        "in_reply_to_user_id": "781049427926536193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029798915630109011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ralph_Lafayette @kz152cx 这玩意CPU强，M1 GPU强，但持续烤鸡之后这个更强"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "781049427926536193",
+        "conversation_id": "2029733316828745746",
+        "created_at": "2026-03-06T05:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T06:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029798915630109011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821167929662304263",
+              "start": 0,
+              "username": "kz152cx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029798915630109011",
+        "in_reply_to_user_id": "1821167929662304263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2406,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029733316828745746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kz152cx 这玩意和M1哪个性能强()"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 724,
+          "like_count": 12932,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 5199
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2016-09-28T08:34:29.000Z",
+        "description": "Call me Dodo｜常驻成都｜千禧年前 | ZH/EN/FR | No Politics | 正是因为有着喜欢着我的人，才支撑着我走到现在｜ENFP｜友链：@meltr183 @3C3AHuangYou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "meltr183"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "3C3AHuangYou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ralph_Lafayett…",
+                "end": 23,
+                "expanded_url": "https://t.me/Ralph_Lafayette/",
+                "start": 0,
+                "url": "https://t.co/ud0uv1Wtlx"
+              }
+            ]
+          }
+        },
+        "id": "781049427926536193",
+        "location": "0.03 km",
+        "name": "野渡无人舟自横",
+        "pinned_tweet_id": "2023077639096049867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935993851250196486/X-3R9fWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1925,
+          "following_count": 986,
+          "like_count": 32356,
+          "listed_count": 2,
+          "media_count": 488,
+          "tweet_count": 12940
+        },
+        "url": "https://t.co/ud0uv1Wtlx",
+        "username": "Ralph_Lafayette",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-07T12:54:20.000Z",
+        "description": "淡推中……. | 业余嵌入式开发 💻| 会转发R-18内容 | 最喜欢的人@ggccsxhn❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "ggccsxhn"
+              }
+            ]
+          }
+        },
+        "id": "1821167929662304263",
+        "location": "雁塔",
+        "name": "硫酸铜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025104448268460032/8GzTzRoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5113,
+          "following_count": 1563,
+          "like_count": 7357,
+          "listed_count": 6,
+          "media_count": 332,
+          "tweet_count": 4572
+        },
+        "username": "kz152cx",
+        "verified": false
+      }
+    ]
+  }
+}

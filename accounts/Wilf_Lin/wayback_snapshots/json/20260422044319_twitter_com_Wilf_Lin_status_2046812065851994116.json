@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2046749683260047481",
+    "created_at": "2026-04-22T04:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T05:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046812065851994116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1373764522482143234",
+          "start": 0,
+          "username": "lexi_labs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046812065851994116",
+    "in_reply_to_user_id": "1373764522482143234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046749683260047481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "@lexi_labs LLM不受此影响"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2046748836480389120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGeDOP7bkAAhbTY.jpg",
+        "width": 851
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2046749683260047481",
+        "created_at": "2026-04-22T04:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T05:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046812065851994116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1373764522482143234",
+              "start": 0,
+              "username": "lexi_labs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046812065851994116",
+        "in_reply_to_user_id": "1373764522482143234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046749683260047481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "@lexi_labs LLM不受此影响"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046748836480389120"
+          ]
+        },
+        "author_id": "1373764522482143234",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1480944075918352385",
+              "name": "Nvidia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1313539885362343936",
+              "name": "$NVDA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          }
+        ],
+        "conversation_id": "2046749683260047481",
+        "created_at": "2026-04-22T00:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T01:33:09.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046749110498377932",
+          "2046749207277814258",
+          "2046749683260047481"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "NVDA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kcZ7ksTDVT",
+              "end": 76,
+              "expanded_url": "https://x.com/lexi_labs/status/2046749683260047481/photo/1",
+              "media_key": "3_2046748836480389120",
+              "start": 53,
+              "url": "https://t.co/kcZ7ksTDVT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046749683260047481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 19413,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 11
+        },
+        "reply_settings": "verified",
+        "text": "杨立昆这篇 LeWM 论文，如果真让模型训练范式转换的话，最受打击的不是 OpenAI，而是 $NVDA https://t.co/kcZ7ksTDVT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 1632,
+          "like_count": 42572,
+          "listed_count": 4,
+          "media_count": 218,
+          "tweet_count": 7202
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-21T22:33:42.000Z",
+        "description": "Tech/Finance advice and vibes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindefy.net",
+                "end": 23,
+                "expanded_url": "http://mindefy.net",
+                "start": 0,
+                "url": "https://t.co/Ez1Gl7RRAN"
+              }
+            ]
+          }
+        },
+        "id": "1373764522482143234",
+        "location": "United States",
+        "name": "Lexi 勒西",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916707429380927488/z_PlJq73_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14403,
+          "following_count": 362,
+          "like_count": 11355,
+          "listed_count": 97,
+          "media_count": 2470,
+          "tweet_count": 11234
+        },
+        "url": "https://t.co/Ez1Gl7RRAN",
+        "username": "lexi_labs",
+        "verified": true
+      }
+    ]
+  }
+}

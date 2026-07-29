@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2075587493970444536",
+    "created_at": "2026-07-10T14:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T15:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075587493970444536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "56302171",
+          "start": 3,
+          "username": "shanaka86"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075587493970444536",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 539
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075468271868920135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shanaka86: BREAKING: For 10 years the world believed there was one way to reuse a rocket: land it upright on its engines, the way Space…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28567,
+        "height": 720,
+        "media_key": "13_2075468207553744896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075468207553744896/img/8T9jcPnZnLBXhE_Q.jpg",
+        "public_metrics": {
+          "view_count": 730878
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075468207553744896/vid/avc1/480x270/uPd_lCwfL_N_DY1M.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075468207553744896/vid/avc1/640x360/QXYcpnvHkWBo8Q4g.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075468207553744896/vid/avc1/1280x720/ss_J_ilVhZL5naWZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075468207553744896/pl/YImiTDdZ6N76dMrS.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2075587493970444536",
+        "created_at": "2026-07-10T14:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075587493970444536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "56302171",
+              "start": 3,
+              "username": "shanaka86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075587493970444536",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 539
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075468271868920135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shanaka86: BREAKING: For 10 years the world believed there was one way to reuse a rocket: land it upright on its engines, the way Space…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075468207553744896"
+          ]
+        },
+        "author_id": "56302171",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Aerospace",
+              "id": "872801340224806912",
+              "name": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352681651516567553",
+              "name": "Space agencies & companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2075468271868920135",
+        "created_at": "2026-07-10T06:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075468271868920135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XszDEV2S4N",
+              "end": 302,
+              "expanded_url": "https://x.com/shanaka86/status/2075468271868920135/video/1",
+              "media_key": "13_2075468207553744896",
+              "start": 279,
+              "url": "https://t.co/XszDEV2S4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075468271868920135",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "BREAKING: For 10 years the world believed there was one way to reuse a rocket: land it upright on its engines, the way SpaceX does. Today China refused to copy it, and pulled off something SpaceX never managed on a first flight. It caught the rocket instead.\n\nThe Long March 10B lifted off from Hainan, China this morning, and about 6 minutes later its first stage came back down toward a 25,000-ton ship at sea. It did not land. \n\nHooks on the falling booster snagged a net of tensioned steel wires strung across the deck, the wires riding robotic rails that slid into place to meet it. No landing legs. No touchdown. A rocket plucked out of its own descent by a moving net, on the maiden flight of a brand-new vehicle.\n\nNo one handed China this. SpaceX guards its rocket tech as “trade secrets”, not “patents”, precisely so it cannot be read and copied. \n\nChina watched a decade of public flights and then built an entirely different machine to reach the same prize, catching instead of landing, which sheds the heavy legs and spares the fuel a soft touchdown burns to hover.\n\nAnd this was never about cheaper satellites, though it delivers those too, feeding the thousands of birds in China's Starlink rival. \n\nIts deeper purpose is the Moon. That booster shares its core with the rocket meant to land Chinese astronauts on the lunar surface by 2030. In the same season, America's own Moon rocket, Starship, has flown 12 times and still has not shown the single maneuver its lunar plan depends on.\n\nOne flight does not dethrone SpaceX. It has landed hundreds. What ended today is not SpaceX's lead. It is Uncle Sam’s belief that it owns the only road to the Moon.\n\nThe piece works out which way of coming home actually wins."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1062,
+          "impression_count": 1370417,
+          "like_count": 3795,
+          "quote_count": 97,
+          "reply_count": 834,
+          "retweet_count": 539
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING: For 10 years the world believed there was one way to reuse a rocket: land it upright on its engines, the way SpaceX does. Today China refused to copy it, and pulled off something SpaceX never managed on a first flight. It caught the rocket instead.\n\nThe Long March 10B https://t.co/XszDEV2S4N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 1903,
+          "like_count": 87397,
+          "listed_count": 3,
+          "media_count": 346,
+          "tweet_count": 8876
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-13T05:58:12.000Z",
+        "description": "Author of The Ascent Begins. Independent Analyst. Money, geopolitics, AI, science, and sovereignty. Mapping the collapse and the reconstruction of order.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@shanakaanslem…",
+                "end": 23,
+                "expanded_url": "https://substack.com/@shanakaanslemperera",
+                "start": 0,
+                "url": "https://t.co/iU9F1gsb4W"
+              }
+            ]
+          }
+        },
+        "id": "56302171",
+        "location": "Australia",
+        "name": "Shanaka Anslem Perera ⚡",
+        "pinned_tweet_id": "2000174714233167982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891509660630269952/kR7B-kAC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308869,
+          "following_count": 3578,
+          "like_count": 9699,
+          "listed_count": 2526,
+          "media_count": 4937,
+          "tweet_count": 34658
+        },
+        "url": "https://t.co/iU9F1gsb4W",
+        "username": "shanaka86",
+        "verified": true
+      }
+    ]
+  }
+}

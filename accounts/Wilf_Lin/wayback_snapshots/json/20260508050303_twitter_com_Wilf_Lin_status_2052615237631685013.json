@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2052417760337309874",
+    "created_at": "2026-05-08T05:03:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T06:03:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052615237631685013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1319453509121605632",
+          "start": 0,
+          "username": "aroogle"
+        },
+        {
+          "end": 20,
+          "id": "1953337039510003712",
+          "start": 9,
+          "username": "thsottiaux"
+        },
+        {
+          "end": 34,
+          "id": "10667972",
+          "start": 21,
+          "username": "RhysSullivan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052615237631685013",
+    "in_reply_to_user_id": "1319453509121605632",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052586464026718361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aroogle @thsottiaux @RhysSullivan ask codex ro make a mcp."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2052417760337309874",
+        "created_at": "2026-05-08T05:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052615237631685013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1319453509121605632",
+              "start": 0,
+              "username": "aroogle"
+            },
+            {
+              "end": 20,
+              "id": "1953337039510003712",
+              "start": 9,
+              "username": "thsottiaux"
+            },
+            {
+              "end": 34,
+              "id": "10667972",
+              "start": 21,
+              "username": "RhysSullivan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052615237631685013",
+        "in_reply_to_user_id": "1319453509121605632",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052586464026718361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aroogle @thsottiaux @RhysSullivan ask codex ro make a mcp."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319453509121605632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2052417760337309874",
+        "created_at": "2026-05-08T03:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052586464026718361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1953337039510003712",
+              "start": 0,
+              "username": "thsottiaux"
+            },
+            {
+              "end": 25,
+              "id": "10667972",
+              "start": 12,
+              "username": "RhysSullivan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052586464026718361",
+        "in_reply_to_user_id": "1953337039510003712",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 474,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052585471948263631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thsottiaux @RhysSullivan Tibo, can you guys please build a Replit connector? I’d like to directly push code to my Replit environment from Codex because all my APIs and databases live there… the GitHub push/pull in the middle is unsustainable and running Codex in shell on Replit is not ideal."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 1797,
+          "like_count": 56727,
+          "listed_count": 4,
+          "media_count": 269,
+          "tweet_count": 8028
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-23T01:40:26.000Z",
+        "description": "CEO, Investor, Scientist & Engineer. Ex. @Oracle AI @DatadogHQ & more. Working on AI & Crypto Intersection since 2019.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 41,
+                "username": "Oracle"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "DatadogHQ"
+              }
+            ]
+          }
+        },
+        "id": "1319453509121605632",
+        "name": "Shawn Sully",
+        "pinned_tweet_id": "1856882307249963333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043892043265556480/iHxkHrpM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31884,
+          "following_count": 3937,
+          "like_count": 15879,
+          "listed_count": 129,
+          "media_count": 2126,
+          "tweet_count": 15301
+        },
+        "username": "aroogle",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-07T06:07:07.000Z",
+        "description": "Codex @OpenAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 6,
+                "username": "OpenAI"
+              }
+            ]
+          }
+        },
+        "id": "1953337039510003712",
+        "name": "Tibo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953339828738899968/WWQlU2RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98419,
+          "following_count": 63,
+          "like_count": 6542,
+          "listed_count": 1106,
+          "media_count": 64,
+          "tweet_count": 1593
+        },
+        "username": "thsottiaux",
+        "verified": true
+      },
+      {
+        "created_at": "2007-11-27T20:05:50.000Z",
+        "description": "building https://t.co/gIFOwRUrLU, the open-source bridge that connects any agent to every tool, API, and service your team uses",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "executor.sh",
+                "end": 32,
+                "expanded_url": "http://executor.sh",
+                "start": 9,
+                "url": "https://t.co/gIFOwRUrLU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rhys.dev",
+                "end": 23,
+                "expanded_url": "http://rhys.dev",
+                "start": 0,
+                "url": "https://t.co/auJOECDNzP"
+              }
+            ]
+          }
+        },
+        "id": "10667972",
+        "location": "San Francisco, CA",
+        "name": "Rhys",
+        "pinned_tweet_id": "2013353573623701540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1303727365265203200/0cgHOP3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54973,
+          "following_count": 1236,
+          "like_count": 26559,
+          "listed_count": 462,
+          "media_count": 2577,
+          "tweet_count": 11231
+        },
+        "url": "https://t.co/auJOECDNzP",
+        "username": "RhysSullivan",
+        "verified": true
+      }
+    ]
+  }
+}

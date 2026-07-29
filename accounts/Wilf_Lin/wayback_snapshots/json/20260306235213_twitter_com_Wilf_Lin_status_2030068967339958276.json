@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2029936630187127208",
+    "created_at": "2026-03-06T23:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T00:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030068967339958276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "5709522",
+          "start": 0,
+          "username": "mranti"
+        },
+        {
+          "end": 17,
+          "id": "25401953",
+          "start": 8,
+          "username": "steipete"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030068967339958276",
+    "in_reply_to_user_id": "5709522",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029936630187127208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mranti @steipete 《on cloud》"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2029936630187127208",
+        "created_at": "2026-03-06T23:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T00:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030068967339958276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "5709522",
+              "start": 0,
+              "username": "mranti"
+            },
+            {
+              "end": 17,
+              "id": "25401953",
+              "start": 8,
+              "username": "steipete"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030068967339958276",
+        "in_reply_to_user_id": "5709522",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029936630187127208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mranti @steipete 《on cloud》"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "5709522",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1188868859400343553",
+              "name": "Tencent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1188868859400343553",
+              "name": "Tencent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1188868859400343553",
+              "name": "Tencent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2029936630187127208",
+        "created_at": "2026-03-06T15:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029936630187127208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "25401953",
+              "start": 7,
+              "username": "steipete"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/TencentAI_News…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/TencentAI_News/status/2029824827083928057",
+              "start": 55,
+              "url": "https://t.co/Kk3uy5qf7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029936630187127208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 16415,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029824827083928057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个龙虾作者 @steipete 也转了。问题是这个老头用Windows装什么龙虾，装好了用起来也很麻烦吧。 https://t.co/Kk3uy5qf7W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 718,
+          "like_count": 12749,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 5187
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2007-05-02T10:08:45.000Z",
+        "description": "安替, Globus, Global Research. A veteran journalist on International Affairs, Harvard Nieman Fellow '08, TEDGlobal Speaker.",
+        "id": "5709522",
+        "name": "Michael Anti",
+        "pinned_tweet_id": "2028689145846202696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/575475426971119616/mdc9Zm_-_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353532,
+          "following_count": 11385,
+          "like_count": 428,
+          "listed_count": 3401,
+          "media_count": 3131,
+          "tweet_count": 224078
+        },
+        "username": "mranti",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-19T22:54:05.000Z",
+        "description": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 109,
+                "username": "openclaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steipete.me",
+                "end": 23,
+                "expanded_url": "https://steipete.me",
+                "start": 0,
+                "url": "https://t.co/VeCkD9BBZx"
+              }
+            ]
+          }
+        },
+        "id": "25401953",
+        "location": "Vienna & London",
+        "name": "Peter Steinberger 🦞",
+        "pinned_tweet_id": "2023154018714100102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1131851609774985216/OcsssQ9J_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415869,
+          "following_count": 2280,
+          "like_count": 59596,
+          "listed_count": 4495,
+          "media_count": 8370,
+          "tweet_count": 135981
+        },
+        "url": "https://t.co/VeCkD9BBZx",
+        "username": "steipete",
+        "verified": true
+      }
+    ]
+  }
+}

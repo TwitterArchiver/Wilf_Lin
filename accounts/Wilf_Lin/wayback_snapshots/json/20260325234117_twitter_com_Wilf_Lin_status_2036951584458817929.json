@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2036951584458817929",
+    "created_at": "2026-03-25T23:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T00:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036951584458817929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linxiaobei888/…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/linxiaobei888/status/2036776564680200692",
+          "start": 62,
+          "url": "https://t.co/Q8CGItRxPW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036951584458817929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036776564680200692",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想我们需要有一个每天抓取arxiv最新文章并进行筛选的agent，这个东西半年前就在arxiv上面了，但是竟然没有人发现 https://t.co/Q8CGItRxPW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2036951584458817929",
+        "created_at": "2026-03-25T23:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T00:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036951584458817929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linxiaobei888/…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/linxiaobei888/status/2036776564680200692",
+              "start": 62,
+              "url": "https://t.co/Q8CGItRxPW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036951584458817929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036776564680200692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想我们需要有一个每天抓取arxiv最新文章并进行筛选的agent，这个东西半年前就在arxiv上面了，但是竟然没有人发现 https://t.co/Q8CGItRxPW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1391720360245010438",
+        "conversation_id": "2036776564680200692",
+        "created_at": "2026-03-25T12:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036776564680200692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/googleresearch…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/googleresearch/status/2036533564158910740",
+              "start": 150,
+              "url": "https://t.co/V5tf1mA73B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036776564680200692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "谷歌研究院发布了 TurboQuant，一种新型 AI 压缩算法，可将大模型的 KV 缓存内存减少至少 6 倍，推理速度提升最高 8 倍，且精度损失为零。 ￼\n\n什么是 KV 缓存瓶颈？\n\n大型语言模型在推理时需要存储”键值缓存”（KV Cache），用于记住上下文信息。\n\n随着模型规模扩大，KV 缓存的体积与模型维度和上下文长度同步增长，对长上下文推理形成严重瓶颈。 ￼\n\n传统向量量化（将高精度数值压缩为低比特表示）本来是解决这一问题的手段，但常规方法的持续局限在于：需要为每一小块数据以高精度存储量化常数，这会额外增加每个数值 1 到 2 比特的开销，部分抵消了压缩的收益。 ￼\n\nTurboQuant 的创新\n\nTurboQuant 是一种可在模型规模大幅压缩的同时实现零精度损失的压缩方法，特别适合 KV 缓存压缩和向量检索两大场景。 \n￼\n它包含两个关键子算法：\n\n第一步：PolarQuant（高质量压缩）\n\nPolarQuant 通过极坐标变换消除内存开销。 ￼具体来说，它先对数据向量做随机旋转，简化数据几何结构，再施加高质量量化器。\n\n第二步：QJL（误差消除）\n\nTurboQuant 仅用 1 比特的剩余压缩能力，将 QJL 算法应用于第一阶段残余的极少误差。QJL 阶段相当于一个数学纠错器，消除偏差，从而使注意力得分更加精准。 ￼\n\nQJL 的原理基于 Johnson-Lindenstrauss 变换：它将每个向量数值压缩为单个符号位（+1 或 -1），本质上创建了一种零内存开销的高速速记方式，同时用特殊估算器平衡高精度查询与低精度数据之间的关系。 ￼\n\n实测性能数据\n\n谷歌研究团队在 LongBench、Needle In A Haystack、ZeroSCROLLS、RULER 和 L-Eval 五项长上下文基准测试上，用 Gemma 和 Mistral 模型对三种算法进行了评估。\n\nTurboQuant 将 KV 缓存压缩至每值 3 比特，无需模型重训练或微调，在问答、代码生成和摘要任务上均无可测量的精度损失，内存减少量达到未压缩 KV 存储的至少 6 倍。\n\n在 NVIDIA H100 GPU 上，4 比特 TurboQuant 在计算注意力 logits 时比 32 位未量化版本快最高 8 倍。 ￼\n\n在使用 Llama-3.1-8B-Instruct 和 Ministral-7B-Instruct 的端到端基准测试中，4 倍压缩率下，模型在 Needle-In-A-Haystack 基准上维持了 100% 检索精度，且在 4 倍压缩下匹配了全精度性能，上下文长度可达 104k token。 ￼\n\n向量检索方面同样表现亮眼：在近邻搜索任务中，TurboQuant 在召回率上超越了标准 Product Quantization（PQ）和 RabitQ，同时将索引时间压缩至接近零（例如，1536 维向量仅需 0.0013 秒）。 ￼\n\n三个优势\n\n零预处理：TurboQuant 与数据无关，无需耗时的 K-means 训练，可即时运行。 ￼\n\n接近理论极限：它达到接近最优的失真率，与 Shannon 信息论下界的差距保持在约 2.7 的小常数因子以内。 ￼\n\n无偏内积：通过两阶段方式（MSE 最优量化加 1 比特 QJL 残差变换），它提供无偏的内积估计，对维持 Transformer 注意力机制的精度至关重要。 ￼\n\n从更宏观的视角看，TurboQuant 的影响体现在三个层面：\n\n第一，降低长上下文的使用成本。\n\n目前云厂商对长上下文模型收取高额费用，根本原因就是 KV 缓存对显存的大量占用。TurboQuant 有望从根本上缓解这一矛盾，让开发者以更低成本构建能处理超长文档的智能体。\n\n第二，推动模型本地化部署。\n\nKV 缓存大小限制了生产环境中的上下文长度；在保持输出保真度的前提下进行压缩，可以扩展给定 GPU 资源所能支持的上下文范围。 ￼内存大幅缩减，意味着更大的模型有机会在消费级硬件上运行。\n\n第三，理论价值突出。\n\nTurboQuant、QJL 和 PolarQuant 不只是工程上的实用方案，更是有严格理论证明支撑的基础算法贡献，在现实应用中表现优异的同时，可被证明运行在接近理论下界的水平。 ￼​​​​​​​​​​​​​​​​\n\n以上由Claude翻译并解读"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 784,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036533564158910740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谷歌研究院发布了 TurboQuant，一种新型 AI 压缩算法，可将大模型的 KV 缓存内存减少至少 6 倍，推理速度提升最高 8 倍，且精度损失为零。 ￼\n\n什么是 KV 缓存瓶颈？\n\n大型语言模型在推理时需要存储”键值缓存”（KV Cache），用于记住上下文信息。\n\n随着模型规模扩大，KV https://t.co/V5tf1mA73B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 919,
+          "like_count": 20841,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 5925
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-10T11:43:04.000Z",
+        "description": "⌨️软件工程| 二娃父亲 | 关注AI，Coding，技术 |nano banana 提示词：https://t.co/WjRQEOCexj 开发者工具：https://t.co/WQfepHS5pN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bestpromptclub.com",
+                "end": 70,
+                "expanded_url": "https://www.bestpromptclub.com/",
+                "start": 47,
+                "url": "https://t.co/WjRQEOCexj"
+              },
+              {
+                "display_url": "localtools.cc",
+                "end": 100,
+                "expanded_url": "http://localtools.cc",
+                "start": 77,
+                "url": "https://t.co/WQfepHS5pN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bestpromptclub.com",
+                "end": 23,
+                "expanded_url": "http://bestpromptclub.com",
+                "start": 0,
+                "url": "https://t.co/42I5sqko99"
+              }
+            ]
+          }
+        },
+        "id": "1391720360245010438",
+        "name": "xiaobeiLin(小北)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907265408656367616/TDdMgE2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2592,
+          "following_count": 2204,
+          "like_count": 1274,
+          "listed_count": 38,
+          "media_count": 617,
+          "tweet_count": 2434
+        },
+        "url": "https://t.co/42I5sqko99",
+        "username": "linxiaobei888",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2054371600737394981",
+    "created_at": "2026-05-13T06:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T07:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054449272234684696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "256559269",
+          "start": 0,
+          "username": "ixiaowenz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054449272234684696",
+    "in_reply_to_user_id": "256559269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054371600737394981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ixiaowenz 要不然怎么他能做领导呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2054371600737394981",
+        "created_at": "2026-05-13T06:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054449272234684696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "256559269",
+              "start": 0,
+              "username": "ixiaowenz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054449272234684696",
+        "in_reply_to_user_id": "256559269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054371600737394981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ixiaowenz 要不然怎么他能做领导呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "256559269",
+        "conversation_id": "2054371600737394981",
+        "created_at": "2026-05-13T01:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054371600737394981"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054371600737394981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8846,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个非技术团队，领导 AI 用的贼好，下面的人完全学不会。\n\n挺神奇的……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 1803,
+          "like_count": 59590,
+          "listed_count": 4,
+          "media_count": 287,
+          "tweet_count": 8319
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2011-02-23T15:58:45.000Z",
+        "description": "Senior Director in Finance Technology, Payment Network | Enterprise Architecture and Strategy | Extreme INTJ | Alcoholic",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaowenz.com",
+                "end": 23,
+                "expanded_url": "https://xiaowenz.com",
+                "start": 0,
+                "url": "https://t.co/4Rk8ZqHejL"
+              }
+            ]
+          }
+        },
+        "id": "256559269",
+        "location": "Hangzhou",
+        "name": "Xiaowen",
+        "pinned_tweet_id": "2036373063239872970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1182459197788545024/Z8Nb4YiI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22060,
+          "following_count": 1913,
+          "like_count": 5165,
+          "listed_count": 186,
+          "media_count": 4843,
+          "tweet_count": 24947
+        },
+        "url": "https://t.co/4Rk8ZqHejL",
+        "username": "ixiaowenz",
+        "verified": true
+      }
+    ]
+  }
+}

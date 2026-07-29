@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2056959552202133727",
+    "created_at": "2026-05-20T15:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T16:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057125486418137111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1567179325551812609",
+          "start": 0,
+          "username": "XianyuLi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057125486418137111",
+    "in_reply_to_user_id": "1567179325551812609",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056959552202133727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XianyuLi /goal 60FPS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2056959552202133727",
+        "created_at": "2026-05-20T15:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057125486418137111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1567179325551812609",
+              "start": 0,
+              "username": "XianyuLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057125486418137111",
+        "in_reply_to_user_id": "1567179325551812609",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056959552202133727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XianyuLi /goal 60FPS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567179325551812609",
+        "conversation_id": "2056959552202133727",
+        "created_at": "2026-05-20T04:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056959552202133727"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056959552202133727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我发现了vibe coding一个最麻烦的事情\n\n我先让code,帮我订框架\n但是一开始的框架和技术路线很有问题\n\n因为他每次都想做的都是\n所谓“最小范围尝试”\n经常是代码好写\n很轻量的东西\n\n但是你本地数据库太大或者其他原因\n用原来框架开发出来的东西\n能显示，但是巨卡\n\n最后所有调试都做好了\n发现这一步有问题\n这个时候再去改的时候\n开发难度陡然变大\n而且简单的修补已经无济于事了\n\n于是陷入两难，\n我现在还没有想到一个好办法来解决这个问题"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 6361,
+          "like_count": 21,
+          "quote_count": 3,
+          "reply_count": 38,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我发现了vibe coding一个最麻烦的事情\n\n我先让code,帮我订框架\n但是一开始的框架和技术路线很有问题\n\n因为他每次都想做的都是\n所谓“最小范围尝试”\n经常是代码好写\n很轻量的东西\n\n但是你本地数据库太大或者其他原因\n用原来框架开发出来的东西\n能显示，但是巨卡\n\n最后所有调试都做好了\n发现这一步有问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 1821,
+          "like_count": 63798,
+          "listed_count": 4,
+          "media_count": 299,
+          "tweet_count": 8491
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-06T15:54:12.000Z",
+        "description": "Neural scientist diving deep into AI | Brain explorer | 计算机民科 | Email to xiangyuli997@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiangyu-li97.github.io",
+                "end": 23,
+                "expanded_url": "https://xiangyu-li97.github.io/",
+                "start": 0,
+                "url": "https://t.co/cL1qJtmxUG"
+              }
+            ]
+          }
+        },
+        "id": "1567179325551812609",
+        "name": "Xiangyu 香鱼🐬",
+        "pinned_tweet_id": "2054784192408408269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911584400224948224/QbglopMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27248,
+          "following_count": 2205,
+          "like_count": 50435,
+          "listed_count": 159,
+          "media_count": 919,
+          "tweet_count": 26506
+        },
+        "url": "https://t.co/cL1qJtmxUG",
+        "username": "XianyuLi",
+        "verified": true
+      }
+    ]
+  }
+}

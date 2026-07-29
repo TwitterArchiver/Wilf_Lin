@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2055635794870825089",
+    "created_at": "2026-05-17T12:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055991799848845589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "4677379896",
+          "start": 0,
+          "username": "_Be4_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055991799848845589",
+    "in_reply_to_user_id": "4677379896",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055635794870825089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Be4_ humm, I saw a  hyprland plugin for that"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20586,
+        "height": 1080,
+        "media_key": "13_2055635242418094080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055635242418094080/img/Sfak6Y_4lOBuVqVd.jpg",
+        "public_metrics": {
+          "view_count": 274846
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055635242418094080/vid/avc1/480x270/J4KXPoN-pD0X6jnR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055635242418094080/vid/avc1/640x360/qV7yaSg2koFmn1RQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055635242418094080/vid/avc1/1280x720/NL8vphZRf0BWrG_x.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055635242418094080/pl/806aAIXkYxokJSek.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2055635794870825089",
+        "created_at": "2026-05-17T12:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055991799848845589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "4677379896",
+              "start": 0,
+              "username": "_Be4_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055991799848845589",
+        "in_reply_to_user_id": "4677379896",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055635794870825089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Be4_ humm, I saw a  hyprland plugin for that"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055635242418094080"
+          ]
+        },
+        "author_id": "4677379896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2055635794870825089",
+        "created_at": "2026-05-16T13:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055635794870825089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/69q04aDvrc",
+              "end": 48,
+              "expanded_url": "https://x.com/_Be4_/status/2055635794870825089/video/1",
+              "media_key": "13_2055635242418094080",
+              "start": 25,
+              "url": "https://t.co/69q04aDvrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055635794870825089",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2524,
+          "impression_count": 666660,
+          "like_count": 8494,
+          "quote_count": 125,
+          "reply_count": 213,
+          "retweet_count": 400
+        },
+        "reply_settings": "everyone",
+        "text": "Liquid Glass on Linux🐧🐧🐧 https://t.co/69q04aDvrc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 1813,
+          "like_count": 62051,
+          "listed_count": 4,
+          "media_count": 293,
+          "tweet_count": 8417
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-30T10:02:41.000Z",
+        "description": "Rust / C++ / Java / Kotlin",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/bea4dev",
+                "end": 23,
+                "expanded_url": "https://github.com/bea4dev",
+                "start": 0,
+                "url": "https://t.co/VVPmyObUvE"
+              }
+            ]
+          }
+        },
+        "id": "4677379896",
+        "name": "🦀ベあ | bea4dev🦀",
+        "pinned_tweet_id": "1932737213063967129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686448341843136512/GxGeAUpX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1799,
+          "following_count": 1362,
+          "like_count": 41668,
+          "listed_count": 12,
+          "media_count": 1692,
+          "tweet_count": 12183
+        },
+        "url": "https://t.co/VVPmyObUvE",
+        "username": "_Be4_",
+        "verified": false
+      }
+    ]
+  }
+}

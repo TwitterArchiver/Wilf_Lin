@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2078330807685730537",
+    "created_at": "2026-07-19T14:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T15:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078853162644250994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1669683277563678722",
+          "start": 0,
+          "username": "rubidotme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078853162644250994",
+    "in_reply_to_user_id": "1669683277563678722",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078845580143710584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rubidotme impossible"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2078330807685730537",
+        "created_at": "2026-07-19T14:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078853162644250994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1669683277563678722",
+              "start": 0,
+              "username": "rubidotme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078853162644250994",
+        "in_reply_to_user_id": "1669683277563678722",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078845580143710584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rubidotme impossible"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669683277563678722",
+        "conversation_id": "2078330807685730537",
+        "created_at": "2026-07-19T14:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078845580143710584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554803647909097472",
+              "start": 0,
+              "username": "Wilf_Lin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078845580143710584",
+        "in_reply_to_user_id": "1554803647909097472",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078330807685730537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wilf_Lin get a mac maybe ?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 1949,
+          "like_count": 90659,
+          "listed_count": 3,
+          "media_count": 384,
+          "tweet_count": 9047
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-16T12:28:21.000Z",
+        "description": "I tweet about  Servers, Domains,  SEO etc etc.\nhttps://t.co/qxhXiCWSAR\nhttps://t.co/eUSA4mcplb\nhttps://t.co/TeFR2JjID3\nhttps://t.co/RXGinx0JGE\nhttps://t.co/MAxJtkLvSV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rubi.me",
+                "end": 70,
+                "expanded_url": "https://rubi.me/",
+                "start": 47,
+                "url": "https://t.co/qxhXiCWSAR"
+              },
+              {
+                "display_url": "buyvps.us",
+                "end": 94,
+                "expanded_url": "https://buyvps.us/",
+                "start": 71,
+                "url": "https://t.co/eUSA4mcplb"
+              },
+              {
+                "display_url": "bulletservers.net",
+                "end": 118,
+                "expanded_url": "https://bulletservers.net/",
+                "start": 95,
+                "url": "https://t.co/TeFR2JjID3"
+              },
+              {
+                "display_url": "rankfastr.com",
+                "end": 142,
+                "expanded_url": "https://rankfastr.com/",
+                "start": 119,
+                "url": "https://t.co/RXGinx0JGE"
+              },
+              {
+                "display_url": "tempmail.im",
+                "end": 166,
+                "expanded_url": "https://tempmail.im/",
+                "start": 143,
+                "url": "https://t.co/MAxJtkLvSV"
+              }
+            ]
+          }
+        },
+        "id": "1669683277563678722",
+        "name": "Rubi",
+        "pinned_tweet_id": "2065436547521163406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064374013892419584/hGPA81EB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69184,
+          "following_count": 134,
+          "like_count": 1954,
+          "listed_count": 177,
+          "media_count": 86,
+          "tweet_count": 364
+        },
+        "url": "",
+        "username": "rubidotme",
+        "verified": true
+      }
+    ]
+  }
+}

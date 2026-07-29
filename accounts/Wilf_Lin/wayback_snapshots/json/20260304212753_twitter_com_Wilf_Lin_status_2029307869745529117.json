@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2029069863013237038",
+    "created_at": "2026-03-04T21:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T22:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029307869745529117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1496714588918026242",
+          "start": 0,
+          "username": "using_YueCheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029307869745529117",
+    "in_reply_to_user_id": "1496714588918026242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029069863013237038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@using_YueCheng 以前写代码是要翻书的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2029069863013237038",
+        "created_at": "2026-03-04T21:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T22:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029307869745529117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1496714588918026242",
+              "start": 0,
+              "username": "using_YueCheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029307869745529117",
+        "in_reply_to_user_id": "1496714588918026242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029069863013237038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@using_YueCheng 以前写代码是要翻书的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1496714588918026242",
+        "conversation_id": "2029069863013237038",
+        "created_at": "2026-03-04T05:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T06:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029069863013237038"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029069863013237038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 127790,
+          "like_count": 354,
+          "quote_count": 20,
+          "reply_count": 177,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "很难想象上代目程序员是如何工作的，没有Git，没有docker，上个线还要手动打包传过去，Java后端还在用jsp，servlet，写个项目要配置一堆文件，前端还在jQuery，最要命的是资料匮乏，没有系统的学习资源，新手遇到一个问题可能卡很久没办法解决，上代目程序员都怎么熬出来的啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 703,
+          "like_count": 11901,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 5090
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-24T05:12:38.000Z",
+        "description": "社畜💊娘 | hrt 2023-9-3 | 笨蛋后端程序员 | 被灵活就业中",
+        "id": "1496714588918026242",
+        "location": "死信队列",
+        "name": "橘子喵🍥",
+        "pinned_tweet_id": "1946907783607222652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021983581250453504/5oe_iDxu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2567,
+          "following_count": 813,
+          "like_count": 12461,
+          "listed_count": 6,
+          "media_count": 476,
+          "tweet_count": 4610
+        },
+        "username": "using_YueCheng",
+        "verified": false
+      }
+    ]
+  }
+}

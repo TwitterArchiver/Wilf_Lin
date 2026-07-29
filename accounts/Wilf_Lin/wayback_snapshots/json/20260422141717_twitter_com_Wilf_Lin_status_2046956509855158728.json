@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      }
+    ],
+    "conversation_id": "2046956509855158728",
+    "created_at": "2026-04-22T14:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T15:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046956509855158728"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/alibaba_qwen/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/alibaba_qwen/status/2046939764428009914",
+          "start": 5,
+          "url": "https://t.co/2wrYXn5XXg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046956509855158728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046939764428009914",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "千问是神 https://t.co/2wrYXn5XXg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 647,
+        "media_key": "3_2046939754328125441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgw3IVacAEszY9.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2046956509855158728",
+        "created_at": "2026-04-22T14:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046956509855158728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alibaba_qwen/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/alibaba_qwen/status/2046939764428009914",
+              "start": 5,
+              "url": "https://t.co/2wrYXn5XXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046956509855158728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046939764428009914",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "千问是神 https://t.co/2wrYXn5XXg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046939754328125441"
+          ]
+        },
+        "author_id": "1753339277386342400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2046939764428009914",
+        "created_at": "2026-04-22T13:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046939764428009914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S36dggCCwk",
+              "end": 292,
+              "expanded_url": "https://x.com/Alibaba_Qwen/status/2046939764428009914/photo/1",
+              "media_key": "3_2046939754328125441",
+              "start": 269,
+              "url": "https://t.co/S36dggCCwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046939764428009914",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "qwen.ai/blog?id=qwen3.…",
+                "end": 536,
+                "expanded_url": "https://qwen.ai/blog?id=qwen3.6-27b",
+                "start": 513,
+                "url": "https://t.co/P2Zx7FwMxB"
+              },
+              {
+                "display_url": "chat.qwen.ai/?models=qwen3.…",
+                "end": 573,
+                "expanded_url": "https://chat.qwen.ai/?models=qwen3.6-27b",
+                "start": 550,
+                "url": "https://t.co/c4vm4LuZrU"
+              },
+              {
+                "display_url": "github.com/QwenLM/Qwen3.6",
+                "end": 605,
+                "expanded_url": "https://github.com/QwenLM/Qwen3.6",
+                "start": 582,
+                "url": "https://t.co/zKDEbv0R4U"
+              },
+              {
+                "display_url": "huggingface.co/Qwen/Qwen3.6-2…",
+                "end": 644,
+                "expanded_url": "https://huggingface.co/Qwen/Qwen3.6-27B",
+                "start": 621,
+                "url": "https://t.co/N67hyzxvfr"
+              },
+              {
+                "display_url": "huggingface.co/Qwen/Qwen3.6-2…",
+                "end": 668,
+                "expanded_url": "https://huggingface.co/Qwen/Qwen3.6-27B-FP8",
+                "start": 645,
+                "url": "https://t.co/SSdtbWRDap"
+              },
+              {
+                "display_url": "modelscope.cn/models/Qwen/Qw…",
+                "end": 704,
+                "expanded_url": "https://modelscope.cn/models/Qwen/Qwen3.6-27B",
+                "start": 681,
+                "url": "https://t.co/xODf1pj9kw"
+              },
+              {
+                "display_url": "modelscope.cn/models/Qwen/Qw…",
+                "end": 728,
+                "expanded_url": "https://modelscope.cn/models/Qwen/Qwen3.6-27B-FP8",
+                "start": 705,
+                "url": "https://t.co/xXhoqlJ2AB"
+              }
+            ]
+          },
+          "text": "🚀 Meet Qwen3.6-27B, our latest dense, open-source model, packing flagship-level coding power!\n\nYes, 27B, and Qwen3.6-27B punches way above its weight. 👇\n\nWhat's new:\n🧠 Outstanding agentic coding — surpasses Qwen3.5-397B-A17B across all major coding benchmarks\n💡 Strong reasoning across text & multimodal tasks\n🔄 Supports thinking & non-thinking modes\n✅ Apache 2.0 — fully open, fully yours\n\nSmaller model. Bigger results. Community's favorite. ❤️\nWe can't wait to see what you build with Qwen3.6-27B! 👀\n\n🔗👇\nBlog: https://t.co/P2Zx7FwMxB\nQwen Studio: https://t.co/c4vm4LuZrU\nGithub: https://t.co/zKDEbv0R4U\nHugging Face: \nhttps://t.co/N67hyzxvfr\nhttps://t.co/SSdtbWRDap\nModelScope:\nhttps://t.co/xODf1pj9kw\nhttps://t.co/xXhoqlJ2AB"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 648,
+          "impression_count": 135987,
+          "like_count": 2823,
+          "quote_count": 240,
+          "reply_count": 182,
+          "retweet_count": 455
+        },
+        "reply_settings": "everyone",
+        "text": "🚀 Meet Qwen3.6-27B, our latest dense, open-source model, packing flagship-level coding power!\n\nYes, 27B, and Qwen3.6-27B punches way above its weight. 👇\n\nWhat's new:\n🧠 Outstanding agentic coding — surpasses Qwen3.5-397B-A17B across all major coding benchmarks\n💡 Strong https://t.co/S36dggCCwk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 1638,
+          "like_count": 42893,
+          "listed_count": 4,
+          "media_count": 219,
+          "tweet_count": 7222
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-02T08:47:32.000Z",
+        "description": "Open foundation models for AGI.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qwen.ai",
+                "end": 23,
+                "expanded_url": "https://qwen.ai/",
+                "start": 0,
+                "url": "https://t.co/f8hrbNCQR4"
+              }
+            ]
+          }
+        },
+        "id": "1753339277386342400",
+        "name": "Qwen",
+        "pinned_tweet_id": "2046939764428009914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894073235379273728/0ROUmdkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198958,
+          "following_count": 6,
+          "like_count": 402,
+          "listed_count": 2129,
+          "media_count": 452,
+          "tweet_count": 856
+        },
+        "url": "https://t.co/f8hrbNCQR4",
+        "username": "Alibaba_Qwen",
+        "verified": true
+      }
+    ]
+  }
+}

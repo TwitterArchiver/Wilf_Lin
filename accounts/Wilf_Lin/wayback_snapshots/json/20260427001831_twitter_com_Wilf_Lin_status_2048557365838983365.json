@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2048412860829622531",
+    "created_at": "2026-04-27T00:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T01:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048557365838983365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1765324049998073856",
+          "start": 0,
+          "username": "hyprwm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048557365838983365",
+    "in_reply_to_user_id": "1765324049998073856",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048412860829622531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyprwm Good."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2048412860829622531",
+        "created_at": "2026-04-27T00:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T01:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048557365838983365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1765324049998073856",
+              "start": 0,
+              "username": "hyprwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048557365838983365",
+        "in_reply_to_user_id": "1765324049998073856",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048412860829622531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyprwm Good."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765324049998073856",
+        "conversation_id": "2048412860829622531",
+        "created_at": "2026-04-26T14:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048412860829622531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "hypr.land/news/26_lua/",
+              "end": 78,
+              "expanded_url": "https://hypr.land/news/26_lua/",
+              "start": 55,
+              "status": 200,
+              "unwound_url": "https://hypr.land/news/26_lua/",
+              "url": "https://t.co/qtwloSfHWc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048412860829622531",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 13285,
+          "like_count": 394,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "Hyprland configs are getting improved, and lua-ified!\n\nhttps://t.co/qtwloSfHWc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 1709,
+          "like_count": 50193,
+          "listed_count": 3,
+          "media_count": 233,
+          "tweet_count": 7543
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-06T10:30:56.000Z",
+        "description": "The Wayland Compositor she tells you not to worry about.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bestlinuxdesktop.org",
+                "end": 23,
+                "expanded_url": "https://bestlinuxdesktop.org",
+                "start": 0,
+                "url": "https://t.co/cs7cuoo3Cf"
+              }
+            ]
+          }
+        },
+        "id": "1765324049998073856",
+        "name": "Hyprland",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765324225013813248/2juOHADs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10742,
+          "following_count": 2,
+          "like_count": 20,
+          "listed_count": 35,
+          "media_count": 14,
+          "tweet_count": 156
+        },
+        "url": "https://t.co/cs7cuoo3Cf",
+        "username": "hyprwm",
+        "verified": false
+      }
+    ]
+  }
+}

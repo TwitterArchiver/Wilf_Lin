@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043344659460792320"
+      ],
+      "media_source_tweet_id": [
+        "2043902067056464367"
+      ]
+    },
+    "author_id": "1554803647909097472",
+    "conversation_id": "2043904835955605546",
+    "created_at": "2026-04-14T04:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T05:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043904835955605546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1465701247021838341",
+          "start": 3,
+          "username": "show5560"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JboIfTpIcS",
+          "end": 50,
+          "expanded_url": "https://x.com/show5560/status/2043902067056464367/photo/1",
+          "media_key": "3_2043344659460792320",
+          "start": 27,
+          "url": "https://t.co/JboIfTpIcS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043904835955605546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043902067056464367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @show5560: 你们的物理教授也这样吗？ https://t.co/JboIfTpIcS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 764,
+        "media_key": "3_2043344659460792320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtrJETaIAAhhVO.png",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043344659460792320"
+          ],
+          "media_source_tweet_id": [
+            "2043902067056464367"
+          ]
+        },
+        "author_id": "1554803647909097472",
+        "conversation_id": "2043904835955605546",
+        "created_at": "2026-04-14T04:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043904835955605546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1465701247021838341",
+              "start": 3,
+              "username": "show5560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JboIfTpIcS",
+              "end": 50,
+              "expanded_url": "https://x.com/show5560/status/2043902067056464367/photo/1",
+              "media_key": "3_2043344659460792320",
+              "start": 27,
+              "url": "https://t.co/JboIfTpIcS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043904835955605546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043902067056464367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @show5560: 你们的物理教授也这样吗？ https://t.co/JboIfTpIcS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043344659460792320"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2043902067056464367",
+        "created_at": "2026-04-14T04:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043902067056464367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JboIfTpIcS",
+              "end": 36,
+              "expanded_url": "https://x.com/show5560/status/2043902067056464367/photo/1",
+              "media_key": "3_2043344659460792320",
+              "start": 13,
+              "url": "https://t.co/JboIfTpIcS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043902067056464367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们的物理教授也这样吗？ https://t.co/JboIfTpIcS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神可能有问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 1336,
+          "like_count": 34365,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 6647
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ #蓝v互关 喵☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "蓝v互关"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2462,
+          "following_count": 1289,
+          "like_count": 25148,
+          "listed_count": 5,
+          "media_count": 470,
+          "tweet_count": 5623
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

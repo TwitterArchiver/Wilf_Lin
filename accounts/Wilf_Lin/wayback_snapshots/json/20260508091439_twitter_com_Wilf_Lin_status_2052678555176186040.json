@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2052385988375408749",
+    "created_at": "2026-05-08T09:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T10:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052678555176186040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "6782882",
+          "start": 0,
+          "username": "oran_ge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052678555176186040",
+    "in_reply_to_user_id": "6782882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052385988375408749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oran_ge 十年前就有人在这么干了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 97216,
+        "height": 720,
+        "media_key": "13_2052385458496352257",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052385458496352257/img/KcE3DOlwDWELbQJz.jpg",
+        "public_metrics": {
+          "view_count": 14497
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052385458496352257/vid/avc1/414x270/qt8S6BjpGXLhxRB0.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052385458496352257/vid/avc1/554x360/eZC5VTVJiiG2ZDlS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052385458496352257/vid/avc1/1108x720/bAhUb7y_jJHgWQxB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052385458496352257/pl/Uh6gxoTpjJlMXuP3.m3u8?v=5fa"
+          }
+        ],
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2052385988375408749",
+        "created_at": "2026-05-08T09:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052678555176186040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "6782882",
+              "start": 0,
+              "username": "oran_ge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052678555176186040",
+        "in_reply_to_user_id": "6782882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052385988375408749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oran_ge 十年前就有人在这么干了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052385458496352257"
+          ]
+        },
+        "author_id": "6782882",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2052385988375408749",
+        "created_at": "2026-05-07T13:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052385988375408749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QDIfmRoHW9",
+              "end": 191,
+              "expanded_url": "https://x.com/oran_ge/status/2052385988375408749/video/1",
+              "media_key": "13_2052385458496352257",
+              "start": 168,
+              "url": "https://t.co/QDIfmRoHW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052385988375408749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/marswaveai/Col…",
+                "end": 454,
+                "expanded_url": "https://github.com/marswaveai/ColaMD",
+                "start": 431,
+                "url": "https://t.co/XQXR5qgli1"
+              }
+            ]
+          },
+          "text": "平时出去演讲分享，最烦的就是写 PPT 了\n虽然现在 HTML PPT 也很流行，但要做逐字修改还是不方便，毕竟分享的时候还是很严肃的，要确定每个字都是自己想说的\n\n刚好今天看到藏师傅说的 Markdown as Database 的理念，我也非常认同\nHTML 好看难改。Markdown 好改难看。\n那能不能把 HTML 和 MD 结合起来，修改 MD，让 HTML 渲染 MD？\n\n于是我晚上就上手试了一下，竟然真的可以。\n.md 文件是内容层，HTML 模板是视图层。改内容的时候只改 Markdown，完全不碰 HTML。\n\n一份 Markdown，多种渲染形态：幻灯片、博客、简历、产品页……未来各种模板都可以消费同一份文件。\n\n这个功能已经内置到 ColaMD 的 1.5 版本里啦，虽然只有我平时最喜欢用的那个 PPT 模板，但是既然有一个了，就可以加无限个，开源软件，你让 AI 自己加模板就行\n\n欢迎大家体验哈，走过路过给个 Star 哈\n\nhttps://t.co/XQXR5qgli1"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 345,
+          "impression_count": 30328,
+          "like_count": 228,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "平时出去演讲分享，最烦的就是写 PPT 了\n虽然现在 HTML PPT 也很流行，但要做逐字修改还是不方便，毕竟分享的时候还是很严肃的，要确定每个字都是自己想说的\n\n刚好今天看到藏师傅说的 Markdown as Database 的理念，我也非常认同\nHTML 好看难改。Markdown 好改难看。\n那能不能把 HTML 和 MD https://t.co/QDIfmRoHW9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 1801,
+          "like_count": 57060,
+          "listed_count": 4,
+          "media_count": 269,
+          "tweet_count": 8055
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2007-06-13T05:03:33.000Z",
+        "description": "we are already living in science fiction. building the os for it",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "colaos.ai",
+                "end": 23,
+                "expanded_url": "https://colaos.ai/",
+                "start": 0,
+                "url": "https://t.co/SMiBlmG0PV"
+              }
+            ]
+          }
+        },
+        "id": "6782882",
+        "location": "Mars",
+        "name": "Orange AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760074488073629696/ceSsuVCY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171173,
+          "following_count": 623,
+          "like_count": 2377,
+          "listed_count": 2462,
+          "media_count": 6332,
+          "tweet_count": 135957
+        },
+        "url": "https://t.co/SMiBlmG0PV",
+        "username": "oran_ge",
+        "verified": true
+      }
+    ]
+  }
+}

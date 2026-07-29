@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2056043641249091763",
+    "created_at": "2026-05-18T01:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T02:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056182043567083733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "751239554",
+          "start": 0,
+          "username": "gregpr07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056182043567083733",
+    "in_reply_to_user_id": "751239554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056043641249091763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gregpr07 你真干了啊？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52800,
+        "height": 1080,
+        "media_key": "13_2056041238625972224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056041238625972224/img/TuP_88_3P5eBYWZr.jpg",
+        "public_metrics": {
+          "view_count": 26106
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056041238625972224/vid/avc1/380x360/JMP5OtSBfThx0WL3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056041238625972224/vid/avc1/760x720/aL9HQWOK117q2C0U.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056041238625972224/pl/8JPxHgw8mtj3pfou.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056041238625972224/vid/avc1/1140x1080/Tpvtm2-om0t0NdYw.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056041238625972224/vid/avc1/284x270/1rq0McL7SJ0XUPjo.mp4"
+          }
+        ],
+        "width": 1140
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2056043641249091763",
+        "created_at": "2026-05-18T01:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056182043567083733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "751239554",
+              "start": 0,
+              "username": "gregpr07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056182043567083733",
+        "in_reply_to_user_id": "751239554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056043641249091763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gregpr07 你真干了啊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056041238625972224"
+          ]
+        },
+        "author_id": "751239554",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2056043641249091763",
+        "created_at": "2026-05-17T16:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056043641249091763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "gta6-single-prompt.vercel.app",
+              "end": 143,
+              "expanded_url": "https://gta6-single-prompt.vercel.app",
+              "start": 120,
+              "status": 200,
+              "title": "Open City Sandbox",
+              "unwound_url": "https://gta6-single-prompt.vercel.app",
+              "url": "https://t.co/J7reg4Amm4"
+            },
+            {
+              "display_url": "pic.x.com/19bnzrs4eC",
+              "end": 167,
+              "expanded_url": "https://x.com/gregpr07/status/2056043641249091763/video/1",
+              "media_key": "13_2056041238625972224",
+              "start": 144,
+              "url": "https://t.co/19bnzrs4eC"
+            },
+            {
+              "display_url": "x.com/gregpr07/statu…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/gregpr07/status/2055416312311250957",
+              "start": 168,
+              "url": "https://t.co/rgnyOa1BKa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056043641249091763",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 117790,
+          "like_count": 435,
+          "quote_count": 5,
+          "reply_count": 50,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055416312311250957",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "/goal build GTA 6\n\nIs this the AGI test? One prompt in -&gt; full playable game out? How good can a single prompt get?\n\nhttps://t.co/J7reg4Amm4 https://t.co/19bnzrs4eC https://t.co/rgnyOa1BKa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 1813,
+          "like_count": 62496,
+          "listed_count": 4,
+          "media_count": 294,
+          "tweet_count": 8440
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2012-08-11T13:05:41.000Z",
+        "description": "founder @browser_use",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "browser_use"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "browser-use.com",
+                "end": 23,
+                "expanded_url": "http://browser-use.com",
+                "start": 0,
+                "url": "https://t.co/GCThhpQGgx"
+              }
+            ]
+          }
+        },
+        "id": "751239554",
+        "location": "San Francisco",
+        "name": "Gregor Zunic",
+        "pinned_tweet_id": "2045566281991311483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980037752797175809/cTfw6IDz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23591,
+          "following_count": 558,
+          "like_count": 5153,
+          "listed_count": 253,
+          "media_count": 490,
+          "tweet_count": 2654
+        },
+        "url": "https://t.co/GCThhpQGgx",
+        "username": "gregpr07",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2052502009320706159",
+    "created_at": "2026-05-07T21:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T22:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052502009320706159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Dimillian/stat…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Dimillian/status/2052481344697937920",
+          "start": 14,
+          "url": "https://t.co/kAkWCCuyE8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052502009320706159",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052481344697937920",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Why No Linux. https://t.co/kAkWCCuyE8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2052502009320706159",
+        "created_at": "2026-05-07T21:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T22:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052502009320706159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Dimillian/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Dimillian/status/2052481344697937920",
+              "start": 14,
+              "url": "https://t.co/kAkWCCuyE8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052502009320706159",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052481344697937920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Why No Linux. https://t.co/kAkWCCuyE8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "15704456",
+        "conversation_id": "2052481344697937920",
+        "created_at": "2026-05-07T20:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T21:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052481344697937920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ajambrosino/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/ajambrosino/status/2052480868091101320",
+              "start": 37,
+              "url": "https://t.co/89EGA0kfpk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052481344697937920",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3689,
+          "like_count": 88,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052480868091101320",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "New Codex app update is very snappy! https://t.co/89EGA0kfpk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 1793,
+          "like_count": 56629,
+          "listed_count": 4,
+          "media_count": 265,
+          "tweet_count": 7999
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2008-08-02T20:26:55.000Z",
+        "description": "Developer Experience, Codex  @OpenAI\nBuilder, Entrepreneur, iOS/macOS, Swift/SwiftUI & more",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dimillian.app",
+                "end": 23,
+                "expanded_url": "https://dimillian.app",
+                "start": 0,
+                "url": "https://t.co/DClJXFSIB9"
+              }
+            ]
+          }
+        },
+        "id": "15704456",
+        "location": "Around Paris, France",
+        "name": "Thomas Ricouard",
+        "pinned_tweet_id": "2031418688813830223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983517942378536960/M04vxP2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47097,
+          "following_count": 3979,
+          "like_count": 18827,
+          "listed_count": 636,
+          "media_count": 8575,
+          "tweet_count": 60665
+        },
+        "url": "https://t.co/DClJXFSIB9",
+        "username": "Dimillian",
+        "verified": true
+      }
+    ]
+  }
+}

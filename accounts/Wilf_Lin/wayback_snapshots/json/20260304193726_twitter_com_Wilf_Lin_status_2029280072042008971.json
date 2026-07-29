@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2029202477275652489",
+    "created_at": "2026-03-04T19:37:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T20:37:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029280072042008971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1830880351801221120",
+          "start": 0,
+          "username": "frxiaobei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029280072042008971",
+    "in_reply_to_user_id": "1830880351801221120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029202477275652489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@frxiaobei 该拿去和qwen3.5 35b比一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2029202477275652489",
+        "created_at": "2026-03-04T19:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T20:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029280072042008971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1830880351801221120",
+              "start": 0,
+              "username": "frxiaobei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029280072042008971",
+        "in_reply_to_user_id": "1830880351801221120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029202477275652489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frxiaobei 该拿去和qwen3.5 35b比一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830880351801221120",
+        "conversation_id": "2029202477275652489",
+        "created_at": "2026-03-04T14:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T15:26:59.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029201947220390358",
+          "2029202477275652489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/googledeepmind…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/googledeepmind/status/2028872381477929185",
+              "start": 157,
+              "url": "https://t.co/NsYgvzaIgX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029202477275652489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Gemini 3.1 Flash-Lite，这个模型的意义在成本曲线。\n\nopenclaw 以及其他各类 agent 跑久了就会发现一个问题：\n复杂推理是费钱，但真正吃 token的其实是各种流水线工作。\n\n很多人可能没注意到，试着把过程存下来让小龙虾总结下就知道，全是各种解析整理，调用工具的，写结构化数据……\n\n这些任务如果全用大模型，成本很快就失控。\n\n行业现在慢慢形成一个共识，大模型做决策，传统的脚本和这种 Lite 模型跑流水线。\n\n所以很多人关注错了地方， Flash-Lite 解决的问题其实很简单：\n让 AI 可以一天跑一亿次，而不是一万次。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 5976,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028872381477929185",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Gemini 3.1 Flash-Lite，这个模型的意义在成本曲线。\n\nopenclaw 以及其他各类 agent 跑久了就会发现一个问题：\n复杂推理是费钱，但真正吃 token的其实是各种流水线工作。\n\n很多人可能没注意到，试着把过程存下来让小龙虾总结下就知道，全是各种解析整理，调用工具的，写结构化数据…… https://t.co/NsYgvzaIgX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 699,
+          "like_count": 11780,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 5083
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-03T08:08:10.000Z",
+        "description": "行道途中。非求速成，惟求通达。 2023 年全面拥抱 AIGC，打通 Know-How，长期在真实业务与组织中实践。 从技术、组织与人的协作与决策出发，解决真实问题。商业与管理咨询 | AI 顾问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "frxiaobei.com",
+                "end": 23,
+                "expanded_url": "https://www.frxiaobei.com/",
+                "start": 0,
+                "url": "https://t.co/UKDmgMCWG1"
+              }
+            ]
+          }
+        },
+        "id": "1830880351801221120",
+        "location": "vx/WeChat: frxiaobei",
+        "name": "凡人小北",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916849689783402496/DC10b7O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23796,
+          "following_count": 525,
+          "like_count": 7031,
+          "listed_count": 324,
+          "media_count": 379,
+          "tweet_count": 5390
+        },
+        "url": "https://t.co/UKDmgMCWG1",
+        "username": "frxiaobei",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2034384396363710663",
+    "created_at": "2026-03-19T01:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T02:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034449557531037701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1206800829950259202",
+          "start": 0,
+          "username": "m1ssuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034449557531037701",
+    "in_reply_to_user_id": "1206800829950259202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034384396363710663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m1ssuo 这种东西推荐GPT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1578,
+        "media_key": "3_2034384221473820672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDuVq7mbUAAMPri.jpg",
+        "width": 1672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2034384396363710663",
+        "created_at": "2026-03-19T01:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T02:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034449557531037701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1206800829950259202",
+              "start": 0,
+              "username": "m1ssuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034449557531037701",
+        "in_reply_to_user_id": "1206800829950259202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034384396363710663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1ssuo 这种东西推荐GPT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034384221473820672"
+          ]
+        },
+        "author_id": "1206800829950259202",
+        "conversation_id": "2034384396363710663",
+        "created_at": "2026-03-18T21:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T22:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034384396363710663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TleHlMbpcz",
+              "end": 88,
+              "expanded_url": "https://x.com/m1ssuo/status/2034384396363710663/photo/1",
+              "media_key": "3_2034384221473820672",
+              "start": 65,
+              "url": "https://t.co/TleHlMbpcz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034384396363710663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3140,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Claude Code Opus 4.6 写了老半天 Zig，都没有 build 成功，看来对于这种新东西，AI 还是不太擅长。 https://t.co/TleHlMbpcz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 825,
+          "like_count": 17401,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 5599
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-17T04:58:40.000Z",
+        "description": "Founder of @OwO_Network | Operator of AS-OWONET (AS30700, AS60614, etc.) | #WWDC24 | #BGP | https://t.co/aPrcdNJBGd",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 75,
+                "tag": "WWDC24"
+              },
+              {
+                "end": 89,
+                "start": 85,
+                "tag": "BGP"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "OwO_Network"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/missuo",
+                "end": 115,
+                "expanded_url": "http://github.com/missuo",
+                "start": 92,
+                "url": "https://t.co/aPrcdNJBGd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "missuo.me",
+                "end": 23,
+                "expanded_url": "https://missuo.me",
+                "start": 0,
+                "url": "https://t.co/PgxKPy6XHr"
+              }
+            ]
+          }
+        },
+        "id": "1206800829950259202",
+        "location": "Pittsburgh, PA",
+        "name": "Vincent Yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589233256175923202/CsyqQfsK_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10407,
+          "following_count": 1254,
+          "like_count": 11840,
+          "listed_count": 76,
+          "media_count": 1113,
+          "tweet_count": 6302
+        },
+        "url": "https://t.co/PgxKPy6XHr",
+        "username": "m1ssuo",
+        "verified": true
+      }
+    ]
+  }
+}

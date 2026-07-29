@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1420050770829799426",
+          "name": "Alibaba Group"
+        }
+      }
+    ],
+    "conversation_id": "2027434118666178928",
+    "created_at": "2026-02-28T05:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T06:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027619710058041435"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 81,
+          "normalized_text": "Alibaba",
+          "probability": 0.5787,
+          "start": 75,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3066008697",
+          "start": 0,
+          "username": "matteopelleg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027619710058041435",
+    "in_reply_to_user_id": "3066008697",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027434118666178928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@matteopelleg And the olny provider of on-devicable and powerful model is\n\nAlibaba!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          }
+        ],
+        "conversation_id": "2027434118666178928",
+        "created_at": "2026-02-28T05:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T06:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027619710058041435"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 81,
+              "normalized_text": "Alibaba",
+              "probability": 0.5787,
+              "start": 75,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3066008697",
+              "start": 0,
+              "username": "matteopelleg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027619710058041435",
+        "in_reply_to_user_id": "3066008697",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027434118666178928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@matteopelleg And the olny provider of on-devicable and powerful model is\n\nAlibaba!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3066008697",
+        "conversation_id": "2027434118666178928",
+        "created_at": "2026-02-27T17:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027434118666178928"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "AI",
+              "probability": 0.6986,
+              "start": 49,
+              "type": "Organization"
+            },
+            {
+              "end": 69,
+              "normalized_text": "Apple",
+              "probability": 0.855,
+              "start": 65,
+              "type": "Organization"
+            },
+            {
+              "end": 100,
+              "normalized_text": "Anthropic",
+              "probability": 0.6441,
+              "start": 92,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027434118666178928",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "I’m now convinced that the biggest winner of the AI race will be Apple. \n\nThey will acquire Anthropic and put an AI model that can run on ~32GB of RAM in every device. \n\nIt will be private, local, have perfect memory, access to all of your files and it will cost $0. \n\nThe real moat was owning the hardware."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1144,
+          "impression_count": 714981,
+          "like_count": 7733,
+          "quote_count": 106,
+          "reply_count": 596,
+          "retweet_count": 270
+        },
+        "reply_settings": "everyone",
+        "text": "I’m now convinced that the biggest winner of the AI race will be Apple. \n\nThey will acquire Anthropic and put an AI model that can run on ~32GB of RAM in every device. \n\nIt will be private, local, have perfect memory, access to all of your files and it will cost $0. \n\nThe real"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 643,
+          "like_count": 10020,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 4936
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2015-03-02T18:03:47.000Z",
+        "description": "Vibe CEO @ https://t.co/8E55aCsmbV \n\nJesus Maxi\nAmerica Maxi\nBitcoin Maxi\nAI Maxi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cluborange.org",
+                "end": 34,
+                "expanded_url": "http://www.cluborange.org",
+                "start": 11,
+                "url": "https://t.co/8E55aCsmbV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cluborange.org",
+                "end": 23,
+                "expanded_url": "http://www.cluborange.org",
+                "start": 0,
+                "url": "https://t.co/8E55aCsmbV"
+              }
+            ]
+          }
+        },
+        "id": "3066008697",
+        "location": "Los Angeles",
+        "name": "Matteo Pellegrini",
+        "pinned_tweet_id": "2023461240300073076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996756911530909696/oFlwfV9j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18448,
+          "following_count": 7940,
+          "like_count": 54193,
+          "listed_count": 133,
+          "media_count": 5152,
+          "tweet_count": 43351
+        },
+        "url": "https://t.co/8E55aCsmbV",
+        "username": "matteopelleg",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2048417989536420263",
+    "created_at": "2026-04-26T18:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T19:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048465156997316884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "272239060",
+          "start": 0,
+          "username": "VictorTaelin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048465156997316884",
+    "in_reply_to_user_id": "272239060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048417989536420263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VictorTaelin 有个东西叫做在线学习，现在还比较前沿，但是已经能用了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2048417989536420263",
+        "created_at": "2026-04-26T18:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T19:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048465156997316884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "272239060",
+              "start": 0,
+              "username": "VictorTaelin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048465156997316884",
+        "in_reply_to_user_id": "272239060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048417989536420263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VictorTaelin 有个东西叫做在线学习，现在还比较前沿，但是已经能用了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "272239060",
+        "conversation_id": "2048417989536420263",
+        "created_at": "2026-04-26T15:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:02:36.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048417468205392202",
+          "2048417852961546742",
+          "2048417989536420263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haider1/status…",
+              "end": 304,
+              "expanded_url": "https://twitter.com/haider1/status/2048386614918078618",
+              "start": 281,
+              "url": "https://t.co/fYlUDZU5C3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048417989536420263",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "the AGI breakthrough is just training efficiency\n\nthat's all there is to it. we have AGI already, LLMs ARE capable of learning any skill. it just takes millions of dollars to teach them a new skill/domain\n\nif we can bring that down to $100 then, we solve:\n- 1. continual learning: just retrain\n- 2. acquiring new skills: just retrain\n- 3. producing new knowledge: search while training\n\nthat's all. AGI is merely an efficiency question and the fact people completely ignore that makes me intellectually offended\n\nthe only companies seriously working on AGI are these who are addressing the efficiency problem, and, no, you are NOT going to solve that without throwing away the whole ML stack. it takes MILLIONS to train a new model. we're not going to make this shit 10000x more efficient while still learning by gradient descent\n\na whole new approach is needed, one that replicates GPT-3 with a fraction of the cost. there is no theoretical limitation, but not enough people are dedicating their times to that because incremental progress is much easier and lower risk"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 31620,
+          "like_count": 445,
+          "quote_count": 7,
+          "reply_count": 64,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048386614918078618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "the AGI breakthrough is just training efficiency\n\nthat's all there is to it. we have AGI already, LLMs ARE capable of learning any skill. it just takes millions of dollars to teach them a new skill/domain\n\nif we can bring that down to $100 then, we solve:\n- 1. continual learning: https://t.co/fYlUDZU5C3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 1700,
+          "like_count": 49502,
+          "listed_count": 3,
+          "media_count": 233,
+          "tweet_count": 7520
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-26T03:28:43.000Z",
+        "description": "Kind / Bend / HVM / INets / λCalculus",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/VictorTaelin",
+                "end": 23,
+                "expanded_url": "https://github.com/VictorTaelin",
+                "start": 0,
+                "url": "https://t.co/K3TRf4HdCG"
+              }
+            ]
+          }
+        },
+        "id": "272239060",
+        "location": "São Paulo",
+        "name": "Taelin",
+        "pinned_tweet_id": "1791213162525524076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757844208591704065/HOiAtIbv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70941,
+          "following_count": 2334,
+          "like_count": 54842,
+          "listed_count": 780,
+          "media_count": 1040,
+          "tweet_count": 19180
+        },
+        "url": "https://t.co/K3TRf4HdCG",
+        "username": "VictorTaelin",
+        "verified": true
+      }
+    ]
+  }
+}

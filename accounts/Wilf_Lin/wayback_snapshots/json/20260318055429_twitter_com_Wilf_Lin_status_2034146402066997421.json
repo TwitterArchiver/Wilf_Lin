@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2033997254630248686",
+    "created_at": "2026-03-18T05:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T06:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034146402066997421"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "linux",
+          "probability": 0.7132,
+          "start": 35,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "50339173",
+          "start": 0,
+          "username": "thekitze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034146402066997421",
+    "in_reply_to_user_id": "50339173",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033997254630248686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thekitze they dont give a shit to linux user"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2033997254630248686",
+        "created_at": "2026-03-18T05:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T06:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034146402066997421"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "linux",
+              "probability": 0.7132,
+              "start": 35,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "50339173",
+              "start": 0,
+              "username": "thekitze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034146402066997421",
+        "in_reply_to_user_id": "50339173",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033997254630248686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thekitze they dont give a shit to linux user"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "50339173",
+        "conversation_id": "2033997254630248686",
+        "created_at": "2026-03-17T20:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T21:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033997254630248686"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Codex app",
+              "probability": 0.8224,
+              "start": 4,
+              "type": "Other"
+            },
+            {
+              "end": 61,
+              "normalized_text": "codex",
+              "probability": 0.4164,
+              "start": 57,
+              "type": "Organization"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033997254630248686",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 26377,
+          "like_count": 404,
+          "quote_count": 5,
+          "reply_count": 49,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "the Codex app is a trillion and one time better than the codex cli and any other cli as a matter of fact. fuck tui, gimme ui all day every day"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 812,
+          "like_count": 16964,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 5539
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-24T15:41:08.000Z",
+        "description": "https://t.co/xtPXkQL3aC ⋅ https://t.co/JcBILXzQnp ⋅ https://t.co/enDskNftvG ⋅ https://t.co/Iw4TIuqTtK ⋅ https://t.co/4YoOCTlCDz ⋅ https://t.co/8qPMrCs6BM ⋅ https://t.co/TgJjahJRbR ⋅https://t.co/8nztYWTcsC ⋅ https://t.co/rbFIE4fTwf ⋅ https://t.co/V55LRtPFTK ⋅ https://t.co/gidyKG3hgS ⋅ https://t.co/KUanHVy8GM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tinkerer.club",
+                "end": 23,
+                "expanded_url": "http://tinkerer.club",
+                "start": 0,
+                "url": "https://t.co/xtPXkQL3aC"
+              },
+              {
+                "display_url": "benji.so",
+                "end": 49,
+                "expanded_url": "http://benji.so",
+                "start": 26,
+                "url": "https://t.co/JcBILXzQnp"
+              },
+              {
+                "display_url": "sizzy.co",
+                "end": 75,
+                "expanded_url": "http://sizzy.co",
+                "start": 52,
+                "url": "https://t.co/enDskNftvG"
+              },
+              {
+                "display_url": "zerotoshipped.com",
+                "end": 101,
+                "expanded_url": "http://zerotoshipped.com",
+                "start": 78,
+                "url": "https://t.co/Iw4TIuqTtK"
+              },
+              {
+                "display_url": "glink.so",
+                "end": 127,
+                "expanded_url": "http://glink.so",
+                "start": 104,
+                "url": "https://t.co/4YoOCTlCDz"
+              },
+              {
+                "display_url": "joinrepo.com",
+                "end": 153,
+                "expanded_url": "http://joinrepo.com",
+                "start": 130,
+                "url": "https://t.co/8qPMrCs6BM"
+              },
+              {
+                "display_url": "dmx.to",
+                "end": 179,
+                "expanded_url": "http://dmx.to",
+                "start": 156,
+                "url": "https://t.co/TgJjahJRbR"
+              },
+              {
+                "display_url": "sotto.to",
+                "end": 204,
+                "expanded_url": "http://sotto.to",
+                "start": 181,
+                "url": "https://t.co/8nztYWTcsC"
+              },
+              {
+                "display_url": "justwrite.ink",
+                "end": 230,
+                "expanded_url": "http://justwrite.ink",
+                "start": 207,
+                "url": "https://t.co/rbFIE4fTwf"
+              },
+              {
+                "display_url": "spellbook.to",
+                "end": 256,
+                "expanded_url": "http://spellbook.to",
+                "start": 233,
+                "url": "https://t.co/V55LRtPFTK"
+              },
+              {
+                "display_url": "tubely.cc",
+                "end": 282,
+                "expanded_url": "http://tubely.cc",
+                "start": 259,
+                "url": "https://t.co/gidyKG3hgS"
+              },
+              {
+                "display_url": "slopcraft.ai",
+                "end": 308,
+                "expanded_url": "http://slopcraft.ai",
+                "start": 285,
+                "url": "https://t.co/KUanHVy8GM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitze.io",
+                "end": 23,
+                "expanded_url": "http://kitze.io",
+                "start": 0,
+                "url": "https://t.co/Hw38uRgyZu"
+              }
+            ]
+          }
+        },
+        "id": "50339173",
+        "location": "shipyard 🚢",
+        "name": "kitze 🛠️ tinkerer.club",
+        "pinned_tweet_id": "2031430561441653163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012440537760923649/DCZrPq_f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97571,
+          "following_count": 865,
+          "like_count": 88346,
+          "listed_count": 1285,
+          "media_count": 12485,
+          "tweet_count": 64683
+        },
+        "url": "https://t.co/Hw38uRgyZu",
+        "username": "thekitze",
+        "verified": true
+      }
+    ]
+  }
+}

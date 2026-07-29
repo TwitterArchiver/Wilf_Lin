@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2048627734637903934",
+    "created_at": "2026-04-27T17:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T18:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048816453831324129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1470511839037566991",
+          "start": 0,
+          "username": "gabriberton"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048816453831324129",
+    "in_reply_to_user_id": "1470511839037566991",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048627734637903934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gabriberton massive content review for platforms or gov."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2048627734637903934",
+        "created_at": "2026-04-27T17:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048816453831324129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1470511839037566991",
+              "start": 0,
+              "username": "gabriberton"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048816453831324129",
+        "in_reply_to_user_id": "1470511839037566991",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048627734637903934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gabriberton massive content review for platforms or gov."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1470511839037566991",
+        "conversation_id": "2048627734637903934",
+        "created_at": "2026-04-27T04:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048627734637903934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048627734637903934",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 358,
+          "impression_count": 119413,
+          "like_count": 589,
+          "quote_count": 15,
+          "reply_count": 277,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "What are some real-world use cases for \"small\" (&lt;10B) LLMs?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 1715,
+          "like_count": 50797,
+          "listed_count": 3,
+          "media_count": 236,
+          "tweet_count": 7575
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-13T21:54:09.000Z",
+        "description": "Training VLMs at @GoogleDeepMind - ex @Amazon @CarnegieMellon @PoliTOnews @IITalk - I post honest non-AI-generated paper reviews",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "GoogleDeepMind"
+              },
+              {
+                "end": 45,
+                "start": 38,
+                "username": "Amazon"
+              },
+              {
+                "end": 61,
+                "start": 46,
+                "username": "CarnegieMellon"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "PoliTOnews"
+              },
+              {
+                "end": 81,
+                "start": 74,
+                "username": "IITalk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gmberton.github.io",
+                "end": 23,
+                "expanded_url": "https://gmberton.github.io/",
+                "start": 0,
+                "url": "https://t.co/e0GZRIv8vV"
+              }
+            ]
+          }
+        },
+        "id": "1470511839037566991",
+        "location": "Palo Alto, CA",
+        "name": "Gabriele Berton",
+        "pinned_tweet_id": "1796531585958985941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1511831234799968260/o91nkqnQ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14295,
+          "following_count": 1223,
+          "like_count": 9632,
+          "listed_count": 139,
+          "media_count": 590,
+          "tweet_count": 2892
+        },
+        "url": "https://t.co/e0GZRIv8vV",
+        "username": "gabriberton",
+        "verified": true
+      }
+    ]
+  }
+}

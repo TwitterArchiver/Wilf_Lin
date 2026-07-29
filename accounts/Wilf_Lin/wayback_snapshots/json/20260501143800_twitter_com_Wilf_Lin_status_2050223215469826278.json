@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2050081309125657067",
+    "created_at": "2026-05-01T14:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T15:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050223215469826278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "845535707615543296",
+          "start": 0,
+          "username": "tvytlx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050223215469826278",
+    "in_reply_to_user_id": "845535707615543296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050081309125657067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tvytlx 用nano并宣称自己用的是vim👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2050081309125657067",
+        "created_at": "2026-05-01T14:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T15:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050223215469826278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "845535707615543296",
+              "start": 0,
+              "username": "tvytlx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050223215469826278",
+        "in_reply_to_user_id": "845535707615543296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050081309125657067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tvytlx 用nano并宣称自己用的是vim👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "845535707615543296",
+        "conversation_id": "2050081309125657067",
+        "created_at": "2026-05-01T05:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T06:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050081309125657067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050081309125657067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8117,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "没有人争论用 vim 还是 emacs 了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 1751,
+          "like_count": 53358,
+          "listed_count": 4,
+          "media_count": 245,
+          "tweet_count": 7724
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-25T07:19:56.000Z",
+        "description": "乐于拆解事物运行的底层逻辑\n好东西在星球分享：矩阵之外",
+        "id": "845535707615543296",
+        "location": "Melbourne, Victoria",
+        "name": "Xiao Tan",
+        "pinned_tweet_id": "2038939480892346699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023275428606283776/eZCtE_0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12327,
+          "following_count": 888,
+          "like_count": 2637,
+          "listed_count": 115,
+          "media_count": 258,
+          "tweet_count": 2637
+        },
+        "username": "tvytlx",
+        "verified": true
+      }
+    ]
+  }
+}

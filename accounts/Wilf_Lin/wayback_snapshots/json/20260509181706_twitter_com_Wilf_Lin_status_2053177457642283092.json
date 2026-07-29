@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2053066865271066991",
+    "created_at": "2026-05-09T18:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T19:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053177457642283092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "974517717200875529",
+          "start": 0,
+          "username": "localhost_4173"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053177457642283092",
+    "in_reply_to_user_id": "974517717200875529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053066865271066991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@localhost_4173 赞美rust神教"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2053066865271066991",
+        "created_at": "2026-05-09T18:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T19:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053177457642283092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "974517717200875529",
+              "start": 0,
+              "username": "localhost_4173"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053177457642283092",
+        "in_reply_to_user_id": "974517717200875529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053066865271066991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@localhost_4173 赞美rust神教"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "974517717200875529",
+        "conversation_id": "2053066865271066991",
+        "created_at": "2026-05-09T10:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053066865271066991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jarredsumner/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/jarredsumner/status/2053058171338682875",
+              "start": 33,
+              "url": "https://t.co/t0vvEKhyMq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053066865271066991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9725,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053058171338682875",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看来 bun 用 rust 重写的实验成为正式版可能性很大了 😅 https://t.co/t0vvEKhyMq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 1804,
+          "like_count": 58190,
+          "listed_count": 4,
+          "media_count": 277,
+          "tweet_count": 8180
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-16T05:28:24.000Z",
+        "description": "ChatWise CEO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chatwise.app",
+                "end": 23,
+                "expanded_url": "http://chatwise.app",
+                "start": 0,
+                "url": "https://t.co/CjrW0kKKPC"
+              }
+            ]
+          }
+        },
+        "id": "974517717200875529",
+        "location": "horny jail",
+        "name": "低空飞行",
+        "pinned_tweet_id": "1907962321751691563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046898583031664640/tyEq8TiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13170,
+          "following_count": 541,
+          "like_count": 26210,
+          "listed_count": 169,
+          "media_count": 2643,
+          "tweet_count": 8267
+        },
+        "url": "https://t.co/CjrW0kKKPC",
+        "username": "localhost_4173",
+        "verified": true
+      }
+    ]
+  }
+}

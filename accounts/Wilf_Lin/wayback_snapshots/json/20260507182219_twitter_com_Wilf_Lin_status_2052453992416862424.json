@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      }
+    ],
+    "conversation_id": "2052438371058737280",
+    "created_at": "2026-05-07T18:22:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T19:22:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052453992416862424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "874987512850128897",
+          "start": 0,
+          "username": "reach_vb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052453992416862424",
+    "in_reply_to_user_id": "874987512850128897",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052438371058737280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reach_vb can you open source soma, i want a local end to end voice translation"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1210,
+        "media_key": "3_2052437826898194432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHu5VEvXcAAtuLn.jpg",
+        "width": 1786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2052438371058737280",
+        "created_at": "2026-05-07T18:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T19:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052453992416862424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "874987512850128897",
+              "start": 0,
+              "username": "reach_vb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052453992416862424",
+        "in_reply_to_user_id": "874987512850128897",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052438371058737280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reach_vb can you open source soma, i want a local end to end voice translation"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052437826898194432"
+          ]
+        },
+        "author_id": "874987512850128897",
+        "conversation_id": "2052438371058737280",
+        "created_at": "2026-05-07T17:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052438371058737280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iIAFo8wV7H",
+              "end": 299,
+              "expanded_url": "https://x.com/reach_vb/status/2052438371058737280/photo/1",
+              "media_key": "3_2052437826898194432",
+              "start": 276,
+              "url": "https://t.co/iIAFo8wV7H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052438371058737280",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Voice agents are so back!!\n\nToday we’re launching 3 new realtime audio models in the API:\n\n🎙️ GPT-Realtime-2\nGPT-5-class reasoning for voice agents that can use tools, recover from interruptions, and carry longer conversations with 128K context\n\n🌍 GPT-Realtime-Translate\nLive speech translation from 70+ input languages into 13 output languages\n\n📝 GPT-Realtime-Whisper\nStreaming transcription as people speak\n\nThis is the next step for voice apps:\nlisten → reason → translate → transcribe → act\n\nAvailable today in the Realtime API! Enjoy!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 13663,
+          "like_count": 174,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "Voice agents are so back!!\n\nToday we’re launching 3 new realtime audio models in the API:\n\n🎙️ GPT-Realtime-2\nGPT-5-class reasoning for voice agents that can use tools, recover from interruptions, and carry longer conversations with 128K context\n\n🌍 GPT-Realtime-Translate\nLive https://t.co/iIAFo8wV7H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 1788,
+          "like_count": 56512,
+          "listed_count": 4,
+          "media_count": 263,
+          "tweet_count": 7972
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-14T13:50:54.000Z",
+        "description": "Bringing Codex to developers @OpenAI | ex @huggingface | F1 fan | Here for @at_sofdog’s wisdom | *opinions my own",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "OpenAI"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "huggingface"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "at_sofdog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vaibhavs10.github.io",
+                "end": 23,
+                "expanded_url": "http://vaibhavs10.github.io",
+                "start": 0,
+                "url": "https://t.co/83qEAS9kQ4"
+              }
+            ]
+          }
+        },
+        "id": "874987512850128897",
+        "location": "nvidia-smi",
+        "name": "Vaibhav (VB) Srivastav",
+        "pinned_tweet_id": "1749130868533207403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509901130670747666/JFlrSzB4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43836,
+          "following_count": 285,
+          "like_count": 21263,
+          "listed_count": 924,
+          "media_count": 1877,
+          "tweet_count": 12251
+        },
+        "url": "https://t.co/83qEAS9kQ4",
+        "username": "reach_vb",
+        "verified": true
+      }
+    ]
+  }
+}

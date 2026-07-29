@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2038510535038423220",
+    "created_at": "2026-03-31T04:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T05:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038843180754313377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1819981524621787136",
+          "start": 0,
+          "username": "decemberfreesia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038843180754313377",
+    "in_reply_to_user_id": "1819981524621787136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038510535038423220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@decemberfreesia 按照我目前的codex用量换成claude的话就是200刀了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2038510535038423220",
+        "created_at": "2026-03-31T04:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T05:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038843180754313377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1819981524621787136",
+              "start": 0,
+              "username": "decemberfreesia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038843180754313377",
+        "in_reply_to_user_id": "1819981524621787136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038510535038423220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@decemberfreesia 按照我目前的codex用量换成claude的话就是200刀了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819981524621787136",
+        "conversation_id": "2038510535038423220",
+        "created_at": "2026-03-30T06:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T07:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038510535038423220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ctracy0803/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ctracy0803/status/2038452420330811482",
+              "start": 24,
+              "url": "https://t.co/s5KjQjHNhR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038510535038423220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1568,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038452420330811482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "誰他媽一個月會用掉200鎂的Token???? https://t.co/s5KjQjHNhR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 1080,
+          "like_count": 25569,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 6175
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-04T06:19:56.000Z",
+        "description": "",
+        "id": "1819981524621787136",
+        "name": "⊹｡ﾟ☁︎ ·:",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863956556397805568/RfqaPxUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 212,
+          "like_count": 25331,
+          "listed_count": 4,
+          "media_count": 104,
+          "tweet_count": 1744
+        },
+        "username": "decemberfreesia",
+        "verified": false
+      }
+    ]
+  }
+}

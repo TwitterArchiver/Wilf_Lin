@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2072014771252306387",
+    "created_at": "2026-06-30T17:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072014771252306387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1490631",
+          "start": 3,
+          "username": "Fenng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072014771252306387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071954040381206824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @Fenng: 塔塔这次的信息泄露也真算得上是行业大地震了，堪比…没有可比性，行业里以前没有这么大范围的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2072014771252306387",
+        "created_at": "2026-06-30T17:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072014771252306387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1490631",
+              "start": 3,
+              "username": "Fenng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072014771252306387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071954040381206824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "RT @Fenng: 塔塔这次的信息泄露也真算得上是行业大地震了，堪比…没有可比性，行业里以前没有这么大范围的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490631",
+        "conversation_id": "2071954040381206824",
+        "created_at": "2026-06-30T13:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071954040381206824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071954040381206824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 48905,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "verified",
+        "text": "塔塔这次的信息泄露也真算得上是行业大地震了，堪比…没有可比性，行业里以前没有这么大范围的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 1865,
+          "like_count": 83534,
+          "listed_count": 3,
+          "media_count": 334,
+          "tweet_count": 8762
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2007-03-19T11:04:33.000Z",
+        "description": "你所看到的都不是真实的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nocode.com",
+                "end": 23,
+                "expanded_url": "https://nocode.com",
+                "start": 0,
+                "url": "https://t.co/2Htk7UbDPJ"
+              }
+            ]
+          }
+        },
+        "id": "1490631",
+        "location": "Singapore",
+        "name": "Fenng",
+        "pinned_tweet_id": "1972994361572069518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899444791106007040/kWQcEPwH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215684,
+          "following_count": 5809,
+          "like_count": 53448,
+          "listed_count": 1991,
+          "media_count": 2133,
+          "tweet_count": 48121
+        },
+        "url": "https://t.co/2Htk7UbDPJ",
+        "username": "Fenng",
+        "verified": true
+      }
+    ]
+  }
+}

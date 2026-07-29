@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2030150243480969643",
+    "created_at": "2026-03-07T21:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T22:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030400246480502843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "371296701",
+          "start": 0,
+          "username": "fkysly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030400246480502843",
+    "in_reply_to_user_id": "371296701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030150243480969643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fkysly 系统自带的语音输入不是挺好用的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2030150243480969643",
+        "created_at": "2026-03-07T21:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T22:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030400246480502843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "371296701",
+              "start": 0,
+              "username": "fkysly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030400246480502843",
+        "in_reply_to_user_id": "371296701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030150243480969643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fkysly 系统自带的语音输入不是挺好用的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "371296701",
+        "conversation_id": "2030150243480969643",
+        "created_at": "2026-03-07T05:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T06:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030150243480969643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030150243480969643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7947,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "智谱的 AutoGLM 语音输入感觉不太好用，基本上识别一大堆都是错的。\nClaude Code 自带的 Voice 好像只支持英文。\nTypeless 我看怎么一堆人说退订？\n\n那现在用啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 735,
+          "like_count": 13226,
+          "listed_count": 3,
+          "media_count": 78,
+          "tweet_count": 5253
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-10T15:39:19.000Z",
+        "description": "Indie hacker & AI.",
+        "id": "371296701",
+        "location": "杭州",
+        "name": "马天翼",
+        "pinned_tweet_id": "2026126091191288085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11975,
+          "following_count": 532,
+          "like_count": 173,
+          "listed_count": 145,
+          "media_count": 315,
+          "tweet_count": 3095
+        },
+        "username": "fkysly",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2051661635564233191",
+    "created_at": "2026-05-05T20:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T21:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051754822504751129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1633874951508721686",
+          "start": 0,
+          "username": "OpenAIDevs"
+        },
+        {
+          "end": 38,
+          "id": "1765324049998073856",
+          "start": 31,
+          "username": "hyprwm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051754822504751129",
+    "in_reply_to_user_id": "1633874951508721686",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051661635564233191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OpenAIDevs A lot of stuff for @hyprwm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2051661635564233191",
+        "created_at": "2026-05-05T20:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T21:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051754822504751129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1633874951508721686",
+              "start": 0,
+              "username": "OpenAIDevs"
+            },
+            {
+              "end": 38,
+              "id": "1765324049998073856",
+              "start": 31,
+              "username": "hyprwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051754822504751129",
+        "in_reply_to_user_id": "1633874951508721686",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051661635564233191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OpenAIDevs A lot of stuff for @hyprwm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1633874951508721686",
+        "conversation_id": "2051661635564233191",
+        "created_at": "2026-05-05T13:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051661635564233191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051661635564233191",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 113939,
+          "like_count": 2362,
+          "quote_count": 27,
+          "reply_count": 654,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "It’s 5/5.\n\nWhat are you building with GPT-5.5?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 1778,
+          "like_count": 55001,
+          "listed_count": 4,
+          "media_count": 258,
+          "tweet_count": 7869
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-09T16:58:51.000Z",
+        "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "status.openai.com",
+                "end": 115,
+                "expanded_url": "https://status.openai.com",
+                "start": 92,
+                "url": "https://t.co/kZwnwdYYEq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "developers.openai.com",
+                "end": 23,
+                "expanded_url": "https://developers.openai.com",
+                "start": 0,
+                "url": "https://t.co/0AWELwpzJK"
+              }
+            ]
+          }
+        },
+        "id": "1633874951508721686",
+        "name": "OpenAI Developers",
+        "pinned_tweet_id": "2051661635564233191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327911,
+          "following_count": 1,
+          "like_count": 2504,
+          "listed_count": 4257,
+          "media_count": 360,
+          "tweet_count": 1622
+        },
+        "url": "https://t.co/0AWELwpzJK",
+        "username": "OpenAIDevs",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-06T10:30:56.000Z",
+        "description": "The Wayland Compositor she tells you not to worry about.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bestlinuxdesktop.org",
+                "end": 23,
+                "expanded_url": "https://bestlinuxdesktop.org",
+                "start": 0,
+                "url": "https://t.co/cs7cuoo3Cf"
+              }
+            ]
+          }
+        },
+        "id": "1765324049998073856",
+        "name": "Hyprland",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765324225013813248/2juOHADs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10828,
+          "following_count": 2,
+          "like_count": 20,
+          "listed_count": 36,
+          "media_count": 14,
+          "tweet_count": 157
+        },
+        "url": "https://t.co/cs7cuoo3Cf",
+        "username": "hyprwm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2033229300137074982",
+    "created_at": "2026-03-15T17:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T18:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033229300137074982"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033229300137074982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我在去年十一月配齐了懒猫微服和懒猫算力舱，本文讲讲体验\n\n懒猫微服的NAS基础功能体验非常优秀，网盘，相册，内网穿透应该是业界顶流水平，尤其是相册的智能识别和搜索，是我用最好的。客户端和网盘的自动备份算是好用，但自动备份遇到大量小文件时比较慢。smb自动挂载体验不错。官方客户端做的还行，大概是vibe coding普及前的产品，UI确实像是一群老程序员搓出来的东西。\n\n官方的售后很不错，情绪价值给满，解决问题的能力也很优秀。\n\n微服最大的问题是第三方应用生态，懒猫微服的第三方应用基本采用docker容器形式分发，但容器镜像是独立维护的而不是自动跟随上游更新，有时会出现上游更新了几十个版本了，懒猫商店的还停留在半年前的情况。\n\n懒猫算力仓，本体是Nvidia Jetson orin 64G，内存带宽200GB/S左右，个人日用算是够用，算力仓的应用基本是官方维护，更新及时，新模型可以比较快的用上（基本是发布后两天内），这个机器的问题是，它的架构是Ampere架构，发布于2020年，很多新特性没有，支持也比较弱，跑新版本vllm/sglang比较难（要等几个月后的jetpack 7才有支持），然后没有FP4/8支持，大多数情况下只跑int4/int8，没发挥出nvidia架构优势。\n\n在同价位这个机器算是有性价比的，mac mini M4 Pro+64+1T+万兆口，价格是一万八。但买这个机器还是和懒猫微服配合比较合适，除非你很在意外观设计。\n\n微服和算力仓的外壳，设计十分优秀，比通常的nas和nvidia jetson漂亮许多，摆在桌上赏心悦目。\n\n基本情况就是这样，总之我挺喜欢。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在去年十一月配齐了懒猫微服和懒猫算力舱，本文讲讲体验"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2033229300137074982",
+        "created_at": "2026-03-15T17:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T18:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033229300137074982"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033229300137074982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我在去年十一月配齐了懒猫微服和懒猫算力舱，本文讲讲体验\n\n懒猫微服的NAS基础功能体验非常优秀，网盘，相册，内网穿透应该是业界顶流水平，尤其是相册的智能识别和搜索，是我用最好的。客户端和网盘的自动备份算是好用，但自动备份遇到大量小文件时比较慢。smb自动挂载体验不错。官方客户端做的还行，大概是vibe coding普及前的产品，UI确实像是一群老程序员搓出来的东西。\n\n官方的售后很不错，情绪价值给满，解决问题的能力也很优秀。\n\n微服最大的问题是第三方应用生态，懒猫微服的第三方应用基本采用docker容器形式分发，但容器镜像是独立维护的而不是自动跟随上游更新，有时会出现上游更新了几十个版本了，懒猫商店的还停留在半年前的情况。\n\n懒猫算力仓，本体是Nvidia Jetson orin 64G，内存带宽200GB/S左右，个人日用算是够用，算力仓的应用基本是官方维护，更新及时，新模型可以比较快的用上（基本是发布后两天内），这个机器的问题是，它的架构是Ampere架构，发布于2020年，很多新特性没有，支持也比较弱，跑新版本vllm/sglang比较难（要等几个月后的jetpack 7才有支持），然后没有FP4/8支持，大多数情况下只跑int4/int8，没发挥出nvidia架构优势。\n\n在同价位这个机器算是有性价比的，mac mini M4 Pro+64+1T+万兆口，价格是一万八。但买这个机器还是和懒猫微服配合比较合适，除非你很在意外观设计。\n\n微服和算力仓的外壳，设计十分优秀，比通常的nas和nvidia jetson漂亮许多，摆在桌上赏心悦目。\n\n基本情况就是这样，总之我挺喜欢。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在去年十一月配齐了懒猫微服和懒猫算力舱，本文讲讲体验"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 774,
+          "like_count": 15657,
+          "listed_count": 3,
+          "media_count": 82,
+          "tweet_count": 5448
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      }
+    ]
+  }
+}

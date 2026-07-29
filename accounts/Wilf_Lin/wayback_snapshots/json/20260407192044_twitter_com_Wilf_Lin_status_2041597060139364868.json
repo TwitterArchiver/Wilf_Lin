@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2041419321508065506",
+    "created_at": "2026-04-07T19:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T20:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041597060139364868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1102444843140182016",
+          "start": 0,
+          "username": "real_kai42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041597060139364868",
+    "in_reply_to_user_id": "1102444843140182016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041419321508065506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@real_kai42 codex带着rust杀来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2041419321508065506",
+        "created_at": "2026-04-07T19:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T20:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041597060139364868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1102444843140182016",
+              "start": 0,
+              "username": "real_kai42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041597060139364868",
+        "in_reply_to_user_id": "1102444843140182016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041419321508065506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real_kai42 codex带着rust杀来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1102444843140182016",
+        "conversation_id": "2041419321508065506",
+        "created_at": "2026-04-07T07:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041419321508065506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041419321508065506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 78291,
+          "like_count": 206,
+          "quote_count": 8,
+          "reply_count": 78,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "暴论： 做 agent 的唯一选择是 ts"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神暂时没问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 1210,
+          "like_count": 29905,
+          "listed_count": 3,
+          "media_count": 118,
+          "tweet_count": 6360
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-04T05:45:07.000Z",
+        "description": "独立开发者，20k stars 开源项目 Qwerty Learner 作者，《Web Worker 播客》主播\n\n仅聊技术和生活，仅代表个人观点，不太擅长文字，但话痨∠(｀ω´*) \n\n主页/咨询服务/内推 : https://t.co/ZCsVg4rTbV\nex @Microsoft @BytedanceTalk @hulu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 134,
+                "username": "Microsoft"
+              },
+              {
+                "end": 159,
+                "start": 145,
+                "username": "BytedanceTalk"
+              },
+              {
+                "end": 165,
+                "start": 160,
+                "username": "hulu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kaiyi.cool",
+                "end": 130,
+                "expanded_url": "https://kaiyi.cool",
+                "start": 107,
+                "url": "https://t.co/ZCsVg4rTbV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kaiyi.cool",
+                "end": 23,
+                "expanded_url": "https://kaiyi.cool",
+                "start": 0,
+                "url": "https://t.co/ZCsVg4rTbV"
+              }
+            ]
+          }
+        },
+        "id": "1102444843140182016",
+        "location": "Vancouver, British Columbia",
+        "name": "Kai",
+        "pinned_tweet_id": "1693098323551596945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706347168393764864/DoRcb3kd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30387,
+          "following_count": 1165,
+          "like_count": 6244,
+          "listed_count": 279,
+          "media_count": 841,
+          "tweet_count": 4832
+        },
+        "url": "https://t.co/ZCsVg4rTbV",
+        "username": "real_kai42",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2049975612119380107",
+    "created_at": "2026-04-30T22:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T23:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049975612119380107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/saltyaom/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/saltyaom/status/2049811030554169785",
+          "start": 5,
+          "url": "https://t.co/vb8STVQfct"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049975612119380107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049811030554169785",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "极其牛逼 https://t.co/vb8STVQfct"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2049975612119380107",
+        "created_at": "2026-04-30T22:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T23:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049975612119380107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/saltyaom/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/saltyaom/status/2049811030554169785",
+              "start": 5,
+              "url": "https://t.co/vb8STVQfct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049975612119380107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049811030554169785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "极其牛逼 https://t.co/vb8STVQfct"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1014472751883563008",
+        "conversation_id": "2049811030554169785",
+        "created_at": "2026-04-30T11:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049811030554169785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/saltyAom/statu…",
+              "end": 300,
+              "expanded_url": "https://twitter.com/saltyAom/status/2049803490768327034",
+              "start": 277,
+              "url": "https://t.co/Us98v7UU8P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049811030554169785",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "How is Elysia 2 this fast\n\nIt's the \"zero-copy\" approach\n\nIt's very easy to allocate a new array/object, eg. { ...a, ...b } or [...a] or a.concat(b)\n\nWe basically reuse things as much as possible\n\nFor example, when user provides a primitive validator with an empty option (eg. t.String()), instead of creating a new object, we reuse an existing one instead, marking it as \"reference\"\n\nAnother example is when merging local and global lifecycle, merging multiple objects is an easy way out, but this means if you have a new 100k objects, user-provided and existing blueprint is there doing nothing after these new objects are created\n\nInstead, we use the object that the user provided as a base to mutate later, then store the snapshot of what is needed to process as a \"reference\", then \"link\" all objects and arrays when they are actually needed\n\nThis means we basically reuse the input instead of creating a new one\n\nBut this is hard to do in JavaScript because there's no explicit reference or pointer\n\nIf you accidentally change the reference value, you will blow something up instantly and have no idea how or where because there's no explicit \"reference\", no indicator at all\n\nIf you didn't properly design with this approach at the very start and constantly have this approach in mind, it's not going to work\n\nThis means we have to rewrite the entire thing from the ground up, and it's extremely hard\n\nThis is why I haven't been very active since the new year, I was busy playing around with this just to make sure it would work at this scale"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 16329,
+          "like_count": 290,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049803490768327034",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "How is Elysia 2 this fast\n\nIt's the \"zero-copy\" approach\n\nIt's very easy to allocate a new array/object, eg. { ...a, ...b } or [...a] or a.concat(b)\n\nWe basically reuse things as much as possible\n\nFor example, when user provides a primitive validator with an empty option (eg. https://t.co/Us98v7UU8P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 1749,
+          "like_count": 52594,
+          "listed_count": 4,
+          "media_count": 243,
+          "tweet_count": 7697
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-04T11:35:26.000Z",
+        "description": "Made @elysiaJS. I cosplay, and code. No context, degen, programming, cosplay and occasional jirai-kei. Draw sometimes. See “highlight” for my dress up + cosplay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "elysiaJS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "saltyaom.com",
+                "end": 23,
+                "expanded_url": "http://saltyaom.com",
+                "start": 0,
+                "url": "https://t.co/DTdpSXErtu"
+              }
+            ]
+          }
+        },
+        "id": "1014472751883563008",
+        "location": "Thailand",
+        "name": "SaltyAom",
+        "pinned_tweet_id": "1939479411201614075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1542939256561094664/dC7tnzGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20416,
+          "following_count": 712,
+          "like_count": 73768,
+          "listed_count": 91,
+          "media_count": 7812,
+          "tweet_count": 18260
+        },
+        "url": "https://t.co/DTdpSXErtu",
+        "username": "saltyAom",
+        "verified": true
+      }
+    ]
+  }
+}

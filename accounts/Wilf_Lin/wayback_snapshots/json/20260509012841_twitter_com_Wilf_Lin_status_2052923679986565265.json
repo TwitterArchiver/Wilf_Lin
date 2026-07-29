@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2052725200668471378",
+    "created_at": "2026-05-09T01:28:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T02:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052923679986565265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1998006140286935041",
+          "start": 0,
+          "username": "QingQ77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052923679986565265",
+    "in_reply_to_user_id": "1998006140286935041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052725200668471378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QingQ77 与curl -v的区别在哪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1372,
+        "media_key": "3_2052196894642982912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHreM-Ja0AAai_R.jpg",
+        "width": 1676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2052725200668471378",
+        "created_at": "2026-05-09T01:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052923679986565265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1998006140286935041",
+              "start": 0,
+              "username": "QingQ77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052923679986565265",
+        "in_reply_to_user_id": "1998006140286935041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052725200668471378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QingQ77 与curl -v的区别在哪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052196894642982912"
+          ]
+        },
+        "author_id": "1998006140286935041",
+        "conversation_id": "2052725200668471378",
+        "created_at": "2026-05-08T12:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052725200668471378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP) - MayersScott/rkn-block-checker",
+              "display_url": "github.com/MayersScott/rk…",
+              "end": 93,
+              "expanded_url": "https://github.com/MayersScott/rkn-block-checker",
+              "start": 70,
+              "status": 200,
+              "title": "GitHub - MayersScott/rkn-block-checker: Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
+              "unwound_url": "https://github.com/MayersScott/rkn-block-checker",
+              "url": "https://t.co/c5cvmWUkdY"
+            },
+            {
+              "display_url": "pic.x.com/6yO6fjLjbk",
+              "end": 186,
+              "expanded_url": "https://x.com/QingQ77/status/2052725200668471378/photo/1",
+              "media_key": "3_2052196894642982912",
+              "start": 163,
+              "url": "https://t.co/6yO6fjLjbk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052725200668471378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 5260,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "判断你的网络是不是被 RKN/TSPU 封了，并告诉你卡在哪一层——DNS 污染、TCP 重置、TLS DPI、还是 ISP 替换页面。\n\nhttps://t.co/c5cvmWUkdY\n\n一个 CLI 工具，逐层排查网络封锁到底卡在哪里。不是笼统告诉你\"网站打不开\"，而是把 DNS、TCP、TLS、HTTP 每一层拆开看 https://t.co/6yO6fjLjbk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 1799,
+          "like_count": 57543,
+          "listed_count": 4,
+          "media_count": 272,
+          "tweet_count": 8101
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-08T12:26:15.000Z",
+        "description": "✨分享一些有用好玩的 GitHub 项目",
+        "id": "1998006140286935041",
+        "name": "Geek Lite",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14952,
+          "following_count": 643,
+          "like_count": 1614,
+          "listed_count": 126,
+          "media_count": 1674,
+          "tweet_count": 2953
+        },
+        "username": "QingQ77",
+        "verified": true
+      }
+    ]
+  }
+}
