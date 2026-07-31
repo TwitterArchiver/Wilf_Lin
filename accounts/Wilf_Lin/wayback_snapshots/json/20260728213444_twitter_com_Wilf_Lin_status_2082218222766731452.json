@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2081987408476971443",
+    "created_at": "2026-07-28T21:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T22:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082218222766731452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "796179107172257792",
+          "start": 0,
+          "username": "jinchenma_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082218222766731452",
+    "in_reply_to_user_id": "796179107172257792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081987408476971443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinchenma_ai 生产环境下，性能够用的话得3000万了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2081987408476971443",
+        "created_at": "2026-07-28T21:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T22:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082218222766731452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "796179107172257792",
+              "start": 0,
+              "username": "jinchenma_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082218222766731452",
+        "in_reply_to_user_id": "796179107172257792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081987408476971443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinchenma_ai 生产环境下，性能够用的话得3000万了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "796179107172257792",
+        "conversation_id": "2081987408476971443",
+        "created_at": "2026-07-28T06:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081987408476971443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081987408476971443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 388732,
+          "like_count": 314,
+          "quote_count": 5,
+          "reply_count": 289,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我擦，今天有个人问我，kimi k3 开源了么不是，本地部署一套要多少钱。\n\n我比划了一个3的手势。\n\n他说：3万？\n\n我笑了笑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 1975,
+          "like_count": 92870,
+          "listed_count": 3,
+          "media_count": 410,
+          "tweet_count": 9194
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2016-11-09T02:34:26.000Z",
+        "description": "👨‍💻前大厂程序员，想开了，35岁危机前提桶跑路\n30天X破万粉，变现过万🚀写小白用得上的AI教程\n偶尔抽象，时常真诚，把X当朋友圈发\n来马哥OPC交流群，我们一起转型破局👇咨询&合作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "my.feishu.cn/wiki/D9X4wFttS…",
+                "end": 23,
+                "expanded_url": "https://my.feishu.cn/wiki/D9X4wFttSiqkFpkNvBUcvPbTnJb?from=from_copylink",
+                "start": 0,
+                "url": "https://t.co/Lm2zCm2Req"
+              }
+            ]
+          }
+        },
+        "id": "796179107172257792",
+        "location": "Beijing",
+        "name": "金尘马",
+        "pinned_tweet_id": "2074515412272996467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007049139960385536/3cydt9DH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21415,
+          "following_count": 531,
+          "like_count": 4536,
+          "listed_count": 139,
+          "media_count": 993,
+          "tweet_count": 7245
+        },
+        "url": "https://t.co/Lm2zCm2Req",
+        "username": "jinchenma_ai",
+        "verified": true
+      }
+    ]
+  }
+}
