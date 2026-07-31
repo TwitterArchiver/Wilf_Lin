@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2081992704796602836",
+    "created_at": "2026-07-28T21:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T22:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082216135894982929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "20484009",
+          "start": 0,
+          "username": "riverleaf88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082216135894982929",
+    "in_reply_to_user_id": "20484009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081992704796602836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@riverleaf88 这个东西莫名其妙的还有点用，但它绝对不值这么多钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2081992704796602836",
+        "created_at": "2026-07-28T21:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T22:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082216135894982929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "20484009",
+              "start": 0,
+              "username": "riverleaf88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082216135894982929",
+        "in_reply_to_user_id": "20484009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081992704796602836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@riverleaf88 这个东西莫名其妙的还有点用，但它绝对不值这么多钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "20484009",
+        "conversation_id": "2081992704796602836",
+        "created_at": "2026-07-28T06:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081992704796602836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jason_chen998/…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/jason_chen998/status/2081745366156976600",
+              "start": 26,
+              "url": "https://t.co/BPfBfb7Bhp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081992704796602836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7250,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081745366156976600",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "懂得傅立叶变换的人都知道，这种干扰器没有任何用…… https://t.co/BPfBfb7Bhp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 1975,
+          "like_count": 92822,
+          "listed_count": 3,
+          "media_count": 410,
+          "tweet_count": 9188
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2009-02-10T01:28:58.000Z",
+        "description": "AI developer and startup founder, former search engine product manager, and father to a son.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lishun.me",
+                "end": 23,
+                "expanded_url": "https://blog.lishun.me",
+                "start": 0,
+                "url": "https://t.co/9oPAY4QfuZ"
+              }
+            ]
+          }
+        },
+        "id": "20484009",
+        "location": "Earth",
+        "name": "River Leaf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596851019316572160/lJmC6W-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25778,
+          "following_count": 1292,
+          "like_count": 24092,
+          "listed_count": 233,
+          "media_count": 1776,
+          "tweet_count": 28361
+        },
+        "url": "https://t.co/9oPAY4QfuZ",
+        "username": "riverleaf88",
+        "verified": true
+      }
+    ]
+  }
+}
