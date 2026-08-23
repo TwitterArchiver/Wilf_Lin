@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2083077819433632156",
+    "created_at": "2026-07-31T07:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083096049472971180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1818257539886460928",
+          "start": 0,
+          "username": "qqqqqf_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083096049472971180",
+    "in_reply_to_user_id": "1818257539886460928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083077819433632156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf_ 哇牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2083077819433632156",
+        "created_at": "2026-07-31T07:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083096049472971180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818257539886460928",
+              "start": 0,
+              "username": "qqqqqf_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083096049472971180",
+        "in_reply_to_user_id": "1818257539886460928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083077819433632156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf_ 哇牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818257539886460928",
+        "conversation_id": "2083077819433632156",
+        "created_at": "2026-07-31T06:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083077819433632156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083077819433632156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q/OpenA…",
+                "end": 766,
+                "expanded_url": "https://github.com/qqqqqf-q/OpenAnytime/blob/main/TIMELINE.md",
+                "start": 743,
+                "url": "https://t.co/C4IzJ8rqSm"
+              },
+              {
+                "display_url": "github.com/qqqqqf-q/OpenA…",
+                "end": 796,
+                "expanded_url": "https://github.com/qqqqqf-q/OpenAnytime",
+                "start": 773,
+                "url": "https://t.co/lThGUNCslB"
+              }
+            ]
+          },
+          "text": "今天逆向了一个血糖仪...\n事情是这样的 , 一觉睡醒 , 我的血糖仪不生产数据了 \n\n我重启手机 , 重装 App , 都看不到新数据我尝试了很多方法 , 也尝试寻找客服 , 最终给我的答案是 : 换货\n\n但是我打开了 Claudecode,我开始尝试逆向\n这很有意思\n我们找到了一个 ble 的蓝牙 , 但是连不上\n我们用 adb 去 verbode log 应用打开后的蓝牙日志\n发现手机连接也一直 disconnect (应用没有任何错误提示,我很想吐槽这个)\n继续检查,我们发现应用居然自己丢了密钥??? \n好吧,到这一步我们也没法修改应用了,因为商业应用不开源\n\n那么让我们开始快乐的对 cgm 的 ble 下手吧,开始对着 ble 发一些神秘的包\n有效 ! 蓝牙还活着\n再继续尝试更多的方法 , 发现返回的数据居然在变 ! \n这说明 cgm 也许真的还在生产数据 ! 但是数据是加密的\n\n小鲸鱼(DeepSeek)开始继续使用 adb,把鱼跃 app 的 apk提取出来,开始逆向 ! 搜索任何和加密有关的部分\n找到了一些好像有用的代码! 甚至有一个类同时带有血糖/温度/信号强度\n\n但是这只有算法,没有密钥..? 但是 handle 的默认密钥居然仅仅是 1 ..?\n\n我们逆向手机之前的缓存,发现\n\n`ProtocolToolsHolder_CT5.verify()` 中:\n```java\nthis.f29669i0.setKCipher(currentDevice.sureClose);\n```\n密钥 = `sureClose` 字段 = **121**\n\n带入 ! 成功 ! \n\n然后做成一个项目 ! 就完成啦\n\nsee full timeline in : https://t.co/C4IzJ8rqSm\n\n项目 : https://t.co/lThGUNCslB\n\n血糖仪是鱼跃 5HSE"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 606,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天逆向了一个血糖仪...\n事情是这样的 , 一觉睡醒 , 我的血糖仪不生产数据了 \n\n我重启手机 , 重装 App , 都看不到新数据我尝试了很多方法 , 也尝试寻找客服 , 最终给我的答案是 : 换货\n\n但是我打开了 Claudecode,我开始尝试逆向\n这很有意思\n我们找到了一个 ble 的蓝牙 , 但是连不上\n我们用 adb 去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 1977,
+          "like_count": 93650,
+          "listed_count": 3,
+          "media_count": 420,
+          "tweet_count": 9280
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-30T12:09:26.000Z",
+        "description": "Full Stack Engineer @memoh_ai\nBuilding  https://t.co/Q5DJkrjOuI / https://t.co/Z8CwRk435m\n博客:https://t.co/YPfuXnEcRK  \nTelegramGroup :https://t.co/GiCrumiY7W",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "memoh_ai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Arkloop.io",
+                "end": 63,
+                "expanded_url": "http://Arkloop.io",
+                "start": 40,
+                "url": "https://t.co/Q5DJkrjOuI"
+              },
+              {
+                "display_url": "Memoh.ai",
+                "end": 89,
+                "expanded_url": "http://Memoh.ai",
+                "start": 66,
+                "url": "https://t.co/Z8CwRk435m"
+              },
+              {
+                "display_url": "清凤.fun",
+                "end": 116,
+                "expanded_url": "https://xn--l9qq99d.fun",
+                "start": 93,
+                "url": "https://t.co/YPfuXnEcRK"
+              },
+              {
+                "display_url": "t.me/Arkloop_io",
+                "end": 157,
+                "expanded_url": "https://t.me/Arkloop_io",
+                "start": 134,
+                "url": "https://t.co/GiCrumiY7W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/jrg4ChmKLg"
+              }
+            ]
+          }
+        },
+        "id": "1818257539886460928",
+        "location": "上海",
+        "name": "清凤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021583893238059008/7Mh6eK6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 996,
+          "like_count": 21359,
+          "listed_count": 6,
+          "media_count": 352,
+          "tweet_count": 1624
+        },
+        "url": "https://t.co/jrg4ChmKLg",
+        "username": "qqqqqf_",
+        "verified": true
+      }
+    ]
+  }
+}

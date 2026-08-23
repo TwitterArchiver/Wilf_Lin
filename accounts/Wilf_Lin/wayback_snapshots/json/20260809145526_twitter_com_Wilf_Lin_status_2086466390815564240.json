@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1420050770829799426",
+          "name": "Alibaba Group"
+        }
+      }
+    ],
+    "conversation_id": "2086271248070545680",
+    "created_at": "2026-08-09T14:55:26.000Z",
+    "display_text_range": [
+      9,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T15:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086466390815564240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1461305890892570628",
+          "start": 0,
+          "username": "haider1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086466390815564240",
+    "in_reply_to_user_id": "1461305890892570628",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086271248070545680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haider1 With the most H200s in the world and can’t beets Alibaba."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 585,
+        "media_key": "3_2086121598357209088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNkinxaAAA64hv.png",
+        "width": 701
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          }
+        ],
+        "conversation_id": "2086271248070545680",
+        "created_at": "2026-08-09T14:55:26.000Z",
+        "display_text_range": [
+          9,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086466390815564240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1461305890892570628",
+              "start": 0,
+              "username": "haider1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086466390815564240",
+        "in_reply_to_user_id": "1461305890892570628",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086271248070545680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haider1 With the most H200s in the world and can’t beets Alibaba."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086121598357209088"
+          ]
+        },
+        "author_id": "1461305890892570628",
+        "conversation_id": "2086271248070545680",
+        "created_at": "2026-08-09T02:00:01.000Z",
+        "display_text_range": [
+          0,
+          277
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086271248070545680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/391tWFVITX",
+              "end": 301,
+              "expanded_url": "https://x.com/haider1/status/2086271248070545680/photo/1",
+              "media_key": "3_2086121598357209088",
+              "start": 278,
+              "url": "https://t.co/391tWFVITX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086271248070545680",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086121598357209088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "Meta Muse Spark models have caught up with frontier models surprisingly fast\n\nwent from slightly behind sonnet 4.6 with spark 1.0, to around sonnet 5 with spark 1.1, and now spark 1.2 is roughly at opus 4.8 level\n\nat $1.25/m input and $4.25/m output -- really cheap, though i'd guess it's still subsidized"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 9550,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Meta Muse Spark models have caught up with frontier models surprisingly fast\n\nwent from slightly behind sonnet 4.6 with spark 1.0, to around sonnet 5 with spark 1.1, and now spark 1.2 is roughly at opus 4.8 level\n\nat $1.25/m input and $4.25/m output -- really cheap, though i'd https://t.co/391tWFVITX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2086466390815564240",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 2024,
+          "like_count": 98094,
+          "listed_count": 4,
+          "media_count": 452,
+          "tweet_count": 9624
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1998303872604082176/mHbaivv1_bigger.jpg",
+          "description": "Pocket",
+          "url": "https://twitter.com/Heypocket",
+          "user_id": [
+            "1848821628047888384"
+          ]
+        },
+        "created_at": "2021-11-18T12:11:02.000Z",
+        "description": "open intelligence for a decentralized future",
+        "id": "1461305890892570628",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2086462119680020737",
+        "name": "Haider.",
+        "pinned_tweet_id": "1962434740885074048",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461305890892570628/1781970343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047286007003848704/u2mzg86I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68901,
+          "following_count": 4039,
+          "like_count": 10137,
+          "listed_count": 1454,
+          "media_count": 4832,
+          "tweet_count": 34654
+        },
+        "url": "",
+        "username": "haider1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

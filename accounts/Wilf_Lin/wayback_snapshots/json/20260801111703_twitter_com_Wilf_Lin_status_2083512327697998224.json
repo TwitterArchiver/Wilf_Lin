@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2083431937197371892",
+    "created_at": "2026-08-01T11:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T12:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083512327697998224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1561197337074192384",
+          "start": 0,
+          "username": "zhang_baoqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083512327697998224",
+    "in_reply_to_user_id": "1561197337074192384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083510119783133226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhang_baoqing 我也很好奇，他妈这个东西怎么会这么火的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2083431937197371892",
+        "created_at": "2026-08-01T11:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083512327697998224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1561197337074192384",
+              "start": 0,
+              "username": "zhang_baoqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083512327697998224",
+        "in_reply_to_user_id": "1561197337074192384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083510119783133226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhang_baoqing 我也很好奇，他妈这个东西怎么会这么火的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561197337074192384",
+        "conversation_id": "2083431937197371892",
+        "created_at": "2026-08-01T11:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083510119783133226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554803647909097472",
+              "start": 0,
+              "username": "Wilf_Lin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083510119783133226",
+        "in_reply_to_user_id": "1554803647909097472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083431937197371892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wilf_Lin 哈哈，这东西跑了7万曝光，X这个算法牛逼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 1978,
+          "like_count": 94086,
+          "listed_count": 3,
+          "media_count": 426,
+          "tweet_count": 9330
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-21T03:44:04.000Z",
+        "description": "谁的生活不是一地鸡毛，生活就是一边崩溃一边自愈",
+        "id": "1561197337074192384",
+        "location": "960万公里随遇而安",
+        "name": "一地鸡毛",
+        "pinned_tweet_id": "2081753017255362774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740203094364065792/nB0B0cGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5223,
+          "following_count": 4227,
+          "like_count": 12483,
+          "listed_count": 16,
+          "media_count": 1215,
+          "tweet_count": 12437
+        },
+        "url": "",
+        "username": "zhang_baoqing",
+        "verified": true
+      }
+    ]
+  }
+}

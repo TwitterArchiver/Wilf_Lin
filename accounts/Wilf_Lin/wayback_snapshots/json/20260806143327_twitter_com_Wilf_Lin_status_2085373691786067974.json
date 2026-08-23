@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2085373691786067974",
+    "created_at": "2026-08-06T14:33:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T15:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085373691786067974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1735423477799342080",
+          "start": 3,
+          "username": "elliotchen100"
+        },
+        {
+          "end": 35,
+          "id": "1988455688323166215",
+          "start": 26,
+          "username": "evermind"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085373691786067974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085157738829820325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elliotchen100: 剧透一下。\n\n@EverMind 上半年出圈的 MSA，是我们北京团队做的。\n\n这半年，我们又和北京大学一起，把「记忆」往多模态和穿戴设备上推进了一步。\n\n都知道哈，超长视频会产生大量视觉 token，算力和显存开销也会随之上升，AI 眼镜…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2085373691786067974",
+        "created_at": "2026-08-06T14:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085373691786067974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1735423477799342080",
+              "start": 3,
+              "username": "elliotchen100"
+            },
+            {
+              "end": 35,
+              "id": "1988455688323166215",
+              "start": 26,
+              "username": "evermind"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085373691786067974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085157738829820325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elliotchen100: 剧透一下。\n\n@EverMind 上半年出圈的 MSA，是我们北京团队做的。\n\n这半年，我们又和北京大学一起，把「记忆」往多模态和穿戴设备上推进了一步。\n\n都知道哈，超长视频会产生大量视觉 token，算力和显存开销也会随之上升，AI 眼镜…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735423477799342080",
+        "conversation_id": "2085157738829820325",
+        "created_at": "2026-08-06T00:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T01:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085157738829820325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1988455688323166215",
+              "start": 7,
+              "username": "evermind"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/elliotchen100/…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/elliotchen100/status/2034479369855590660",
+              "start": 137,
+              "url": "https://t.co/kbMzaeFlFf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085157738829820325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 16,
+                "id": "1988455688323166215",
+                "start": 7,
+                "username": "EverMind"
+              }
+            ]
+          },
+          "text": "剧透一下。\n\n@EverMind 上半年出圈的 MSA，是我们北京团队做的。\n\n这半年，我们又和北京大学一起，把「记忆」往多模态和穿戴设备上推进了一步。\n\n都知道哈，超长视频会产生大量视觉 token，算力和显存开销也会随之上升，AI 眼镜这类端侧设备，不可能无限堆资源。\n\n新框架会用更高效的方式压缩和存取长视频信息，让这类能力有机会真正跑进穿戴设备，实现「token 自由」。\n\n名字先不说～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4002,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034479369855590660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "剧透一下。\n\n@EverMind 上半年出圈的 MSA，是我们北京团队做的。\n\n这半年，我们又和北京大学一起，把「记忆」往多模态和穿戴设备上推进了一步。\n\n都知道哈，超长视频会产生大量视觉 token，算力和显存开销也会随之上升，AI 眼镜这类端侧设备，不可能无限堆资源。 https://t.co/kbMzaeFlFf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 2013,
+          "like_count": 96439,
+          "listed_count": 3,
+          "media_count": 446,
+          "tweet_count": 9520
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-14T22:16:36.000Z",
+        "description": "Raven: the deepthinking self-improving agent harness",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/EverMind-AI/Ra…",
+                "end": 23,
+                "expanded_url": "https://github.com/EverMind-AI/Raven",
+                "start": 0,
+                "url": "https://t.co/V7vNuBBTys"
+              }
+            ]
+          }
+        },
+        "id": "1735423477799342080",
+        "name": "艾略特",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082242600623624192/lP1IdmID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26295,
+          "following_count": 1031,
+          "like_count": 11590,
+          "listed_count": 275,
+          "media_count": 780,
+          "tweet_count": 6497
+        },
+        "url": "https://t.co/V7vNuBBTys",
+        "username": "elliotchen100",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-12T03:56:39.000Z",
+        "description": "Long-term agent memory | self-improving | agent harness\nhttps://t.co/Q6nH9pyIWe\nhttps://t.co/a0tkksAUTw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/EverMind-AI/Ev…",
+                "end": 79,
+                "expanded_url": "https://github.com/EverMind-AI/Ever",
+                "start": 56,
+                "url": "https://t.co/Q6nH9pyIWe"
+              },
+              {
+                "display_url": "github.com/EverMind-AI/Ra…",
+                "end": 103,
+                "expanded_url": "https://github.com/EverMind-AI/Raven",
+                "start": 80,
+                "url": "https://t.co/a0tkksAUTw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "evermind.ai",
+                "end": 23,
+                "expanded_url": "http://evermind.ai",
+                "start": 0,
+                "url": "https://t.co/dErVSH85UX"
+              }
+            ]
+          }
+        },
+        "id": "1988455688323166215",
+        "location": "United States",
+        "name": "EverMind",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030792985101926401/ia9mNmWL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4272,
+          "following_count": 21,
+          "like_count": 433,
+          "listed_count": 26,
+          "media_count": 136,
+          "tweet_count": 323
+        },
+        "url": "https://t.co/dErVSH85UX",
+        "username": "evermind",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2086148959706444245",
+    "created_at": "2026-08-09T17:54:30.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T18:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086511453629272185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1681390445400846336",
+          "start": 0,
+          "username": "loopPoly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086511453629272185",
+    "in_reply_to_user_id": "1681390445400846336",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086477543696367731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loopPoly Yes"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2086148959706444245",
+        "created_at": "2026-08-09T17:54:30.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T18:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086511453629272185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1681390445400846336",
+              "start": 0,
+              "username": "loopPoly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086511453629272185",
+        "in_reply_to_user_id": "1681390445400846336",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086477543696367731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loopPoly Yes"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681390445400846336",
+        "conversation_id": "2086148959706444245",
+        "created_at": "2026-08-09T15:39:45.000Z",
+        "display_text_range": [
+          10,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T16:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086477543696367731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554803647909097472",
+              "start": 0,
+              "username": "Wilf_Lin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086477543696367731",
+        "in_reply_to_user_id": "1554803647909097472",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086148959706444245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wilf_Lin Kitty Terminal？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2086511453629272185",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 2024,
+          "like_count": 98136,
+          "listed_count": 4,
+          "media_count": 452,
+          "tweet_count": 9625
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-18T19:48:29.000Z",
+        "description": "Cryptography researcher | SageMath LSP developer | Kimi CLI ex-intern | CTF Wiki contributor | Founder of 正规子群 | ex @Sider_AI @Kimi_Moonshot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 116,
+                "username": "Sider_AI"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kimi_Moonshot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "oiia.cauchy.top",
+                "end": 23,
+                "expanded_url": "http://oiia.cauchy.top",
+                "start": 0,
+                "url": "https://t.co/hZ3KUB3bsj"
+              }
+            ]
+          }
+        },
+        "id": "1681390445400846336",
+        "is_identity_verified": false,
+        "location": "Random",
+        "most_recent_tweet_id": "2086477543696367731",
+        "name": "LO0",
+        "pinned_tweet_id": "1944287741463945523",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743296052550402048/iUzshREe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 457,
+          "like_count": 2829,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 910
+        },
+        "url": "https://t.co/hZ3KUB3bsj",
+        "username": "loopPoly",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

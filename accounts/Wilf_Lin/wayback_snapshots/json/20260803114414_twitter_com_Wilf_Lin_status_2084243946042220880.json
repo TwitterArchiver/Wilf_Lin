@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084113862648078336"
+      ],
+      "media_source_tweet_id": [
+        "2084113933410120042"
+      ]
+    },
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084243946042220880",
+    "created_at": "2026-08-03T11:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084243946042220880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1795785939438215168",
+          "start": 3,
+          "username": "EMeowSys"
+        }
+      ],
+      "urls": [
+        {
+          "description": "纯 Rust 编写的终端 polkit 认证代理，零 GTK/glib 依赖。专为 ssh/tmux 无图形环境设计：ratatui 内嵌对话框，或 tmux display-popup 悬浮弹窗；密码全程不经过 D-Bus。 - CcendercatcC/Polkit-TUI-Agent",
+          "display_url": "github.com/CcendercatcC/P…",
+          "end": 40,
+          "expanded_url": "https://github.com/CcendercatcC/Polkit-TUI-Agent",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2084113620783529984/QySoGMF-?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2084113620783529984/QySoGMF-?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 17,
+          "status": 200,
+          "title": "GitHub - CcendercatcC/Polkit-TUI-Agent: 纯 Rust 编写的终端 polkit 认证代理，零 GTK/glib 依赖。专为 ssh/tmux 无图形环境设计：ratatui 内嵌对话框，或 tmux display-popup 悬浮弹窗；密码全程不经过 D-Bus。",
+          "unwound_url": "https://github.com/CcendercatcC/Polkit-TUI-Agent",
+          "url": "https://t.co/KjM4yHBXrK"
+        },
+        {
+          "display_url": "pic.x.com/av7a9dwMnC",
+          "end": 64,
+          "expanded_url": "https://x.com/EMeowSys/status/2084113933410120042/photo/1",
+          "media_key": "3_2084113862648078336",
+          "start": 41,
+          "url": "https://t.co/av7a9dwMnC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084243946042220880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084113933410120042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EMeowSys: 神秘\nhttps://t.co/KjM4yHBXrK https://t.co/av7a9dwMnC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 903,
+        "media_key": "3_2084113862648078336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxChBabIAAv1eo.jpg",
+        "width": 1382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084113862648078336"
+          ]
+        },
+        "author_id": "1795785939438215168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084113933410120042",
+        "created_at": "2026-08-03T03:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084113933410120042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "纯 Rust 编写的终端 polkit 认证代理，零 GTK/glib 依赖。专为 ssh/tmux 无图形环境设计：ratatui 内嵌对话框，或 tmux display-popup 悬浮弹窗；密码全程不经过 D-Bus。 - CcendercatcC/Polkit-TUI-Agent",
+              "display_url": "github.com/CcendercatcC/P…",
+              "end": 26,
+              "expanded_url": "https://github.com/CcendercatcC/Polkit-TUI-Agent",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2084113620783529984/QySoGMF-?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2084113620783529984/QySoGMF-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 3,
+              "status": 200,
+              "title": "GitHub - CcendercatcC/Polkit-TUI-Agent: 纯 Rust 编写的终端 polkit 认证代理，零 GTK/glib 依赖。专为 ssh/tmux 无图形环境设计：ratatui 内嵌对话框，或 tmux display-popup 悬浮弹窗；密码全程不经过 D-Bus。",
+              "unwound_url": "https://github.com/CcendercatcC/Polkit-TUI-Agent",
+              "url": "https://t.co/KjM4yHBXrK"
+            },
+            {
+              "display_url": "pic.x.com/av7a9dwMnC",
+              "end": 50,
+              "expanded_url": "https://x.com/EMeowSys/status/2084113933410120042/photo/1",
+              "media_key": "3_2084113862648078336",
+              "start": 27,
+              "url": "https://t.co/av7a9dwMnC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084113933410120042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 183,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "神秘\nhttps://t.co/KjM4yHBXrK https://t.co/av7a9dwMnC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084113862648078336"
+          ],
+          "media_source_tweet_id": [
+            "2084113933410120042"
+          ]
+        },
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084243946042220880",
+        "created_at": "2026-08-03T11:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084243946042220880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1795785939438215168",
+              "start": 3,
+              "username": "EMeowSys"
+            }
+          ],
+          "urls": [
+            {
+              "description": "纯 Rust 编写的终端 polkit 认证代理，零 GTK/glib 依赖。专为 ssh/tmux 无图形环境设计：ratatui 内嵌对话框，或 tmux display-popup 悬浮弹窗；密码全程不经过 D-Bus。 - CcendercatcC/Polkit-TUI-Agent",
+              "display_url": "github.com/CcendercatcC/P…",
+              "end": 40,
+              "expanded_url": "https://github.com/CcendercatcC/Polkit-TUI-Agent",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2084113620783529984/QySoGMF-?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2084113620783529984/QySoGMF-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "GitHub - CcendercatcC/Polkit-TUI-Agent: 纯 Rust 编写的终端 polkit 认证代理，零 GTK/glib 依赖。专为 ssh/tmux 无图形环境设计：ratatui 内嵌对话框，或 tmux display-popup 悬浮弹窗；密码全程不经过 D-Bus。",
+              "unwound_url": "https://github.com/CcendercatcC/Polkit-TUI-Agent",
+              "url": "https://t.co/KjM4yHBXrK"
+            },
+            {
+              "display_url": "pic.x.com/av7a9dwMnC",
+              "end": 64,
+              "expanded_url": "https://x.com/EMeowSys/status/2084113933410120042/photo/1",
+              "media_key": "3_2084113862648078336",
+              "start": 41,
+              "url": "https://t.co/av7a9dwMnC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084243946042220880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084113933410120042",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EMeowSys: 神秘\nhttps://t.co/KjM4yHBXrK https://t.co/av7a9dwMnC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 1984,
+          "like_count": 95033,
+          "listed_count": 3,
+          "media_count": 432,
+          "tweet_count": 9423
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-29T11:55:18.000Z",
+        "description": "这里易喵系统/末影猫/BG5CYK\n自发型/创伤型多意识体\nCN/EN/JP学习中\n社交渴望\n墙内活跃\n二次元/业余无线电/轨道交通/程序设计/Minecraft/VRChat\n友跨顺女",
+        "id": "1795785939438215168",
+        "location": "虚空中的易喵系统",
+        "name": "易喵系统(末影猫Project)",
+        "pinned_tweet_id": "1968195420506771945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795786104316272640/IXVNkPY1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 2869,
+          "like_count": 12746,
+          "listed_count": 9,
+          "media_count": 473,
+          "tweet_count": 5698
+        },
+        "url": "",
+        "username": "EMeowSys",
+        "verified": false
+      }
+    ]
+  }
+}

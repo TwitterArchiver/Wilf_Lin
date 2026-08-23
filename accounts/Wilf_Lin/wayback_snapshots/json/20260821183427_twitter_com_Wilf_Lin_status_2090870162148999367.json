@@ -1,0 +1,560 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1174432578503204864",
+          "name": "PC gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1174432578503204864",
+          "name": "PC gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1298715487476449280",
+          "name": "University of California Berkeley"
+        }
+      },
+      {
+        "domain": {
+          "description": "Colleges & universities around the world",
+          "id": "157",
+          "name": "Colleges & Universities"
+        },
+        "entity": {
+          "id": "1298715487476449280",
+          "name": "University of California Berkeley"
+        }
+      }
+    ],
+    "conversation_id": "2090870162148999367",
+    "created_at": "2026-08-21T18:34:27.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T19:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090870162148999367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "800854096219471872",
+          "start": 3,
+          "username": "Yuchenj_UW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090870162148999367",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090857982385066474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuchenj_UW: UC Berkeley open-sourced FreeToken. Wild results:\n\nA single RTX PRO 6000 runs the 753B GLM-5.2 at 14.9 tok/s!\n\nAn 8GB RTX 4…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1298715487476449280",
+              "name": "University of California Berkeley"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1298715487476449280",
+              "name": "University of California Berkeley"
+            }
+          }
+        ],
+        "conversation_id": "2090870162148999367",
+        "created_at": "2026-08-21T18:34:27.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T19:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090870162148999367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "800854096219471872",
+              "start": 3,
+              "username": "Yuchenj_UW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090870162148999367",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090857982385066474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuchenj_UW: UC Berkeley open-sourced FreeToken. Wild results:\n\nA single RTX PRO 6000 runs the 753B GLM-5.2 at 14.9 tok/s!\n\nAn 8GB RTX 4…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "800854096219471872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1298715487476449280",
+              "name": "University of California Berkeley"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491833436499107849",
+              "name": "Gaming hardware & accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1298715487476449280",
+              "name": "University of California Berkeley"
+            }
+          }
+        ],
+        "conversation_id": "2090857982385066474",
+        "created_at": "2026-08-21T17:46:03.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090857982385066474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Andy_ShuoYang/…",
+              "end": 300,
+              "expanded_url": "https://twitter.com/Andy_ShuoYang/status/2090856976880472439",
+              "start": 277,
+              "url": "https://t.co/JZQJAiYlPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090857982385066474",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 305,
+                "id": "1629407863440539649",
+                "start": 291,
+                "username": "Andy_ShuoYang"
+              }
+            ]
+          },
+          "text": "UC Berkeley open-sourced FreeToken. Wild results:\n\nA single RTX PRO 6000 runs the 753B GLM-5.2 at 14.9 tok/s!\n\nAn 8GB RTX 4060 laptop (~$1,000) runs Qwen3.6-35B at 39.3 tok/s!\n\nFreeToken is 2–4x faster than Ollama across consumer GPUs. Local AI inference is getting very real. Great work by @Andy_ShuoYang and UC Berkeley Sky Lab!"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 4159,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090856976880472439",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "UC Berkeley open-sourced FreeToken. Wild results:\n\nA single RTX PRO 6000 runs the 753B GLM-5.2 at 14.9 tok/s!\n\nAn 8GB RTX 4060 laptop (~$1,000) runs Qwen3.6-35B at 39.3 tok/s!\n\nFreeToken is 2–4x faster than Ollama across consumer GPUs. Local AI inference is getting very real. https://t.co/JZQJAiYlPK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2090870162148999367",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 2053,
+          "like_count": 104141,
+          "listed_count": 4,
+          "media_count": 482,
+          "tweet_count": 10021
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2070268421615333376/SZUvhQiQ_bigger.jpg",
+          "description": "Databricks",
+          "url": "https://twitter.com/databricks",
+          "user_id": [
+            "1562518867"
+          ]
+        },
+        "created_at": "2016-11-22T00:11:10.000Z",
+        "description": "Cooking fun AI systems & products @databricks. Prev: co-founder & CTO @ Hyperbolic, OctoAI (acquired by @nvidia) Apache TVM, PhD @ University of Washington.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "databricks"
+              },
+              {
+                "end": 111,
+                "start": 104,
+                "username": "nvidia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuchenjin.github.io",
+                "end": 23,
+                "expanded_url": "https://yuchenjin.github.io/",
+                "start": 0,
+                "url": "https://t.co/i4moxD2Mss"
+              }
+            ]
+          }
+        },
+        "id": "800854096219471872",
+        "is_identity_verified": false,
+        "location": "another Galaxy",
+        "most_recent_tweet_id": "2090858575140979023",
+        "name": "Yuchen Jin",
+        "pinned_tweet_id": "1796963544883409044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/800854096219471872/1714238368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1319081238439751681/kCcqnwoF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267594,
+          "following_count": 827,
+          "like_count": 127386,
+          "listed_count": 1199,
+          "media_count": 2593,
+          "tweet_count": 14155
+        },
+        "url": "https://t.co/i4moxD2Mss",
+        "username": "Yuchenj_UW",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

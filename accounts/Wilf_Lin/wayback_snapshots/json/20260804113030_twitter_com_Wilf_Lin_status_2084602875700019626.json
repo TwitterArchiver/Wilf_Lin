@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      }
+    ],
+    "conversation_id": "2084558844622201273",
+    "created_at": "2026-08-04T11:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T12:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084602875700019626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1807078941087391745",
+          "start": 0,
+          "username": "random__string"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084602875700019626",
+    "in_reply_to_user_id": "1807078941087391745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084594388425203943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@random__string humm，主机连有线到安卓，然后安卓开热点和usb网络共享，再用一个magisk模块打通内网，再把iPad连上，然后开moonlight sunshine"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2084558844622201273",
+        "created_at": "2026-08-04T11:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084602875700019626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1807078941087391745",
+              "start": 0,
+              "username": "random__string"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084602875700019626",
+        "in_reply_to_user_id": "1807078941087391745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084594388425203943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@random__string humm，主机连有线到安卓，然后安卓开热点和usb网络共享，再用一个magisk模块打通内网，再把iPad连上，然后开moonlight sunshine"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807078941087391745",
+        "conversation_id": "2084558844622201273",
+        "created_at": "2026-08-04T10:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084594388425203943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554803647909097472",
+              "start": 0,
+              "username": "Wilf_Lin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084594388425203943",
+        "in_reply_to_user_id": "1554803647909097472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084558844622201273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wilf_Lin 这是远程桌面？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 2004,
+          "like_count": 95767,
+          "listed_count": 3,
+          "media_count": 440,
+          "tweet_count": 9465
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T15:49:37.000Z",
+        "description": "Create things with love. /致力于研究自托管技术，尝试为开源社区添砖加瓦。/正在开发 https://t.co/lYW95qY7JX ，为专业用户搭建的 Docker Compose 管理器。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "composia.xyz",
+                "end": 78,
+                "expanded_url": "http://composia.xyz",
+                "start": 55,
+                "url": "https://t.co/lYW95qY7JX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.alexma.top/zh-hans/pages/…",
+                "end": 23,
+                "expanded_url": "https://blog.alexma.top/zh-hans/pages/about-me/",
+                "start": 0,
+                "url": "https://t.co/XWsRGqGKcV"
+              }
+            ]
+          }
+        },
+        "id": "1807078941087391745",
+        "location": "Open Source Community",
+        "name": "alexma233",
+        "pinned_tweet_id": "2048393746790973583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012105841281765376/34TNo8df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 255,
+          "like_count": 920,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1130
+        },
+        "url": "https://t.co/XWsRGqGKcV",
+        "username": "random__string",
+        "verified": true
+      }
+    ]
+  }
+}

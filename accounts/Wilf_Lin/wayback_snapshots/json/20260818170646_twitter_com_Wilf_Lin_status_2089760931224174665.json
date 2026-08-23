@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2089716357948391640",
+    "created_at": "2026-08-18T17:06:46.000Z",
+    "display_text_range": [
+      10,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T18:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089760931224174665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1518577705809326083",
+          "start": 0,
+          "username": "wei_wang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089760931224174665",
+    "in_reply_to_user_id": "1518577705809326083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089716357948391640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wei_wang 其实你可以把上下文再拉大一点，这个显存扛得住的，显存扛不住了也可以放内存去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2089716357948391640",
+        "created_at": "2026-08-18T17:06:46.000Z",
+        "display_text_range": [
+          10,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T18:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089760931224174665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1518577705809326083",
+              "start": 0,
+              "username": "wei_wang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089760931224174665",
+        "in_reply_to_user_id": "1518577705809326083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089716357948391640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wei_wang 其实你可以把上下文再拉大一点，这个显存扛得住的，显存扛不住了也可以放内存去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518577705809326083",
+        "conversation_id": "2089716357948391640",
+        "created_at": "2026-08-18T14:09:39.000Z",
+        "display_text_range": [
+          0,
+          183
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089716357948391640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wei_wang/statu…",
+              "end": 207,
+              "expanded_url": "https://twitter.com/wei_wang/status/2089558370197852193",
+              "start": 184,
+              "url": "https://t.co/neT3PvHnXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089716357948391640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "RTX PRO 6000 上的 Qwen3.8-27B 已经连续跑了快 10 个小时，四路并发一直稳定，没有崩。\n\n按照实测总解码速度约 408.8 tokens/s 计算，10 个小时理论上可以生成接近 1470 万个 tokens。\n\n如果这些任务全部调用按量收费的高端 API，按照每百万输出 tokens 约 40 到 45 美元粗算，一晚上就要烧掉 600 多美元。\n\n本地部署以后，边际成本基本只剩电费。\n\n以前看到 Agent 长时间运行，会担心额度、账单和限流。现在可以让 Hermes 挂着跑，失败了重试，方案不满意就推倒重来，Token 已经从消费品变成了家里的基础设施。\n\n突然觉得 RTX PRO 6000 也没有那么贵了。。。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 12449,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089558370197852193",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RTX PRO 6000 上的 Qwen3.8-27B 已经连续跑了快 10 个小时，四路并发一直稳定，没有崩。\n\n按照实测总解码速度约 408.8 tokens/s 计算，10 个小时理论上可以生成接近 1470 万个 tokens。\n\n如果这些任务全部调用按量收费的高端 API，按照每百万输出 tokens 约 40 到 45 美元粗算，一晚上就要烧掉 600 https://t.co/neT3PvHnXP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2089760931224174665",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 2044,
+          "like_count": 102415,
+          "listed_count": 4,
+          "media_count": 469,
+          "tweet_count": 9853
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T13:09:06.000Z",
+        "description": "13y mobile vet | $100M EM | Building ecom brands with China supplier network | AI tools & cross-border ecom 🇺🇸\n\n13年移动端老兵 | 美国电商创业 | 分享AI工具 & 出海实操",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "askkivo.com",
+                "end": 23,
+                "expanded_url": "http://askkivo.com",
+                "start": 0,
+                "url": "https://t.co/mfoaCk4MgC"
+              }
+            ]
+          }
+        },
+        "id": "1518577705809326083",
+        "is_identity_verified": true,
+        "location": "Atlanta, GA",
+        "most_recent_tweet_id": "2089752751496466499",
+        "name": "Wei",
+        "pinned_tweet_id": "2056208743805669381",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518577705809326083/1783478033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047735687563124736/E31Pv60Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5681,
+          "following_count": 375,
+          "like_count": 6019,
+          "listed_count": 31,
+          "media_count": 388,
+          "tweet_count": 7699
+        },
+        "url": "https://t.co/mfoaCk4MgC",
+        "username": "wei_wang",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

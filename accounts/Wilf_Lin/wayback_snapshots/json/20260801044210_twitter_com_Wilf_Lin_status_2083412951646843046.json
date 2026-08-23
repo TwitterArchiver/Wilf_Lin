@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2083288851129540913",
+    "created_at": "2026-08-01T04:42:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T05:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083412951646843046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2067124126159114240",
+          "start": 0,
+          "username": "jifengshandian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083412951646843046",
+    "in_reply_to_user_id": "2067124126159114240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083380542385586623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jifengshandian 厂商说只要我去应聘他们的研发，就给我用C"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2083288851129540913",
+        "created_at": "2026-08-01T04:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083412951646843046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2067124126159114240",
+              "start": 0,
+              "username": "jifengshandian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083412951646843046",
+        "in_reply_to_user_id": "2067124126159114240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083380542385586623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jifengshandian 厂商说只要我去应聘他们的研发，就给我用C"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067124126159114240",
+        "conversation_id": "2083288851129540913",
+        "created_at": "2026-08-01T02:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083380542385586623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554803647909097472",
+              "start": 0,
+              "username": "Wilf_Lin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083380542385586623",
+        "in_reply_to_user_id": "1554803647909097472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083288851129540913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wilf_Lin 很厉害，不过厂商竟然支持 js 不支持 C，太离谱了。能刷机吗？刷成其他的还可以，如果刷机后能用 C 就好用多了，毕竟连 8051 都能跑 Bad Apple"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 1981,
+          "like_count": 93937,
+          "listed_count": 3,
+          "media_count": 425,
+          "tweet_count": 9310
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-17T05:56:33.000Z",
+        "description": "无",
+        "id": "2067124126159114240",
+        "name": "云兮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073356254366629889/XTV7_J8q_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 13,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "jifengshandian",
+        "verified": true
+      }
+    ]
+  }
+}

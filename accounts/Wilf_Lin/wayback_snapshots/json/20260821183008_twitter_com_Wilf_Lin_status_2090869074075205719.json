@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2090869074075205719",
+    "created_at": "2026-08-21T18:30:08.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T19:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090869074075205719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1479100058",
+          "start": 3,
+          "username": "bojie_li"
+        },
+        {
+          "end": 32,
+          "id": "3321381504",
+          "start": 17,
+          "username": "zhengzihan1996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090869074075205719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090834216917614996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bojie_li: 之前 @zhengzihan1996 告诉我的一个 idea 终于实现了！在本地运行 Claude Code / Codex / Kimi Code / OpenCode 等，但它的所有 shell 和文件系统访问都是在指定的 ssh remote…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 626,
+        "media_key": "3_2090832904175947776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQhctobEAArxwz.jpg",
+        "width": 1656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2090869074075205719",
+        "created_at": "2026-08-21T18:30:08.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T19:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090869074075205719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1479100058",
+              "start": 3,
+              "username": "bojie_li"
+            },
+            {
+              "end": 32,
+              "id": "3321381504",
+              "start": 17,
+              "username": "zhengzihan1996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090869074075205719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090834216917614996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bojie_li: 之前 @zhengzihan1996 告诉我的一个 idea 终于实现了！在本地运行 Claude Code / Codex / Kimi Code / OpenCode 等，但它的所有 shell 和文件系统访问都是在指定的 ssh remote…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090832904175947776"
+          ]
+        },
+        "author_id": "1479100058",
+        "conversation_id": "2090834216917614996",
+        "created_at": "2026-08-21T16:11:37.000Z",
+        "display_text_range": [
+          0,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090834216917614996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "3321381504",
+              "start": 3,
+              "username": "zhengzihan1996"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EosUfJ1TYd",
+              "end": 185,
+              "expanded_url": "https://x.com/bojie_li/status/2090834216917614996/photo/1",
+              "media_key": "3_2090832904175947776",
+              "start": 162,
+              "url": "https://t.co/EosUfJ1TYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090834216917614996",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090832904175947776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 18,
+                "id": "3321381504",
+                "start": 3,
+                "username": "zhengzihan1996"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/bojieli/agentr…",
+                "end": 255,
+                "expanded_url": "https://github.com/bojieli/agentreach",
+                "start": 232,
+                "url": "https://t.co/HioxFP0X4o"
+              }
+            ]
+          },
+          "text": "之前 @zhengzihan1996 告诉我的一个 idea 终于实现了！在本地运行 Claude Code / Codex / Kimi Code / OpenCode 等，但它的所有 shell 和文件系统访问都是在指定的 ssh remote 或者 docker 里面。这样就不用在不可信的服务器里面装 coding agent、登录账户了。脑子是本地的，但工具延伸到了远程环境，就像机器人遥操作一样。\n\nMIT 开源，欢迎 star & 提 issue！\nhttps://t.co/HioxFP0X4o"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 3977,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "之前 @zhengzihan1996 告诉我的一个 idea 终于实现了！在本地运行 Claude Code / Codex / Kimi Code / OpenCode 等，但它的所有 shell 和文件系统访问都是在指定的 ssh remote 或者 docker 里面。这样就不用在不可信的服务器里面装 coding https://t.co/EosUfJ1TYd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2090869074075205719",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 2052,
+          "like_count": 104115,
+          "listed_count": 4,
+          "media_count": 482,
+          "tweet_count": 10019
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-06-03T07:31:22.000Z",
+        "description": "Independent Researcher. Interactive Agent Systems.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "01.me",
+                "end": 23,
+                "expanded_url": "https://01.me/",
+                "start": 0,
+                "url": "https://t.co/9bsINBihkL"
+              }
+            ]
+          }
+        },
+        "id": "1479100058",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090834216917614996",
+        "name": "Bojie Li",
+        "pinned_tweet_id": "2090067031320297943",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479100058/1696192511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/819210652564615168/NNNeTcef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7726,
+          "following_count": 711,
+          "like_count": 1460,
+          "listed_count": 63,
+          "media_count": 66,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/9bsINBihkL",
+        "username": "bojie_li",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-08-20T14:25:19.000Z",
+        "description": "",
+        "id": "3321381504",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "1234492148776624134",
+        "name": "Zihan Zheng",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/725021059250954240/YURPzsn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 157,
+          "like_count": 143,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "zhengzihan1996",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

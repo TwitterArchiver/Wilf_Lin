@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2089565834662592777",
+    "created_at": "2026-08-18T11:01:39.000Z",
+    "display_text_range": [
+      9,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T12:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089669044731552246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1520209192375644160",
+          "start": 0,
+          "username": "supezen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089669044731552246",
+    "in_reply_to_user_id": "1520209192375644160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089661012287053935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@supezen 我没有那么大的显存来存足够多的KV cache，所以我没办法本地支持一个agent group工作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2089565834662592777",
+        "created_at": "2026-08-18T11:01:39.000Z",
+        "display_text_range": [
+          9,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089669044731552246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1520209192375644160",
+              "start": 0,
+              "username": "supezen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089669044731552246",
+        "in_reply_to_user_id": "1520209192375644160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089661012287053935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@supezen 我没有那么大的显存来存足够多的KV cache，所以我没办法本地支持一个agent group工作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520209192375644160",
+        "conversation_id": "2089565834662592777",
+        "created_at": "2026-08-18T10:29:44.000Z",
+        "display_text_range": [
+          10,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089661012287053935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554803647909097472",
+              "start": 0,
+              "username": "Wilf_Lin"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Hand routine, fixed-process work to a team of agents. Teach the team your process once; a round starts with a sentence or reruns on schedule, and the team plans, builds, and reviews it to done, on your own machines with your own models.",
+              "display_url": "todos.dev",
+              "end": 37,
+              "expanded_url": "https://todos.dev",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2087830888965152768/p6EXX3sf?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2087830888965152768/p6EXX3sf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "Todos — The task-driven workspace for humans and agents.",
+              "unwound_url": "https://todos.dev",
+              "url": "https://t.co/8EVF83UwSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089661012287053935",
+        "in_reply_to_user_id": "1554803647909097472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089565834662592777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wilf_Lin 试试连上https://t.co/8EVF83UwSS\n支持本地模型，实现token全球无限畅销了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2089669044731552246",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 2044,
+          "like_count": 102202,
+          "listed_count": 4,
+          "media_count": 469,
+          "tweet_count": 9837
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-30T01:11:43.000Z",
+        "description": "分享用AI的个人体验，仅供参考。\nThe agent team that gets things done  https://t.co/UpUZzI7Eb8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "todos.dev",
+                "end": 78,
+                "expanded_url": "http://todos.dev",
+                "start": 55,
+                "url": "https://t.co/UpUZzI7Eb8"
+              }
+            ]
+          }
+        },
+        "id": "1520209192375644160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089661532955410897",
+        "name": "ZEN",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063473798993862656/ikXo5qMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32828,
+          "following_count": 612,
+          "like_count": 7603,
+          "listed_count": 499,
+          "media_count": 2019,
+          "tweet_count": 7981
+        },
+        "url": "",
+        "username": "supezen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

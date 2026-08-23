@@ -1,0 +1,527 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090132283928055808"
+      ],
+      "media_source_tweet_id": [
+        "2090132357257044116"
+      ]
+    },
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2090135187330097624",
+    "created_at": "2026-08-19T17:53:56.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T18:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090135187330097624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1699797396589588480",
+          "start": 3,
+          "username": "MaxForAI"
+        },
+        {
+          "end": 46,
+          "id": "1714438092655149056",
+          "start": 38,
+          "username": "ChatGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xrFpPHF41n",
+          "end": 77,
+          "expanded_url": "https://x.com/MaxForAI/status/2090132357257044116/photo/1",
+          "media_key": "3_2090132283928055808",
+          "start": 54,
+          "url": "https://t.co/xrFpPHF41n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090135187330097624",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090132283928055808"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090132357257044116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaxForAI: Google 搜索的员工：抱歉Gemini ， @ChatGPT  给的太多了 https://t.co/xrFpPHF41n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1222,
+        "media_key": "3_2090132283928055808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGkPP0bkAAyNL5.jpg",
+        "width": 2082
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090132283928055808"
+          ],
+          "media_source_tweet_id": [
+            "2090132357257044116"
+          ]
+        },
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2090135187330097624",
+        "created_at": "2026-08-19T17:53:56.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090135187330097624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1699797396589588480",
+              "start": 3,
+              "username": "MaxForAI"
+            },
+            {
+              "end": 46,
+              "id": "1714438092655149056",
+              "start": 38,
+              "username": "ChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xrFpPHF41n",
+              "end": 77,
+              "expanded_url": "https://x.com/MaxForAI/status/2090132357257044116/photo/1",
+              "media_key": "3_2090132283928055808",
+              "start": 54,
+              "url": "https://t.co/xrFpPHF41n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090135187330097624",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090132283928055808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090132357257044116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaxForAI: Google 搜索的员工：抱歉Gemini ， @ChatGPT  给的太多了 https://t.co/xrFpPHF41n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090132283928055808"
+          ]
+        },
+        "author_id": "1699797396589588480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2090132357257044116",
+        "created_at": "2026-08-19T17:42:41.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090132357257044116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1714438092655149056",
+              "start": 24,
+              "username": "ChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xrFpPHF41n",
+              "end": 63,
+              "expanded_url": "https://x.com/MaxForAI/status/2090132357257044116/photo/1",
+              "media_key": "3_2090132283928055808",
+              "start": 40,
+              "url": "https://t.co/xrFpPHF41n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090132357257044116",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090132283928055808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 366,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Google 搜索的员工：抱歉Gemini ， @ChatGPT  给的太多了 https://t.co/xrFpPHF41n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2090135187330097624",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 2038,
+          "like_count": 102890,
+          "listed_count": 4,
+          "media_count": 473,
+          "tweet_count": 9918
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2038488993130848256/PyVXwans_bigger.jpg",
+          "description": "LobeHub",
+          "url": "https://twitter.com/lobehub",
+          "user_id": [
+            "1707003452700930048"
+          ]
+        },
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业\n没啥好看的，也就发点AI相关的内容🫡\n\nHead of growth @lobehub（81K🌟）\nPrev @listenhub @Sapient_Int \n\n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n\n更多请访问网站⬇️（欢迎商务、合作",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "lobehub"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "listenhub"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6eGp0"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2090132357257044116",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2086799688666382808",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699797396589588480/1777493285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29209,
+          "following_count": 2753,
+          "like_count": 21352,
+          "listed_count": 266,
+          "media_count": 1397,
+          "tweet_count": 9725
+        },
+        "url": "https://t.co/Sl0Wv6eGp0",
+        "username": "MaxForAI",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_bigger.jpg",
+          "description": "OpenAI",
+          "url": "https://twitter.com/OpenAI",
+          "user_id": [
+            "4398626122"
+          ]
+        },
+        "created_at": "2023-10-18T00:27:53.000Z",
+        "description": "ChatGPT is for the people.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chat.com",
+                "end": 23,
+                "expanded_url": "https://chat.com/",
+                "start": 0,
+                "url": "https://t.co/4Om8PmuOix"
+              }
+            ]
+          }
+        },
+        "id": "1714438092655149056",
+        "is_identity_verified": false,
+        "location": "Supercomputer",
+        "most_recent_tweet_id": "2089432843273601372",
+        "name": "ChatGPT",
+        "pinned_tweet_id": "2075336584451539353",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1714438092655149056/1782600640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081980424666935296/qU5G7mQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636442,
+          "following_count": 258,
+          "like_count": 1432,
+          "listed_count": 3685,
+          "media_count": 119,
+          "tweet_count": 479
+        },
+        "url": "https://t.co/4Om8PmuOix",
+        "username": "ChatGPT",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

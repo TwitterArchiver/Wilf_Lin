@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087751970769731584"
+      ],
+      "media_source_tweet_id": [
+        "2087752171978952917"
+      ]
+    },
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2087775725004923045",
+    "created_at": "2026-08-13T05:38:16.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T06:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087775725004923045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1302118861995536387",
+          "start": 3,
+          "username": "Jiaxi_Cui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ojUbUGPb1X",
+          "end": 81,
+          "expanded_url": "https://x.com/Jiaxi_Cui/status/2087752171978952917/photo/1",
+          "media_key": "3_2087751970769731584",
+          "start": 58,
+          "url": "https://t.co/ojUbUGPb1X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087775725004923045",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087751970769731584"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087752171978952917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jiaxi_Cui: Anthropic 的 Dario 已被 Google 确认死于 8 月 12 日( https://t.co/ojUbUGPb1X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1236,
+        "media_key": "3_2087751970769731584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPkvWyTaAAAWliv.jpg",
+        "width": 2738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087751970769731584"
+          ]
+        },
+        "author_id": "1302118861995536387",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2087752171978952917",
+        "created_at": "2026-08-13T04:04:41.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T05:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087752171978952917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ojUbUGPb1X",
+              "end": 66,
+              "expanded_url": "https://x.com/Jiaxi_Cui/status/2087752171978952917/photo/1",
+              "media_key": "3_2087751970769731584",
+              "start": 43,
+              "url": "https://t.co/ojUbUGPb1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087752171978952917",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087751970769731584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9834,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Anthropic 的 Dario 已被 Google 确认死于 8 月 12 日( https://t.co/ojUbUGPb1X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087751970769731584"
+          ],
+          "media_source_tweet_id": [
+            "2087752171978952917"
+          ]
+        },
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2087775725004923045",
+        "created_at": "2026-08-13T05:38:16.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T06:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087775725004923045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1302118861995536387",
+              "start": 3,
+              "username": "Jiaxi_Cui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ojUbUGPb1X",
+              "end": 81,
+              "expanded_url": "https://x.com/Jiaxi_Cui/status/2087752171978952917/photo/1",
+              "media_key": "3_2087751970769731584",
+              "start": 58,
+              "url": "https://t.co/ojUbUGPb1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087775725004923045",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087751970769731584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087752171978952917",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jiaxi_Cui: Anthropic 的 Dario 已被 Google 确认死于 8 月 12 日( https://t.co/ojUbUGPb1X"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2087775725004923045",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 2038,
+          "like_count": 99654,
+          "listed_count": 4,
+          "media_count": 454,
+          "tweet_count": 9698
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-05T05:38:34.000Z",
+        "description": "Building @cerul_hq, where video becomes citable.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "cerul_hq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cerul.ai",
+                "end": 23,
+                "expanded_url": "https://cerul.ai",
+                "start": 0,
+                "url": "https://t.co/UIZjPHhc8D"
+              }
+            ]
+          }
+        },
+        "id": "1302118861995536387",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087774517439729992",
+        "name": "Panda@Cerul.ai",
+        "pinned_tweet_id": "2042058620729487588",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1302118861995536387/1783532994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677124881144770560/W6zZ-Zux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23147,
+          "following_count": 936,
+          "like_count": 4226,
+          "listed_count": 232,
+          "media_count": 707,
+          "tweet_count": 4231
+        },
+        "url": "https://t.co/UIZjPHhc8D",
+        "username": "Jiaxi_Cui",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

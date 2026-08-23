@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2086504957071487426",
+    "created_at": "2026-08-09T21:09:14.000Z",
+    "display_text_range": [
+      8,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T22:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086560457993977913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "812737065767096320",
+          "start": 0,
+          "username": "vaxryy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086560457993977913",
+    "in_reply_to_user_id": "812737065767096320",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086504957071487426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vaxryy I'm tired maintaing hymission, i don't think you will wanna maintain one."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2086504957071487426",
+        "created_at": "2026-08-09T21:09:14.000Z",
+        "display_text_range": [
+          8,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T22:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086560457993977913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "812737065767096320",
+              "start": 0,
+              "username": "vaxryy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086560457993977913",
+        "in_reply_to_user_id": "812737065767096320",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086504957071487426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vaxryy I'm tired maintaing hymission, i don't think you will wanna maintain one."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2086504956043898881"
+          ]
+        },
+        "author_id": "812737065767096320",
+        "card_uri": "card://2086504956043898881",
+        "conversation_id": "2086504957071487426",
+        "created_at": "2026-08-09T17:28:41.000Z",
+        "display_text_range": [
+          0,
+          252
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T18:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086504957071487426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086504957071487426",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4184,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Which one would you prefer, wrt overviews in hyprland:\n\n- Stay as plugins, multiple options, code quality meh, tons of different approaches\n- One built in solution that I make however I find best and fuck you if you want it differently\n- Mac and cheese"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2086560457993977913",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 2024,
+          "like_count": 98191,
+          "listed_count": 4,
+          "media_count": 452,
+          "tweet_count": 9632
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-12-24T19:09:51.000Z",
+        "description": "Either your favorite, or your least favorite desktop Linux developer. I make Hyprland and other stuff.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vaxry.net",
+                "end": 23,
+                "expanded_url": "https://vaxry.net",
+                "start": 0,
+                "url": "https://t.co/3qkfFVp4v8"
+              }
+            ]
+          }
+        },
+        "id": "812737065767096320",
+        "is_identity_verified": false,
+        "location": "Poland",
+        "most_recent_tweet_id": "2086504957071487426",
+        "name": "vaxry",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/812737065767096320/1715117590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787959548474540032/yjyBDXjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22388,
+          "following_count": 93,
+          "like_count": 9142,
+          "listed_count": 81,
+          "media_count": 1730,
+          "tweet_count": 12537
+        },
+        "url": "https://t.co/3qkfFVp4v8",
+        "username": "vaxryy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

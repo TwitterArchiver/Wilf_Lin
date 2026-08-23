@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2090497226653221308",
+    "created_at": "2026-08-20T17:52:33.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T18:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090497226653221308"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/landiantech/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/landiantech/status/2090482065729061126",
+          "start": 10,
+          "url": "https://t.co/Bar3hhpOM5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090497226653221308",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090482065729061126",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我遇到了这个问题。 https://t.co/Bar3hhpOM5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "3_2090481781523066881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLiGr0bsAElv-2.png",
+        "width": 1218
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2090497226653221308",
+        "created_at": "2026-08-20T17:52:33.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090497226653221308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/landiantech/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/landiantech/status/2090482065729061126",
+              "start": 10,
+              "url": "https://t.co/Bar3hhpOM5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090497226653221308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090482065729061126",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我遇到了这个问题。 https://t.co/Bar3hhpOM5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090481781523066881"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "conversation_id": "2090482065729061126",
+        "created_at": "2026-08-20T16:52:18.000Z",
+        "display_text_range": [
+          0,
+          196
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:51:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090481789588631778",
+          "2090482065729061126"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "Codex"
+            },
+            {
+              "end": 71,
+              "start": 61,
+              "tag": "Codexdown"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y8o57ErS8h",
+              "end": 220,
+              "expanded_url": "https://x.com/landiantech/status/2090482065729061126/photo/1",
+              "media_key": "3_2090481781523066881",
+              "start": 197,
+              "url": "https://t.co/y8o57ErS8h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090482065729061126",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090481781523066881"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1506,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#Codex 疑似出现大范围故障，很多会话中正常对话全部被判为违规，哪怕是简单的 ping 都被判违规，只能重新开新会话。#Codexdown\n\nInvalid prompt: your prompt was flagged as potentially violating our usage policy. Please try again with a different prompt https://t.co/y8o57ErS8h"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2090497226653221308",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 2051,
+          "like_count": 103793,
+          "listed_count": 4,
+          "media_count": 478,
+          "tweet_count": 9985
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / 重度 Codex & Claude Code 用户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landian.news",
+                "end": 23,
+                "expanded_url": "https://www.landian.news/",
+                "start": 0,
+                "url": "https://t.co/AQRoCx3e7F"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "is_identity_verified": false,
+        "location": "土卫六",
+        "most_recent_tweet_id": "2090494811690488148",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2084467358127780272",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37294,
+          "following_count": 805,
+          "like_count": 6078,
+          "listed_count": 281,
+          "media_count": 6394,
+          "tweet_count": 17422
+        },
+        "url": "https://t.co/AQRoCx3e7F",
+        "username": "landiantech",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2089988734838018475",
+    "created_at": "2026-08-19T15:48:01.000Z",
+    "display_text_range": [
+      21,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T16:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090103501846409633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1814962695113728000",
+          "start": 0,
+          "username": "Bhavyaztwt"
+        },
+        {
+          "end": 20,
+          "id": "1348211074429030400",
+          "start": 12,
+          "username": "nothing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090103501846409633",
+    "in_reply_to_user_id": "1814962695113728000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089988734838018475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bhavyaztwt @nothing 你需要仔细的调整各种间距和圆角，这不是随手一配看起来差不多就可以的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 546,
+        "media_key": "3_2089988728064446464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEhrMjaEAAen0H.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2089988734838018475",
+        "created_at": "2026-08-19T15:48:01.000Z",
+        "display_text_range": [
+          21,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090103501846409633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814962695113728000",
+              "start": 0,
+              "username": "Bhavyaztwt"
+            },
+            {
+              "end": 20,
+              "id": "1348211074429030400",
+              "start": 12,
+              "username": "nothing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090103501846409633",
+        "in_reply_to_user_id": "1814962695113728000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089988734838018475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bhavyaztwt @nothing 你需要仔细的调整各种间距和圆角，这不是随手一配看起来差不多就可以的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089988728064446464"
+          ]
+        },
+        "author_id": "1814962695113728000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2089988734838018475",
+        "created_at": "2026-08-19T08:11:59.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089988734838018475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aknhi1NKba",
+              "end": 57,
+              "expanded_url": "https://x.com/Bhavyaztwt/status/2089988734838018475/photo/1",
+              "media_key": "3_2089988728064446464",
+              "start": 34,
+              "url": "https://t.co/aknhi1NKba"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "3f08724493b18d74"
+        },
+        "id": "2089988734838018475",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2089988728064446464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 11994,
+          "like_count": 467,
+          "quote_count": 4,
+          "reply_count": 48,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "Linux is beautiful \n\nNothing RICE https://t.co/aknhi1NKba"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2090103501846409633",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 2039,
+          "like_count": 102853,
+          "listed_count": 4,
+          "media_count": 473,
+          "tweet_count": 9912
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-21T09:57:03.000Z",
+        "description": "Builder @solanaturbine | ETH Scholar | Grad ’28 | Web3 x Dev\n\nDM for promo/collab",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "solanaturbine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Bhavyag-dev",
+                "end": 23,
+                "expanded_url": "https://github.com/Bhavyag-dev",
+                "start": 0,
+                "url": "https://t.co/TBfqizLGTq"
+              }
+            ]
+          }
+        },
+        "id": "1814962695113728000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090101840281231758",
+        "name": "Bhavya",
+        "pinned_tweet_id": "2087026562617200993",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1814962695113728000/1786570202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034214359254364161/L21RjDOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2468,
+          "following_count": 625,
+          "like_count": 21652,
+          "listed_count": 8,
+          "media_count": 1935,
+          "tweet_count": 10957
+        },
+        "url": "https://t.co/TBfqizLGTq",
+        "username": "Bhavyaztwt",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-10T10:13:05.000Z",
+        "description": "Hot + bothered\n⚙️ @nothingsupport",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "nothingsupport"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nothing.tech",
+                "end": 23,
+                "expanded_url": "http://nothing.tech",
+                "start": 0,
+                "url": "https://t.co/U9gB1UWB5I"
+              }
+            ]
+          }
+        },
+        "id": "1348211074429030400",
+        "is_identity_verified": false,
+        "location": "4 Peter St, London W1F 0AD",
+        "most_recent_tweet_id": "2089638436420436190",
+        "name": "Nothing",
+        "pinned_tweet_id": "2074434246219882562",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1348211074429030400/1783418662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026962551846957056/J0ultDtI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050226,
+          "following_count": 5,
+          "like_count": 5118,
+          "listed_count": 983,
+          "media_count": 1185,
+          "tweet_count": 3944
+        },
+        "url": "https://t.co/U9gB1UWB5I",
+        "username": "nothing",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2085719290943246416",
+    "created_at": "2026-08-07T13:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085719290943246416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "137946654",
+          "start": 3,
+          "username": "zzxwill"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085719290943246416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085680779762508018",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zzxwill: 亲测好用，我的 Cluade Code 和 Codex 都默认加载了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2085719290943246416",
+        "created_at": "2026-08-07T13:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085719290943246416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "137946654",
+              "start": 3,
+              "username": "zzxwill"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085719290943246416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085680779762508018",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zzxwill: 亲测好用，我的 Cluade Code 和 Codex 都默认加载了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "137946654",
+        "conversation_id": "2085680779762508018",
+        "created_at": "2026-08-07T10:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085680779762508018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fenng/status/2…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/fenng/status/2085673937892221164",
+              "start": 35,
+              "url": "https://t.co/9lbMYFzfaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085680779762508018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1529,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085673937892221164",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "亲测好用，我的 Cluade Code 和 Codex 都默认加载了 https://t.co/9lbMYFzfaA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 2020,
+          "like_count": 97101,
+          "listed_count": 3,
+          "media_count": 448,
+          "tweet_count": 9571
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-28T06:06:33.000Z",
+        "description": "AI Infra engineer @alibaba_cloud",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "alibaba_cloud"
+              }
+            ]
+          }
+        },
+        "id": "137946654",
+        "location": "Singapore",
+        "name": "zzxwill",
+        "pinned_tweet_id": "2003695377963450815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968671671675678720/Pu87BRd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6304,
+          "following_count": 3162,
+          "like_count": 15613,
+          "listed_count": 31,
+          "media_count": 2551,
+          "tweet_count": 15051
+        },
+        "url": "",
+        "username": "zzxwill",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2082815140806680580",
+    "created_at": "2026-07-31T03:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T04:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083027820750754225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1329093676472143873",
+          "start": 0,
+          "username": "c_ritica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083027820750754225",
+    "in_reply_to_user_id": "1329093676472143873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082906046616805648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c_ritica 实机只能跑到0.25FPS，所以现在的新技术路径是用字符点阵显示，手机那边处理完之后把字符串传过来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2082815140806680580",
+        "created_at": "2026-07-31T03:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083027820750754225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1329093676472143873",
+              "start": 0,
+              "username": "c_ritica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083027820750754225",
+        "in_reply_to_user_id": "1329093676472143873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082906046616805648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c_ritica 实机只能跑到0.25FPS，所以现在的新技术路径是用字符点阵显示，手机那边处理完之后把字符串传过来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1329093676472143873",
+        "conversation_id": "2082815140806680580",
+        "created_at": "2026-07-30T19:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T20:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082906046616805648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554803647909097472",
+              "start": 0,
+              "username": "Wilf_Lin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082906046616805648",
+        "in_reply_to_user_id": "1554803647909097472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082815140806680580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wilf_Lin 我天，强啊。不过手表的性能居然能带纯js软解吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 1981,
+          "like_count": 93569,
+          "listed_count": 3,
+          "media_count": 418,
+          "tweet_count": 9268
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-18T16:07:14.000Z",
+        "description": "RTX ON!",
+        "id": "1329093676472143873",
+        "location": "Taipei City, Taiwan",
+        "name": "CRitica",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527592177747955712/FndjlHaq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 469,
+          "like_count": 3101,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 760
+        },
+        "url": "",
+        "username": "c_ritica",
+        "verified": false
+      }
+    ]
+  }
+}

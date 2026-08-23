@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2089930714749747319",
+    "created_at": "2026-08-19T20:19:02.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T21:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090171702953332971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "554095426",
+          "start": 0,
+          "username": "io_sammt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090171702953332971",
+    "in_reply_to_user_id": "554095426",
+    "lang": "lv",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089930714749747319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@io_sammt .baidu\n: )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2089930714749747319",
+        "created_at": "2026-08-19T20:19:02.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T21:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090171702953332971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "554095426",
+              "start": 0,
+              "username": "io_sammt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090171702953332971",
+        "in_reply_to_user_id": "554095426",
+        "lang": "lv",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089930714749747319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@io_sammt .baidu\n: )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "554095426",
+        "conversation_id": "2089930714749747319",
+        "created_at": "2026-08-19T04:21:26.000Z",
+        "display_text_range": [
+          0,
+          182
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T05:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089930714749747319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/durov/status/2…",
+              "end": 206,
+              "expanded_url": "https://twitter.com/durov/status/2089770867576172804",
+              "start": 183,
+              "url": "https://t.co/d0asXm646D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089930714749747319",
+        "lang": "en",
+        "note_request_suggestions": [
+          {
+            "suggestion": "There are already multiple top level domains owned by companies. This is not an issue. https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains",
+            "suggestion_id": "2090005184088768868"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 453082,
+          "like_count": 1650,
+          "quote_count": 21,
+          "reply_count": 152,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089770867576172804",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "This should never be allowed to happen. \n\nNo particular company should be able to own full top level domains, regardless of their size. \n\nI have no idea how this is not self-evident. https://t.co/d0asXm646D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2090171702953332971",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 2046,
+          "like_count": 103176,
+          "listed_count": 4,
+          "media_count": 473,
+          "tweet_count": 9942
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-04-15T05:15:43.000Z",
+        "description": "Software Engineer - Researcher - Builder - Founder - Creator of Unit - https://t.co/nGnstCPQFb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "unit.md",
+                "end": 94,
+                "expanded_url": "http://unit.md",
+                "start": 71,
+                "url": "https://t.co/nGnstCPQFb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "unit.software",
+                "end": 23,
+                "expanded_url": "https://unit.software",
+                "start": 0,
+                "url": "https://t.co/AsdWz7VrrI"
+              }
+            ]
+          }
+        },
+        "id": "554095426",
+        "is_identity_verified": false,
+        "location": "UNIT IO",
+        "most_recent_tweet_id": "2090116617992548820",
+        "name": "Samuel Timbó",
+        "pinned_tweet_id": "1807802003692626341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/554095426/1724375765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049695963443249152/2MMm7_pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9671,
+          "following_count": 346,
+          "like_count": 3854,
+          "listed_count": 149,
+          "media_count": 499,
+          "tweet_count": 1475
+        },
+        "url": "https://t.co/AsdWz7VrrI",
+        "username": "io_sammt",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

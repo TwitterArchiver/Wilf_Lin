@@ -1,0 +1,850 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A podcast like \"Serial\"",
+          "id": "91",
+          "name": "Podcast"
+        },
+        "entity": {
+          "id": "1490751295698837510",
+          "name": "Podcasts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Podcasts",
+          "id": "1074758954444513282",
+          "name": "Podcasts & radio"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490751295698837510",
+          "name": "Podcasts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1495096332071026688",
+          "name": "Business & finance podcasts"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "2089370449839092146",
+    "created_at": "2026-08-17T15:15:08.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T16:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089370449839092146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "44196397",
+          "start": 3,
+          "username": "elonmusk"
+        },
+        {
+          "end": 24,
+          "id": "1330170106501079041",
+          "start": 15,
+          "username": "Starlink"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/dhh/status/208…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/dhh/status/2088893011350495715",
+          "start": 37,
+          "url": "https://t.co/IuNuPsgtGa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089370449839092146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088893011350495715",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "赞美 @elonmusk 和 @Starlink \n这他妈纯粹的外星科技 https://t.co/IuNuPsgtGa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2088892981197582336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP09GVYWsAAVFY_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 817,
+        "media_key": "3_2088892998767484928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP09HW1WIAAY-Cc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A podcast like \"Serial\"",
+              "id": "91",
+              "name": "Podcast"
+            },
+            "entity": {
+              "id": "1490751295698837510",
+              "name": "Podcasts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Podcasts",
+              "id": "1074758954444513282",
+              "name": "Podcasts & radio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490751295698837510",
+              "name": "Podcasts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1495096332071026688",
+              "name": "Business & finance podcasts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2089370449839092146",
+        "created_at": "2026-08-17T15:15:08.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089370449839092146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "44196397",
+              "start": 3,
+              "username": "elonmusk"
+            },
+            {
+              "end": 24,
+              "id": "1330170106501079041",
+              "start": 15,
+              "username": "Starlink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/dhh/status/208…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/dhh/status/2088893011350495715",
+              "start": 37,
+              "url": "https://t.co/IuNuPsgtGa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089370449839092146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088893011350495715",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赞美 @elonmusk 和 @Starlink \n这他妈纯粹的外星科技 https://t.co/IuNuPsgtGa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088892981197582336",
+            "3_2088892998767484928"
+          ]
+        },
+        "author_id": "14561327",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A podcast like \"Serial\"",
+              "id": "91",
+              "name": "Podcast"
+            },
+            "entity": {
+              "id": "1490751295698837510",
+              "name": "Podcasts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Podcasts",
+              "id": "1074758954444513282",
+              "name": "Podcasts & radio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490751295698837510",
+              "name": "Podcasts"
+            }
+          }
+        ],
+        "conversation_id": "2088893011350495715",
+        "created_at": "2026-08-16T07:37:58.000Z",
+        "display_text_range": [
+          0,
+          184
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088893011350495715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lcy3zm6s0W",
+              "end": 208,
+              "expanded_url": "https://x.com/dhh/status/2088893011350495715/photo/1",
+              "media_key": "3_2088892981197582336",
+              "start": 185,
+              "url": "https://t.co/Lcy3zm6s0W"
+            },
+            {
+              "display_url": "pic.x.com/Lcy3zm6s0W",
+              "end": 208,
+              "expanded_url": "https://x.com/dhh/status/2088893011350495715/photo/1",
+              "media_key": "3_2088892998767484928",
+              "start": 185,
+              "url": "https://t.co/Lcy3zm6s0W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088893011350495715",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088892981197582336"
+          },
+          {
+            "media_key": "3_2088892998767484928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 166,
+          "impression_count": 113105,
+          "like_count": 3415,
+          "quote_count": 15,
+          "reply_count": 104,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "I'm on an airplane to see Lex for the podcast tomorrow, I have 70mbit internet in the sky, and I can continue working with my agents to improve Omarchy. We are living the sci-fi dream! https://t.co/Lcy3zm6s0W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2089370449839092146",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 2044,
+          "like_count": 101961,
+          "listed_count": 4,
+          "media_count": 468,
+          "tweet_count": 9814
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1671940407633010689/9P5gi6LF_bigger.jpg",
+          "description": "37signals",
+          "url": "https://twitter.com/37signals",
+          "user_id": [
+            "11132462"
+          ]
+        },
+        "created_at": "2008-04-27T20:19:25.000Z",
+        "description": "Father of three, Creator of Ruby on Rails + Omarchy, Co-owner & CTO of 37signals, Shopify director, NYT best-selling author, and Le Mans 24h class-winner.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dhh.dk",
+                "end": 23,
+                "expanded_url": "https://dhh.dk",
+                "start": 0,
+                "url": "https://t.co/jtVPVMnkGr"
+              }
+            ]
+          }
+        },
+        "id": "14561327",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2089300177622331709",
+        "name": "DHH",
+        "pinned_tweet_id": "2088304854603047019",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14561327/1780909133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746980162607140864/fG9Fj4K__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813902,
+          "following_count": 220,
+          "like_count": 48881,
+          "listed_count": 11410,
+          "media_count": 3242,
+          "tweet_count": 71301
+        },
+        "url": "https://t.co/jtVPVMnkGr",
+        "username": "dhh",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_bigger.jpg",
+          "description": "X",
+          "url": "https://twitter.com/X",
+          "user_id": [
+            "783214"
+          ]
+        },
+        "created_at": "2009-06-02T20:12:29.000Z",
+        "description": "https://t.co/ZdBx5WABYx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Terafab.AI",
+                "end": 23,
+                "expanded_url": "http://Terafab.AI",
+                "start": 0,
+                "url": "https://t.co/ZdBx5WABYx"
+              }
+            ]
+          }
+        },
+        "id": "44196397",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089226389308498067",
+        "name": "Elon Musk",
+        "pinned_tweet_id": "2088100521261359218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1774145451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241382445,
+          "following_count": 1389,
+          "like_count": 243927,
+          "listed_count": 170333,
+          "media_count": 4705,
+          "tweet_count": 107133
+        },
+        "url": "",
+        "username": "elonmusk",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_bigger.jpg",
+          "description": "SpaceX",
+          "url": "https://twitter.com/SpaceX",
+          "user_id": [
+            "34743251"
+          ]
+        },
+        "created_at": "2020-11-21T15:25:07.000Z",
+        "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 72,
+                "username": "SpaceX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "starlink.com",
+                "end": 23,
+                "expanded_url": "http://starlink.com",
+                "start": 0,
+                "url": "https://t.co/VvFvTR85fC"
+              }
+            ]
+          }
+        },
+        "id": "1330170106501079041",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089207276578156899",
+        "name": "Starlink",
+        "pinned_tweet_id": "2020634516554166600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1330170106501079041/1769728613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720501511271383040/FXz_jiJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714249,
+          "following_count": 31,
+          "like_count": 363,
+          "listed_count": 2795,
+          "media_count": 271,
+          "tweet_count": 1068
+        },
+        "url": "https://t.co/VvFvTR85fC",
+        "username": "Starlink",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

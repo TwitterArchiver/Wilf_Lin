@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084267598519402497",
+        "3_2084267598565535744"
+      ],
+      "media_source_tweet_id": [
+        "2084267712747049341",
+        "2084267712747049341"
+      ]
+    },
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2084269112897773968",
+    "created_at": "2026-08-03T13:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T14:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084269112897773968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1271652280438308864",
+          "start": 3,
+          "username": "Jaciezyt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8H0U6yLHt5",
+          "end": 65,
+          "expanded_url": "https://x.com/Jaciezyt/status/2084267712747049341/photo/1",
+          "media_key": "3_2084267598519402497",
+          "start": 42,
+          "url": "https://t.co/8H0U6yLHt5"
+        },
+        {
+          "display_url": "pic.x.com/8H0U6yLHt5",
+          "end": 65,
+          "expanded_url": "https://x.com/Jaciezyt/status/2084267712747049341/photo/1",
+          "media_key": "3_2084267598565535744",
+          "start": 42,
+          "url": "https://t.co/8H0U6yLHt5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084269112897773968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084267712747049341",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jaciezyt: 把 Tipo 看成 Tibo 了…（Tipo 好吃😋） https://t.co/8H0U6yLHt5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2084267598519402497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzOVoKbAAE9hav.jpg",
+        "width": 3024
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2084267598565535744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzOVoVa8AAG3NL.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084267598519402497",
+            "3_2084267598565535744"
+          ]
+        },
+        "author_id": "1271652280438308864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084267712747049341",
+        "created_at": "2026-08-03T13:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084267712747049341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8H0U6yLHt5",
+              "end": 51,
+              "expanded_url": "https://x.com/Jaciezyt/status/2084267712747049341/photo/1",
+              "media_key": "3_2084267598519402497",
+              "start": 28,
+              "url": "https://t.co/8H0U6yLHt5"
+            },
+            {
+              "display_url": "pic.x.com/8H0U6yLHt5",
+              "end": 51,
+              "expanded_url": "https://x.com/Jaciezyt/status/2084267712747049341/photo/1",
+              "media_key": "3_2084267598565535744",
+              "start": 28,
+              "url": "https://t.co/8H0U6yLHt5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084267712747049341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "把 Tipo 看成 Tibo 了…（Tipo 好吃😋） https://t.co/8H0U6yLHt5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084267598519402497",
+            "3_2084267598565535744"
+          ],
+          "media_source_tweet_id": [
+            "2084267712747049341",
+            "2084267712747049341"
+          ]
+        },
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084269112897773968",
+        "created_at": "2026-08-03T13:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084269112897773968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1271652280438308864",
+              "start": 3,
+              "username": "Jaciezyt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8H0U6yLHt5",
+              "end": 65,
+              "expanded_url": "https://x.com/Jaciezyt/status/2084267712747049341/photo/1",
+              "media_key": "3_2084267598519402497",
+              "start": 42,
+              "url": "https://t.co/8H0U6yLHt5"
+            },
+            {
+              "display_url": "pic.x.com/8H0U6yLHt5",
+              "end": 65,
+              "expanded_url": "https://x.com/Jaciezyt/status/2084267712747049341/photo/1",
+              "media_key": "3_2084267598565535744",
+              "start": 42,
+              "url": "https://t.co/8H0U6yLHt5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084269112897773968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084267712747049341",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jaciezyt: 把 Tipo 看成 Tibo 了…（Tipo 好吃😋） https://t.co/8H0U6yLHt5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 1985,
+          "like_count": 95131,
+          "listed_count": 3,
+          "media_count": 434,
+          "tweet_count": 9436
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 JK刚刚退役😭 | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 退役蒟蒻 OIer | 📷 摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅 | 愿望是大家都能天天开心❤ | 分身(仅互fo) @__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 111,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "Jacie 🌸🏳️",
+        "pinned_tweet_id": "2015380403427913999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4411,
+          "following_count": 984,
+          "like_count": 66277,
+          "listed_count": 11,
+          "media_count": 1462,
+          "tweet_count": 16746
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2088696109699072424",
+    "created_at": "2026-08-17T15:38:18.000Z",
+    "display_text_range": [
+      10,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T16:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089376279103779164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1555661341914198016",
+          "start": 0,
+          "username": "sudoingX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089376279103779164",
+    "in_reply_to_user_id": "1555661341914198016",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088696109699072424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sudoingX I have a 180TPS on pro 6000"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 613,
+        "media_key": "3_2088694810190467072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPyI3Q2a0AAFJeR.jpg",
+        "width": 915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2088696109699072424",
+        "created_at": "2026-08-17T15:38:18.000Z",
+        "display_text_range": [
+          10,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089376279103779164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1555661341914198016",
+              "start": 0,
+              "username": "sudoingX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089376279103779164",
+        "in_reply_to_user_id": "1555661341914198016",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088696109699072424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sudoingX I have a 180TPS on pro 6000"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088694810190467072"
+          ]
+        },
+        "author_id": "1555661341914198016",
+        "conversation_id": "2088696109699072424",
+        "created_at": "2026-08-15T18:35:33.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T19:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088696109699072424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fDB4oaKB6f",
+              "end": 303,
+              "expanded_url": "https://x.com/sudoingX/status/2088696109699072424/photo/1",
+              "media_key": "3_2088694810190467072",
+              "start": 280,
+              "url": "https://t.co/fDB4oaKB6f"
+            },
+            {
+              "display_url": "x.com/sudoingX/statu…",
+              "end": 327,
+              "expanded_url": "https://twitter.com/sudoingX/status/2088570982684594346",
+              "start": 304,
+              "url": "https://t.co/J78qMtSr8H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088696109699072424",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088694810190467072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/sudoingX/qwen3…",
+                "end": 801,
+                "expanded_url": "http://github.com/sudoingX/qwen38-mtp",
+                "start": 778,
+                "url": "https://t.co/omwN7wRqUf"
+              }
+            ]
+          },
+          "text": "table for qwen 3.8 27b would not stop growing today. nine rows now, seven contributors beyond me, every gpu vendor and class represented, less than 24 hours since the repo went up.\n\nthe new entries are wild:\n\n> rtx 4090: 36.1 → 74.8, +107%\n> 3x 3090 tensor parallel: 49.1 → 81.1, the biggest number in the table\n> dual rx 9070 on vulkan: 22.1 → 41.6, +88%\n> ryzen ai max apu: 11.5 → 23.7, +106%, the humbler the hardware the bigger the gift\n\nand the community out researched me twice in one day: one contributor proved the n-max sweet spot is card dependent, another found --spec-draft-p-min, a confidence gate nobody was tuning that makes deep drafting nearly free. both merged, both named.\n\none flag, one open table, every verified row gets your name on it. yours is missing: https://t.co/omwN7wRqUf"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 75931,
+          "like_count": 193,
+          "quote_count": 4,
+          "reply_count": 25,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088570982684594346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "table for qwen 3.8 27b would not stop growing today. nine rows now, seven contributors beyond me, every gpu vendor and class represented, less than 24 hours since the repo went up.\n\nthe new entries are wild:\n\n&gt; rtx 4090: 36.1 → 74.8, +107%\n&gt; 3x 3090 tensor parallel: 49.1 → https://t.co/fDB4oaKB6f https://t.co/J78qMtSr8H"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2089376279103779164",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 2044,
+          "like_count": 102032,
+          "listed_count": 4,
+          "media_count": 468,
+          "tweet_count": 9818
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-05T21:05:57.000Z",
+        "description": "GPU/local LLM. more RAM and OSS... everywhere",
+        "id": "1555661341914198016",
+        "is_identity_verified": false,
+        "location": "Bangkok, Thailand",
+        "most_recent_tweet_id": "2089370920188350798",
+        "name": "Sudo su",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1555661341914198016/1780050322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059155391200833536/szNfExnk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34715,
+          "following_count": 1097,
+          "like_count": 9362,
+          "listed_count": 492,
+          "media_count": 1053,
+          "tweet_count": 11395
+        },
+        "url": "",
+        "username": "sudoingX",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2083430411695526100",
+    "created_at": "2026-08-01T18:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T19:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083620459783045329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2721275622",
+          "start": 0,
+          "username": "__oQuery"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083620459783045329",
+    "in_reply_to_user_id": "2721275622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083430411695526100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__oQuery 我的极限是15h刷了四个周限额重置，256个agent并行，电脑性能不太好所以费时"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2083430411695526100",
+        "created_at": "2026-08-01T18:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083620459783045329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2721275622",
+              "start": 0,
+              "username": "__oQuery"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083620459783045329",
+        "in_reply_to_user_id": "2721275622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083430411695526100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__oQuery 我的极限是15h刷了四个周限额重置，256个agent并行，电脑性能不太好所以费时"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2721275622",
+        "conversation_id": "2083430411695526100",
+        "created_at": "2026-08-01T05:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083430411695526100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083430411695526100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8625,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的极限是两天刷完一个 codex 20x 的号。\n\n我可以同时开启 6-7 个 agent 分别在两台电脑上帮我干活。\n\n同时指挥 3 个不同的项目。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 1980,
+          "like_count": 94390,
+          "listed_count": 3,
+          "media_count": 427,
+          "tweet_count": 9357
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-10T10:25:01.000Z",
+        "description": "Orchestrating ideas with Code & AI | All views are my own",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "innei.in",
+                "end": 23,
+                "expanded_url": "https://innei.in",
+                "start": 0,
+                "url": "https://t.co/HHCCtwk4dL"
+              }
+            ]
+          }
+        },
+        "id": "2721275622",
+        "location": " 天上",
+        "name": "拾一.max-fast",
+        "pinned_tweet_id": "2082425429693198622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078173856595148800/2EKDMJED_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10914,
+          "following_count": 1013,
+          "like_count": 12758,
+          "listed_count": 92,
+          "media_count": 1341,
+          "tweet_count": 10345
+        },
+        "url": "https://t.co/HHCCtwk4dL",
+        "username": "__oQuery",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2084168300448419874",
+    "created_at": "2026-08-03T06:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084168300448419874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "28969465",
+          "start": 3,
+          "username": "hxiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084168300448419874",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084128194295206360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hxiao: and Qwen3.8-27B is also going open-weights to meet you all!🎉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2084168300448419874",
+        "created_at": "2026-08-03T06:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084168300448419874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "28969465",
+              "start": 3,
+              "username": "hxiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084168300448419874",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084128194295206360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hxiao: and Qwen3.8-27B is also going open-weights to meet you all!🎉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "28969465",
+        "conversation_id": "2084128194295206360",
+        "created_at": "2026-08-03T04:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084128194295206360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alibaba_qwen/s…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/alibaba_qwen/status/2084100707423289643",
+              "start": 61,
+              "url": "https://t.co/467Ru3HAUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084128194295206360",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1487,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084100707423289643",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "and Qwen3.8-27B is also going open-weights to meet you all!🎉 https://t.co/467Ru3HAUW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 1985,
+          "like_count": 94882,
+          "listed_count": 3,
+          "media_count": 430,
+          "tweet_count": 9404
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-05T10:32:18.000Z",
+        "description": "VP, AI @Elastic prev: founder & ceo @JinaAI_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "Elastic"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "JinaAI_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hanxiao.io",
+                "end": 23,
+                "expanded_url": "https://hanxiao.io/",
+                "start": 0,
+                "url": "https://t.co/FSo0XAYVKH"
+              }
+            ]
+          }
+        },
+        "id": "28969465",
+        "location": "Mountain View, CA",
+        "name": "Han Xiao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072791567040122880/SfRvH9pE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19556,
+          "following_count": 273,
+          "like_count": 1608,
+          "listed_count": 286,
+          "media_count": 1072,
+          "tweet_count": 5934
+        },
+        "url": "https://t.co/FSo0XAYVKH",
+        "username": "hxiao",
+        "verified": true
+      }
+    ]
+  }
+}

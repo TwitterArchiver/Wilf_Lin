@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089870032771919873"
+      ],
+      "media_source_tweet_id": [
+        "2089870131291943228"
+      ]
+    },
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090090179906478474",
+    "created_at": "2026-08-19T14:55:05.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T15:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090090179906478474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "751545566778171392",
+          "start": 3,
+          "username": "cerebras"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ubd4uul4l4",
+          "end": 80,
+          "expanded_url": "https://x.com/cerebras/status/2089870131291943228/video/1",
+          "media_key": "13_2089870032771919873",
+          "start": 57,
+          "url": "https://t.co/Ubd4uul4l4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090090179906478474",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2089870032771919873"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 250
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089870131291943228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cerebras: The Fastest AI Just Got Faster. Meet CS-4. https://t.co/Ubd4uul4l4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 68033,
+        "height": 1080,
+        "media_key": "13_2089870032771919873",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089870032771919873/img/ZMSLGG71gNaaQcKk.jpg",
+        "public_metrics": {
+          "view_count": 129325
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089870032771919873/vid/avc1/640x360/d75kxnhcKtjdzwJB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089870032771919873/pl/sYxrKg0m9K-2_R4p.m3u8?v=7f3"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089870032771919873/vid/avc1/480x270/QNbM6OwajdO8oMXZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089870032771919873/vid/avc1/1280x720/LdzfyaK21GPpFdP1.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089870032771919873/vid/avc1/1920x1080/4TGEjMWI1qYLaf4T.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089870032771919873"
+          ],
+          "media_source_tweet_id": [
+            "2089870131291943228"
+          ]
+        },
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090090179906478474",
+        "created_at": "2026-08-19T14:55:05.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090090179906478474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "751545566778171392",
+              "start": 3,
+              "username": "cerebras"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ubd4uul4l4",
+              "end": 80,
+              "expanded_url": "https://x.com/cerebras/status/2089870131291943228/video/1",
+              "media_key": "13_2089870032771919873",
+              "start": 57,
+              "url": "https://t.co/Ubd4uul4l4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090090179906478474",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2089870032771919873"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 250
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089870131291943228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cerebras: The Fastest AI Just Got Faster. Meet CS-4. https://t.co/Ubd4uul4l4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089870032771919873"
+          ]
+        },
+        "author_id": "751545566778171392",
+        "conversation_id": "2089870131291943228",
+        "created_at": "2026-08-19T00:20:41.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T01:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089870131291943228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ubd4uul4l4",
+              "end": 66,
+              "expanded_url": "https://x.com/cerebras/status/2089870131291943228/video/1",
+              "media_key": "13_2089870032771919873",
+              "start": 43,
+              "url": "https://t.co/Ubd4uul4l4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089870131291943228",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2089870032771919873"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 571,
+          "impression_count": 432911,
+          "like_count": 2967,
+          "quote_count": 153,
+          "reply_count": 113,
+          "retweet_count": 250
+        },
+        "reply_settings": "everyone",
+        "text": "The Fastest AI Just Got Faster. Meet CS-4. https://t.co/Ubd4uul4l4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2090090179906478474",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 2036,
+          "like_count": 102710,
+          "listed_count": 4,
+          "media_count": 473,
+          "tweet_count": 9888
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-08T22:36:41.000Z",
+        "description": "The world's fastest AI inference and training.\nTry the latest open models at: https://t.co/jREGhLI2nj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "inference.cerebras.ai",
+                "end": 101,
+                "expanded_url": "https://inference.cerebras.ai/",
+                "start": 78,
+                "url": "https://t.co/jREGhLI2nj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cerebras.ai",
+                "end": 23,
+                "expanded_url": "https://www.cerebras.ai/",
+                "start": 0,
+                "url": "https://t.co/SUREW9ZthN"
+              }
+            ]
+          }
+        },
+        "id": "751545566778171392",
+        "is_identity_verified": false,
+        "location": "Sunnyvale, CA",
+        "most_recent_tweet_id": "2089870394388017523",
+        "name": "Cerebras",
+        "pinned_tweet_id": "2087948820906950719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/751545566778171392/1747945971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894806880804913152/zLdh072p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70659,
+          "following_count": 266,
+          "like_count": 1821,
+          "listed_count": 863,
+          "media_count": 1174,
+          "tweet_count": 2809
+        },
+        "url": "https://t.co/SUREW9ZthN",
+        "username": "cerebras",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

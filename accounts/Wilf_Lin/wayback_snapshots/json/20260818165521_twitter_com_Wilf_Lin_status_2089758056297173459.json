@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2089733586857648406",
+    "created_at": "2026-08-18T16:55:21.000Z",
+    "display_text_range": [
+      7,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T17:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089758056297173459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1182320945756700672",
+          "start": 0,
+          "username": "hkdom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089758056297173459",
+    "in_reply_to_user_id": "1182320945756700672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089733586857648406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hkdom 直接codex启动让他调grok去搜索社区的世界纪录，然后照着那个装"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5166,
+        "height": 768,
+        "media_key": "13_2089730837642461184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089730837642461184/img/Tn0KrJ36ju8hKGKb.jpg",
+        "public_metrics": {
+          "view_count": 578
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089730837642461184/pl/bOOaOmakRTfPsZXs.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089730837642461184/vid/avc1/960x720/pxc6-1TVCp4teQZb.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089730837642461184/vid/avc1/1024x768/tZSSbL48eFnVoXPS.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089730837642461184/vid/avc1/360x270/09zHOERGrky5ljuJ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089730837642461184/vid/avc1/480x360/tJn0uPkXg3oxbLpF.mp4"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2089733586857648406",
+        "created_at": "2026-08-18T16:55:21.000Z",
+        "display_text_range": [
+          7,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089758056297173459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1182320945756700672",
+              "start": 0,
+              "username": "hkdom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089758056297173459",
+        "in_reply_to_user_id": "1182320945756700672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089733586857648406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hkdom 直接codex启动让他调grok去搜索社区的世界纪录，然后照着那个装"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089730837642461184"
+          ]
+        },
+        "author_id": "1182320945756700672",
+        "conversation_id": "2089733586857648406",
+        "created_at": "2026-08-18T15:18:07.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089733586857648406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QxGSvrF5CH",
+              "end": 175,
+              "expanded_url": "https://x.com/hkdom/status/2089733586857648406/video/1",
+              "media_key": "13_2089730837642461184",
+              "start": 152,
+              "url": "https://t.co/QxGSvrF5CH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089733586857648406",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089730837642461184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 325,
+                "id": "5813712",
+                "start": 317,
+                "username": "antirez"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/MiaAI-Lab/Deep…",
+                "end": 289,
+                "expanded_url": "https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark",
+                "start": 266,
+                "url": "https://t.co/BlFfvIs2RG"
+              },
+              {
+                "display_url": "github.com/antirez/ds4",
+                "end": 424,
+                "expanded_url": "https://github.com/antirez/ds4",
+                "start": 401,
+                "url": "https://t.co/heqLpXRHwi"
+              }
+            ]
+          },
+          "text": "正式在 DGX Spark 安裝 vllm！\n\n昨晚只能支持到完成安裝基本系統後便支持不了，今晚完成家務後再 research 了一陣子，便正式開始安裝 LLM。\n\n最後決定是使用社群為 GB10 客製化的 vllm 版本去跑 DeepSeek V4 Flash，因為 0731 還很新，上遊 vllm 還沒有正式支持它，社群有不少人化了很多時間及心血去微調及 Debug 這版本的 vllm。\n\n如果你是入手 2 x DGX Spark 又想跑 DeepSeek V4 Flash 0731 的話，這個方案應該暫時是不二之選：\n\nhttps://t.co/BlFfvIs2RG\n\n如果你是打算買一台 DGX Spark，建議你選用 @antirez Redis 大神的 ds4 server 去跑 V4 Flash 0731 2bit 版本，我一直都在 Mac 機上用這個版本，其實也相當之不錯的\n\nhttps://t.co/heqLpXRHwi\n\n在使用 Pi + GLM 5.3 安裝中間的空閒時間，用 PC 的 RTX 5060ti 16G 跑 Hermes Agent + ComfyUI + Minimax M3 生成了這好玩的短片，MSI DGX Spark 等不及要自己回家裝 LLM 了！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1353,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正式在 DGX Spark 安裝 vllm！\n\n昨晚只能支持到完成安裝基本系統後便支持不了，今晚完成家務後再 research 了一陣子，便正式開始安裝 LLM。\n\n最後決定是使用社群為 GB10 客製化的 vllm 版本去跑 DeepSeek V4 Flash，因為 0731 還很新，上遊 vllm https://t.co/QxGSvrF5CH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2089758056297173459",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 2044,
+          "like_count": 102377,
+          "listed_count": 4,
+          "media_count": 469,
+          "tweet_count": 9850
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-10-10T15:44:41.000Z",
+        "description": "全力支持開源軟件及背後的開發者 | AI enthusiasts, model player, harness slave",
+        "id": "1182320945756700672",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2089752271269830672",
+        "name": "hkdom",
+        "pinned_tweet_id": "2048999925380423895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1182320945756700672/1762789477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960593906061729796/xc1r9c74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 4790,
+          "like_count": 16294,
+          "listed_count": 13,
+          "media_count": 366,
+          "tweet_count": 4527
+        },
+        "url": "",
+        "username": "hkdom",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
