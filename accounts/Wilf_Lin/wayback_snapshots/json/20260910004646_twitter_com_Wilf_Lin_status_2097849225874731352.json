@@ -1,0 +1,511 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2097802868883652757",
+    "created_at": "2026-09-10T00:46:46.000Z",
+    "display_text_range": [
+      15,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T01:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097849225874731352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1256377778192084992",
+          "start": 0,
+          "username": "LuvLetter_moe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097849225874731352",
+    "in_reply_to_user_id": "1256377778192084992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097802868883652757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuvLetter_moe 不是40%的持续性能，是性能持续能力比17pro好40%"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1156,
+        "media_key": "3_2097802770623725569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRzkgVfbgAEDnwK.jpg",
+        "width": 1480
+      },
+      {
+        "height": 852,
+        "media_key": "3_2097802770632065024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRzkgVhawAA6huO.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1126,
+        "media_key": "3_2097802770627883008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRzkgVga8AABRw7.jpg",
+        "width": 1770
+      },
+      {
+        "height": 944,
+        "media_key": "3_2097802770632097792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRzkgVhbQAA2Zqy.jpg",
+        "width": 1392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2097802868883652757",
+        "created_at": "2026-09-10T00:46:46.000Z",
+        "display_text_range": [
+          15,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T01:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097849225874731352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1256377778192084992",
+              "start": 0,
+              "username": "LuvLetter_moe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097849225874731352",
+        "in_reply_to_user_id": "1256377778192084992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097802868883652757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuvLetter_moe 不是40%的持续性能，是性能持续能力比17pro好40%"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097802770623725569",
+            "3_2097802770632065024",
+            "3_2097802770627883008",
+            "3_2097802770632097792"
+          ]
+        },
+        "author_id": "1256377778192084992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2097802868883652757",
+        "created_at": "2026-09-09T21:42:33.000Z",
+        "display_text_range": [
+          0,
+          167
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T22:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097802868883652757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ID9S1HzTb5",
+              "end": 191,
+              "expanded_url": "https://x.com/LuvLetter_moe/status/2097802868883652757/photo/1",
+              "media_key": "3_2097802770623725569",
+              "start": 168,
+              "url": "https://t.co/ID9S1HzTb5"
+            },
+            {
+              "display_url": "pic.x.com/ID9S1HzTb5",
+              "end": 191,
+              "expanded_url": "https://x.com/LuvLetter_moe/status/2097802868883652757/photo/1",
+              "media_key": "3_2097802770632065024",
+              "start": 168,
+              "url": "https://t.co/ID9S1HzTb5"
+            },
+            {
+              "display_url": "pic.x.com/ID9S1HzTb5",
+              "end": 191,
+              "expanded_url": "https://x.com/LuvLetter_moe/status/2097802868883652757/photo/1",
+              "media_key": "3_2097802770627883008",
+              "start": 168,
+              "url": "https://t.co/ID9S1HzTb5"
+            },
+            {
+              "display_url": "pic.x.com/ID9S1HzTb5",
+              "end": 191,
+              "expanded_url": "https://x.com/LuvLetter_moe/status/2097802868883652757/photo/1",
+              "media_key": "3_2097802770632097792",
+              "start": 168,
+              "url": "https://t.co/ID9S1HzTb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097802868883652757",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097802770623725569"
+          },
+          {
+            "media_key": "3_2097802770632065024"
+          },
+          {
+            "media_key": "3_2097802770627883008"
+          },
+          {
+            "media_key": "3_2097802770632097792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "iPhone Duo暴露了国产折叠屏的半成品本质\nPassport-size 折叠, 或者按照国内说的阔折叠, 之前长期存在的担忧就是垂直空间不足.\niOS 26 那会做透明 UI 的时候, 从可变 Dock 栏+半透明, 让 iPhone SE 的可用屏幕空间大幅度提升这点, 加上全屏滑动返回的推广, 就可见苹果在下决心从 HIG 范式层面解决这个问题.\n从结果来说, 苹果确实是下了很大的决心, 把状态栏和Dock底栏完全移动到了右边, 重做了状态图标和灵动岛. 就连顶栏都移动到了右边, 把垂直空间完全释放了出来.\n以及这样还有个重要的作用, 就是强制未适配应用不要用掉整个屏幕宽度, 导致列表元素出现恐怖的拉伸.\n更聪明的是, 这样对右手惯用手的用户来说, 点击返回/切换 Dock/点击搜索等操作都可以在右手单手完成. 当然这也是因为 TouchID 在右侧. 因此对原生框架的应用来说, 调整顶栏底栏自适应到右侧算是第一优先的事项.\n而外屏左手持握的话, 还是能用全屏/侧边返回, 以及借助 Apple Watch 解锁来兜底.\n内屏方面的话, 展开动画也非常惊艳, 而且视觉上保持了相当的连贯.\n更聪明的是, 展开状态下左边分屏的 App, 交互按钮也在左边, 方便左手直接按到.\n可以说这套设计上的创新, 足以让另外两家抢时间发阔折叠行为显得非常小丑.\n另外芯片上, N2 工艺带来了 40% 级别的持续性能, 特别是GPU性能, 加上VC 均热板, 这对厚度受限的折叠屏设计来说是非常重要的. 可以说目前市面上的阔折叠都无法与之抗衡."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 36782,
+          "like_count": 212,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "iPhone Duo暴露了国产折叠屏的半成品本质\nPassport-size 折叠, 或者按照国内说的阔折叠, 之前长期存在的担忧就是垂直空间不足.\niOS 26 那会做透明 UI 的时候, 从可变 Dock 栏+半透明, 让 iPhone SE 的可用屏幕空间大幅度提升这点, 加上全屏滑动返回的推广, 就可见苹果在下决心从 HIG https://t.co/ID9S1HzTb5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2097849225874731352",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 2147,
+          "like_count": 115678,
+          "listed_count": 4,
+          "media_count": 547,
+          "tweet_count": 10813
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-02T00:21:09.000Z",
+        "description": "Life can be much broader.   TG: https://t.co/IZs416pyTF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/rainbow8loop",
+                "end": 55,
+                "expanded_url": "http://t.me/rainbow8loop",
+                "start": 32,
+                "url": "https://t.co/IZs416pyTF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@LuvLetterShelf",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@LuvLetterShelf",
+                "start": 0,
+                "url": "https://t.co/i8aMhUz9FO"
+              }
+            ]
+          }
+        },
+        "id": "1256377778192084992",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2097812185481351344",
+        "name": "Luv Letter",
+        "pinned_tweet_id": "2007839857415225574",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1256377778192084992/1768288213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1256379106431651841/phJ9TAHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11146,
+          "following_count": 1286,
+          "like_count": 28427,
+          "listed_count": 73,
+          "media_count": 3897,
+          "tweet_count": 12077
+        },
+        "url": "https://t.co/i8aMhUz9FO",
+        "username": "LuvLetter_moe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

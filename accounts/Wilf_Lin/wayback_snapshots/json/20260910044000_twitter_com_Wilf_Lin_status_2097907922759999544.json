@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2097758256420565442",
+    "created_at": "2026-09-10T04:40:00.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T05:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097907922759999544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "12008842",
+          "start": 0,
+          "username": "jpschroeder"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097907922759999544",
+    "in_reply_to_user_id": "12008842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097758256420565442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jpschroeder 哦牛批还能这样优化的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2097758249550573568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRy8A3kbcAAgSK9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2097758256420565442",
+        "created_at": "2026-09-10T04:40:00.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097907922759999544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "12008842",
+              "start": 0,
+              "username": "jpschroeder"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097907922759999544",
+        "in_reply_to_user_id": "12008842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097758256420565442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jpschroeder 哦牛批还能这样优化的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097758249550573568"
+          ]
+        },
+        "author_id": "12008842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Macbook",
+              "id": "972168210182111232",
+              "name": "Apple Macbook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337567798169600",
+              "name": "Products - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873034",
+              "name": "AMD"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042890463",
+              "name": "Radeon"
+            }
+          }
+        ],
+        "conversation_id": "2097758256420565442",
+        "created_at": "2026-09-09T18:45:17.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T19:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097758256420565442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pw5Yu0JVJ7",
+              "end": 155,
+              "expanded_url": "https://x.com/jpschroeder/status/2097758256420565442/photo/1",
+              "media_key": "3_2097758249550573568",
+              "start": 132,
+              "url": "https://t.co/pw5Yu0JVJ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097758256420565442",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097758249550573568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 889,
+          "impression_count": 179373,
+          "like_count": 5741,
+          "quote_count": 106,
+          "reply_count": 190,
+          "retweet_count": 300
+        },
+        "reply_settings": "everyone",
+        "text": "Can’t make this up…the MacBook is using its webcam to look at its screen in a mirror to improve AMD Radeon chip support in Omarchy. https://t.co/pw5Yu0JVJ7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2097907922759999544",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 2147,
+          "like_count": 115815,
+          "listed_count": 4,
+          "media_count": 551,
+          "tweet_count": 10838
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-01-09T02:01:55.000Z",
+        "description": "Co-founder of Standard Agents (🤫). Compulsive open source builder. Creator of dmux, ArrowJS, FormKit, AutoAnimate, Tempo, zodown...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dmux.ai",
+                "end": 23,
+                "expanded_url": "https://dmux.ai",
+                "start": 0,
+                "url": "https://t.co/jfwqPVR5gM"
+              }
+            ]
+          }
+        },
+        "id": "12008842",
+        "is_identity_verified": true,
+        "location": "'merica",
+        "most_recent_tweet_id": "2097886490160230480",
+        "name": "Justin Schroeder",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/12008842/1710336644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1532735511953035270/1AwnrbP7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11531,
+          "following_count": 747,
+          "like_count": 4399,
+          "listed_count": 147,
+          "media_count": 575,
+          "tweet_count": 6229
+        },
+        "url": "https://t.co/jfwqPVR5gM",
+        "username": "jpschroeder",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

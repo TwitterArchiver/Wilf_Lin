@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2094084564566045155",
+    "created_at": "2026-08-30T17:25:29.000Z",
+    "display_text_range": [
+      9,
+      246
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T18:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094114296993030200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1640521359640993798",
+          "start": 0,
+          "username": "nicdunz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094114296993030200",
+    "in_reply_to_user_id": "1640521359640993798",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094084564566045155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nicdunz I have a guess, since codex is now more efficiency, less total requests is needed to complete same work, so the server is now serving less parallel requests, and it’s faster for each request, and per person, the limit been reached faster"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2094084120519340033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-uaaVXcAE8pE2.png",
+        "width": 1098
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2094084564566045155",
+        "created_at": "2026-08-30T17:25:29.000Z",
+        "display_text_range": [
+          9,
+          246
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T18:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094114296993030200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1640521359640993798",
+              "start": 0,
+              "username": "nicdunz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094114296993030200",
+        "in_reply_to_user_id": "1640521359640993798",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094084564566045155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nicdunz I have a guess, since codex is now more efficiency, less total requests is needed to complete same work, so the server is now serving less parallel requests, and it’s faster for each request, and per person, the limit been reached faster"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094084120519340033"
+          ]
+        },
+        "author_id": "1640521359640993798",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2094084564566045155",
+        "created_at": "2026-08-30T15:27:21.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094084564566045155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1lORPQurAD",
+              "end": 304,
+              "expanded_url": "https://x.com/nicdunz/status/2094084564566045155/photo/1",
+              "media_key": "3_2094084120519340033",
+              "start": 281,
+              "url": "https://t.co/1lORPQurAD"
+            },
+            {
+              "display_url": "x.com/thsottiaux/sta…",
+              "end": 328,
+              "expanded_url": "https://twitter.com/thsottiaux/status/2093801758665715784",
+              "start": 305,
+              "url": "https://t.co/uSiHsPMFS2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094084564566045155",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2094084120519340033"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "im really confused. yesterday tibo posted that they make codex limits even better after fixing a bunch of things, but as soon as i updated my codex app and gave it a task it used up my 5 hour limit faster than it ever had before.\n\nid love some clarifiction here or to know if this is a known new issue because i am seeing the exact opposite outcome than what he just said is the case. it seems a lot of others are experiencing the same.\n\ni would like to know why it was said all these limit draining issues were fixed but the limit is now draining faster than it ever was before. please clarify this."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 16558,
+          "like_count": 160,
+          "quote_count": 1,
+          "reply_count": 63,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093801758665715784",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "im really confused. yesterday tibo posted that they make codex limits even better after fixing a bunch of things, but as soon as i updated my codex app and gave it a task it used up my 5 hour limit faster than it ever had before.\n\nid love some clarifiction here or to know if this https://t.co/1lORPQurAD https://t.co/uSiHsPMFS2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2094114296993030200",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 2088,
+          "like_count": 107836,
+          "listed_count": 4,
+          "media_count": 510,
+          "tweet_count": 10299
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-28T01:09:19.000Z",
+        "description": "AI, models & creative tech · @krea_ai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 29,
+                "username": "krea_ai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dicnunz.github.io",
+                "end": 23,
+                "expanded_url": "https://dicnunz.github.io/",
+                "start": 0,
+                "url": "https://t.co/mAgev3EU80"
+              }
+            ]
+          }
+        },
+        "id": "1640521359640993798",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2094113241177669705",
+        "name": "Nicholas Dunzelman",
+        "pinned_tweet_id": "2089485218776318289",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1640521359640993798/1787072094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089150285880971264/5YDVkcde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13668,
+          "following_count": 565,
+          "like_count": 140121,
+          "listed_count": 170,
+          "media_count": 11577,
+          "tweet_count": 70776
+        },
+        "url": "https://t.co/mAgev3EU80",
+        "username": "nicdunz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

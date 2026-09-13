@@ -1,0 +1,489 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1471629300579241986",
+          "name": "Blender"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1471629300579241986",
+          "name": "Blender"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1492285276420333568",
+          "name": "3D modeling"
+        }
+      }
+    ],
+    "conversation_id": "2096773229830680679",
+    "created_at": "2026-09-07T04:32:36.000Z",
+    "display_text_range": [
+      9,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T05:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096818894363074736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1471482271441960961",
+          "start": 0,
+          "username": "birdabo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096818894363074736",
+    "in_reply_to_user_id": "1471482271441960961",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096773229830680679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@birdabo There’s no reason to train a model for blender use"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1471629300579241986",
+              "name": "Blender"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1471629300579241986",
+              "name": "Blender"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492285276420333568",
+              "name": "3D modeling"
+            }
+          }
+        ],
+        "conversation_id": "2096773229830680679",
+        "created_at": "2026-09-07T04:32:36.000Z",
+        "display_text_range": [
+          9,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096818894363074736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1471482271441960961",
+              "start": 0,
+              "username": "birdabo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096818894363074736",
+        "in_reply_to_user_id": "1471482271441960961",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096773229830680679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@birdabo There’s no reason to train a model for blender use"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471482271441960961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "All the latest action from Major League Baseball.",
+              "id": "10001466882",
+              "name": "MLB Baseball"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2017751655052115970",
+              "name": "Nationals at Dodgers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "769193663230468096",
+              "name": "Baseball"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "769193602169704448",
+              "name": "MLB"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2017751655052115970",
+              "name": "Nationals at Dodgers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Baseball games",
+              "id": "44",
+              "name": "Baseball Game"
+            },
+            "entity": {
+              "id": "2017751655052115970",
+              "name": "Nationals at Dodgers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "769193602169704448",
+              "name": "MLB"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "769193663230468096",
+              "name": "Baseball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265709836521451520",
+              "name": "NHL players"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265721336841646081",
+              "name": "MLB players"
+            }
+          }
+        ],
+        "conversation_id": "2096773229830680679",
+        "created_at": "2026-09-07T01:31:08.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T02:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096773229830680679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reach_vb/statu…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/reach_vb/status/2096612996256579653",
+              "start": 76,
+              "url": "https://t.co/4Ps9mLg3Oj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096773229830680679",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 31466,
+          "like_count": 737,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096612996256579653",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "this is will smith all over again.\n\nsee you guys in 6 months this time lol. https://t.co/4Ps9mLg3Oj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2096818894363074736",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 2132,
+          "like_count": 113750,
+          "listed_count": 4,
+          "media_count": 535,
+          "tweet_count": 10622
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-16T14:08:15.000Z",
+        "description": "chief shitposting officer @SpaceXAI \nbuilding @cribble_ai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "SpaceXAI"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "cribble_ai"
+              }
+            ]
+          }
+        },
+        "id": "1471482271441960961",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096773229830680679",
+        "name": "sui",
+        "pinned_tweet_id": "2029840406670889430",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471482271441960961/1772170397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060589895706652672/xA9gyIr__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33433,
+          "following_count": 647,
+          "like_count": 107785,
+          "listed_count": 259,
+          "media_count": 2420,
+          "tweet_count": 11133
+        },
+        "url": "",
+        "username": "birdabo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,515 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2092286916418801742",
+    "created_at": "2026-08-25T16:24:08.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T17:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092286916418801742"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dhh/status/209…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/dhh/status/2092199425045086374",
+          "start": 36,
+          "url": "https://t.co/7FPYrPEcZr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092286916418801742",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092199425045086374",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "迟早有一天我也要一年拿几百万出来捐给开源项目\n比tmd给红十字会好多了 https://t.co/7FPYrPEcZr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 774,
+        "media_key": "3_2092198864459620352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQj7yEOXYAAHWZ_.png",
+        "width": 1908
+      },
+      {
+        "height": 992,
+        "media_key": "3_2092199133788397568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQj8BvjWYAAodmV.png",
+        "width": 2020
+      },
+      {
+        "height": 1008,
+        "media_key": "3_2092199222741180416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQj8G67WIAAr8Mi.png",
+        "width": 2030
+      },
+      {
+        "height": 1034,
+        "media_key": "3_2092199332023824384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQj8NSCW8AAyMfa.png",
+        "width": 2126
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2092286916418801742",
+        "created_at": "2026-08-25T16:24:08.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T17:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092286916418801742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dhh/status/209…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/dhh/status/2092199425045086374",
+              "start": 36,
+              "url": "https://t.co/7FPYrPEcZr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092286916418801742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092199425045086374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "迟早有一天我也要一年拿几百万出来捐给开源项目\n比tmd给红十字会好多了 https://t.co/7FPYrPEcZr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092198864459620352",
+            "3_2092199133788397568",
+            "3_2092199222741180416",
+            "3_2092199332023824384"
+          ]
+        },
+        "author_id": "14561327",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2092199425045086374",
+        "created_at": "2026-08-25T10:36:28.000Z",
+        "display_text_range": [
+          0,
+          213
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092199425045086374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Elite capital. Public code.",
+              "display_url": "oligarchy.fyi",
+              "end": 213,
+              "expanded_url": "https://oligarchy.fyi/",
+              "start": 190,
+              "status": 200,
+              "title": "Oligarchy — elite capital, public code",
+              "unwound_url": "https://oligarchy.fyi/",
+              "url": "https://t.co/SI6Nii1g4V"
+            },
+            {
+              "display_url": "pic.x.com/OorObTQyIG",
+              "end": 237,
+              "expanded_url": "https://x.com/dhh/status/2092199425045086374/photo/1",
+              "media_key": "3_2092198864459620352",
+              "start": 214,
+              "url": "https://t.co/OorObTQyIG"
+            },
+            {
+              "display_url": "pic.x.com/OorObTQyIG",
+              "end": 237,
+              "expanded_url": "https://x.com/dhh/status/2092199425045086374/photo/1",
+              "media_key": "3_2092199133788397568",
+              "start": 214,
+              "url": "https://t.co/OorObTQyIG"
+            },
+            {
+              "display_url": "pic.x.com/OorObTQyIG",
+              "end": 237,
+              "expanded_url": "https://x.com/dhh/status/2092199425045086374/photo/1",
+              "media_key": "3_2092199222741180416",
+              "start": 214,
+              "url": "https://t.co/OorObTQyIG"
+            },
+            {
+              "display_url": "pic.x.com/OorObTQyIG",
+              "end": 237,
+              "expanded_url": "https://x.com/dhh/status/2092199425045086374/photo/1",
+              "media_key": "3_2092199332023824384",
+              "start": 214,
+              "url": "https://t.co/OorObTQyIG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092199425045086374",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2092198864459620352"
+          },
+          {
+            "media_key": "3_2092199133788397568"
+          },
+          {
+            "media_key": "3_2092199222741180416"
+          },
+          {
+            "media_key": "3_2092199332023824384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 269,
+          "impression_count": 141795,
+          "like_count": 5075,
+          "quote_count": 51,
+          "reply_count": 194,
+          "retweet_count": 242
+        },
+        "reply_settings": "everyone",
+        "text": "Them: Billionaires should do more for society!!\n\nBillionaires: Okay, here's $10m for a Linux nonprofit to make the prophecy of desktop liberation come true!\n\nThem: NO, NOT LIKE THAT!!! 😡😡😡\n\nhttps://t.co/SI6Nii1g4V https://t.co/OorObTQyIG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2092286916418801742",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 2058,
+          "like_count": 105692,
+          "listed_count": 4,
+          "media_count": 493,
+          "tweet_count": 10145
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1671940407633010689/9P5gi6LF_bigger.jpg",
+          "description": "37signals",
+          "url": "https://twitter.com/37signals",
+          "user_id": [
+            "11132462"
+          ]
+        },
+        "created_at": "2008-04-27T20:19:25.000Z",
+        "description": "Father of three, Creator of Ruby on Rails + Omarchy, Co-owner & CTO of 37signals, Shopify director, NYT best-selling author, and Le Mans 24h class-winner.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dhh.dk",
+                "end": 23,
+                "expanded_url": "https://dhh.dk",
+                "start": 0,
+                "url": "https://t.co/jtVPVMnkGr"
+              }
+            ]
+          }
+        },
+        "id": "14561327",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2092277131795484975",
+        "name": "DHH",
+        "pinned_tweet_id": "2088304854603047019",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14561327/1780909133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746980162607140864/fG9Fj4K__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839934,
+          "following_count": 282,
+          "like_count": 51249,
+          "listed_count": 11494,
+          "media_count": 3328,
+          "tweet_count": 72063
+        },
+        "url": "https://t.co/jtVPVMnkGr",
+        "username": "dhh",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

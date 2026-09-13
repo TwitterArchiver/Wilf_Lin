@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      }
+    ],
+    "conversation_id": "2097149926052598091",
+    "created_at": "2026-09-08T15:58:59.000Z",
+    "display_text_range": [
+      11,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T16:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097354016820748562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2795754924",
+          "start": 0,
+          "username": "xueyu1125"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097354016820748562",
+    "in_reply_to_user_id": "2795754924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097149926052598091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xueyu1125 emmm，你知道nvidia jetson系列运用最多的地方就是智能驾驶汽车吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 689,
+        "media_key": "3_2097134724326264832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqE67GakAAcNes.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2097149926052598091",
+        "created_at": "2026-09-08T15:58:59.000Z",
+        "display_text_range": [
+          11,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097354016820748562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2795754924",
+              "start": 0,
+              "username": "xueyu1125"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097354016820748562",
+        "in_reply_to_user_id": "2795754924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097149926052598091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xueyu1125 emmm，你知道nvidia jetson系列运用最多的地方就是智能驾驶汽车吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097134724326264832"
+          ]
+        },
+        "author_id": "2795754924",
+        "conversation_id": "2097149926052598091",
+        "created_at": "2026-09-08T02:28:00.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T03:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097149926052598091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XIaHbHSYfq",
+              "end": 152,
+              "expanded_url": "https://x.com/xueyu1125/status/2097149926052598091/photo/1",
+              "media_key": "3_2097134724326264832",
+              "start": 129,
+              "url": "https://t.co/XIaHbHSYfq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097149926052598091",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097134724326264832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2753,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小米昨晚发布的 3nm 自研智驾芯片 玄戒 D100（Xring D100）\n\n亮眼的是：3nm制程、最高支持 160GB 统一内存，支持本地部署运行 200B大模型\n\n所以，一个智驾芯片要部署什么本地模型，支持什么本地模型？\n\n不会只有小米mimo吧 🤔 https://t.co/XIaHbHSYfq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2097354016820748562",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 2143,
+          "like_count": 114996,
+          "listed_count": 4,
+          "media_count": 543,
+          "tweet_count": 10717
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-09-07T11:36:36.000Z",
+        "description": "🤖 AI Builder | 程序员 | AI 工具实践\n🎮 游戏服务器开发 | Steam游戏收集控\n🚀 专注美股 | 纳斯达克信仰者\n🥳 热爱生活 | 偶尔写段子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dinosaurliu.com",
+                "end": 23,
+                "expanded_url": "https://www.dinosaurliu.com",
+                "start": 0,
+                "url": "https://t.co/dS6CT9EoLg"
+              }
+            ]
+          }
+        },
+        "id": "2795754924",
+        "is_identity_verified": true,
+        "location": "深圳",
+        "most_recent_tweet_id": "2097348802592264579",
+        "name": "雪瑜",
+        "pinned_tweet_id": "2094711023261630514",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2795754924/1434713154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062953182725369856/fUW2qZNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4520,
+          "following_count": 2927,
+          "like_count": 2644,
+          "listed_count": 12,
+          "media_count": 450,
+          "tweet_count": 10901
+        },
+        "url": "https://t.co/dS6CT9EoLg",
+        "username": "xueyu1125",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

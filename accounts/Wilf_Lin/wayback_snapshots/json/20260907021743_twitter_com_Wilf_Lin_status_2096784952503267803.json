@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2096632595425759545",
+    "created_at": "2026-09-07T02:17:43.000Z",
+    "display_text_range": [
+      9,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T03:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096784952503267803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1504247643047809028",
+          "start": 0,
+          "username": "0xTykoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096784952503267803",
+    "in_reply_to_user_id": "1504247643047809028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096632595425759545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xTykoo 其他几家没有自己制造汽车的能力，他就算知道最优解是什么也做不出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2096632595425759545",
+        "created_at": "2026-09-07T02:17:43.000Z",
+        "display_text_range": [
+          9,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T03:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096784952503267803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1504247643047809028",
+              "start": 0,
+              "username": "0xTykoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096784952503267803",
+        "in_reply_to_user_id": "1504247643047809028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096632595425759545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xTykoo 其他几家没有自己制造汽车的能力，他就算知道最优解是什么也做不出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504247643047809028",
+        "conversation_id": "2096632595425759545",
+        "created_at": "2026-09-06T16:12:18.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096632595425759545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096632595425759545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 14123,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从马斯克的 Cybercab 只放了两座，而其他家的 Robotaxi 还在做两排四座这件事（当然我也知道其他家不造车），\n\n就能看出马斯克有多擅长从需求倒推产品。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2096784952503267803",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 2127,
+          "like_count": 113627,
+          "listed_count": 4,
+          "media_count": 535,
+          "tweet_count": 10604
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2008452174083485698/WaDlss-k_bigger.jpg",
+          "description": "KITE AI",
+          "url": "https://twitter.com/GoKiteAI",
+          "user_id": [
+            "1841881477371592704"
+          ]
+        },
+        "created_at": "2022-03-17T00:06:12.000Z",
+        "description": "gaorong ventures, taste is my own.",
+        "id": "1504247643047809028",
+        "is_identity_verified": false,
+        "location": "Hongkong",
+        "most_recent_tweet_id": "2096632595425759545",
+        "name": "Tykoo",
+        "pinned_tweet_id": "2096172040692900218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504247643047809028/1670285228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018755253664112640/fL5iNNmK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7737,
+          "following_count": 9905,
+          "like_count": 43791,
+          "listed_count": 91,
+          "media_count": 776,
+          "tweet_count": 4531
+        },
+        "url": "",
+        "username": "0xTykoo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

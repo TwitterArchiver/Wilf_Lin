@@ -1,0 +1,509 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2095515191869898963",
+    "created_at": "2026-09-03T14:12:09.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T15:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095515191869898963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1628794781257302016",
+          "start": 3,
+          "username": "DLKFZWilliam2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095515191869898963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095151428692021290",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DLKFZWilliam2: ChatGPT 系列的模型真的是一言难尽。怎么说呢？\n\n你要让它做一个杯子。 他不会直接跟你做一个杯子。 它会按照最高的安全标准去设计、挖地基、做防水,然后你一不注意发现他造了一个工厂，然后，工厂还雇了 HR，发布了招工, 招了工人进来，还…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2095515191869898963",
+        "created_at": "2026-09-03T14:12:09.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T15:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095515191869898963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1628794781257302016",
+              "start": 3,
+              "username": "DLKFZWilliam2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095515191869898963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095151428692021290",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DLKFZWilliam2: ChatGPT 系列的模型真的是一言难尽。怎么说呢？\n\n你要让它做一个杯子。 他不会直接跟你做一个杯子。 它会按照最高的安全标准去设计、挖地基、做防水,然后你一不注意发现他造了一个工厂，然后，工厂还雇了 HR，发布了招工, 招了工人进来，还…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628794781257302016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2095151428692021290",
+        "created_at": "2026-09-02T14:06:41.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095151428692021290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095151428692021290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "ChatGPT 系列的模型真的是一言难尽。怎么说呢？\n\n你要让它做一个杯子。 他不会直接跟你做一个杯子。 它会按照最高的安全标准去设计、挖地基、做防水,然后你一不注意发现他造了一个工厂，然后，工厂还雇了 HR，发布了招工, 招了工人进来，还给工人交了五险一金。 然后这个工厂专门做这个事情。 \n\n然后，你再一看，就会发现不对。你怎么干了半天什么都没有实现呢？再一看，它不仅工厂都已经造好了，已经开始找来历史学家把杯子的历史沿革、杯子的各种种类、杯子在不同环境下、不同温度下的表现。在建好的实验室里面去做研究。 并且从不用现有的杯子，而是所有全部重新造轮子。\n\n你说不对。 我不是要造一个杯子吗？他马上就会说：“你说的对。” \n\n然后马上用推土机全推了，然后再给你造一个 非常基本，没有任何设计，没有任何特性的杯子出来。  然后，在这个杯子旁边，还有一个非常详细的说明书，以及杯子上还被印上了文字。大概的意思就是，为什么这个杯子是绝对不包含任何工厂的设计的。\n\n在说明书里详细记载了我们是如何确保做这个杯子绝对没有任何迁建工厂再造杯子的步骤，以及我们如何用一千种方法测试并验证了绝对不会用工厂去建造这个杯子。 \n\n然后你再看你的额度，就会发现这个额度已经几乎完全用完了。feature什么 \n都没实现。Ship产品数量为0. 然后能干的事情就是跑到 Tibo下面留言，说为什么还不重置。。。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 27212,
+          "like_count": 353,
+          "quote_count": 8,
+          "reply_count": 93,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "ChatGPT 系列的模型真的是一言难尽。怎么说呢？\n\n你要让它做一个杯子。 他不会直接跟你做一个杯子。 它会按照最高的安全标准去设计、挖地基、做防水,然后你一不注意发现他造了一个工厂，然后，工厂还雇了 HR，发布了招工, 招了工人进来，还给工人交了五险一金。 然后这个工厂专门做这个事情。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2095515191869898963",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 2111,
+          "like_count": 110476,
+          "listed_count": 4,
+          "media_count": 528,
+          "tweet_count": 10452
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-23T16:32:36.000Z",
+        "description": "Hi,☺️.我是一个温柔又有点古怪的有趣中年大叔,一直沉浸在自己的世界里｜原投行打工｜半路出家的退休 Dev｜全职Comedian｜养成系变装跳绳up主｜主持No.1 US Biz & Tax 播客｜写代码（技术很菜）| 玩游戏,玩音乐,搞点艺术｜搞抽象是为了给你带来欢笑和流量，对任何人无恶意，笔芯🫰 商务合作私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "indiedevwilliam.com",
+                "end": 23,
+                "expanded_url": "https://indiedevwilliam.com",
+                "start": 0,
+                "url": "https://t.co/Uoo9BwFeFl"
+              }
+            ]
+          }
+        },
+        "id": "1628794781257302016",
+        "is_identity_verified": false,
+        "location": "USA",
+        "most_recent_tweet_id": "2095508614710726735",
+        "name": "独立开发者William",
+        "pinned_tweet_id": "2054941029367980284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628794781257302016/1778763551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093857619001946112/dStigFVh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12256,
+          "following_count": 1929,
+          "like_count": 12866,
+          "listed_count": 117,
+          "media_count": 948,
+          "tweet_count": 5396
+        },
+        "url": "https://t.co/Uoo9BwFeFl",
+        "username": "DLKFZWilliam2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

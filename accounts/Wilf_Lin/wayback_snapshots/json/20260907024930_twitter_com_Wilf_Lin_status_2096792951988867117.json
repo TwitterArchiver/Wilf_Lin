@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2096745709412442235",
+    "created_at": "2026-09-07T02:49:30.000Z",
+    "display_text_range": [
+      13,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T03:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096792951988867117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1760476466037559297",
+          "start": 0,
+          "username": "chasen_liao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096792951988867117",
+    "in_reply_to_user_id": "1760476466037559297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096745709412442235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chasen_liao 长尾，得连续跑几小时几天的那种，显然plus无论如何也做不到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2096745709412442235",
+        "created_at": "2026-09-07T02:49:30.000Z",
+        "display_text_range": [
+          13,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T03:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096792951988867117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1760476466037559297",
+              "start": 0,
+              "username": "chasen_liao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096792951988867117",
+        "in_reply_to_user_id": "1760476466037559297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096745709412442235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chasen_liao 长尾，得连续跑几小时几天的那种，显然plus无论如何也做不到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760476466037559297",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2096745709412442235",
+        "created_at": "2026-09-06T23:41:47.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T00:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096745709412442235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thsottiaux/sta…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/thsottiaux/status/2096717905614524491",
+              "start": 61,
+              "url": "https://t.co/tpBpFcJyad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096745709412442235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2396,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096717905614524491",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "tibo 哥哥给 Astra 做了改进，长尾用量变多了，昨天试了一下，plus 用 Astra lite 也消耗无比快😅 https://t.co/tpBpFcJyad"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2096792951988867117",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 2128,
+          "like_count": 113672,
+          "listed_count": 4,
+          "media_count": 535,
+          "tweet_count": 10611
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-22T01:28:17.000Z",
+        "description": "AI 原住民 | Vibe Coding & AI Agent 实战玩家\n\n20岁大四实习生，每天追逐前沿 AI 工具\n分享 Agent 使用技巧、AI前沿动态\n\n“不停追逐”\n\n个人介绍页 👉 https://t.co/o1yvvaEulq\n合作联系V 👉 chasen_liao",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "chasen-intro.vercel.app",
+                "end": 121,
+                "expanded_url": "https://chasen-intro.vercel.app/",
+                "start": 98,
+                "url": "https://t.co/o1yvvaEulq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chasen-clog.cc.cd",
+                "end": 23,
+                "expanded_url": "https://chasen-clog.cc.cd/",
+                "start": 0,
+                "url": "https://t.co/ZxWhUEdbCr"
+              }
+            ]
+          }
+        },
+        "id": "1760476466037559297",
+        "is_identity_verified": true,
+        "location": "Wan Chai District, Hong Kong",
+        "most_recent_tweet_id": "2096790268884517115",
+        "name": "Chasen",
+        "pinned_tweet_id": "2092624589172130256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1760476466037559297/1772632094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079135588792651776/CrCkegI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3591,
+          "following_count": 2195,
+          "like_count": 6366,
+          "listed_count": 16,
+          "media_count": 336,
+          "tweet_count": 7238
+        },
+        "url": "https://t.co/ZxWhUEdbCr",
+        "username": "chasen_liao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

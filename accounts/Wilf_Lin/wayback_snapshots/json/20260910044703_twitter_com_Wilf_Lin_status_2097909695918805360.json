@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2097906434696765888",
+    "created_at": "2026-09-10T04:47:03.000Z",
+    "display_text_range": [
+      10,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T05:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097909695918805360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "467102254",
+          "start": 0,
+          "username": "disksing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097909695918805360",
+    "in_reply_to_user_id": "467102254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097906434696765888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@disksing 似乎是余额计算错误，那么他就只是修正了余额"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2097906434696765888",
+        "created_at": "2026-09-10T04:47:03.000Z",
+        "display_text_range": [
+          10,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097909695918805360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467102254",
+              "start": 0,
+              "username": "disksing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097909695918805360",
+        "in_reply_to_user_id": "467102254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097906434696765888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@disksing 似乎是余额计算错误，那么他就只是修正了余额"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467102254",
+        "conversation_id": "2097906434696765888",
+        "created_at": "2026-09-10T04:34:05.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097906434696765888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097906434696765888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听说昨天codex出bug来着，那么今天没有重置吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2097909695918805360",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 2147,
+          "like_count": 115828,
+          "listed_count": 4,
+          "media_count": 551,
+          "tweet_count": 10844
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T03:44:03.000Z",
+        "description": "生活有时是喜剧，有时是悲剧，但是不管什么时候都可以发段子。｜因为淋过雨，看别人淋雨的时候，送上录音笔。｜先天离婚圣体，古希腊掌管录音笔的神。｜https://t.co/9u1v54ZpBE〔备用账号 @shadiaofriend〕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 100,
+                "username": "shadiaofriend"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "disksing.com",
+                "end": 94,
+                "expanded_url": "https://disksing.com",
+                "start": 71,
+                "url": "https://t.co/9u1v54ZpBE"
+              }
+            ]
+          }
+        },
+        "id": "467102254",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097906434696765888",
+        "name": "象牙山刘能",
+        "pinned_tweet_id": "1847109505810944047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467102254/1662180611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904882584955609089/xgyeRR4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46724,
+          "following_count": 614,
+          "like_count": 25244,
+          "listed_count": 215,
+          "media_count": 1300,
+          "tweet_count": 18095
+        },
+        "url": "",
+        "username": "disksing",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

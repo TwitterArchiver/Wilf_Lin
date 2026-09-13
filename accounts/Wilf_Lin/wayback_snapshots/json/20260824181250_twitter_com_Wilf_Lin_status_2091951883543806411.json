@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      }
+    ],
+    "conversation_id": "2091951883543806411",
+    "created_at": "2026-08-24T18:12:50.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T19:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091951883543806411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "25401953",
+          "start": 3,
+          "username": "steipete"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091951883543806411",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091923535513928015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @steipete: We need to get away from software that we can’t change with a prompt."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2091951883543806411",
+        "created_at": "2026-08-24T18:12:50.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T19:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091951883543806411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "25401953",
+              "start": 3,
+              "username": "steipete"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091951883543806411",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091923535513928015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @steipete: We need to get away from software that we can’t change with a prompt."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "25401953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2091923535513928015",
+        "created_at": "2026-08-24T16:20:11.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T17:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091923535513928015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dhh/status/209…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/dhh/status/2091841106480627871",
+              "start": 70,
+              "url": "https://t.co/Fthfm8WYGH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091923535513928015",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 77829,
+          "like_count": 1098,
+          "quote_count": 16,
+          "reply_count": 57,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091841106480627871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "We need to get away from software that we can’t change with a prompt. https://t.co/Fthfm8WYGH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2091951883543806411",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 2058,
+          "like_count": 105469,
+          "listed_count": 4,
+          "media_count": 489,
+          "tweet_count": 10118
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2017100664984186880/orbYx-3U_bigger.jpg",
+          "description": "OpenClaw🦞",
+          "url": "https://twitter.com/openclaw",
+          "user_id": [
+            "1995710751097659392"
+          ]
+        },
+        "created_at": "2009-03-19T22:54:05.000Z",
+        "description": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 110,
+                "username": "OpenClaw"
+              },
+              {
+                "end": 130,
+                "start": 123,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steipete.me",
+                "end": 23,
+                "expanded_url": "https://steipete.me",
+                "start": 0,
+                "url": "https://t.co/VeCkD9C9P5"
+              }
+            ]
+          }
+        },
+        "id": "25401953",
+        "is_identity_verified": true,
+        "location": "Vienna & London",
+        "most_recent_tweet_id": "2091923996652519672",
+        "name": "Peter Steinberger 🦞",
+        "pinned_tweet_id": "2023154018714100102",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25401953/1773684932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1131851609774985216/OcsssQ9J_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574224,
+          "following_count": 2462,
+          "like_count": 63280,
+          "listed_count": 6801,
+          "media_count": 8626,
+          "tweet_count": 141660
+        },
+        "url": "https://t.co/VeCkD9C9P5",
+        "username": "steipete",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

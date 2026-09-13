@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2097429881416024403",
+    "created_at": "2026-09-09T07:45:13.000Z",
+    "display_text_range": [
+      9,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T08:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097592143590142272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "542497171",
+          "start": 0,
+          "username": "enp39s0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097592143590142272",
+    "in_reply_to_user_id": "542497171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097587761457082431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@enp39s0 我的这个是通过直接用虚拟驱动模拟硬件实现的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2097429881416024403",
+        "created_at": "2026-09-09T07:45:13.000Z",
+        "display_text_range": [
+          9,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T08:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097592143590142272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "542497171",
+              "start": 0,
+              "username": "enp39s0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097592143590142272",
+        "in_reply_to_user_id": "542497171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097587761457082431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enp39s0 我的这个是通过直接用虚拟驱动模拟硬件实现的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "542497171",
+        "conversation_id": "2097429881416024403",
+        "created_at": "2026-09-09T07:27:48.000Z",
+        "display_text_range": [
+          10,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T08:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097587761457082431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554803647909097472",
+              "start": 0,
+              "username": "Wilf_Lin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097587761457082431",
+        "in_reply_to_user_id": "1554803647909097472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097429881416024403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wilf_Lin SendInput其实也会有些问题，比如用多了之后微信/企业微信会被踢下线😅 我后来是直接换了支持USB的硬件板子去做"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2097592143590142272",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 2145,
+          "like_count": 115362,
+          "listed_count": 4,
+          "media_count": 546,
+          "tweet_count": 10760
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-04-01T12:09:22.000Z",
+        "description": "Adorable nerdy transfem | Android Security Researcher & Developer | Multimedia / Cross-Device Interconnect / RTC",
+        "id": "542497171",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097587761457082431",
+        "name": "MidoriKochiya0/0/1🐱🍨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/542497171/1780403327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861362994267201536/KedpZjpp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2377,
+          "following_count": 1005,
+          "like_count": 15933,
+          "listed_count": 16,
+          "media_count": 452,
+          "tweet_count": 8890
+        },
+        "url": "",
+        "username": "enp39s0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

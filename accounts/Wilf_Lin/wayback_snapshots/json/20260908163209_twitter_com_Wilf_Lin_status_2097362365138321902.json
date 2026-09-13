@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2097341393115263434",
+    "created_at": "2026-09-08T16:32:09.000Z",
+    "display_text_range": [
+      16,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T17:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097362365138321902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "28530405",
+          "start": 0,
+          "username": "manateelazycat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097362365138321902",
+    "in_reply_to_user_id": "28530405",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097341393115263434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manateelazycat 4.1flash出了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 919,
+        "media_key": "3_2097340584017244160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtAJiNbsAA3sJr.jpg",
+        "width": 1599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2097341393115263434",
+        "created_at": "2026-09-08T16:32:09.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097362365138321902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "28530405",
+              "start": 0,
+              "username": "manateelazycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097362365138321902",
+        "in_reply_to_user_id": "28530405",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097341393115263434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manateelazycat 4.1flash出了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097340584017244160"
+          ]
+        },
+        "author_id": "28530405",
+        "conversation_id": "2097341393115263434",
+        "created_at": "2026-09-08T15:08:49.000Z",
+        "display_text_range": [
+          0,
+          175
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097341393115263434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iviTGdNVMB",
+              "end": 199,
+              "expanded_url": "https://x.com/manateelazycat/status/2097341393115263434/photo/1",
+              "media_key": "3_2097340584017244160",
+              "start": 176,
+              "url": "https://t.co/iviTGdNVMB"
+            },
+            {
+              "display_url": "x.com/manateelazycat…",
+              "end": 223,
+              "expanded_url": "https://twitter.com/manateelazycat/status/2091826759045964148",
+              "start": 200,
+              "url": "https://t.co/jP74zA3QXO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097341393115263434",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097340584017244160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "DeepSeek V4 Flash Vision 未审查版还在最后的测试中\n\n这两周AI模型调优的经验：\n\n1. 模型最小的Qwen 3.8 27B： 模型最小，但是编程最能打，真的是指哪打哪\n\n2. DeepSeek V4 Flash Vision：测试参数不亮眼，但是体验是最快的，可能是采用TP2两台算力舱协同计算的原因吧，体感真的最快\n\n3. 未审查模型：未审查才是最香的，软件逆向、网络安全甚至是你们喜欢的NSFW，只要提要求，绝不拒绝\n\n我发现GPT/Cladue做规划， 这些线下模型做执行、打杂、做逆向，配合起来简直不要太香了，哈哈哈哈"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1200,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091826759045964148",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "DeepSeek V4 Flash Vision 未审查版还在最后的测试中\n\n这两周AI模型调优的经验：\n\n1. 模型最小的Qwen 3.8 27B： 模型最小，但是编程最能打，真的是指哪打哪\n\n2. DeepSeek V4 Flash Vision：测试参数不亮眼，但是体验是最快的，可能是采用TP2两台算力舱协同计算的原因吧，体感真的最快\n\n3. https://t.co/iviTGdNVMB https://t.co/jP74zA3QXO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2097362365138321902",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 2143,
+          "like_count": 115035,
+          "listed_count": 4,
+          "media_count": 543,
+          "tweet_count": 10720
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-04-03T09:01:38.000Z",
+        "description": "懒猫微服CEO | 前Deepin CTO | 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lazycat.cloud",
+                "end": 63,
+                "expanded_url": "https://lazycat.cloud/",
+                "start": 40,
+                "url": "https://t.co/KVqgWHDvJj"
+              },
+              {
+                "display_url": "x.com/manateelazycat…",
+                "end": 96,
+                "expanded_url": "https://x.com/manateelazycat/status/1970815014861930775",
+                "start": 73,
+                "url": "https://t.co/SF9p24BuTk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manateelazycat.github.io",
+                "end": 23,
+                "expanded_url": "https://manateelazycat.github.io",
+                "start": 0,
+                "url": "https://t.co/twDx1twu9o"
+              }
+            ]
+          }
+        },
+        "id": "28530405",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2097354808483250249",
+        "name": "Andy Stewart",
+        "pinned_tweet_id": "2095385038552736036",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28530405/1766732508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53443,
+          "following_count": 547,
+          "like_count": 21634,
+          "listed_count": 392,
+          "media_count": 10036,
+          "tweet_count": 65121
+        },
+        "url": "https://t.co/twDx1twu9o",
+        "username": "manateelazycat",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

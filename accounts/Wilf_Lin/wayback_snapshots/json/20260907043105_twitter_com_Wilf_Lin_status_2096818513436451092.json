@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2095942506433089832",
+    "created_at": "2026-09-07T04:31:05.000Z",
+    "display_text_range": [
+      13,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T05:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096818513436451092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3075199947",
+          "start": 0,
+          "username": "undefinedKi"
+        },
+        {
+          "end": 24,
+          "id": "1953337039510003712",
+          "start": 13,
+          "username": "thsottiaux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096818513436451092",
+    "in_reply_to_user_id": "3075199947",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095942506433089832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@undefinedKi @thsottiaux want to see in codex"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2352,
+        "media_key": "3_2095942423092555776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZIh24acAAYlCY.jpg",
+        "width": 1736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2095942506433089832",
+        "created_at": "2026-09-07T04:31:05.000Z",
+        "display_text_range": [
+          13,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096818513436451092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3075199947",
+              "start": 0,
+              "username": "undefinedKi"
+            },
+            {
+              "end": 24,
+              "id": "1953337039510003712",
+              "start": 13,
+              "username": "thsottiaux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096818513436451092",
+        "in_reply_to_user_id": "3075199947",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095942506433089832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@undefinedKi @thsottiaux want to see in codex"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095942423092555776"
+          ]
+        },
+        "author_id": "3075199947",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196457934370172928",
+              "name": "Music industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405172481590140933",
+              "name": "Music streaming service"
+            }
+          }
+        ],
+        "conversation_id": "2095942506433089832",
+        "created_at": "2026-09-04T18:30:08.000Z",
+        "display_text_range": [
+          0,
+          278
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T19:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095942506433089832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sBbTHBufQc",
+              "end": 302,
+              "expanded_url": "https://x.com/undefinedKi/status/2095942506433089832/photo/1",
+              "media_key": "3_2095942423092555776",
+              "start": 279,
+              "url": "https://t.co/sBbTHBufQc"
+            },
+            {
+              "display_url": "x.com/undefinedKi/st…",
+              "end": 326,
+              "expanded_url": "https://twitter.com/undefinedKi/status/2095876609689498067",
+              "start": 303,
+              "url": "https://t.co/2eB8LZ0OMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095942506433089832",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095942423092555776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "Spotify just published the internal setup their engineers use with Claude Code, the one that cut token usage by 90 percent. Here is how it works.\n\nThe observation behind it: most of what a coding assistant does is not thinking. It opens five files to answer a question about one of them. It writes a test that copies the pattern of the twenty tests sitting next to it. Enormous amounts of work, almost no judgment, and all of it billed at top rates.\n\nSo they added two cheap assistants. One opens the files and hands back a short summary. The other writes the repetitive code from an example and saves it straight to disk. The expensive model never sees any of it.\n\nThe clever part is how they made it stick. First the rules were written down as instructions, and the model ignored them. Now anything over 350 lines gets stopped before it opens and sent to the cheap one instead. Written rules are a suggestion. A block is not.\n\nTwo things stayed expensive. Edits still need the real file. And the cheap worker missed a bug the expensive one caught in seconds."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9041,
+          "impression_count": 1198459,
+          "like_count": 3354,
+          "quote_count": 16,
+          "reply_count": 52,
+          "retweet_count": 298
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095876609689498067",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Spotify just published the internal setup their engineers use with Claude Code, the one that cut token usage by 90 percent. Here is how it works.\n\nThe observation behind it: most of what a coding assistant does is not thinking. It opens five files to answer a question about one https://t.co/sBbTHBufQc https://t.co/2eB8LZ0OMx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2096818513436451092",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 2132,
+          "like_count": 113745,
+          "listed_count": 4,
+          "media_count": 535,
+          "tweet_count": 10621
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-03-06T17:02:33.000Z",
+        "description": "AI & tech researcher | Data engineer | Building cool stuff | Sharing everything I learn",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/rudenko",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/rudenko",
+                "start": 0,
+                "url": "https://t.co/SIp9zL2bHS"
+              }
+            ]
+          }
+        },
+        "id": "3075199947",
+        "is_identity_verified": false,
+        "location": "Chicago, IL",
+        "most_recent_tweet_id": "2096796782382514348",
+        "name": "Yarchi",
+        "pinned_tweet_id": "2068306794116501544",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3075199947/1778704231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054664188417413120/DZKz0Tqn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15289,
+          "following_count": 457,
+          "like_count": 17179,
+          "listed_count": 145,
+          "media_count": 659,
+          "tweet_count": 11408
+        },
+        "url": "https://t.co/SIp9zL2bHS",
+        "username": "undefinedKi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-07T06:07:07.000Z",
+        "description": "Codex & ChatGPT @OpenAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 16,
+                "username": "OpenAI"
+              }
+            ]
+          }
+        },
+        "id": "1953337039510003712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096775311790899620",
+        "name": "Tibo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600610,
+          "following_count": 71,
+          "like_count": 9760,
+          "listed_count": 3140,
+          "media_count": 134,
+          "tweet_count": 2887
+        },
+        "url": "",
+        "username": "thsottiaux",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

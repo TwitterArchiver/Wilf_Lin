@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2097548617238368665",
+    "created_at": "2026-09-09T05:59:33.000Z",
+    "display_text_range": [
+      17,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T06:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097565554290610626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1926187937642725376",
+          "start": 0,
+          "username": "david0520782123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097565554290610626",
+    "in_reply_to_user_id": "1926187937642725376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097548617238368665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@david0520782123 你这篇文章是AI生成的，并且你复制的时候没有去掉引用。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2097548617238368665",
+        "created_at": "2026-09-09T05:59:33.000Z",
+        "display_text_range": [
+          17,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T06:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097565554290610626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1926187937642725376",
+              "start": 0,
+              "username": "david0520782123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097565554290610626",
+        "in_reply_to_user_id": "1926187937642725376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097548617238368665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@david0520782123 你这篇文章是AI生成的，并且你复制的时候没有去掉引用。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926187937642725376",
+        "conversation_id": "2097548617238368665",
+        "created_at": "2026-09-09T04:52:15.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T05:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097548617238368665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097548617238368665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "AI 浪潮之下，消费电子里的 NPU 愈发尴尬\n\n消费电子里的 NPU，正在遭遇一场路线图危机。\n\n十年前，芯片厂商为自己理解的 AI 分配了晶体管。十年后，AI 成了整个科技行业的中心，最受期待的应用却没有沿着这条路线生长。厂商不断扩大 NPU，试图用更多算力追赶变化；消费者拿到的，仍然常常是一块不知道该怎么用的 AI 加速器。\n\n问题已经从“有没有 AI 算力”，变成了“这些算力究竟能不能运行用户想要的 AI”。\n\n大约十年前，深度学习开始进入消费电子产品的核心功能。苹果、华为、高通等公司的回应，是在手机芯片中建立专门的神经网络加速能力。识别人脸、判断拍摄场景、处理语音，这些工作有明确的边界，也有可以围绕它们优化的模型。\n\n这是一套合理的工程思路。把反复执行的计算交给专用硬件，减少调度和数据搬运，用更低的功耗完成任务。2017 年，苹果 A11 的 Neural Engine 支撑 Face ID，麒麟 970 集成专用 NPU，都是这条路线的代表。高通则沿着 Hexagon 的演进，在 DSP 体系中加强张量计算。苹果 A11 公告、麒麟 970 资料、高通骁龙 855 公告\n\n同一时期，NVIDIA 在数据中心推进了另一种选择：保留 GPU 的可编程计算体系，在其中加入擅长低精度矩阵运算的 Tensor Core。随后，这套能力又进入消费级 GeForce GPU。NVIDIA Turing 架构文档\n\n两条路线押注的东西不同。消费电子的专用加速器围绕可预测的任务兑现能效；GPU 则在加速神经网络核心计算的同时，保留了适应新模型的空间。\n\n几年以后，这种适应性变得极其重要。\n\n在 GPU 支撑的训练体系里成长起来的大模型，重新定义了人们对 AI 的期待。在语言理解、内容生成和跨任务协作上，用户开始追求远超识别、分类和预设指令的能力。一个能够共享上下文的模型，开始接管过去由多个专业模型和规则系统拼接完成的工作。\n\n此前值得精心优化的模块，因此面临被整个替换的命运。\n\n识别照片里有什么，和理解“找出上次露营时帐篷还没搭好的那张照片”，对应着不同的产品。把语音转成文字，和听懂一段含糊要求、结合前文执行任务，也对应着不同的产品。\n\n原来的小模型可以继续专业、高效、紧凑，但产品竞争的目标已经变了。局部计算省下的能耗，抵不过整体体验上的差距。\n\n消费芯片厂商给出的主要回应，是扩大 NPU。\n\n英特尔、AMD 把独立 AI 加速能力带入 PC，高通将移动端积累延伸到笔记本，苹果继续提高 Neural Engine 的性能。随着 AI PC 成为卖点，TOPS 开始占据发布会中心。每秒多少万亿次运算，被包装成设备通往未来的凭证。\n\n这里发生了一次关键的错位：用户需要的是更强的模型，厂商首先交付的是更大的加速器。\n\n两者之间隔着模型支持、编译器、算子实现、内存管理和应用集成。晶体管可以按计划增加，开发者生态却不会跟着规格表自动长出来。\n\n苹果早在 2022 年就展示过这项工作的复杂性。为了让 Transformer 高效运行在 Neural Engine 上，需要调整张量布局、改写算子表达、拆分中间张量并减少内存复制。专用硬件的效率，需要专门的软件工程来兑现。苹果 Neural Engine 技术文档\n\n模型每更新一次，这笔适配账就可能重新计算。芯片设计团队按照多年周期工作，模型开发者按照月、甚至周推进。两种速度开始持续冲突。\n\nIntel AI PC 是这场错位最刺眼的案例之一。\n\n第一批 Meteor Lake 产品已经把 NPU 当成重要卖点。Core Ultra 7 155H 的 NPU 峰值是 11 TOPS；很快，微软给 Copilot+ PC 划出的门槛变成了至少 40 TOPS。上一批“为 AI 准备”的电脑，上市不久便落在新资格线之外。英特尔 155H 规格、微软 Copilot+ PC 公告\n\n接下来的产品跨过了这条线，体验问题却没有因此自动解决。开发者和资深玩家追问 NPU 到底能做什么，用户在英特尔社区询问为什么任务管理器里的 NPU 长时间停在 0%。对 AI PC 华而不实的批评，指向的正是算力宣传与实际用途之间的距离。英特尔社区用户提问、开发者社区讨论\n\n我们应该换一把衡量 AI PC 的尺子。\n\n让一台消费级电脑，以每秒约 30 个 token 的速度运行一个总参数约 30B 的 MoE 模型，提供可持续对话、处理文本和辅助工作的本地体验。这比“搭载 40 TOPS NPU”更接近值得付费的产品目标。Qwen3-30B-A3B 这样的开放模型，已经让这个规模有了具体的讨论对象。Qwen3 模型公告\n\n围绕这样的目标，厂商必须交出完整答案：模型装得下，所需计算能得到支持，内存带宽跟得上，常用软件能够调用，长时间运行也有可接受的速度和功耗。\n\nTOPS 只回答了其中很窄的一部分。它既不是生成速度，也不是一池任意模型都能直接取用的算力。CPU、GPU、NPU 的峰值数字摆在一起，更不会自动组成一个统一工作的推理系统。\n\n早期 AI PC 最严重的产品失败，就在于把这张尚未完成的工程清单，当成了已经交付的用户价值。\n\n消费者为 AI 买了新电脑，真正要使用能力足够强的模型时，最省事的入口依然是浏览器。厂商花费芯片面积搭建本地加速能力，用户的核心 AI 体验却继续发生在云端。这笔投入与回报之间的脱节，足以让 NPU 从卖点变成成本争议。\n\n时间还在往前走。\n\n紧凑模型的能力持续增强，量化、蒸馏和剪枝不断降低部署门槛，MoE 也改变了模型总规模与每次计算量之间的关系。消费者和开发者越来越有理由要求，在自己的硬件上运行真正有用的基础模型。\n\n与此同时，模型仍在快速演化。参数规模会变，注意力机制会变，专家路由和缓存方式也会变。今天适配好的实现，明天就要面对新的部署需求。\n\n这正是 GPU 加强矩阵计算能力的价值所在。\n\nGPU 已经拥有可编程执行能力、内存体系和开发工具。在这个基础上增加低精度矩阵单元，可以让它同时承接图形与 AI 工作。新模型出现后，开发者拥有更大的实现和调整空间，同一块硬件也有更多机会继续参与下一轮应用变化。\n\n消费电子芯片开始沿着这条路线前进。苹果 M5 在每个 GPU 核心中加入 Neural Accelerator；Arm 将专用神经加速器引入 GPU，首先用于神经网络超分等图形任务。NVIDIA 多年前采用的架构方法，正在更多终端芯片里出现。苹果 M5 公告、Arm 神经计算技术公告\n\n这种趋同有明确的经济逻辑。设备本来就需要 GPU，增强它的矩阵能力，可以同时服务于游戏、创作和本地模型。图形流水线中的超分、降噪等计算，还能直接利用这套能力，减少跨引擎协作的负担。\n\n独立 NPU 因此失去了一个越来越重要的前提：神经网络的高效执行，需要由它单独承担。\n\nNPU 仍然可以在常驻、低功耗任务里证明价值。接下来承受压力的，是它持续扩张的理由。为明确任务保留一块合适的加速器，与为了尚未确定的未来应用不断追加面积，需要完全不同的回报证明。\n\n我们认为，消费级 NPU 将逐渐从“必须持续做大”的战略部件，回到按实际负载分配规模的位置。新增晶体管会更多地流向 GPU 的矩阵单元、缓存和配套数据通路，因为这些投入能够覆盖更广的用途，也更能承受模型变化。\n\n一块消费芯片要服役五年。它的价值取决于这五年里，用户想用的软件还能不能在上面运行。\n\n十年前，NPU 回答了怎样高效运行一个已经确定的模型。今天，消费电子需要回答的是，怎样持续运行那些还没有被发明出来的模型。\n\nGPU 正在这道题上取得优势。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "AI 浪潮之下，消费电子里的 NPU 愈发尴尬\n\n消费电子里的 NPU，正在遭遇一场路线图危机。\n\n十年前，芯片厂商为自己理解的 AI 分配了晶体管。十年后，AI 成了整个科技行业的中心，最受期待的应用却没有沿着这条路线生长。厂商不断扩大"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2097565554290610626",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 2144,
+          "like_count": 115339,
+          "listed_count": 4,
+          "media_count": 546,
+          "tweet_count": 10755
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-24T08:06:16.000Z",
+        "description": "Local AI Researcher\n\nWindows Desktop 13700F 64G + 4090 24G\nMacBook Pro M4 Pro 12/16 48G\nMac Studio M5 Ultra 36/80 256G",
+        "id": "1926187937642725376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097548617238368665",
+        "name": "IndenScale",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926187983050244096/Z8p0KXq3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 2907,
+          "like_count": 38944,
+          "listed_count": 14,
+          "media_count": 17,
+          "tweet_count": 2320
+        },
+        "url": "",
+        "username": "david0520782123",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

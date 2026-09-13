@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2096290487993073838",
+    "created_at": "2026-09-06T07:59:13.000Z",
+    "display_text_range": [
+      11,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T08:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096508505465254378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "345437084",
+          "start": 0,
+          "username": "iamcheyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096508505465254378",
+    "in_reply_to_user_id": "345437084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096290487993073838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamcheyan 说实话，我希望hyprand也可以有一个这样的插件市场，而不是像现在这样直接完全自由，然而vaxry拒绝了并表示用户应该为他们自己的电脑负责"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 732,
+        "media_key": "3_2096289781001170944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HReEcv7bMAAn2S9.jpg",
+        "width": 2522
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2096290487993073838",
+        "created_at": "2026-09-06T07:59:13.000Z",
+        "display_text_range": [
+          11,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096508505465254378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "345437084",
+              "start": 0,
+              "username": "iamcheyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096508505465254378",
+        "in_reply_to_user_id": "345437084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096290487993073838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamcheyan 说实话，我希望hyprand也可以有一个这样的插件市场，而不是像现在这样直接完全自由，然而vaxry拒绝了并表示用户应该为他们自己的电脑负责"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096289781001170944"
+          ]
+        },
+        "author_id": "345437084",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2096290487993073838",
+        "created_at": "2026-09-05T17:32:54.000Z",
+        "display_text_range": [
+          0,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T18:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096290487993073838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iNX6p4CgT1",
+              "end": 179,
+              "expanded_url": "https://x.com/iamcheyan/status/2096290487993073838/photo/1",
+              "media_key": "3_2096289781001170944",
+              "start": 156,
+              "url": "https://t.co/iNX6p4CgT1"
+            },
+            {
+              "display_url": "x.com/iamcheyan/stat…",
+              "end": 203,
+              "expanded_url": "https://twitter.com/iamcheyan/status/2096097016246116747",
+              "start": 180,
+              "url": "https://t.co/4WS4s7MsFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096290487993073838",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096289781001170944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "Omarchy 插件生态火过头了啊。\n几个小时前刚顺畅地交了个剪贴板插件，想把新写的锁屏插件提上去，直接弹出 GitHub 提示，仅限协作者提交。\n跑去后台看了一眼：插件市场的 Issue 已经一路狂飙干到了5087，排队积压了 900 多个插件待审，维护者现在正在疯狂加班消库存，平均每 2 分钟 Merge 一个，前面才刚审到 4000号……\n审核机器人都被并发给干出竞态 Bug 了，刚紧急合了 PR 修补，管理员实在顶不住只能临时锁库保命了。\n不知道明天能不能修好。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6597,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096097016246116747",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Omarchy 插件生态火过头了啊。\n几个小时前刚顺畅地交了个剪贴板插件，想把新写的锁屏插件提上去，直接弹出 GitHub 提示，仅限协作者提交。\n跑去后台看了一眼：插件市场的 Issue 已经一路狂飙干到了5087，排队积压了 900 多个插件待审，维护者现在正在疯狂加班消库存，平均每 2 分钟 Merge https://t.co/iNX6p4CgT1 https://t.co/4WS4s7MsFL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2096508505465254378",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 2117,
+          "like_count": 112698,
+          "listed_count": 4,
+          "media_count": 534,
+          "tweet_count": 10556
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-07-30T16:05:20.000Z",
+        "description": "程序员・作家・编剧 / 東京在住 🗼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "iamcheyan.com",
+                "end": 23,
+                "expanded_url": "http://iamcheyan.com",
+                "start": 0,
+                "url": "https://t.co/IoKuPng256"
+              }
+            ]
+          }
+        },
+        "id": "345437084",
+        "is_identity_verified": true,
+        "location": "東京 墨田区",
+        "most_recent_tweet_id": "2096474465492504907",
+        "name": "徹言",
+        "pinned_tweet_id": "1431803902769332224",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/345437084/1714718985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752946036358909952/o_vVoTim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44382,
+          "following_count": 7183,
+          "like_count": 139081,
+          "listed_count": 219,
+          "media_count": 3744,
+          "tweet_count": 19487
+        },
+        "url": "https://t.co/IoKuPng256",
+        "username": "iamcheyan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

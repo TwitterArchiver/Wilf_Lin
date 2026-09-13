@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2096785497725063296",
+    "created_at": "2026-09-07T02:19:53.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T03:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096785497725063296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 74,
+          "id": "98047213",
+          "start": 67,
+          "username": "Huawei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/theo/status/20…",
+          "end": 108,
+          "expanded_url": "https://twitter.com/theo/status/2096746048702337057",
+          "start": 85,
+          "url": "https://t.co/UUyIhHBsLq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096785497725063296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096746048702337057",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "开发人员是否真的在意他做的产品，只要用一下就知道了，很多东西充斥着糟糕的用户体验和对细节的完全忽视，不知道他们怎么好意思发出来的。\n\n@Huawei\n@[我的家族企业] https://t.co/UUyIhHBsLq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2096785497725063296",
+        "created_at": "2026-09-07T02:19:53.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T03:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096785497725063296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 74,
+              "id": "98047213",
+              "start": 67,
+              "username": "Huawei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/theo/status/20…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/theo/status/2096746048702337057",
+              "start": 85,
+              "url": "https://t.co/UUyIhHBsLq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096785497725063296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096746048702337057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开发人员是否真的在意他做的产品，只要用一下就知道了，很多东西充斥着糟糕的用户体验和对细节的完全忽视，不知道他们怎么好意思发出来的。\n\n@Huawei\n@[我的家族企业] https://t.co/UUyIhHBsLq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "786375418685165568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2096746048702337057",
+        "created_at": "2026-09-06T23:43:08.000Z",
+        "display_text_range": [
+          0,
+          252
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T00:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096746048702337057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096746048702337057",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 31771,
+          "like_count": 1070,
+          "quote_count": 11,
+          "reply_count": 77,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "AI makes it so easy to polish rough edges and smooth out your product experience. Yet pretty much every piece of software is falling apart.\n\nWhy? The devs building them don't care.\n\nSoftware built by people detached from the users has never felt worse."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2096785497725063296",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 2127,
+          "like_count": 113629,
+          "listed_count": 4,
+          "media_count": 535,
+          "tweet_count": 10605
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-10-13T01:18:04.000Z",
+        "description": "Full time CEO @t3dotcodes & @t3dotchat. Part time YouTuber, investor, and developer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "t3dotcodes"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "t3dotchat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t3.gg",
+                "end": 23,
+                "expanded_url": "https://t3.gg",
+                "start": 0,
+                "url": "https://t.co/RIvNYtJp61"
+              }
+            ]
+          }
+        },
+        "id": "786375418685165568",
+        "is_identity_verified": false,
+        "location": "San Francisco, CA",
+        "most_recent_tweet_id": "2096782567198597543",
+        "name": "Theo - t3.gg",
+        "pinned_tweet_id": "2095815150830047426",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/786375418685165568/1777524726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909353910130950147/EeSGdgA5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386408,
+          "following_count": 4222,
+          "like_count": 379095,
+          "listed_count": 2900,
+          "media_count": 9049,
+          "tweet_count": 66404
+        },
+        "url": "https://t.co/RIvNYtJp61",
+        "username": "theo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-12-20T04:20:07.000Z",
+        "description": "Welcome to the official Huawei X account. Huawei is a leading global provider of ICT infrastructure and smart devices.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "huawei.com",
+                "end": 23,
+                "expanded_url": "http://www.huawei.com",
+                "start": 0,
+                "url": "https://t.co/z3IlvDruDi"
+              }
+            ]
+          }
+        },
+        "id": "98047213",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096445653325115562",
+        "name": "Huawei",
+        "pinned_tweet_id": "2095096053985149319",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/98047213/1782704034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1570731236171329537/6Muib5Hc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10131827,
+          "following_count": 33,
+          "like_count": 28393,
+          "listed_count": 4591,
+          "media_count": 7742,
+          "tweet_count": 47254
+        },
+        "url": "https://t.co/z3IlvDruDi",
+        "username": "Huawei",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2093329629604176065",
+    "created_at": "2026-08-29T19:04:19.000Z",
+    "display_text_range": [
+      8,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T20:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093776778254795020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "180769702",
+          "start": 0,
+          "username": "ant_sz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093776778254795020",
+    "in_reply_to_user_id": "180769702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093329629604176065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ant_sz 不管session直接问，然后让他自己去找上下文"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2093329629604176065",
+        "created_at": "2026-08-29T19:04:19.000Z",
+        "display_text_range": [
+          8,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T20:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093776778254795020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "180769702",
+              "start": 0,
+              "username": "ant_sz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093776778254795020",
+        "in_reply_to_user_id": "180769702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093329629604176065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ant_sz 不管session直接问，然后让他自己去找上下文"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "180769702",
+        "conversation_id": "2093329629604176065",
+        "created_at": "2026-08-28T13:27:30.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T14:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093329629604176065"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093329629604176065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 26812,
+          "like_count": 73,
+          "quote_count": 4,
+          "reply_count": 61,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "现在有什么好的agent session管理工具么？感觉现在的harness问题已经不是单个对话框的问题了，而是session开多了，找不到之前的上下文。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2093776778254795020",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 2086,
+          "like_count": 107071,
+          "listed_count": 4,
+          "media_count": 506,
+          "tweet_count": 10253
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-08-20T12:46:18.000Z",
+        "description": "Software Engineer @ Tokyo. Database Enthusiast. Work for fun. {🏂，☕}  #日本旅游 #吃吃喝喝 #读篇paper",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 74,
+                "start": 69,
+                "tag": "日本旅游"
+              },
+              {
+                "end": 80,
+                "start": 75,
+                "tag": "吃吃喝喝"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "读篇paper"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "io-meter.com",
+                "end": 23,
+                "expanded_url": "http://io-meter.com",
+                "start": 0,
+                "url": "https://t.co/0a5cr5swfO"
+              }
+            ]
+          }
+        },
+        "id": "180769702",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2093755304102273107",
+        "name": "子茄",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/180769702/1405764322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/490436556985884672/LqDWeDkl_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9766,
+          "following_count": 1013,
+          "like_count": 10472,
+          "listed_count": 95,
+          "media_count": 1955,
+          "tweet_count": 26655
+        },
+        "url": "https://t.co/0a5cr5swfO",
+        "username": "ant_sz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

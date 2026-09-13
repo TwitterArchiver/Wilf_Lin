@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2096762618258071886",
+    "created_at": "2026-09-07T00:48:58.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T01:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096762618258071886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mylifcc/status…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/mylifcc/status/2096661785218805982",
+          "start": 105,
+          "url": "https://t.co/A3K21cMp0C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096762618258071886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096661785218805982",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "使用Astra编写过的项目只能使用Astra继续维护\n\n所以如果你所在的企业或团队只有你在积极使用codex，你可以将模型切换到astra并让他优化过去的所有项目，这会让这个项目从此离不开你（或者Astra） https://t.co/A3K21cMp0C"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2096762618258071886",
+        "created_at": "2026-09-07T00:48:58.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T01:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096762618258071886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mylifcc/status…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/mylifcc/status/2096661785218805982",
+              "start": 105,
+              "url": "https://t.co/A3K21cMp0C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096762618258071886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096661785218805982",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "使用Astra编写过的项目只能使用Astra继续维护\n\n所以如果你所在的企业或团队只有你在积极使用codex，你可以将模型切换到astra并让他优化过去的所有项目，这会让这个项目从此离不开你（或者Astra） https://t.co/A3K21cMp0C"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486017329662423044",
+        "conversation_id": "2096661785218805982",
+        "created_at": "2026-09-06T18:08:18.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T19:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096661785218805982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tenobrus/statu…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/tenobrus/status/2096636223414808719",
+              "start": 106,
+              "url": "https://t.co/o5E4gLig4M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096661785218805982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5942,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096636223414808719",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Astra这个模型的训练机制有一些问题，它会用最节省token的方式解决问题。\n当它推断出自己处于一种没有人会真正查看代码的情况时，它不会以人类读者为考虑对象来编写代码。它也不会以长期维护为考虑对象来编写代码。 https://t.co/o5E4gLig4M"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2096762618258071886",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 2125,
+          "like_count": 113542,
+          "listed_count": 4,
+          "media_count": 535,
+          "tweet_count": 10594
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-25T16:45:32.000Z",
+        "description": "每天用 AI 写代码的工程师\nClaude Code ｜ Codex深度用户  ｜Agentic engineering\n在这里分享 AI 工具实测和开发者工作流，持续构建中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/majiayu000",
+                "end": 23,
+                "expanded_url": "https://github.com/majiayu000",
+                "start": 0,
+                "url": "https://t.co/ufi5xk9Iy2"
+              }
+            ]
+          }
+        },
+        "id": "1486017329662423044",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096670048140378300",
+        "name": "lifcc",
+        "pinned_tweet_id": "2053385535658533072",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1486017329662423044/1778929715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034239213487681536/2gjQXlXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8113,
+          "following_count": 274,
+          "like_count": 6034,
+          "listed_count": 65,
+          "media_count": 1135,
+          "tweet_count": 13452
+        },
+        "url": "https://t.co/ufi5xk9Iy2",
+        "username": "mylifcc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

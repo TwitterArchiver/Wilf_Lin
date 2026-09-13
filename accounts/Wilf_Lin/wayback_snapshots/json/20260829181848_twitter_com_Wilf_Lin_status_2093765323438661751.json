@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2093620754416062918",
+    "created_at": "2026-08-29T18:18:48.000Z",
+    "display_text_range": [
+      19,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T19:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093765323438661751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3306596642",
+          "start": 0,
+          "username": "xjasonlyu"
+        },
+        {
+          "end": 18,
+          "id": "1206800829950259202",
+          "start": 11,
+          "username": "m1ssuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093765323438661751",
+    "in_reply_to_user_id": "3306596642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093751274202095801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xjasonlyu @m1ssuo 对pro来说他得功率太小了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2093620754416062918",
+        "created_at": "2026-08-29T18:18:48.000Z",
+        "display_text_range": [
+          19,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T19:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093765323438661751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3306596642",
+              "start": 0,
+              "username": "xjasonlyu"
+            },
+            {
+              "end": 18,
+              "id": "1206800829950259202",
+              "start": 11,
+              "username": "m1ssuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093765323438661751",
+        "in_reply_to_user_id": "3306596642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093751274202095801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xjasonlyu @m1ssuo 对pro来说他得功率太小了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3306596642",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1717672666507730944",
+              "name": "Apple Event"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Macbook",
+              "id": "972168210182111232",
+              "name": "Apple Macbook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2093620754416062918",
+        "created_at": "2026-08-29T17:22:58.000Z",
+        "display_text_range": [
+          8,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T18:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093751274202095801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1206800829950259202",
+              "start": 0,
+              "username": "m1ssuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093751274202095801",
+        "in_reply_to_user_id": "1206800829950259202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093620754416062918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1ssuo 我看他的兼容列表里没有macbook pro？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2093765323438661751",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 2086,
+          "like_count": 107063,
+          "listed_count": 4,
+          "media_count": 506,
+          "tweet_count": 10252
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-08-05T04:25:51.000Z",
+        "description": "What's next?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/xjasonlyu",
+                "end": 23,
+                "expanded_url": "https://github.com/xjasonlyu",
+                "start": 0,
+                "url": "https://t.co/2gHeUHy9Hs"
+              }
+            ]
+          }
+        },
+        "id": "3306596642",
+        "is_identity_verified": false,
+        "location": "🍁 Maple du Canada",
+        "most_recent_tweet_id": "2093751274202095801",
+        "name": "Jason Lyu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3306596642/1712675520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945334272140750848/FkMc8Low_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3244,
+          "following_count": 936,
+          "like_count": 6796,
+          "listed_count": 16,
+          "media_count": 258,
+          "tweet_count": 6926
+        },
+        "url": "https://t.co/2gHeUHy9Hs",
+        "username": "xjasonlyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-12-17T04:58:40.000Z",
+        "description": "Founder of @OwO_Network | Operator of AS-OWONET (AS30700, AS60614, etc.) | #WWDC24 | #BGP | https://t.co/aPrcdNK9vL",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 75,
+                "tag": "WWDC24"
+              },
+              {
+                "end": 89,
+                "start": 85,
+                "tag": "BGP"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "OwO_Network"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/missuo",
+                "end": 115,
+                "expanded_url": "http://github.com/missuo",
+                "start": 92,
+                "url": "https://t.co/aPrcdNK9vL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "s.ee/missuo",
+                "end": 23,
+                "expanded_url": "https://s.ee/missuo",
+                "start": 0,
+                "url": "https://t.co/eSu3UJUgem"
+              }
+            ]
+          }
+        },
+        "id": "1206800829950259202",
+        "is_identity_verified": true,
+        "location": "Pittsburgh, PA",
+        "most_recent_tweet_id": "2093753815296356456",
+        "name": "Vincent Yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1206800829950259202/1726346064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589233256175923202/CsyqQfsK_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11751,
+          "following_count": 1436,
+          "like_count": 15280,
+          "listed_count": 87,
+          "media_count": 1289,
+          "tweet_count": 7278
+        },
+        "url": "https://t.co/eSu3UJUgem",
+        "username": "m1ssuo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2093862225002070099",
+    "created_at": "2026-08-30T02:46:34.000Z",
+    "display_text_range": [
+      11,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T03:46:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093893107435647094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1265957219612258307",
+          "start": 0,
+          "username": "ewind_dev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093893107435647094",
+    "in_reply_to_user_id": "1265957219612258307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093862225002070099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ewind_dev 你可以把hyprland配成和win/mac几乎一样的样式的，你只需要默认float再加一个hyprbar插件"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1634,
+        "media_key": "3_2093862215753601024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ7kl2qbEAAlVtm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2093862225002070099",
+        "created_at": "2026-08-30T02:46:34.000Z",
+        "display_text_range": [
+          11,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T03:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093893107435647094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1265957219612258307",
+              "start": 0,
+              "username": "ewind_dev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093893107435647094",
+        "in_reply_to_user_id": "1265957219612258307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093862225002070099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ewind_dev 你可以把hyprland配成和win/mac几乎一样的样式的，你只需要默认float再加一个hyprbar插件"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093862215753601024"
+          ]
+        },
+        "author_id": "1265957219612258307",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2093862225002070099",
+        "created_at": "2026-08-30T00:43:51.000Z",
+        "display_text_range": [
+          0,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T01:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093862225002070099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NjHtW1nkUK",
+              "end": 179,
+              "expanded_url": "https://x.com/ewind_dev/status/2093862225002070099/photo/1",
+              "media_key": "3_2093862215753601024",
+              "start": 156,
+              "url": "https://t.co/NjHtW1nkUK"
+            },
+            {
+              "display_url": "x.com/dhh/status/209…",
+              "end": 203,
+              "expanded_url": "https://twitter.com/dhh/status/2093401515977580644",
+              "start": 180,
+              "url": "https://t.co/aF9CsHaKGJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093862225002070099",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093862215753601024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2783,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093401515977580644",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我体验了 Omarchy 两天，可以说非常痛苦，但我已经很确定桌面 OS 需要这样的变革者。\n\n在 Omarchy 上我可以看到某种未来。这和 tiling window 的 UX 无关（说实话我非常不习惯），更关乎软件创作的平权。\n\n我相信未来每个人都将会编程创造。一等公民的终端和插件是通向这个未来的基石。 https://t.co/NjHtW1nkUK https://t.co/aF9CsHaKGJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2093893107435647094",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 2092,
+          "like_count": 107611,
+          "listed_count": 4,
+          "media_count": 510,
+          "tweet_count": 10288
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-28T10:45:06.000Z",
+        "description": "Creator @pocket_js @sheruapp / ex @lovart_ai / cofounded @AffineOfficial / aka 雪碧 / INTP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "pocket_js"
+              },
+              {
+                "end": 28,
+                "start": 19,
+                "username": "sheruapp"
+              },
+              {
+                "end": 44,
+                "start": 34,
+                "username": "lovart_ai"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "AffineOfficial"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/doodlewind",
+                "end": 23,
+                "expanded_url": "https://github.com/doodlewind",
+                "start": 0,
+                "url": "https://t.co/gRTdn1DfOs"
+              }
+            ]
+          }
+        },
+        "id": "1265957219612258307",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2093887575148925006",
+        "name": "Yifeng \"Evan\" Wang",
+        "pinned_tweet_id": "2073954581017698454",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1265957219612258307/1784415435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949275362262913024/r3t_A4R2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14587,
+          "following_count": 1547,
+          "like_count": 8981,
+          "listed_count": 115,
+          "media_count": 462,
+          "tweet_count": 2206
+        },
+        "url": "https://t.co/gRTdn1DfOs",
+        "username": "ewind_dev",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

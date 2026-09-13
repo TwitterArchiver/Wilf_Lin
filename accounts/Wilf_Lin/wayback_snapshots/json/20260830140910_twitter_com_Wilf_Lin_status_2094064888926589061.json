@@ -1,0 +1,456 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2094064888926589061",
+    "created_at": "2026-08-30T14:09:10.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T15:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094064888926589061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/localhost_4173…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/localhost_4173/status/2093922812474114075",
+          "start": 14,
+          "url": "https://t.co/UnWAiupiQi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094064888926589061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093922812474114075",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在你内存足够的情况下，是的 https://t.co/UnWAiupiQi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2094064888926589061",
+        "created_at": "2026-08-30T14:09:10.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094064888926589061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/localhost_4173…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/localhost_4173/status/2093922812474114075",
+              "start": 14,
+              "url": "https://t.co/UnWAiupiQi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094064888926589061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093922812474114075",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在你内存足够的情况下，是的 https://t.co/UnWAiupiQi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "974517717200875529",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2093922812474114075",
+        "created_at": "2026-08-30T04:44:36.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T05:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093922812474114075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1812232092018741248",
+              "start": 17,
+              "username": "zen_browser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093922812474114075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4120,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Linux 上最好的浏览器可能是 @zen_browser 了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2094064888926589061",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 2088,
+          "like_count": 107772,
+          "listed_count": 4,
+          "media_count": 510,
+          "tweet_count": 10297
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-03-16T05:28:24.000Z",
+        "description": "building https://t.co/CjrW0kKd04 / https://t.co/YFXvi1JSh9 / https://t.co/KNYk8uHJWu / https://t.co/z8hIRnXhKX\n\nalt: @localhost_5173",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 117,
+                "username": "localhost_5173"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "chatwise.app",
+                "end": 32,
+                "expanded_url": "http://chatwise.app",
+                "start": 9,
+                "url": "https://t.co/CjrW0kKd04"
+              },
+              {
+                "display_url": "kero.sh",
+                "end": 58,
+                "expanded_url": "http://kero.sh",
+                "start": 35,
+                "url": "https://t.co/YFXvi1JSh9"
+              },
+              {
+                "display_url": "waku.sh",
+                "end": 84,
+                "expanded_url": "http://waku.sh",
+                "start": 61,
+                "url": "https://t.co/KNYk8uHJWu"
+              },
+              {
+                "display_url": "screenflare.app",
+                "end": 110,
+                "expanded_url": "http://screenflare.app",
+                "start": 87,
+                "url": "https://t.co/z8hIRnXhKX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egoist.dev",
+                "end": 23,
+                "expanded_url": "http://egoist.dev",
+                "start": 0,
+                "url": "https://t.co/X9ykX2Sp6O"
+              }
+            ]
+          }
+        },
+        "id": "974517717200875529",
+        "is_identity_verified": false,
+        "location": "套壳之父",
+        "most_recent_tweet_id": "2094043488124059998",
+        "name": "低空飞行",
+        "pinned_tweet_id": "2092952299589292213",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/974517717200875529/1765366266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046898583031664640/tyEq8TiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13921,
+          "following_count": 544,
+          "like_count": 26885,
+          "listed_count": 171,
+          "media_count": 2883,
+          "tweet_count": 8847
+        },
+        "url": "https://t.co/X9ykX2Sp6O",
+        "username": "localhost_4173",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

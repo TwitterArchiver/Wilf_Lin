@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2094331662871965947",
+    "created_at": "2026-08-31T07:49:13.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T08:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094331662871965947"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maxforai/statu…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/maxforai/status/2094288880564605061",
+          "start": 46,
+          "url": "https://t.co/9JiMxrLwLN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094331662871965947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094288880564605061",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以我会用多模态大语言模型对训练素材进行框选，然后送去训练优yolo\n\n比人工框选方便多了 https://t.co/9JiMxrLwLN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2094331662871965947",
+        "created_at": "2026-08-31T07:49:13.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T08:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094331662871965947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maxforai/statu…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/maxforai/status/2094288880564605061",
+              "start": 46,
+              "url": "https://t.co/9JiMxrLwLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094331662871965947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094288880564605061",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我会用多模态大语言模型对训练素材进行框选，然后送去训练优yolo\n\n比人工框选方便多了 https://t.co/9JiMxrLwLN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699797396589588480",
+        "conversation_id": "2094288880564605061",
+        "created_at": "2026-08-31T04:59:13.000Z",
+        "display_text_range": [
+          0,
+          172
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T05:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094288880564605061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BenjaminDEKR/s…",
+              "end": 196,
+              "expanded_url": "https://twitter.com/BenjaminDEKR/status/2094061959431778482",
+              "start": 173,
+              "url": "https://t.co/I5XSRpxsxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094288880564605061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 234,
+                "id": "1594119001684299781",
+                "start": 221,
+                "username": "BenjaminDEKR"
+              }
+            ]
+          },
+          "text": "笑死，一件号称能让人从 AI 监控里隐身的衣服，刚被 Gemini 当场识破了🤣\n\n这件 Digital Camouflage 衬衫，是德国艺术家、技术创作者 Simon Weckert 做的。\n\n他专门设计了一套对抗性图案，用来干扰 YOLO 这类目标检测模型，让摄像头识别不到穿衣服的人。\n\nSimon 之前还干过一件很出名的事：拉着 99 台手机在柏林街头走，硬是把 Google Maps 骗出了交通堵塞。\n\n结果前 xAI 工程师 @BenjaminDEKR  把同一张照片丢给 Gemini 3.1 Flash，让它框出所有人。\n\nGemini 一个没漏，连穿隐身衣的哥们都框得端端正正。\n\nBenjamin 最后还不忘补一刀：兄弟，最好把衬衫退了。\n\n很典型，你可能骗过了一个模型，但换个模型，人类又现形了。\n\n这就是VLM和CV的区别（\n\n看起来我们多模态的家人们还有生路🤣"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7295,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094061959431778482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死，一件号称能让人从 AI 监控里隐身的衣服，刚被 Gemini 当场识破了🤣\n\n这件 Digital Camouflage 衬衫，是德国艺术家、技术创作者 Simon Weckert 做的。\n\n他专门设计了一套对抗性图案，用来干扰 YOLO 这类目标检测模型，让摄像头识别不到穿衣服的人。\n\nSimon 之前还干过一件很出名的事：拉着 99 https://t.co/I5XSRpxsxs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2094331662871965947",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 2091,
+          "like_count": 108757,
+          "listed_count": 4,
+          "media_count": 517,
+          "tweet_count": 10380
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2038488993130848256/PyVXwans_bigger.jpg",
+          "description": "LobeHub",
+          "url": "https://twitter.com/lobehub",
+          "user_id": [
+            "1707003452700930048"
+          ]
+        },
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "Head of growth @lobehub（81K🌟）\nPrev @listenhub @Sapient_Int \n\n本科辍学创业\n没啥好看的，也就发点AI相关的内容🫡\n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n\n更多请访问网站⬇️（欢迎商务、合作",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 15,
+                "username": "lobehub"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "listenhub"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6eGp0"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2094325064816804287",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2086799688666382808",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699797396589588480/1777493285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33871,
+          "following_count": 2827,
+          "like_count": 23180,
+          "listed_count": 294,
+          "media_count": 1553,
+          "tweet_count": 10656
+        },
+        "url": "https://t.co/Sl0Wv6eGp0",
+        "username": "MaxForAI",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2091194172917338520",
+    "created_at": "2026-08-23T03:51:41.000Z",
+    "display_text_range": [
+      13,
+      211
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T04:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091372782206800160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "8238522",
+          "start": 0,
+          "username": "SteveMoraco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091372782206800160",
+    "in_reply_to_user_id": "8238522",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091194172917338520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SteveMoraco You agrre with the legal document and installed the plugin, you give it the right permission for read data, you choose to exchange your privicy for convinence, how can you blame anyone else on this?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2091194172917338520",
+        "created_at": "2026-08-23T03:51:41.000Z",
+        "display_text_range": [
+          13,
+          211
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T04:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091372782206800160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "8238522",
+              "start": 0,
+              "username": "SteveMoraco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091372782206800160",
+        "in_reply_to_user_id": "8238522",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091194172917338520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SteveMoraco You agrre with the legal document and installed the plugin, you give it the right permission for read data, you choose to exchange your privicy for convinence, how can you blame anyone else on this?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "8238522",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347260913552789506",
+              "name": "Apple iMessage"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2091194172917338520",
+        "created_at": "2026-08-22T16:01:57.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091194172917338520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chatgpt/status…",
+              "end": 303,
+              "expanded_url": "https://twitter.com/chatgpt/status/2090499359641329950",
+              "start": 280,
+              "url": "https://t.co/liEqA3EsZd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091194172917338520",
+        "lang": "en",
+        "note_request_suggestions": [
+          {
+            "suggestion": "Apple didn’t allow any of this and is exactly the reason why this app isn’t in the App Store",
+            "suggestion_id": "2091316123580911900"
+          },
+          {
+            "suggestion": "access needs to be granted ",
+            "suggestion_id": "2091346001688723924"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "I’m actually pretty upset Apple allowed this. While the feature is cool, the technical functionality that enables it is not cool. \n\nIf I was Tim Apple, OAI would be temporarily banned from the App Store until this is reversed, and here’s why:\n\nI use iMessage because it’s quantum encrypted, with server keys I can own. Local caches are on devices that are encrypted with my passwords, not apples keys. \n\nThis makes it and computationally and legally impossible for anyone else to access chat history but the people I trust and directly communicated with.\n\nBut *now* the copies of my messages from years ago on *anyones* laptop in what is *supposed* to be an encrypted-at-rest local cache only can now be fetched directly by chatgpt without my permission or even knowledge and stored and processed in plain text forever on openai / Microsoft servers unencrypted and requested by any government entity at a moments notice without my knowledge and openai/Microsoft legally have to provide that, in federally enforced total secrecy. And they’re never legally allowed to admit they do it.\n\nAND because of default chatgpt settings most people haven’t bothered to turn off, all those private texts can now be used for training and will end up in the weights of future models, so all future AI models will permanently know all of our private lives as a part of the weights, immortalized forever as training checkpoints.\n\nTotal architecture abandonment and user trust betrayal on Apples part. This should be the most viral story of 2026 by 100x. The permanent end of private communication in the US."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1208,
+          "impression_count": 710286,
+          "like_count": 4184,
+          "quote_count": 52,
+          "reply_count": 196,
+          "retweet_count": 469
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090499359641329950",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I’m actually pretty upset Apple allowed this. While the feature is cool, the technical functionality that enables it is not cool. \n\nIf I was Tim Apple, OAI would be temporarily banned from the App Store until this is reversed, and here’s why:\n\nI use iMessage because it’s quantum https://t.co/liEqA3EsZd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2091372782206800160",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 2051,
+          "like_count": 104848,
+          "listed_count": 4,
+          "media_count": 485,
+          "tweet_count": 10077
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-08-17T03:43:42.000Z",
+        "description": "Trína chéile; Le chéile, claochlaithe \n\nphotographer, artist \n\nbuilding so more people can spend more time outside \n(i have enough followers, go away lol)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "howaishouldwork.com",
+                "end": 23,
+                "expanded_url": "http://howaishouldwork.com",
+                "start": 0,
+                "url": "https://t.co/FAP3QCHXGx"
+              }
+            ]
+          }
+        },
+        "id": "8238522",
+        "is_identity_verified": false,
+        "location": "the rectangular republic",
+        "most_recent_tweet_id": "2091343756817797433",
+        "name": "steve",
+        "pinned_tweet_id": "2073628479283998910",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/8238522/1757610650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931427365709828096/CUTHmLCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14463,
+          "following_count": 15790,
+          "like_count": 186255,
+          "listed_count": 334,
+          "media_count": 9617,
+          "tweet_count": 68260
+        },
+        "url": "https://t.co/FAP3QCHXGx",
+        "username": "SteveMoraco",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

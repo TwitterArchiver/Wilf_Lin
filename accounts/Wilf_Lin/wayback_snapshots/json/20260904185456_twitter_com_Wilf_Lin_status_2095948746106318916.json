@@ -1,0 +1,559 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095678079045709825"
+      ],
+      "media_source_tweet_id": [
+        "2095678256355684488"
+      ]
+    },
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1575492091660054532",
+          "name": "Countdown"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Berlin",
+          "id": "855410510082080770",
+          "name": "Berlin"
+        }
+      }
+    ],
+    "conversation_id": "2095948746106318916",
+    "created_at": "2026-09-04T18:54:56.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T19:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095948746106318916"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 70,
+          "start": 55,
+          "tag": "Xiaomithemoney"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "43349743",
+          "start": 3,
+          "username": "leixing77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gp8zRYh760",
+          "end": 94,
+          "expanded_url": "https://x.com/leixing77/status/2095678256355684488/photo/1",
+          "media_key": "3_2095678079045709825",
+          "start": 71,
+          "url": "https://t.co/Gp8zRYh760"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095948746106318916",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2095678079045709825"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095678256355684488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @leixing77: There it is.\n\nThe countdown has begun.\n\n#Xiaomithemoney https://t.co/Gp8zRYh760"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1256,
+        "media_key": "3_2095678079045709825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRVYHAkXsAEjM-1.jpg",
+        "width": 2432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095678079045709825"
+          ],
+          "media_source_tweet_id": [
+            "2095678256355684488"
+          ]
+        },
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1575492091660054532",
+              "name": "Countdown"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Berlin",
+              "id": "855410510082080770",
+              "name": "Berlin"
+            }
+          }
+        ],
+        "conversation_id": "2095948746106318916",
+        "created_at": "2026-09-04T18:54:56.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T19:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095948746106318916"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 55,
+              "tag": "Xiaomithemoney"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "43349743",
+              "start": 3,
+              "username": "leixing77"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gp8zRYh760",
+              "end": 94,
+              "expanded_url": "https://x.com/leixing77/status/2095678256355684488/photo/1",
+              "media_key": "3_2095678079045709825",
+              "start": 71,
+              "url": "https://t.co/Gp8zRYh760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095948746106318916",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095678079045709825"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095678256355684488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @leixing77: There it is.\n\nThe countdown has begun.\n\n#Xiaomithemoney https://t.co/Gp8zRYh760"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095678079045709825"
+          ]
+        },
+        "author_id": "43349743",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1575492091660054532",
+              "name": "Countdown"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Berlin",
+              "id": "855410510082080770",
+              "name": "Berlin"
+            }
+          }
+        ],
+        "conversation_id": "2095678256355684488",
+        "created_at": "2026-09-04T01:00:06.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T02:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095678256355684488"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 40,
+              "tag": "Xiaomithemoney"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gp8zRYh760",
+              "end": 79,
+              "expanded_url": "https://x.com/leixing77/status/2095678256355684488/photo/1",
+              "media_key": "3_2095678079045709825",
+              "start": 56,
+              "url": "https://t.co/Gp8zRYh760"
+            },
+            {
+              "display_url": "x.com/xiaomiauto_/st…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/xiaomiauto_/status/2095483505983824243",
+              "start": 80,
+              "url": "https://t.co/lS0l6zkrid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095678256355684488",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095678079045709825"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 12346,
+          "like_count": 249,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095483505983824243",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "There it is.\n\nThe countdown has begun.\n\n#Xiaomithemoney https://t.co/Gp8zRYh760 https://t.co/lS0l6zkrid"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2095948746106318916",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 2116,
+          "like_count": 111295,
+          "listed_count": 4,
+          "media_count": 528,
+          "tweet_count": 10485
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-05-29T15:27:54.000Z",
+        "description": "Co-host @ChinaEVsandMore | Founder of AutoXing车邢 | Former Chief Editor of ChinaAutoReview | China auto/EV/AV/mobility enthusiast https://t.co/sWPS02wGiG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "ChinaEVsandMore"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/leixing77",
+                "end": 152,
+                "expanded_url": "http://youtube.com/leixing77",
+                "start": 129,
+                "url": "https://t.co/sWPS02wGiG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chinaevsandmore.buzzsprout.com",
+                "end": 23,
+                "expanded_url": "https://chinaevsandmore.buzzsprout.com/",
+                "start": 0,
+                "url": "https://t.co/5CoVVkAd9J"
+              }
+            ]
+          }
+        },
+        "id": "43349743",
+        "is_identity_verified": false,
+        "location": "Massachusetts, USA",
+        "most_recent_tweet_id": "2095908680373817382",
+        "name": "Lei 𝕏ing邢磊",
+        "pinned_tweet_id": "2095170283996872725",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/43349743/1622238646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091608187963097088/o_vTudJI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10426,
+          "following_count": 2158,
+          "like_count": 7452,
+          "listed_count": 188,
+          "media_count": 5679,
+          "tweet_count": 18817
+        },
+        "url": "https://t.co/5CoVVkAd9J",
+        "username": "leixing77",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

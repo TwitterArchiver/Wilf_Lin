@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2096690843428241434",
+    "created_at": "2026-09-07T09:11:31.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T10:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096889088368386492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1044577084759298048",
+          "start": 0,
+          "username": "aadilpickle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096889088368386492",
+    "in_reply_to_user_id": "1044577084759298048",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096690843428241434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aadilpickle ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43266,
+        "height": 1820,
+        "media_key": "13_2096690771193962496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096690771193962496/img/3Vv9FmEmoK9qtHfn.jpg",
+        "public_metrics": {
+          "view_count": 23896
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096690771193962496/vid/avc1/480x640/vqtZRD4yO09isrzD.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096690771193962496/vid/avc1/320x426/dRZxQoGR4gkytq3d.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096690771193962496/vid/avc1/1364x1820/jGeaoieMkec_5nzA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096690771193962496/vid/avc1/720x960/42iq130vozGSEBum.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096690771193962496/pl/qJTPD15GVBBYkWB1.m3u8"
+          }
+        ],
+        "width": 1364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2096690843428241434",
+        "created_at": "2026-09-07T09:11:31.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T10:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096889088368386492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1044577084759298048",
+              "start": 0,
+              "username": "aadilpickle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096889088368386492",
+        "in_reply_to_user_id": "1044577084759298048",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096690843428241434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aadilpickle ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096690771193962496"
+          ]
+        },
+        "author_id": "1044577084759298048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Caricature & Portrait",
+              "id": "1037077233070821376",
+              "name": "Caricature and portrait"
+            }
+          }
+        ],
+        "conversation_id": "2096690843428241434",
+        "created_at": "2026-09-06T20:03:46.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T21:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096690843428241434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QaNeIFLIoF",
+              "end": 72,
+              "expanded_url": "https://x.com/aadilpickle/status/2096690843428241434/video/1",
+              "media_key": "13_2096690771193962496",
+              "start": 49,
+              "url": "https://t.co/QaNeIFLIoF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096690843428241434",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2096690771193962496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 48428,
+          "like_count": 802,
+          "quote_count": 13,
+          "reply_count": 23,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "asked gpt6 to draw a portrait in google calendar https://t.co/QaNeIFLIoF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2096889088368386492",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 2138,
+          "like_count": 114226,
+          "listed_count": 4,
+          "media_count": 538,
+          "tweet_count": 10653
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-09-25T13:19:19.000Z",
+        "description": "philosopher comedian · writing @sfalexandria_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "sfalexandria_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aadillpickle.com",
+                "end": 23,
+                "expanded_url": "http://aadillpickle.com",
+                "start": 0,
+                "url": "https://t.co/BvdmLAYkqP"
+              }
+            ]
+          }
+        },
+        "id": "1044577084759298048",
+        "is_identity_verified": false,
+        "location": "San Francisco, California",
+        "most_recent_tweet_id": "2096866834767384987",
+        "name": "aadilpickle",
+        "pinned_tweet_id": "2090900350949847269",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1044577084759298048/1705172776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872543544952692736/6SqbS4aL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6521,
+          "following_count": 1126,
+          "like_count": 8609,
+          "listed_count": 54,
+          "media_count": 701,
+          "tweet_count": 6603
+        },
+        "url": "https://t.co/BvdmLAYkqP",
+        "username": "aadilpickle",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

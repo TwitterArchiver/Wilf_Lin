@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2091560823395086605",
+    "created_at": "2026-08-24T08:27:59.000Z",
+    "display_text_range": [
+      13,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T09:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091804700592972056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2059149475503833088",
+          "start": 0,
+          "username": "GrokInsider"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091804700592972056",
+    "in_reply_to_user_id": "2059149475503833088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091560823395086605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GrokInsider 基本上就是这样的，DHH给你“主厨推荐”的一整套东西加一个edge仓库\n\n但这正是目前Linux最缺的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2091560823395086605",
+        "created_at": "2026-08-24T08:27:59.000Z",
+        "display_text_range": [
+          13,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T09:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091804700592972056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2059149475503833088",
+              "start": 0,
+              "username": "GrokInsider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091804700592972056",
+        "in_reply_to_user_id": "2059149475503833088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091560823395086605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrokInsider 基本上就是这样的，DHH给你“主厨推荐”的一整套东西加一个edge仓库\n\n但这正是目前Linux最缺的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149475503833088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2091560823395086605",
+        "created_at": "2026-08-23T16:18:54.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091560823395086605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dhh/status/209…",
+              "end": 300,
+              "expanded_url": "https://twitter.com/dhh/status/2090831582596591872",
+              "start": 277,
+              "url": "https://t.co/mU6GlOMjNg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091560823395086605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Correct me if I’m wrong, but Omarchy is just an Arch installer + a Hyprland rice + DHH’s favorite apps preinstalled.\n\nHow is that better than grabbing a solid rice from r/unixporn and asking an AI to set it up?\n\nThey’re selling the “AI-first OS” angle hard, yet AI can already debug, install packages and configure systems on any Linux distro. Nothing unique there.\n\nAnd the big claim about preventing the classic “update broke my system” problem? \nThey’re relying on Btrfs/Snapper snapshots (the same approach openSUSE has used for years)… while NixOS (a real OS btw) solved it more comprehensively with atomic generations.\n\nIs there actually something substantial here, or is it mostly hype?"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 288,
+          "impression_count": 204486,
+          "like_count": 969,
+          "quote_count": 37,
+          "reply_count": 311,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090831582596591872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Correct me if I’m wrong, but Omarchy is just an Arch installer + a Hyprland rice + DHH’s favorite apps preinstalled.\n\nHow is that better than grabbing a solid rice from r/unixporn and asking an AI to set it up?\n\nThey’re selling the “AI-first OS” angle hard, yet AI can already https://t.co/mU6GlOMjNg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2091804700592972056",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 2057,
+          "like_count": 105170,
+          "listed_count": 4,
+          "media_count": 488,
+          "tweet_count": 10101
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:53:47.000Z",
+        "description": "Newest updates on X, xAI and Grok.\n\nhttps://t.co/ho2prp6hC5 👀",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "desktop.grok.me",
+                "end": 59,
+                "expanded_url": "https://desktop.grok.me",
+                "start": 36,
+                "url": "https://t.co/ho2prp6hC5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grokinsider.net",
+                "end": 23,
+                "expanded_url": "https://grokinsider.net/",
+                "start": 0,
+                "url": "https://t.co/ww3ZXyRwMu"
+              }
+            ]
+          }
+        },
+        "id": "2059149475503833088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091804380425060417",
+        "name": "Puck",
+        "pinned_tweet_id": "2091560823395086605",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149475503833088/1784769887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083146030875320320/FlN4WKjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5136,
+          "following_count": 187,
+          "like_count": 1394,
+          "listed_count": 37,
+          "media_count": 258,
+          "tweet_count": 1241
+        },
+        "url": "https://t.co/ww3ZXyRwMu",
+        "username": "GrokInsider",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

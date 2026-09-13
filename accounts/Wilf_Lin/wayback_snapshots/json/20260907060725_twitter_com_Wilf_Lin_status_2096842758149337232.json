@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2096838845849534780",
+    "created_at": "2026-09-07T06:07:25.000Z",
+    "display_text_range": [
+      10,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T07:07:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096842758149337232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1700419419896446976",
+          "start": 0,
+          "username": "ringoo95"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096842758149337232",
+    "in_reply_to_user_id": "1700419419896446976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096842124767772977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ringoo95 压缩一般是由原来进行这个对话的模型进行，通常不会有一个专门的小模型负责压缩，因为一般是在对话的过程中需要进行压缩，此时原来的模型已经拥有了cache，那么切换到另一个模型是不值得的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2096838845849534780",
+        "created_at": "2026-09-07T06:07:25.000Z",
+        "display_text_range": [
+          10,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T07:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096842758149337232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1700419419896446976",
+              "start": 0,
+              "username": "ringoo95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096842758149337232",
+        "in_reply_to_user_id": "1700419419896446976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096842124767772977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ringoo95 压缩一般是由原来进行这个对话的模型进行，通常不会有一个专门的小模型负责压缩，因为一般是在对话的过程中需要进行压缩，此时原来的模型已经拥有了cache，那么切换到另一个模型是不值得的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700419419896446976",
+        "conversation_id": "2096838845849534780",
+        "created_at": "2026-09-07T06:04:54.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T07:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096842124767772977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554803647909097472",
+              "start": 0,
+              "username": "Wilf_Lin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096842124767772977",
+        "in_reply_to_user_id": "1554803647909097472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096841830184759339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wilf_Lin 压缩总要用其他小模型吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2096842758149337232",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 2136,
+          "like_count": 113918,
+          "listed_count": 4,
+          "media_count": 536,
+          "tweet_count": 10631
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-09T08:02:49.000Z",
+        "description": "//成分复杂\n当朋友圈发\nagent is cool i guess\n\nBuilding https://t.co/U9guGDNBzO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yachiyo.ringo.sh",
+                "end": 68,
+                "expanded_url": "https://yachiyo.ringo.sh/",
+                "start": 45,
+                "url": "https://t.co/U9guGDNBzO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ringo.sh",
+                "end": 23,
+                "expanded_url": "https://ringo.sh/",
+                "start": 0,
+                "url": "https://t.co/bQqK0bkZll"
+              }
+            ]
+          }
+        },
+        "id": "1700419419896446976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096842124767772977",
+        "name": "企鹅罐中的苹果",
+        "pinned_tweet_id": "2038528827878715816",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1700419419896446976/1771611855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068611561732870144/h0iL_G2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 1566,
+          "like_count": 10955,
+          "listed_count": 0,
+          "media_count": 384,
+          "tweet_count": 967
+        },
+        "url": "https://t.co/bQqK0bkZll",
+        "username": "ringoo95",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

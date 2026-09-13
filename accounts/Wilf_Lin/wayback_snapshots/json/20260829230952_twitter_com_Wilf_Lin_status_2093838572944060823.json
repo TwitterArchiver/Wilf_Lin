@@ -1,0 +1,543 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2093838572944060823",
+    "created_at": "2026-08-29T23:09:52.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T00:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093838572944060823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "812737065767096320",
+          "start": 0,
+          "username": "vaxryy"
+        },
+        {
+          "end": 41,
+          "id": "14561327",
+          "start": 37,
+          "username": "dhh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/ryanrhughes/st…",
+          "end": 106,
+          "expanded_url": "https://twitter.com/ryanrhughes/status/2093721524477857850",
+          "start": 83,
+          "url": "https://t.co/YNm2UHb8NR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093838572944060823",
+    "in_reply_to_user_id": "812737065767096320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093721524477857850",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vaxryy 为我们带来了一个几乎可以自定义成任何样子的桌面环境\n\n然后@dhh 设计了一份优秀的初始设置，给hyprland和linux带来了数量前所未有的用户 https://t.co/YNm2UHb8NR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44416,
+        "height": 2160,
+        "media_key": "13_2093721386774614016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093721386774614016/img/ut9nTQOdDNZ4oEEA.jpg",
+        "public_metrics": {
+          "view_count": 55737
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093721386774614016/pl/7zTRL_ER4HNC5nu7.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093721386774614016/vid/avc1/480x270/0kmynoleV8D6ObJ3.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093721386774614016/vid/avc1/1920x1080/rFAebCMGmoOJ0Hsg.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093721386774614016/vid/avc1/3840x2160/vQ8bRmqRyW4Uyw0d.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093721386774614016/vid/avc1/1280x720/6ia5W5ycZzkhPKvV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093721386774614016/vid/avc1/640x360/xhSkuccu4Nzq5CgX.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2093838572944060823",
+        "created_at": "2026-08-29T23:09:52.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T00:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093838572944060823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "812737065767096320",
+              "start": 0,
+              "username": "vaxryy"
+            },
+            {
+              "end": 41,
+              "id": "14561327",
+              "start": 37,
+              "username": "dhh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ryanrhughes/st…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/ryanrhughes/status/2093721524477857850",
+              "start": 83,
+              "url": "https://t.co/YNm2UHb8NR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093838572944060823",
+        "in_reply_to_user_id": "812737065767096320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093721524477857850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vaxryy 为我们带来了一个几乎可以自定义成任何样子的桌面环境\n\n然后@dhh 设计了一份优秀的初始设置，给hyprland和linux带来了数量前所未有的用户 https://t.co/YNm2UHb8NR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093721386774614016"
+          ]
+        },
+        "author_id": "16400176",
+        "conversation_id": "2093721524477857850",
+        "created_at": "2026-08-29T15:24:45.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T16:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093721524477857850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWtsiBlpMm",
+              "end": 39,
+              "expanded_url": "https://x.com/ryanrhughes/status/2093721524477857850/video/1",
+              "media_key": "13_2093721386774614016",
+              "start": 16,
+              "url": "https://t.co/vWtsiBlpMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093721524477857850",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2093721386774614016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 149598,
+          "like_count": 592,
+          "quote_count": 19,
+          "reply_count": 83,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "Meet Omarchy XP https://t.co/vWtsiBlpMm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2093838572944060823",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 2087,
+          "like_count": 107297,
+          "listed_count": 3,
+          "media_count": 508,
+          "tweet_count": 10270
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-12-24T19:09:51.000Z",
+        "description": "Either your favorite, or your least favorite desktop Linux developer. I make Hyprland and other stuff-\n\nSegmentation fault (core dumped)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vaxry.net",
+                "end": 23,
+                "expanded_url": "https://vaxry.net",
+                "start": 0,
+                "url": "https://t.co/3qkfFVp4v8"
+              }
+            ]
+          }
+        },
+        "id": "812737065767096320",
+        "is_identity_verified": false,
+        "location": "Poland",
+        "most_recent_tweet_id": "2093809778371834138",
+        "name": "vaxry",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/812737065767096320/1715117590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787959548474540032/yjyBDXjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26328,
+          "following_count": 93,
+          "like_count": 9309,
+          "listed_count": 97,
+          "media_count": 1761,
+          "tweet_count": 12747
+        },
+        "url": "https://t.co/3qkfFVp4v8",
+        "username": "vaxryy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-09-22T05:21:55.000Z",
+        "description": "Partner @ Oodle (@HeyOodle), Omarchy Maintainer, Husband, Tech Enthusiast, Digital Marketing Innovator, Gamer, 3D Printer, & dog dad.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "HeyOodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ryanhughes.me",
+                "end": 23,
+                "expanded_url": "http://ryanhughes.me",
+                "start": 0,
+                "url": "https://t.co/HfqQsgpQOB"
+              }
+            ]
+          }
+        },
+        "id": "16400176",
+        "is_identity_verified": false,
+        "location": "Fort Lauderdale, FL",
+        "most_recent_tweet_id": "2093830985049649334",
+        "name": "Ryan R. Hughes",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16400176/1700688187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951708118032777217/O0-Ee4BZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4714,
+          "following_count": 483,
+          "like_count": 5305,
+          "listed_count": 93,
+          "media_count": 350,
+          "tweet_count": 5122
+        },
+        "url": "https://t.co/HfqQsgpQOB",
+        "username": "ryanrhughes",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1671940407633010689/9P5gi6LF_bigger.jpg",
+          "description": "37signals",
+          "url": "https://twitter.com/37signals",
+          "user_id": [
+            "11132462"
+          ]
+        },
+        "created_at": "2008-04-27T20:19:25.000Z",
+        "description": "Father of three, Creator of Ruby on Rails + Omarchy, Co-owner & CTO of 37signals, Shopify director, NYT best-selling author, and Le Mans 24h class-winner.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dhh.dk",
+                "end": 23,
+                "expanded_url": "https://dhh.dk",
+                "start": 0,
+                "url": "https://t.co/jtVPVMmMQT"
+              }
+            ]
+          }
+        },
+        "id": "14561327",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2093791720722829459",
+        "name": "DHH",
+        "pinned_tweet_id": "2088304854603047019",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14561327/1787910890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093715898204884992/goERjC9G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852024,
+          "following_count": 317,
+          "like_count": 52240,
+          "listed_count": 11558,
+          "media_count": 3380,
+          "tweet_count": 72434
+        },
+        "url": "https://t.co/jtVPVMmMQT",
+        "username": "dhh",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

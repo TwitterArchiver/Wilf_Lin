@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "707700296881803264",
+    "created_at": "2026-09-04T18:55:19.000Z",
+    "display_text_range": [
+      16,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T19:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095948843711922349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1605",
+          "start": 0,
+          "username": "sama"
+        },
+        {
+          "end": 15,
+          "id": "1469586867985260544",
+          "start": 6,
+          "username": "doop_dev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095948843711922349",
+    "in_reply_to_user_id": "1605",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "707700296881803264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sama @doop_dev well, no one, since you killed 4o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "707700296881803264",
+        "created_at": "2026-09-04T18:55:19.000Z",
+        "display_text_range": [
+          16,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T19:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095948843711922349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1605",
+              "start": 0,
+              "username": "sama"
+            },
+            {
+              "end": 15,
+              "id": "1469586867985260544",
+              "start": 6,
+              "username": "doop_dev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095948843711922349",
+        "in_reply_to_user_id": "1605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "707700296881803264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama @doop_dev well, no one, since you killed 4o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605",
+        "conversation_id": "707700296881803264",
+        "created_at": "2016-03-09T22:51:13.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2016-03-09T23:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "707700296881803264"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "707700296881803264",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 995,
+          "impression_count": 0,
+          "like_count": 4682,
+          "quote_count": 613,
+          "reply_count": 324,
+          "retweet_count": 831
+        },
+        "reply_settings": "everyone",
+        "text": "I wonder how many people will have fallen in love with an AI chatbot by 2026."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2095948843711922349",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 2116,
+          "like_count": 111296,
+          "listed_count": 4,
+          "media_count": 528,
+          "tweet_count": 10486
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_bigger.jpg",
+          "description": "OpenAI",
+          "url": "https://twitter.com/OpenAI",
+          "user_id": [
+            "4398626122"
+          ]
+        },
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "The mission of OpenAI to ensure that AGI benefits all of humanity",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8E839"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "is_identity_verified": false,
+        "location": "SF",
+        "most_recent_tweet_id": "2095731348996821200",
+        "name": "Sam Altman",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6128639,
+          "following_count": 1028,
+          "like_count": 1019,
+          "listed_count": 30988,
+          "media_count": 394,
+          "tweet_count": 7935
+        },
+        "url": "https://t.co/teHmy8E839",
+        "username": "sama",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-11T08:36:39.000Z",
+        "description": "coder\nhttps://t.co/j7XO8JjF6f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Fodesu",
+                "end": 29,
+                "expanded_url": "https://github.com/Fodesu",
+                "start": 6,
+                "url": "https://t.co/j7XO8JjF6f"
+              }
+            ]
+          }
+        },
+        "id": "1469586867985260544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095941854328246475",
+        "name": "Fodesu",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030918186686947328/UJHHXN8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 409,
+          "like_count": 35020,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 402
+        },
+        "url": "",
+        "username": "doop_dev",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

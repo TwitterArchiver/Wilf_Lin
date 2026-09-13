@@ -1,0 +1,609 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "JavaScript",
+          "id": "898659750950207489",
+          "name": "JavaScript"
+        }
+      }
+    ],
+    "conversation_id": "2091545527716360520",
+    "created_at": "2026-08-23T15:18:07.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T16:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091545527716360520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "722467942542282752",
+          "start": 3,
+          "username": "__morse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091545527716360520",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091517889484353649",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__morse: Electron might die soon\n\nhere is an app fully built with gpuix (Node.js &amp; React bindings for GPUI) \n\nrendering 5k messages \n\nn…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18570,
+        "height": 1902,
+        "media_key": "13_2091517011662610433",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091517011662610433/img/15zFoWzbf7bvnDdy.jpg",
+        "public_metrics": {
+          "view_count": 7078
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091517011662610433/vid/avc1/1716x1080/kskDdDhXJ94Zs32z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091517011662610433/vid/avc1/1144x720/rosy3Eh_XmTKm-7Z.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091517011662610433/vid/avc1/428x270/Uz1KD1bZmMFO17Ej.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091517011662610433/pl/uzDvNHiKeUPmUaOb.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091517011662610433/vid/avc1/3024x1902/zfoCLtRx-ufNDx-k.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091517011662610433/vid/avc1/572x360/3BEeBAXnRrz-in44.mp4"
+          }
+        ],
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "JavaScript",
+              "id": "898659750950207489",
+              "name": "JavaScript"
+            }
+          }
+        ],
+        "conversation_id": "2091545527716360520",
+        "created_at": "2026-08-23T15:18:07.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T16:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091545527716360520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "722467942542282752",
+              "start": 3,
+              "username": "__morse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091545527716360520",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091517889484353649",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__morse: Electron might die soon\n\nhere is an app fully built with gpuix (Node.js &amp; React bindings for GPUI) \n\nrendering 5k messages \n\nn…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091517011662610433"
+          ]
+        },
+        "author_id": "722467942542282752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "JavaScript",
+              "id": "898659750950207489",
+              "name": "JavaScript"
+            }
+          }
+        ],
+        "conversation_id": "2091517889484353649",
+        "created_at": "2026-08-23T13:28:18.000Z",
+        "display_text_range": [
+          0,
+          182
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091517889484353649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VUQGD7NP4p",
+              "end": 206,
+              "expanded_url": "https://x.com/__morse/status/2091517889484353649/video/1",
+              "media_key": "13_2091517011662610433",
+              "start": 183,
+              "url": "https://t.co/VUQGD7NP4p"
+            },
+            {
+              "display_url": "x.com/__morse/status…",
+              "end": 230,
+              "expanded_url": "https://twitter.com/__morse/status/2090075840637702289",
+              "start": 207,
+              "url": "https://t.co/i4U1x1byM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091517889484353649",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2091517011662610433"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 222,
+          "impression_count": 25232,
+          "like_count": 417,
+          "quote_count": 4,
+          "reply_count": 29,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090075840637702289",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Electron might die soon\n\nhere is an app fully built with gpuix (Node.js &amp; React bindings for GPUI) \n\nrendering 5k messages \n\nno webview. everything is rendered in the GPU via Bun https://t.co/VUQGD7NP4p https://t.co/i4U1x1byM1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2091545527716360520",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 2055,
+          "like_count": 105109,
+          "listed_count": 4,
+          "media_count": 487,
+          "tweet_count": 10095
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-04-19T16:52:35.000Z",
+        "description": "Christ is king of kings. building https://t.co/UKy1ELLGn6 & https://t.co/m9gaBhLsM8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kimaki.dev",
+                "end": 57,
+                "expanded_url": "https://kimaki.dev",
+                "start": 34,
+                "url": "https://t.co/UKy1ELLGn6"
+              },
+              {
+                "display_url": "holocron.so",
+                "end": 83,
+                "expanded_url": "https://holocron.so",
+                "start": 60,
+                "url": "https://t.co/m9gaBhLsM8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/remorses",
+                "end": 23,
+                "expanded_url": "https://github.com/remorses",
+                "start": 0,
+                "url": "https://t.co/xSncy6TLO6"
+              }
+            ]
+          }
+        },
+        "id": "722467942542282752",
+        "is_identity_verified": false,
+        "location": "Italia",
+        "most_recent_tweet_id": "2091543231691477393",
+        "name": "Tommy D. Rossi",
+        "pinned_tweet_id": "2078956142387196203",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/722467942542282752/1769606998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870480870567514112/Y0D-zTEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6693,
+          "following_count": 3457,
+          "like_count": 17310,
+          "listed_count": 75,
+          "media_count": 827,
+          "tweet_count": 13465
+        },
+        "url": "https://t.co/xSncy6TLO6",
+        "username": "__morse",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "2094114844043551085",
+    "created_at": "2026-08-30T17:27:40.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T18:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094114844043551085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1260881050005315586",
+          "start": 3,
+          "username": "zhang_heqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094114844043551085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094066739722265075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhang_heqing: BBC这篇报道又是老套路玩偷换概念。吉隆口岸山洪过境的航拍、现场实拍、灾害解析动画，国内各大官方媒体、社交平台早已大范围公开传播 。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2094114844043551085",
+        "created_at": "2026-08-30T17:27:40.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T18:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094114844043551085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1260881050005315586",
+              "start": 3,
+              "username": "zhang_heqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094114844043551085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094066739722265075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhang_heqing: BBC这篇报道又是老套路玩偷换概念。吉隆口岸山洪过境的航拍、现场实拍、灾害解析动画，国内各大官方媒体、社交平台早已大范围公开传播 。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1260881050005315586",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2094066739722265075",
+        "created_at": "2026-08-30T14:16:31.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094066739722265075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbcchinese/sta…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/bbcchinese/status/2094007194710585426",
+              "start": 67,
+              "url": "https://t.co/zjJvCHtgnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094066739722265075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 179,
+                "start": 173,
+                "tag": "吉隆泥石流"
+              },
+              {
+                "end": 187,
+                "start": 180,
+                "tag": "拒绝消费灾难"
+              }
+            ]
+          },
+          "text": "BBC这篇报道又是老套路玩偷换概念。吉隆口岸山洪过境的航拍、现场实拍、灾害解析动画，国内各大官方媒体、社交平台早已大范围公开传播 。\n我们不循环播放极具冲击力的惨烈血腥镜头，是新闻报道对遇难者与家属的人文尊重，绝非所谓“画面没有在中国传播”。灾难面前不去共情受灾民众、关注救援进展，反而拿灾难素材编织信息封锁的谎言消费悲剧，这套叙事实在缺乏良知。#吉隆泥石流 #拒绝消费灾难"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3259,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094007194710585426",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "BBC这篇报道又是老套路玩偷换概念。吉隆口岸山洪过境的航拍、现场实拍、灾害解析动画，国内各大官方媒体、社交平台早已大范围公开传播 。 https://t.co/zjJvCHtgnV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2094114844043551085",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 2088,
+          "like_count": 107850,
+          "listed_count": 4,
+          "media_count": 510,
+          "tweet_count": 10300
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-14T10:34:17.000Z",
+        "description": "Inspector on X. Telling China's stories-soft on culture, firm on truth. 🇨🇳  Personal  views.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.chinaculture.org",
+                "end": 23,
+                "expanded_url": "http://en.chinaculture.org/",
+                "start": 0,
+                "url": "https://t.co/7A8Mwb1ZQN"
+              }
+            ]
+          }
+        },
+        "id": "1260881050005315586",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2094111163022032902",
+        "name": "Zhang Heqing",
+        "pinned_tweet_id": "2093665007229866484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260881050005315586/1757051124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031733605840637952/nyDL32rW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446141,
+          "following_count": 21140,
+          "like_count": 267498,
+          "listed_count": 1000,
+          "media_count": 67448,
+          "tweet_count": 325263
+        },
+        "url": "https://t.co/7A8Mwb1ZQN",
+        "username": "zhang_heqing",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

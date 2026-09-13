@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2098667510203609169",
+    "created_at": "2026-09-12T06:58:20.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T07:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098667510203609169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "221838349",
+          "start": 3,
+          "username": "Austen"
+        },
+        {
+          "end": 21,
+          "id": "11768582",
+          "start": 12,
+          "username": "garrytan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098667510203609169",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098616878117573069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Austen: @garrytan A 1600 used to be much, much harder"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2098667510203609169",
+        "created_at": "2026-09-12T06:58:20.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T07:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098667510203609169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "221838349",
+              "start": 3,
+              "username": "Austen"
+            },
+            {
+              "end": 21,
+              "id": "11768582",
+              "start": 12,
+              "username": "garrytan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098667510203609169",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098616878117573069",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Austen: @garrytan A 1600 used to be much, much harder"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "221838349",
+        "conversation_id": "2098615692425851205",
+        "created_at": "2026-09-12T03:37:08.000Z",
+        "display_text_range": [
+          10,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T04:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098616878117573069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "11768582",
+              "start": 0,
+              "username": "garrytan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098616878117573069",
+        "in_reply_to_user_id": "11768582",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 785,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098615692425851205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garrytan A 1600 used to be much, much harder"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2098667510203609169",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 2158,
+          "like_count": 117021,
+          "listed_count": 3,
+          "media_count": 569,
+          "tweet_count": 10964
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1978528804009132032/dLTATus4_bigger.jpg",
+          "description": "Gauntlet AI",
+          "url": "https://twitter.com/gauntletai",
+          "user_id": [
+            "1874147622287769600"
+          ]
+        },
+        "created_at": "2010-12-01T19:13:23.000Z",
+        "description": "CEO https://t.co/m6TigM4CJT: Free AI training for the smartest engineers. Will tweet as I wish and suffer the consequences. Accelerando: @kellyclaudeai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 137,
+                "username": "kellyclaudeai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "GauntletAI.com",
+                "end": 27,
+                "expanded_url": "http://GauntletAI.com",
+                "start": 4,
+                "url": "https://t.co/m6TigM4CJT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gauntletai.com",
+                "end": 23,
+                "expanded_url": "https://gauntletai.com",
+                "start": 0,
+                "url": "https://t.co/J7cNDjRPr6"
+              }
+            ]
+          }
+        },
+        "id": "221838349",
+        "is_identity_verified": false,
+        "location": "Austin, TX",
+        "most_recent_tweet_id": "2098624855893582256",
+        "name": "Austen Allred",
+        "pinned_tweet_id": "2098603789972386178",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/221838349/1622098809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074335689458450432/uWXcowh-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482231,
+          "following_count": 1615,
+          "like_count": 96797,
+          "listed_count": 4414,
+          "media_count": 5256,
+          "tweet_count": 59794
+        },
+        "url": "https://t.co/J7cNDjRPr6",
+        "username": "Austen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1623777064821358592/9CApQWXe_bigger.png",
+          "description": "Y Combinator",
+          "url": "https://twitter.com/ycombinator",
+          "user_id": [
+            "113130846"
+          ]
+        },
+        "created_at": "2008-01-02T19:47:19.000Z",
+        "description": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "ycombinator"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "garryslist"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/garrytan?sub_c…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/garrytan?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/sRez8WKLsA"
+              }
+            ]
+          }
+        },
+        "id": "11768582",
+        "is_identity_verified": false,
+        "location": "San Francisco, CA",
+        "most_recent_tweet_id": "2098667019231248488",
+        "name": "Garry Tan",
+        "pinned_tweet_id": "1690019429965537281",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11768582/1747288705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095688960156815360/O8Pnwbii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105393,
+          "following_count": 5947,
+          "like_count": 251850,
+          "listed_count": 8786,
+          "media_count": 4896,
+          "tweet_count": 75507
+        },
+        "url": "https://t.co/sRez8WKLsA",
+        "username": "garrytan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

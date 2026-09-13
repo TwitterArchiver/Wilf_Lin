@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      }
+    ],
+    "conversation_id": "2091999074140434617",
+    "created_at": "2026-08-24T21:20:21.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T22:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091999074140434617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TrungTPhan/sta…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/TrungTPhan/status/2091907851744915781",
+          "start": 20,
+          "url": "https://t.co/e9DVIC2apJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091999074140434617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091907851744915781",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "机器人：我不道啊强化学习是这么告诉我的 https://t.co/e9DVIC2apJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38134,
+        "height": 720,
+        "media_key": "13_2091714943657639936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091714943657639936/img/cnRcxUT2loprn1OD.jpg",
+        "public_metrics": {
+          "view_count": 2854971
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091714943657639936/vid/avc1/480x270/Z02ncDn5wodJ_TG-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091714943657639936/vid/avc1/640x360/OrRLUuyqWS66YBHQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091714943657639936/vid/avc1/1280x720/i1GxZ8xQb_pZqEZr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091714943657639936/pl/0CPeVsBaEpFh99re.m3u8?v=7d1"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2091999074140434617",
+        "created_at": "2026-08-24T21:20:21.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T22:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091999074140434617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TrungTPhan/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/TrungTPhan/status/2091907851744915781",
+              "start": 20,
+              "url": "https://t.co/e9DVIC2apJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091999074140434617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091907851744915781",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "机器人：我不道啊强化学习是这么告诉我的 https://t.co/e9DVIC2apJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091714943657639936"
+          ],
+          "media_source_tweet_id": [
+            "2091714982572409241"
+          ]
+        },
+        "author_id": "945817135816654848",
+        "card_uri": {
+          "media_keys": [
+            "13_2091714943657639936"
+          ]
+        },
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2091907851744915781",
+        "created_at": "2026-08-24T15:17:52.000Z",
+        "display_text_range": [
+          0,
+          275
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T16:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091907851744915781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACIIGPrvxE",
+              "end": 661,
+              "expanded_url": "https://x.com/ErenChenAI/status/2091714982572409241/video/1",
+              "media_key": "13_2091714943657639936",
+              "start": 638,
+              "url": "https://t.co/ACIIGPrvxE"
+            },
+            {
+              "display_url": "x.com/ccl2k30/status…",
+              "end": 299,
+              "expanded_url": "https://twitter.com/ccl2k30/status/2091624060610388055",
+              "start": 276,
+              "url": "https://t.co/ohBnDEqi1K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091907851744915781",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2091714943657639936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "globaltimes.cn/page/202608/13…",
+                "end": 637,
+                "expanded_url": "https://www.globaltimes.cn/page/202608/1368875.shtml",
+                "start": 614,
+                "url": "https://t.co/hfd7PCRIqM"
+              },
+              {
+                "display_url": "x.com/ErenChenAI/sta…",
+                "end": 661,
+                "expanded_url": "https://x.com/ErenChenAI/status/2091714982572409241/video/1",
+                "start": 638,
+                "url": "https://t.co/ACIIGPrvxE"
+              }
+            ]
+          },
+          "text": "An engineer that built this 400m-running humanoid robot explained the wild form:\n\n▫️initially designed it with human arm swing\n▫️but swinging arms too much put heavy load on shoulder joints, led to overheating (and robot couldn’t finish 400m)\n▫️robot invented the new running style on its own (hands held up near face to reduce shoulder load while legs could keep trucking)\n▫️per Global Times, “in a simulated learning environment…the team gave the robot continuous rewards, and through repeated iteration on the data it gradually settled into a posture that suited it better.”\n\n***\n\nFull read here (fascinating): https://t.co/hfd7PCRIqM https://t.co/ACIIGPrvxE"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 634,
+          "impression_count": 514521,
+          "like_count": 2637,
+          "quote_count": 111,
+          "reply_count": 142,
+          "retweet_count": 351
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091624060610388055",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "An engineer that built this 400m-running humanoid robot explained the wild form:\n\n▫️initially designed it with human arm swing\n▫️but swinging arms too much put heavy load on shoulder joints, led to overheating (and robot couldn’t finish 400m)\n▫️robot invented the new running https://t.co/ohBnDEqi1K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2091999074140434617",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 2058,
+          "like_count": 105523,
+          "listed_count": 4,
+          "media_count": 492,
+          "tweet_count": 10126
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1451596150482604042/JYP1L5G6_bigger.jpg",
+          "description": "Workweek 🤝",
+          "url": "https://twitter.com/workweekinc",
+          "user_id": [
+            "1388536910021373952"
+          ]
+        },
+        "created_at": "2017-12-27T00:42:32.000Z",
+        "description": "Write on business with @workweekinc. Building @bearlyai.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "workweekinc"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "bearlyai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "readtrung.com",
+                "end": 23,
+                "expanded_url": "https://www.readtrung.com",
+                "start": 0,
+                "url": "https://t.co/QXcmEZDThE"
+              }
+            ]
+          }
+        },
+        "id": "945817135816654848",
+        "is_identity_verified": false,
+        "location": "My Saturday newsletter ➡️",
+        "most_recent_tweet_id": "2091996704493216197",
+        "name": "Trung Phan",
+        "pinned_tweet_id": "2070854912162808128",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/945817135816654848/1670800079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1506362585448296448/LJg8kVSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730558,
+          "following_count": 4281,
+          "like_count": 209856,
+          "listed_count": 6142,
+          "media_count": 17192,
+          "tweet_count": 86312
+        },
+        "url": "https://t.co/QXcmEZDThE",
+        "username": "TrungTPhan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
