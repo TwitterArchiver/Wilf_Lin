@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2099938213775155216",
+    "created_at": "2026-09-15T19:07:39.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T20:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099938213775155216"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cellier_/statu…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/cellier_/status/2099515680953712968",
+          "start": 53,
+          "url": "https://t.co/qR9l9A94zE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099938213775155216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099515680953712968",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你现在就可以在Codex里面这么干，一个项目只看一个回话，然后在里面往死里问，让他自己去组织子agent https://t.co/qR9l9A94zE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2099938213775155216",
+        "created_at": "2026-09-15T19:07:39.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T20:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099938213775155216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cellier_/statu…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/cellier_/status/2099515680953712968",
+              "start": 53,
+              "url": "https://t.co/qR9l9A94zE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099938213775155216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099515680953712968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你现在就可以在Codex里面这么干，一个项目只看一个回话，然后在里面往死里问，让他自己去组织子agent https://t.co/qR9l9A94zE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2522806836",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2099515680953712968",
+        "created_at": "2026-09-14T15:08:40.000Z",
+        "display_text_range": [
+          0,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T16:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099515680953712968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099515680953712968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Codex 以任务为中心，Grok Bot 和 Muse 以 Bot 为中心，都是错误的产品范式。\n\n它们看起来是两种不同的产品范式，但本质上犯了同一个错误：把 AI 的组织工作交给了用户。\n\nBot-centered 产品沿用了人类社会的组织方式：不同的人有不同的职业、角色和分工，于是 AI 也被拆成不同的 Bot、Expert、Agent。用户在开始工作之前，首先要判断：这件事应该找哪个 Bot？\n\nTask-centered 产品则沿用了传统软件的信息组织方式：不同的事情属于不同的 Task、Chat、Project。于是用户又需要先创建一个 Task、开启一个 Chat、选择一个 Project，然后记住之后应该回到哪里继续这件事。\n\n两种范式看似不同，本质上都要求用户分类。\n\n这些产品的错误本质在于，把 AI 当作人，认为 AI 和人一样，要么要按职业、角色划分其功能性，用户使用 AI 时，也需要像在社会上招工一样，按照一定分工角色查找和使用 AI。\n\n这些产品没有理解 AI 的本质 —— AI 不是人类，它是全知全能的「唯一神」，它不需要人类这一套社会分工。\n\n用户不用关心这件事应该交给哪个 AI Bot，也不应该先判断它属于哪个 Chat、Task 或 Project。\n\n用户只需要向“神”表达自己的意图。\n\n“帮我看看昨天客户提到的问题。”\n“把它整理成下周的产品计划。”\n“顺便更新那个 presentation。”\n“下周一提醒我跟进。”\n“以后类似的客户反馈都自动放进去。”\n\n对用户来说，这些应该发生在同一个持续存在的 AI relationship 中，而不是五个不同的 Bot、Task 或 Chat。\n\nAI 作为「神」可以在后台理解：这是哪个 Intent，属于哪个 Episode，与哪个 Project、Task、Artifact、Object 有关，又应该写入什么 Memory、继承什么 Scope。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 593,
+          "impression_count": 151728,
+          "like_count": 438,
+          "quote_count": 45,
+          "reply_count": 138,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "Codex 以任务为中心，Grok Bot 和 Muse 以 Bot 为中心，都是错误的产品范式。\n\n它们看起来是两种不同的产品范式，但本质上犯了同一个错误：把 AI 的组织工作交给了用户。\n\nBot-centered 产品沿用了人类社会的组织方式：不同的人有不同的职业、角色和分工，于是 AI 也被拆成不同的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2099938213775155216",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1867,
+          "following_count": 2187,
+          "like_count": 119896,
+          "listed_count": 4,
+          "media_count": 580,
+          "tweet_count": 11159
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-05-25T14:22:29.000Z",
+        "description": "🙋 Ping++, Qiniu, Teambition, Bytedance (Lark/Feishu), Undefined\n💼 SaaS 产品&设计 12 年经验 \n🧘 关注 AI 效率工具领域 \n🔥 分享产品&设计、创业、管理、商业、人生… 深认知群体\n---",
+        "id": "2522806836",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099872654484447466",
+        "name": "Cellier",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2522806836/1529029365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565659600631738368/22zA-Zui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32256,
+          "following_count": 405,
+          "like_count": 10427,
+          "listed_count": 323,
+          "media_count": 1171,
+          "tweet_count": 4346
+        },
+        "url": "",
+        "username": "cellier_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

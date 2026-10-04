@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2102318172577911068",
+    "created_at": "2026-09-22T21:45:28.000Z",
+    "display_text_range": [
+      12,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T22:45:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102514644292174268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049258250923810816",
+          "start": 0,
+          "username": "OrcaRouter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102514644292174268",
+    "in_reply_to_user_id": "2049258250923810816",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102318172577911068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OrcaRouter try just scale up, use qwen 3.8 flash next as base, I got better result on jevbench with similar cost."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2102318172577911068",
+        "created_at": "2026-09-22T21:45:28.000Z",
+        "display_text_range": [
+          12,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T22:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102514644292174268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049258250923810816",
+              "start": 0,
+              "username": "OrcaRouter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102514644292174268",
+        "in_reply_to_user_id": "2049258250923810816",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102318172577911068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OrcaRouter try just scale up, use qwen 3.8 flash next as base, I got better result on jevbench with similar cost."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049258250923810816",
+        "conversation_id": "2102318172577911068",
+        "created_at": "2026-09-22T08:44:46.000Z",
+        "display_text_range": [
+          0,
+          274
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T09:41:13.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102317280897995237",
+          "2102317386586317108",
+          "2102318063601455411",
+          "2102318172577911068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102318172577911068",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "We spent the last few days testing JEV internally. We tried to reproduce it, break it, and improve it.\n\n5 things we learned:\n1. JEV’s core insight is simple - and probably right. If the answer space is bounded, don’t generate the answer token by token. Remove autoregressive decoding and you can remove 1–2 orders of magnitude of inference work.\n\n2. RLCD isn’t the moat. Data might be. Laya already open-sourced the implementation + weights. The missing piece is the synthetic data recipe. And our experiments strongly point in the same direction.\n\n3. “Open source already beat JEV” is a benchmark illusion.\n\nSame checkpoint:\nIn-distribution: 0.769\nOOD: 0.541\n\nChange the distribution and the apparent breakthrough largely disappears.\n\n4. Compute-optimal ≠ learnability-optimal.\n\nWe moved state outside the problem sequence to save compute. Result: -27 points. Likely because we saved FLOPs while throwing away useful MLM pretraining priors.\n\nThen we tested 6 more ideas in one night: anchor selection, continuity smoothing, asymmetric windows, bucketed temperature, two-stage retrieval, full RLCD.\n\nAll failed or failed to generalize. Only one thing consistently worked: More data.\n\n1,200 → 123,475 examples\nOOD: 0.4069 → 0.5498\n\n5. The weirdest result: A decoder with zero additional training still beat every trained small encoder:\n\n0.5671 vs 0.5628 / 0.5411 / 0.4069\n\nOur takeaway: JEV’s breakthrough may not be a particular architecture or training algorithm.\n\nIt may be a much simpler idea: When the answer space is bounded, search it. Don’t generate it. And right now, the biggest bottleneck to making that work broadly doesn’t look like architecture.\n\nIt looks like data."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 805,
+          "impression_count": 95692,
+          "like_count": 1089,
+          "quote_count": 21,
+          "reply_count": 44,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "We spent the last few days testing JEV internally. We tried to reproduce it, break it, and improve it.\n\n5 things we learned:\n1. JEV’s core insight is simple - and probably right. If the answer space is bounded, don’t generate the answer token by token. Remove autoregressive"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2102514644292174268",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 2238,
+          "like_count": 126135,
+          "listed_count": 6,
+          "media_count": 607,
+          "tweet_count": 11500
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T22:43:39.000Z",
+        "description": "The AI Gateway built for security🐳\n200+ models. 0% markup. BYOK. Adaptive Routing. \nFirewall. Guardrails. Observability. Cyber.\n→ https://t.co/JN416veVHi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/YEubt8enRA",
+                "end": 153,
+                "expanded_url": "https://discord.gg/YEubt8enRA",
+                "start": 130,
+                "url": "https://t.co/JN416veVHi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orcarouter.ai",
+                "end": 23,
+                "expanded_url": "https://www.orcarouter.ai/",
+                "start": 0,
+                "url": "https://t.co/BUgRhJdrhg"
+              }
+            ]
+          }
+        },
+        "id": "2049258250923810816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102474255825072590",
+        "name": "OrcaRouter 🐳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049258250923810816/1781713007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054951018102964224/GLp-Nttr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20224,
+          "following_count": 22,
+          "like_count": 1203,
+          "listed_count": 135,
+          "media_count": 412,
+          "tweet_count": 4056
+        },
+        "url": "https://t.co/BUgRhJdrhg",
+        "username": "OrcaRouter",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

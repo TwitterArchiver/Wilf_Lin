@@ -1,0 +1,567 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1462809874195042313",
+          "name": "Computer software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "id": "1462809919204122628",
+          "name": "Multimedia & design software"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027446854",
+          "name": "Adobe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Enterprise software",
+          "id": "848959158082617344",
+          "name": "Enterprise software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027446854",
+          "name": "Adobe"
+        }
+      }
+    ],
+    "conversation_id": "2099617855620710474",
+    "created_at": "2026-09-14T21:54:40.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T22:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099617855620710474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1344791257286119425",
+          "start": 3,
+          "username": "nicos_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099617855620710474",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1062
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099482610997063711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nicos_ai: El CEO de Adobe viendo cómo recrean Photoshop con GPT-6 Astra, lo publican 100% gratis y no puede hacer nada al respecto porq…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29100,
+        "height": 804,
+        "media_key": "13_2099482494320148480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099482494320148480/img/NAj886wP7Kh8dy3T.jpg",
+        "public_metrics": {
+          "view_count": 290816
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099482494320148480/vid/avc1/428x270/4U6o7cOwJivt0oeR.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099482494320148480/vid/avc1/1280x804/3wb1RDs7Oo2ILzZ2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099482494320148480/pl/ZABFMmZ1vaO2v4xk.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099482494320148480/vid/avc1/1146x720/tMugSBY_YN7YVfcm.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099482494320148480/vid/avc1/572x360/TG44LsbjEmawH0Eh.mp4"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1462809874195042313",
+              "name": "Computer software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "id": "1462809919204122628",
+              "name": "Multimedia & design software"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          }
+        ],
+        "conversation_id": "2099617855620710474",
+        "created_at": "2026-09-14T21:54:40.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T22:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099617855620710474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1344791257286119425",
+              "start": 3,
+              "username": "nicos_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099617855620710474",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1062
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099482610997063711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nicos_ai: El CEO de Adobe viendo cómo recrean Photoshop con GPT-6 Astra, lo publican 100% gratis y no puede hacer nada al respecto porq…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099482494320148480"
+          ]
+        },
+        "author_id": "1344791257286119425",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1462809874195042313",
+              "name": "Computer software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "id": "1462809919204122628",
+              "name": "Multimedia & design software"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          }
+        ],
+        "conversation_id": "2099482610997063711",
+        "created_at": "2026-09-14T12:57:15.000Z",
+        "display_text_range": [
+          0,
+          165
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T13:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099482610997063711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/blBPnHgN9s",
+              "end": 189,
+              "expanded_url": "https://x.com/nicos_ai/status/2099482610997063711/video/1",
+              "media_key": "13_2099482494320148480",
+              "start": 166,
+              "url": "https://t.co/blBPnHgN9s"
+            },
+            {
+              "display_url": "x.com/nozelcode/stat…",
+              "end": 213,
+              "expanded_url": "https://twitter.com/nozelcode/status/2099471075599876239",
+              "start": 190,
+              "url": "https://t.co/8grmz9YV8J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099482610997063711",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "13_2099482494320148480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4781,
+          "impression_count": 963061,
+          "like_count": 12564,
+          "quote_count": 59,
+          "reply_count": 93,
+          "retweet_count": 1062
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099471075599876239",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "El CEO de Adobe viendo cómo recrean Photoshop con GPT-6 Astra, lo publican 100% gratis y no puede hacer nada al respecto porque técnicamente no han hecho nada ilegal https://t.co/blBPnHgN9s https://t.co/8grmz9YV8J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2099617855620710474",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 2179,
+          "like_count": 119031,
+          "listed_count": 3,
+          "media_count": 575,
+          "tweet_count": 11095
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2067931434296176640/jDqRtitD_bigger.jpg",
+          "description": "Humalike",
+          "url": "https://twitter.com/humalike",
+          "user_id": [
+            "1905609019844091905"
+          ]
+        },
+        "created_at": "2020-12-31T23:43:28.000Z",
+        "description": "25 | Tech, AI & startups | infonicosai@gmail.com",
+        "id": "1344791257286119425",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099577468495511594",
+        "name": "Nico",
+        "pinned_tweet_id": "2099482610997063711",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344791257286119425/1775407308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040832240184143872/Insu6_sZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89920,
+          "following_count": 766,
+          "like_count": 12053,
+          "listed_count": 203,
+          "media_count": 738,
+          "tweet_count": 9284
+        },
+        "url": "",
+        "username": "nicos_ai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

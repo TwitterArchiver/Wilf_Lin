@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2100752629022532090",
+    "created_at": "2026-09-18T01:20:34.000Z",
+    "display_text_range": [
+      10,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T02:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100756835980513559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1688412716367593472",
+          "start": 0,
+          "username": "YuLin807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100756835980513559",
+    "in_reply_to_user_id": "1688412716367593472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100752629022532090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuLin807 你找一下有没有思考强度的参数，这个模型的思考强度可以很精细的调整的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2100752629022532090",
+        "created_at": "2026-09-18T01:20:34.000Z",
+        "display_text_range": [
+          10,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T02:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100756835980513559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688412716367593472",
+              "start": 0,
+              "username": "YuLin807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100756835980513559",
+        "in_reply_to_user_id": "1688412716367593472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100752629022532090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuLin807 你找一下有没有思考强度的参数，这个模型的思考强度可以很精细的调整的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688412716367593472",
+        "conversation_id": "2100752629022532090",
+        "created_at": "2026-09-18T01:03:51.000Z",
+        "display_text_range": [
+          0,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T02:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100752629022532090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100752629022532090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这两天强度使用 deepseek v4.1 flash，发现这模型有点子问题啊！\n\n快倒是挺快的，呼呼刷屏，但是一个小问题想的巨全面，导致我只想让他蒸个馒头，最后他给你整个雕花的馒头。\n\n而且快是很快，但是单个任务完成的速度是真的慢！\n\n这到底是官方 deepseek api 的问题还是 command code 的问题！\n\n大家有感受到没？！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这两天强度使用 deepseek v4.1 flash，发现这模型有点子问题啊！\n\n快倒是挺快的，呼呼刷屏，但是一个小问题想的巨全面，导致我只想让他蒸个馒头，最后他给你整个雕花的馒头。\n\n而且快是很快，但是单个任务完成的速度是真的慢！\n\n这到底是官方 deepseek api 的问题还是 command code 的问题！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2100756835980513559",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 2211,
+          "like_count": 121865,
+          "listed_count": 5,
+          "media_count": 588,
+          "tweet_count": 11274
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-07T04:53:29.000Z",
+        "description": "Agent 玩家｜偏爱 pi + herdr \n我的个人项目见⬇️Github｜自由，希望与爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ythx-101",
+                "end": 23,
+                "expanded_url": "https://github.com/ythx-101",
+                "start": 0,
+                "url": "https://t.co/dwxSMD1I1l"
+              }
+            ]
+          }
+        },
+        "id": "1688412716367593472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100756354344562916",
+        "name": "QingYue",
+        "pinned_tweet_id": "2098269480552206418",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688412716367593472/1776519070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088979673690869761/gHVso-5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9066,
+          "following_count": 4407,
+          "like_count": 26385,
+          "listed_count": 105,
+          "media_count": 1489,
+          "tweet_count": 14680
+        },
+        "url": "https://t.co/dwxSMD1I1l",
+        "username": "YuLin807",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

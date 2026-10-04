@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2102239462767952076",
+    "created_at": "2026-09-23T22:15:37.000Z",
+    "display_text_range": [
+      15,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T23:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102884617753645216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1692126794055647232",
+          "start": 0,
+          "username": "QuantumTransf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102884617753645216",
+    "in_reply_to_user_id": "1692126794055647232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102239462767952076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuantumTransf humm之前我用litellm自己搞了个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1480,
+        "media_key": "3_2102041655402717184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvzv51aYAAGimK.jpg",
+        "width": 1738
+      },
+      {
+        "height": 1782,
+        "media_key": "3_2102041794066411520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvz3-ZacAApJU2.jpg",
+        "width": 2092
+      },
+      {
+        "height": 1782,
+        "media_key": "3_2102041999381790721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSv0D7QagAEdhVg.jpg",
+        "width": 2092
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2102239462767952076",
+        "created_at": "2026-09-23T22:15:37.000Z",
+        "display_text_range": [
+          15,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T23:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102884617753645216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1692126794055647232",
+              "start": 0,
+              "username": "QuantumTransf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102884617753645216",
+        "in_reply_to_user_id": "1692126794055647232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102239462767952076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuantumTransf humm之前我用litellm自己搞了个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102041655402717184",
+            "3_2102041794066411520",
+            "3_2102041999381790721"
+          ]
+        },
+        "author_id": "1692126794055647232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040695083",
+              "name": "Amazon Web Services (AWS)"
+            }
+          }
+        ],
+        "conversation_id": "2102239462767952076",
+        "created_at": "2026-09-22T03:32:00.000Z",
+        "display_text_range": [
+          0,
+          174
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T04:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102239462767952076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MlLgdGAzpj",
+              "end": 198,
+              "expanded_url": "https://x.com/QuantumTransf/status/2102239462767952076/photo/1",
+              "media_key": "3_2102041655402717184",
+              "start": 175,
+              "url": "https://t.co/MlLgdGAzpj"
+            },
+            {
+              "display_url": "pic.x.com/MlLgdGAzpj",
+              "end": 198,
+              "expanded_url": "https://x.com/QuantumTransf/status/2102239462767952076/photo/1",
+              "media_key": "3_2102041794066411520",
+              "start": 175,
+              "url": "https://t.co/MlLgdGAzpj"
+            },
+            {
+              "display_url": "pic.x.com/MlLgdGAzpj",
+              "end": 198,
+              "expanded_url": "https://x.com/QuantumTransf/status/2102239462767952076/photo/1",
+              "media_key": "3_2102041999381790721",
+              "start": 175,
+              "url": "https://t.co/MlLgdGAzpj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102239462767952076",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102041655402717184"
+          },
+          {
+            "media_key": "3_2102041794066411520"
+          },
+          {
+            "media_key": "3_2102041999381790721"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "大家会想要一个 personal llm gateway app 吗\n只用本地一个 gateway 搞定所有 provider 的接入问题，可以说是你的个人中转站\n想要在 pi 里用 kimi coding plan，deepseek api，aws bedrock 等等\n在你的 agent 接入这个 gateway 之后，只需要通过 model 切换就可以了，不需要任何修改配置，一键切换所有模型\n我会认为这相当于是 llm gateway 领域的 clash，你可以在本地完全自由地去处理任何 llm api 的流转，并看到相应的信息\n大家觉得这样的 idea 如何呢？很好奇大家的意见\n我们还有一些收尾工作没有做完，之后会正式发布～"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 4569,
+          "like_count": 54,
+          "quote_count": 3,
+          "reply_count": 34,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家会想要一个 personal llm gateway app 吗\n只用本地一个 gateway 搞定所有 provider 的接入问题，可以说是你的个人中转站\n想要在 pi 里用 kimi coding plan，deepseek api，aws bedrock 等等\n在你的 agent 接入这个 gateway 之后，只需要通过 model https://t.co/MlLgdGAzpj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2102884617753645216",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 2239,
+          "like_count": 126772,
+          "listed_count": 6,
+          "media_count": 609,
+          "tweet_count": 11546
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T10:52:09.000Z",
+        "description": "Building Kairos Agent for coding | ACMer & Computer Science Enthusiast | Lesbian | 💖love maimai & 📝writing | 🐱Catgirl | 💝I'll always be with you.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/tommy0103/obel…",
+                "end": 23,
+                "expanded_url": "http://github.com/tommy0103/obelisk",
+                "start": 0,
+                "url": "https://t.co/WB3ynJKHt9"
+              }
+            ]
+          }
+        },
+        "id": "1692126794055647232",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2102876758769066483",
+        "name": "Yuu💖",
+        "pinned_tweet_id": "2020909686434955672",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692126794055647232/1728683032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999276127014256644/c3JQXTfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5353,
+          "following_count": 506,
+          "like_count": 33213,
+          "listed_count": 39,
+          "media_count": 776,
+          "tweet_count": 9602
+        },
+        "url": "https://t.co/WB3ynJKHt9",
+        "username": "QuantumTransf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

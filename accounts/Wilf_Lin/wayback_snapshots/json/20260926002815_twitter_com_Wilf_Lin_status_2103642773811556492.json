@@ -1,0 +1,654 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "2103642773811556492",
+    "created_at": "2026-09-26T00:28:15.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T01:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103642773811556492"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hwwaanng/statu…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/hwwaanng/status/2103035456984412245",
+          "start": 49,
+          "url": "https://t.co/pFjRC5tI0B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103642773811556492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103035456984412245",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Devday要是tibo不端点牛逼的东西上来我就要把两个codex订阅中的一个换成claude了 https://t.co/pFjRC5tI0B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103035427171229696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS97lCKaYAAQ0SX.jpg",
+        "width": 942
+      },
+      {
+        "height": 636,
+        "media_key": "3_2103035427125121024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS97lB_a0AAbIy-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103035427175460864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS97lCLa8AAUFxh.jpg",
+        "width": 942
+      },
+      {
+        "height": 874,
+        "media_key": "3_2103035427137695744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS97lCCasAA4Y33.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2103642773811556492",
+        "created_at": "2026-09-26T00:28:15.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T01:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103642773811556492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hwwaanng/statu…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/hwwaanng/status/2103035456984412245",
+              "start": 49,
+              "url": "https://t.co/pFjRC5tI0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103642773811556492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103035456984412245",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Devday要是tibo不端点牛逼的东西上来我就要把两个codex订阅中的一个换成claude了 https://t.co/pFjRC5tI0B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103035427171229696",
+            "3_2103035427125121024",
+            "3_2103035427175460864",
+            "3_2103035427137695744"
+          ]
+        },
+        "author_id": "1590927428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2103035456984412245",
+        "created_at": "2026-09-24T08:15:00.000Z",
+        "display_text_range": [
+          0,
+          173
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T09:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103035456984412245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o4Dc2AUjGJ",
+              "end": 197,
+              "expanded_url": "https://x.com/hwwaanng/status/2103035456984412245/photo/1",
+              "media_key": "3_2103035427171229696",
+              "start": 174,
+              "url": "https://t.co/o4Dc2AUjGJ"
+            },
+            {
+              "display_url": "pic.x.com/o4Dc2AUjGJ",
+              "end": 197,
+              "expanded_url": "https://x.com/hwwaanng/status/2103035456984412245/photo/1",
+              "media_key": "3_2103035427125121024",
+              "start": 174,
+              "url": "https://t.co/o4Dc2AUjGJ"
+            },
+            {
+              "display_url": "pic.x.com/o4Dc2AUjGJ",
+              "end": 197,
+              "expanded_url": "https://x.com/hwwaanng/status/2103035456984412245/photo/1",
+              "media_key": "3_2103035427175460864",
+              "start": 174,
+              "url": "https://t.co/o4Dc2AUjGJ"
+            },
+            {
+              "display_url": "pic.x.com/o4Dc2AUjGJ",
+              "end": 197,
+              "expanded_url": "https://x.com/hwwaanng/status/2103035456984412245/photo/1",
+              "media_key": "3_2103035427137695744",
+              "start": 174,
+              "url": "https://t.co/o4Dc2AUjGJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103035456984412245",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103035427171229696"
+          },
+          {
+            "media_key": "3_2103035427125121024"
+          },
+          {
+            "media_key": "3_2103035427175460864"
+          },
+          {
+            "media_key": "3_2103035427137695744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 64279,
+          "like_count": 91,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "5.5 强的可怕，家人们，基本就是 oneshot 的效果！\n\n一个基于 3D 模型的城市倒计时 App Demo 就有了！！\n\n✅ 计时功能\n✅ 灵动岛\n✅ 日期热力图\n…\n\n我都没说啥\n\n外部 tf 链接还在审核，稍后发在评论区！\n\n所有的实现都是在 AirBuild 的 iOS 上完成。 如果你有好的想法，欢迎 DM 我，我给你发邀请码。 https://t.co/o4Dc2AUjGJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2103642773811556492",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985,
+          "following_count": 2260,
+          "like_count": 129384,
+          "listed_count": 6,
+          "media_count": 614,
+          "tweet_count": 11667
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-07-13T12:35:29.000Z",
+        "description": "Design/Vibe/Shape \nFounder ► @airbuild_hq\nHere to be human, not just a promo machine.\n\nearly @bridge_surf @AFFiNEOfficial",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "airbuild_hq"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "bridge_surf"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "AFFiNEOfficial"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hwang.fun/projects",
+                "end": 23,
+                "expanded_url": "http://hwang.fun/projects",
+                "start": 0,
+                "url": "https://t.co/WwcWntugJS"
+              }
+            ]
+          }
+        },
+        "id": "1590927428",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2103634168047608085",
+        "name": "Hwang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1590927428/1765202554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1361512556930600969/LBwP2_YZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22819,
+          "following_count": 4172,
+          "like_count": 26598,
+          "listed_count": 253,
+          "media_count": 2543,
+          "tweet_count": 10624
+        },
+        "url": "https://t.co/WwcWntugJS",
+        "username": "hwwaanng",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

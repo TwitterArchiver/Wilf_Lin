@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2101988964551065650",
+    "created_at": "2026-09-21T21:17:11.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T22:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102145137908273583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657474831",
+          "start": 0,
+          "username": "Gorden_Sun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102145137908273583",
+    "in_reply_to_user_id": "1657474831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101988964551065650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gorden_Sun 真该把4o请回来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 995,
+        "media_key": "3_2101988949833191424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSvD0CSakAA-K9j.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2101988964551065650",
+        "created_at": "2026-09-21T21:17:11.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T22:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102145137908273583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657474831",
+              "start": 0,
+              "username": "Gorden_Sun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102145137908273583",
+        "in_reply_to_user_id": "1657474831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101988964551065650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gorden_Sun 真该把4o请回来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101988949833191424"
+          ]
+        },
+        "author_id": "1657474831",
+        "conversation_id": "2101988964551065650",
+        "created_at": "2026-09-21T10:56:36.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T11:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101988964551065650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vbdRBfaQTm",
+              "end": 165,
+              "expanded_url": "https://x.com/Gorden_Sun/status/2101988964551065650/photo/1",
+              "media_key": "3_2101988949833191424",
+              "start": 142,
+              "url": "https://t.co/vbdRBfaQTm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101988964551065650",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101988949833191424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "hemmingway.io/app/",
+                "end": 383,
+                "expanded_url": "https://hemmingway.io/app/",
+                "start": 360,
+                "url": "https://t.co/5GGmGLKS2q"
+              },
+              {
+                "display_url": "huggingface.co/Altworld/Hemmi…",
+                "end": 410,
+                "expanded_url": "https://huggingface.co/Altworld/Hemmingway-1",
+                "start": 387,
+                "url": "https://t.co/xrGW8qPvnM"
+              }
+            ]
+          },
+          "text": "Hemmingway-1：让AI写出来的文字更像真人\n开源模型，基于Qwen 3.8 27B微调。专门用来解决普通人日常生活中的写作难题。\n\n平时让AI帮忙起草一条发给房东的短信，很多AI会先给一段客套的前言，再列出三种不同风格的选项，最后还要附带一堆解释。Hemmingway-1 去掉了这些啰嗦的铺垫，用户提要求，它就直接给出一条能直接发出去的自然文本。\n\n团队训练这个模型，主要是为了应对日常沟通里那些容易让人纠结的场景，比如发给同事的工作微信、难开口求助的邮件、催账或者处理琐事的便签。在面对需要委婉表达或说服对方的棘手沟通时，它的表达比很多知名的大模型更自然，不会充满机械感。\n\n不过这个模型仅针对英文做了优化，也不擅长复杂剧情和长篇小说的撰写。\n\n是个不错的模型微调方向，主打去AI味儿的写作。\n\n在线使用：https://t.co/5GGmGLKS2q\n模型：https://t.co/xrGW8qPvnM"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 16570,
+          "like_count": 217,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "Hemmingway-1：让AI写出来的文字更像真人\n开源模型，基于Qwen 3.8 27B微调。专门用来解决普通人日常生活中的写作难题。\n\n平时让AI帮忙起草一条发给房东的短信，很多AI会先给一段客套的前言，再列出三种不同风格的选项，最后还要附带一堆解释。Hemmingway-1 https://t.co/vbdRBfaQTm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2102145137908273583",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 2239,
+          "like_count": 125127,
+          "listed_count": 6,
+          "media_count": 597,
+          "tweet_count": 11431
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-08-09T10:31:29.000Z",
+        "description": "只发AI相关信息，个人维护的AI资讯日报（已连续日更3年）👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gorden-sun.notion.site/527689cd2b294e…",
+                "end": 23,
+                "expanded_url": "https://gorden-sun.notion.site/527689cd2b294e60912f040095e803c5?v=4f6cc12006c94f47aee4dc909511aeb5",
+                "start": 0,
+                "url": "https://t.co/eqJuzYvJxD"
+              }
+            ]
+          }
+        },
+        "id": "1657474831",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2102119566403097085",
+        "name": "Gorden Sun",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657474831/1705626134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522159828231409664/GPpXyPT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66769,
+          "following_count": 1745,
+          "like_count": 171,
+          "listed_count": 883,
+          "media_count": 3440,
+          "tweet_count": 8984
+        },
+        "url": "https://t.co/eqJuzYvJxD",
+        "username": "Gorden_Sun",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

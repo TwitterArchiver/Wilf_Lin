@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1173614294082048001",
+          "name": "OPPO Indonesia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      }
+    ],
+    "conversation_id": "2101436671203905593",
+    "created_at": "2026-09-19T22:21:59.000Z",
+    "display_text_range": [
+      0,
+      149
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T23:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101436671203905593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/coooolxyh/stat…",
+          "end": 173,
+          "expanded_url": "https://twitter.com/coooolxyh/status/2101284346640654362",
+          "start": 150,
+          "url": "https://t.co/9Wre7VfiwL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101436671203905593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101284346640654362",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "jev或其类似物做意图识别简直无敌，有很多可玩的场景。\n\n分享一个两年前的idea，按下action button后采集截图和剪切版，丢给模型识别后提供一组操作菜单，记录到记忆，分享到社媒，备忘录或者其他应用。\n\n由于当时的开发力量不足，没做出来。后来OPPO造了个小布出来这个idea就彻底放弃了 https://t.co/9Wre7VfiwL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 886,
+        "media_key": "3_2101283648691728384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSlCWGybcAA1AiJ.jpg",
+        "width": 1046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "2101436671203905593",
+        "created_at": "2026-09-19T22:21:59.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T23:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101436671203905593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/coooolxyh/stat…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/coooolxyh/status/2101284346640654362",
+              "start": 150,
+              "url": "https://t.co/9Wre7VfiwL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101436671203905593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101284346640654362",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "jev或其类似物做意图识别简直无敌，有很多可玩的场景。\n\n分享一个两年前的idea，按下action button后采集截图和剪切版，丢给模型识别后提供一组操作菜单，记录到记忆，分享到社媒，备忘录或者其他应用。\n\n由于当时的开发力量不足，没做出来。后来OPPO造了个小布出来这个idea就彻底放弃了 https://t.co/9Wre7VfiwL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101283648691728384"
+          ]
+        },
+        "author_id": "1311909361279619072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101284346640654362",
+        "created_at": "2026-09-19T12:16:42.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T13:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101284346640654362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/znucrLsuhz",
+              "end": 90,
+              "expanded_url": "https://x.com/CoooolXyh/status/2101284346640654362/photo/1",
+              "media_key": "3_2101283648691728384",
+              "start": 67,
+              "url": "https://t.co/znucrLsuhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101284346640654362",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101283648691728384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 12233,
+          "like_count": 160,
+          "quote_count": 5,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "机场无聊做了个玩具，读取剪贴板历史，结合当前输入框和应用的上下文信息，让 Jev 决定此时此刻要粘贴的是什么 😅 \n好像还挺准的 🤣 https://t.co/znucrLsuhz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2101436671203905593",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1973,
+          "following_count": 2219,
+          "like_count": 123312,
+          "listed_count": 6,
+          "media_count": 595,
+          "tweet_count": 11353
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-02T06:02:29.000Z",
+        "description": "dev @nvidia | prev @leptonai @zeaburapp | opinions are my own",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "nvidia"
+              },
+              {
+                "end": 28,
+                "start": 19,
+                "username": "leptonai"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "zeaburapp"
+              }
+            ]
+          }
+        },
+        "id": "1311909361279619072",
+        "is_identity_verified": false,
+        "location": "Liangzhu",
+        "most_recent_tweet_id": "2101298822421123555",
+        "name": "Yuhang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1311909361279619072/1754961651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008706805527179265/x0-MrRjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13256,
+          "following_count": 1179,
+          "like_count": 18570,
+          "listed_count": 157,
+          "media_count": 1028,
+          "tweet_count": 6717
+        },
+        "url": "",
+        "username": "CoooolXyh",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

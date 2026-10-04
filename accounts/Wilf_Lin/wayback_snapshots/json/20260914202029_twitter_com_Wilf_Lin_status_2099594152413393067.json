@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      }
+    ],
+    "conversation_id": "2099594152413393067",
+    "created_at": "2026-09-14T20:20:29.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T21:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099594152413393067"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mylifcc/status…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/mylifcc/status/2099332327176364075",
+          "start": 71,
+          "url": "https://t.co/eeWohmP1bY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099594152413393067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099332327176364075",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这些喜欢偷懒的程序员已经用浏览器套壳把单应用的体积和运行内存提到了200mb了，我是不会允许你们在我电脑上占用2G内存显示一个简单的页面的。 https://t.co/eeWohmP1bY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2099594152413393067",
+        "created_at": "2026-09-14T20:20:29.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T21:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099594152413393067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mylifcc/status…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/mylifcc/status/2099332327176364075",
+              "start": 71,
+              "url": "https://t.co/eeWohmP1bY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099594152413393067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099332327176364075",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这些喜欢偷懒的程序员已经用浏览器套壳把单应用的体积和运行内存提到了200mb了，我是不会允许你们在我电脑上占用2G内存显示一个简单的页面的。 https://t.co/eeWohmP1bY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486017329662423044",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2099332327176364075",
+        "created_at": "2026-09-14T03:00:05.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T04:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099332327176364075"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099332327176364075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "前端开发可能真的要变天了，但不是因为 Copilot，而是因为 Generative UI。\n\n刚才看完 OpenUI 刚发的 OUI-1，认知被刷新了：\n\n过去大家总觉得让 AI 生成动态界面是天方夜谭——自回归大模型逐字吐 token 太慢，等界面画出来用户早跑了；而且 AI 写 UI 极容易“幻觉”，少个括号或漏挂一个组件整个页面就白屏。\n\nOUI-1 直接换了底层打法：\n\n不用自回归，改用 Diffusion 架构：一次并发写 256 个 token 块，速度直接飙到秒级。\n\n拿编译器做奖励函数搞自蒸馏：让解析器去当“考官”，专门抓错和自动修复，把准确率从 13% 暴力拉到了 71.7%。\n\n4B 激活参数：直接塞进单张 RTX 5090 本地跑，完全开源。\n\n以后很可能根本没有固定的“App 界面”了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 428,
+          "impression_count": 55712,
+          "like_count": 288,
+          "quote_count": 4,
+          "reply_count": 15,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "前端开发可能真的要变天了，但不是因为 Copilot，而是因为 Generative UI。\n\n刚才看完 OpenUI 刚发的 OUI-1，认知被刷新了：\n\n过去大家总觉得让 AI 生成动态界面是天方夜谭——自回归大模型逐字吐 token 太慢，等界面画出来用户早跑了；而且 AI 写 UI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2099594152413393067",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1852,
+          "following_count": 2177,
+          "like_count": 118884,
+          "listed_count": 3,
+          "media_count": 575,
+          "tweet_count": 11086
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-25T16:45:32.000Z",
+        "description": "每天用 AI 写代码的工程师\nClaude Code ｜ Codex深度用户  ｜Agentic engineering\n在这里分享 AI 工具实测和开发者工作流，持续构建中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/majiayu000",
+                "end": 23,
+                "expanded_url": "https://github.com/majiayu000",
+                "start": 0,
+                "url": "https://t.co/ufi5xk9Iy2"
+              }
+            ]
+          }
+        },
+        "id": "1486017329662423044",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099554269401657356",
+        "name": "lifcc",
+        "pinned_tweet_id": "2053385535658533072",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1486017329662423044/1778929715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034239213487681536/2gjQXlXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8844,
+          "following_count": 286,
+          "like_count": 6305,
+          "listed_count": 71,
+          "media_count": 1244,
+          "tweet_count": 14413
+        },
+        "url": "https://t.co/ufi5xk9Iy2",
+        "username": "mylifcc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

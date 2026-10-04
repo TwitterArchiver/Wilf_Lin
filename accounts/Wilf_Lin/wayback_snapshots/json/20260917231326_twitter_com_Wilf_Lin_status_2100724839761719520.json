@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2100724839761719520",
+    "created_at": "2026-09-17T23:13:26.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T00:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100724839761719520"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kafkaup/status…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/kafkaup/status/2100597395092361343",
+          "start": 41,
+          "url": "https://t.co/qWojmSBBe5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100724839761719520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100597395092361343",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果你去检查我的github，你会发现一大堆我工厂里正在用的软件，都是我亲自写的 https://t.co/qWojmSBBe5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2100724839761719520",
+        "created_at": "2026-09-17T23:13:26.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T00:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100724839761719520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kafkaup/status…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/kafkaup/status/2100597395092361343",
+              "start": 41,
+              "url": "https://t.co/qWojmSBBe5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100724839761719520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100597395092361343",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你去检查我的github，你会发现一大堆我工厂里正在用的软件，都是我亲自写的 https://t.co/qWojmSBBe5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580767946179194882",
+        "conversation_id": "2100597395092361343",
+        "created_at": "2026-09-17T14:47:00.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T15:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100597395092361343"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100597395092361343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "领导：你不是维护那个开源库吗？\n我：对，业余时间\n领导：公司核心系统在用，能加个功能吗？\n我：可以，我下班后写\n领导：能不能快点，上班时间写？\n我：那公司出钱吗？\n领导：你的工资不就是钱吗？\n我：工资买的是我上班的时间，那个库是我下班写的\n领导：那你上班写，不就变成上班的了？\n我：那写完了我能开源吗？\n领导：不能，这是公司的需求\n我：那我下班写，开源出去，公司再用，行吗？\n领导：行，那你抓紧\n我：所以公司的策略是，别人的东西免费用，自己的东西不给人\n领导：这不是策略，这是行业惯例"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 16215,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "领导：你不是维护那个开源库吗？\n我：对，业余时间\n领导：公司核心系统在用，能加个功能吗？\n我：可以，我下班后写\n领导：能不能快点，上班时间写？\n我：那公司出钱吗？\n领导：你的工资不就是钱吗？\n我：工资买的是我上班的时间，那个库是我下班写的\n领导：那你上班写，不就变成上班的了？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2100724839761719520",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 2206,
+          "like_count": 121780,
+          "listed_count": 5,
+          "media_count": 587,
+          "tweet_count": 11267
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-14T03:50:34.000Z",
+        "description": "AI | full stack dev | shitposting",
+        "id": "1580767946179194882",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100719951787053415",
+        "name": "卡夫卡",
+        "pinned_tweet_id": "2086414373380325747",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1580767946179194882/1777778078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097560351852343296/ZFI_YgUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13442,
+          "following_count": 699,
+          "like_count": 19570,
+          "listed_count": 59,
+          "media_count": 1994,
+          "tweet_count": 13563
+        },
+        "url": "",
+        "username": "kafkaup",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "2105443509981630633",
+    "created_at": "2026-09-30T23:43:44.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T00:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105443509981630633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/brunoborges/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/brunoborges/status/2105288180945535239",
+          "start": 8,
+          "url": "https://t.co/39eAyY5JGF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105443509981630633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105288180945535239",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇还能这样诠释 https://t.co/39eAyY5JGF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2105443509981630633",
+        "created_at": "2026-09-30T23:43:44.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T00:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105443509981630633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/brunoborges/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/brunoborges/status/2105288180945535239",
+              "start": 8,
+              "url": "https://t.co/39eAyY5JGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105443509981630633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105288180945535239",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇还能这样诠释 https://t.co/39eAyY5JGF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "14566379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2105288180945535239",
+        "created_at": "2026-09-30T13:26:31.000Z",
+        "display_text_range": [
+          0,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T14:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105288180945535239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105288180945535239",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1107,
+          "impression_count": 850220,
+          "like_count": 14475,
+          "quote_count": 50,
+          "reply_count": 118,
+          "retweet_count": 407
+        },
+        "reply_settings": "everyone",
+        "text": "\"Super Intelligence\" leads to .si domains.\n\n.si domains are from Slovenia.\n\nTake a guess who is married to a president and is from Slovenia...\n\nJust take a guess."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2105443509981630633",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 2328,
+          "like_count": 134888,
+          "listed_count": 6,
+          "media_count": 666,
+          "tweet_count": 11981
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-04-28T06:54:07.000Z",
+        "description": "Brazilian Immigrant 🇨🇦🇧🇷🇺🇸 Java Champion. $MSFT Product Manager for DevRel.  Previously @OracleDevs, #Azure DevRel, MSFT OpenJDK. Helps @GitHubCopilot now",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "MSFT"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 101,
+                "tag": "Azure"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "OracleDevs"
+              },
+              {
+                "end": 150,
+                "start": 136,
+                "username": "GitHubCopilot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/brunocborges",
+                "end": 23,
+                "expanded_url": "https://linkedin.com/in/brunocborges",
+                "start": 0,
+                "url": "https://t.co/ALsyNUVJT3"
+              }
+            ]
+          }
+        },
+        "id": "14566379",
+        "is_identity_verified": false,
+        "location": "Montreal, Canada",
+        "most_recent_tweet_id": "2105402456133840983",
+        "name": "Bruno Borges",
+        "pinned_tweet_id": "1003119599133470720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14566379/1742971039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100239006977904640/EqzUkSev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36313,
+          "following_count": 1217,
+          "like_count": 101936,
+          "listed_count": 825,
+          "media_count": 2535,
+          "tweet_count": 19962
+        },
+        "url": "https://t.co/ALsyNUVJT3",
+        "username": "brunoborges",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

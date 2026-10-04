@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2102202700150571401",
+    "created_at": "2026-09-22T01:05:55.000Z",
+    "display_text_range": [
+      0,
+      148
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T02:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102202700150571401"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wilf_lin/statu…",
+          "end": 172,
+          "expanded_url": "https://twitter.com/wilf_lin/status/2102163870945079785",
+          "start": 149,
+          "url": "https://t.co/SK1oKuas2u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102202700150571401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102163870945079785",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "SGLang下他的推理延迟是avg 17.2ms p95 18.8ms， prefill速度约32000TPS\n\n如果你想的话，你可以本地部署0.8b的版本，他将以显著更快的速度工作，同时还支持多模模态输入\n\n我不准备开放这些东西的代码，因为它实在太简单了，你可以让你的Agent轻松复刻一个出来 https://t.co/SK1oKuas2u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2102163865010143232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSxi5cGXgAAzucr.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2102163864980803584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSxi5b_X0AAZcpB.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2102202700150571401",
+        "created_at": "2026-09-22T01:05:55.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T02:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102202700150571401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wilf_lin/statu…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/wilf_lin/status/2102163870945079785",
+              "start": 149,
+              "url": "https://t.co/SK1oKuas2u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102202700150571401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102163870945079785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "SGLang下他的推理延迟是avg 17.2ms p95 18.8ms， prefill速度约32000TPS\n\n如果你想的话，你可以本地部署0.8b的版本，他将以显著更快的速度工作，同时还支持多模模态输入\n\n我不准备开放这些东西的代码，因为它实在太简单了，你可以让你的Agent轻松复刻一个出来 https://t.co/SK1oKuas2u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102163865010143232",
+            "3_2102163864980803584"
+          ]
+        },
+        "author_id": "1554803647909097472",
+        "conversation_id": "2102163870945079785",
+        "created_at": "2026-09-21T22:31:37.000Z",
+        "display_text_range": [
+          0,
+          185
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T23:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102163870945079785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M8pPvbJsAN",
+              "end": 209,
+              "expanded_url": "https://x.com/Wilf_Lin/status/2102163870945079785/photo/1",
+              "media_key": "3_2102163865010143232",
+              "start": 186,
+              "url": "https://t.co/M8pPvbJsAN"
+            },
+            {
+              "display_url": "pic.x.com/M8pPvbJsAN",
+              "end": 209,
+              "expanded_url": "https://x.com/Wilf_Lin/status/2102163870945079785/photo/1",
+              "media_key": "3_2102163864980803584",
+              "start": 186,
+              "url": "https://t.co/M8pPvbJsAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102163870945079785",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102163865010143232"
+          },
+          {
+            "media_key": "3_2102163864980803584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "wilflin.me/jev",
+                "end": 285,
+                "expanded_url": "http://wilflin.me/jev",
+                "start": 262,
+                "url": "https://t.co/azH0r32syv"
+              }
+            ]
+          },
+          "text": "我自己实现了一个jev类似物\n\n具体来说，我改造了qwen3.5 9b使其可以像jev一样工作\n\n方法很简单，\n首先将prompt拼接成以下形式：\nQuestion:xxxxx\nChoices\n1.xx\n2.xx\n…\nA.xx\nB.xx\n…\nAnswer number/letter only\n\n最后将softmax改造为只计算单数字/字母的输出，即可输出选项及其概率。\n\n没做优化的bf16的概念验证版本在pro 6000上处理延迟为平均35ms, NVFP4版本为32ms\n\n你可以对任何开源模型这么做。\n\n目前可以在 https://t.co/azH0r32syv 体验"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 535,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我自己实现了一个jev类似物\n\n具体来说，我改造了qwen3.5 9b使其可以像jev一样工作\n\n方法很简单，\n首先将prompt拼接成以下形式：\nQuestion:xxxxx\nChoices\n1.xx\n2.xx\n…\nA.xx\nB.xx\n…\nAnswer number/letter only\n\n最后将softmax改造为只计算单数字/字母的输出，即可输出选项及其概率。 https://t.co/M8pPvbJsAN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2102202700150571401",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1974,
+          "following_count": 2238,
+          "like_count": 125279,
+          "listed_count": 6,
+          "media_count": 601,
+          "tweet_count": 11453
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,556 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      }
+    ],
+    "conversation_id": "2102265488352989249",
+    "created_at": "2026-09-22T05:15:25.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T06:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102265488352989249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "44936471",
+          "start": 3,
+          "username": "jaredpalmer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102265488352989249",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102048412841517495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jaredpalmer: Kev has now been refactored on top of Qwen3.5. \n\nNew checkpoints are now available at 0.8B, 4B, and 9B along with a fine-t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2102045563105513472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSv3TXKXEAAbDzH.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2102265488352989249",
+        "created_at": "2026-09-22T05:15:25.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T06:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102265488352989249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "44936471",
+              "start": 3,
+              "username": "jaredpalmer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102265488352989249",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102048412841517495",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jaredpalmer: Kev has now been refactored on top of Qwen3.5. \n\nNew checkpoints are now available at 0.8B, 4B, and 9B along with a fine-t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102045563105513472"
+          ]
+        },
+        "author_id": "44936471",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2102048412841517495",
+        "created_at": "2026-09-21T14:52:50.000Z",
+        "display_text_range": [
+          0,
+          185
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102048412841517495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 158,
+              "id": "1551987185372512263",
+              "start": 152,
+              "username": "modal"
+            }
+          ],
+          "urls": [
+            {
+              "description": "tiny Jev-like model built on top of Qwen2.5-0.5B you can train and run on your MacBook - jaredpalmer/kev",
+              "display_url": "github.com/jaredpalmer/kev",
+              "end": 185,
+              "expanded_url": "https://github.com/jaredpalmer/kev",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2101028328517885952/cxasXR-j?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2101028328517885952/cxasXR-j?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 162,
+              "status": 200,
+              "title": "GitHub - jaredpalmer/kev: tiny Jev-like model built on top of Qwen2.5-0.5B you can train and run on your MacBook",
+              "unwound_url": "https://github.com/jaredpalmer/kev",
+              "url": "https://t.co/53wZQYhhmu"
+            },
+            {
+              "display_url": "pic.x.com/lONfCB0JLc",
+              "end": 209,
+              "expanded_url": "https://x.com/jaredpalmer/status/2102048412841517495/photo/1",
+              "media_key": "3_2102045563105513472",
+              "start": 186,
+              "url": "https://t.co/lONfCB0JLc"
+            },
+            {
+              "display_url": "x.com/jaredpalmer/st…",
+              "end": 233,
+              "expanded_url": "https://twitter.com/jaredpalmer/status/2101715352258232539",
+              "start": 210,
+              "url": "https://t.co/I5BX75XZjM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102048412841517495",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2102045563105513472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 486,
+          "impression_count": 46928,
+          "like_count": 635,
+          "quote_count": 5,
+          "reply_count": 29,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101715352258232539",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Kev has now been refactored on top of Qwen3.5. \n\nNew checkpoints are now available at 0.8B, 4B, and 9B along with a fine-tuning script you can use with @modal. \n\nhttps://t.co/53wZQYhhmu https://t.co/lONfCB0JLc https://t.co/I5BX75XZjM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2102265488352989249",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1977,
+          "following_count": 2237,
+          "like_count": 125800,
+          "listed_count": 6,
+          "media_count": 602,
+          "tweet_count": 11469
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1765909640364068865/MvH-m0gd_bigger.jpg",
+          "description": "Cognition",
+          "url": "https://twitter.com/cognition",
+          "user_id": [
+            "1751810001751183361"
+          ]
+        },
+        "created_at": "2009-06-05T16:52:55.000Z",
+        "description": "VP of Engineering @Cognition\n\nPreviously: VP Eng @Microsoft. VP of AI @Vercel, Creator of @v0 and @aisdk, Founder of @Turborepo (acquired by Vercel)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "Cognition"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "Microsoft"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "Vercel"
+              },
+              {
+                "end": 93,
+                "start": 90,
+                "username": "v0"
+              },
+              {
+                "end": 104,
+                "start": 98,
+                "username": "aisdk"
+              },
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Turborepo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jaredpalmer.com",
+                "end": 23,
+                "expanded_url": "http://jaredpalmer.com",
+                "start": 0,
+                "url": "https://t.co/zL4aYxGfHS"
+              }
+            ]
+          }
+        },
+        "id": "44936471",
+        "is_identity_verified": false,
+        "location": "New York, NY",
+        "most_recent_tweet_id": "2102127550130487305",
+        "name": "Jared Palmer",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44936471/1784054312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093015076261306369/IcbZLSLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110499,
+          "following_count": 2826,
+          "like_count": 67402,
+          "listed_count": 1214,
+          "media_count": 1245,
+          "tweet_count": 12476
+        },
+        "url": "https://t.co/zL4aYxGfHS",
+        "username": "jaredpalmer",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2100312735577772121",
+    "created_at": "2026-09-16T19:55:52.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T20:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100312735577772121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_luofuli/statu…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/_luofuli/status/2100296686719610932",
+          "start": 17,
+          "url": "https://t.co/5eZVhB3jBx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100312735577772121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100296686719610932",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发模型的见多了，直播训练是头一回 https://t.co/5eZVhB3jBx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2100312735577772121",
+        "created_at": "2026-09-16T19:55:52.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T20:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100312735577772121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_luofuli/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/_luofuli/status/2100296686719610932",
+              "start": 17,
+              "url": "https://t.co/5eZVhB3jBx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100312735577772121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100296686719610932",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发模型的见多了，直播训练是头一回 https://t.co/5eZVhB3jBx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721721873095155712",
+        "conversation_id": "2100296686719610932",
+        "created_at": "2026-09-16T18:52:06.000Z",
+        "display_text_range": [
+          0,
+          274
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T19:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100296686719610932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100296686719610932",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "mimo.xiaomi.com/rl/",
+                "end": 541,
+                "expanded_url": "https://mimo.xiaomi.com/rl/",
+                "start": 518,
+                "url": "https://t.co/ZSxahzJRju"
+              }
+            ]
+          },
+          "text": "Nearly half a year of silence. We spent it studying one problem: how far RL can scale.\n\nMiMo-V2.6 is in the middle of its RL run right now. Three things we scaled: compute (~2B tokens per step, 1568 prompts × 16 rollouts, fully async), environments and harnesses (multi-task agentic RL, mixed across multiple harnesses in one run), and grader compute (agentic in-group credit assignment, with test-case and rubric-based rewards). We'll open-source the details piece by piece over the coming weeks.\n\nStreaming the run: https://t.co/ZSxahzJRju"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 257,
+          "impression_count": 31665,
+          "like_count": 801,
+          "quote_count": 48,
+          "reply_count": 42,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "Nearly half a year of silence. We spent it studying one problem: how far RL can scale.\n\nMiMo-V2.6 is in the middle of its RL run right now. Three things we scaled: compute (~2B tokens per step, 1568 prompts × 16 rollouts, fully async), environments and harnesses (multi-task"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2100312735577772121",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 2196,
+          "like_count": 120707,
+          "listed_count": 4,
+          "media_count": 585,
+          "tweet_count": 11208
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:51:10.000Z",
+        "description": "Now building @XiaomiMiMo. Previously @deepseek_ai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "XiaomiMiMo"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "deepseek_ai"
+              }
+            ]
+          }
+        },
+        "id": "1721721873095155712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100299502129483990",
+        "name": "Fuli Luo",
+        "pinned_tweet_id": "2100296686719610932",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988292026555564032/WBBBI5xQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67929,
+          "following_count": 167,
+          "like_count": 40,
+          "listed_count": 584,
+          "media_count": 2,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "_LuoFuli",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

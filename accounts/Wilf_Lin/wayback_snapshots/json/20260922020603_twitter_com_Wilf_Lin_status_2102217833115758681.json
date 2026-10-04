@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2102197575973773748",
+    "created_at": "2026-09-22T02:06:03.000Z",
+    "display_text_range": [
+      21,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T03:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102217833115758681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "28530405",
+          "start": 0,
+          "username": "manateelazycat"
+        },
+        {
+          "end": 20,
+          "id": "14561327",
+          "start": 16,
+          "username": "dhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102217833115758681",
+    "in_reply_to_user_id": "28530405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102214766370693187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manateelazycat @dhh 我刚看了一下，我没法给你pr，因为你那个依赖omarchy的公共组件，我没有相关的开发环境"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2102197575973773748",
+        "created_at": "2026-09-22T02:06:03.000Z",
+        "display_text_range": [
+          21,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T03:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102217833115758681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "28530405",
+              "start": 0,
+              "username": "manateelazycat"
+            },
+            {
+              "end": 20,
+              "id": "14561327",
+              "start": 16,
+              "username": "dhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102217833115758681",
+        "in_reply_to_user_id": "28530405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102214766370693187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manateelazycat @dhh 我刚看了一下，我没法给你pr，因为你那个依赖omarchy的公共组件，我没有相关的开发环境"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "28530405",
+        "conversation_id": "2102197575973773748",
+        "created_at": "2026-09-22T01:53:52.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T02:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102214766370693187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554803647909097472",
+              "start": 0,
+              "username": "Wilf_Lin"
+            },
+            {
+              "end": 14,
+              "id": "14561327",
+              "start": 10,
+              "username": "dhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102214766370693187",
+        "in_reply_to_user_id": "1554803647909097472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102213124942123116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wilf_Lin @dhh 欢迎 PR😄"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2102217833115758681",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 2238,
+          "like_count": 125476,
+          "listed_count": 6,
+          "media_count": 602,
+          "tweet_count": 11460
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-04-03T09:01:38.000Z",
+        "description": "懒猫微服CEO | 前Deepin CTO | Omarchy Geek\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lazycat.cloud",
+                "end": 70,
+                "expanded_url": "https://lazycat.cloud/",
+                "start": 47,
+                "url": "https://t.co/KVqgWHDvJj"
+              },
+              {
+                "display_url": "x.com/manateelazycat…",
+                "end": 103,
+                "expanded_url": "https://x.com/manateelazycat/status/1970815014861930775",
+                "start": 80,
+                "url": "https://t.co/SF9p24BuTk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manateelazycat.github.io",
+                "end": 23,
+                "expanded_url": "https://manateelazycat.github.io",
+                "start": 0,
+                "url": "https://t.co/twDx1twu9o"
+              }
+            ]
+          }
+        },
+        "id": "28530405",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2102214766370693187",
+        "name": "Andy Stewart",
+        "pinned_tweet_id": "2095385038552736036",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28530405/1766732508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53596,
+          "following_count": 565,
+          "like_count": 21701,
+          "listed_count": 391,
+          "media_count": 10152,
+          "tweet_count": 65661
+        },
+        "url": "https://t.co/twDx1twu9o",
+        "username": "manateelazycat",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1671940407633010689/9P5gi6LF_bigger.jpg",
+          "description": "37signals",
+          "url": "https://twitter.com/37signals",
+          "user_id": [
+            "11132462"
+          ]
+        },
+        "created_at": "2008-04-27T20:19:25.000Z",
+        "description": "Father of three, Creator of Ruby on Rails + Omarchy, Co-owner & CTO of 37signals, Shopify director, NYT best-selling author, and Le Mans 24h class-winner.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dhh.dk",
+                "end": 23,
+                "expanded_url": "https://dhh.dk",
+                "start": 0,
+                "url": "https://t.co/jtVPVMmMQT"
+              }
+            ]
+          }
+        },
+        "id": "14561327",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2102194994127729028",
+        "name": "DHH",
+        "pinned_tweet_id": "2088304854603047019",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14561327/1788808855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093715898204884992/goERjC9G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887666,
+          "following_count": 455,
+          "like_count": 56800,
+          "listed_count": 11748,
+          "media_count": 3564,
+          "tweet_count": 74064
+        },
+        "url": "https://t.co/jtVPVMmMQT",
+        "username": "dhh",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

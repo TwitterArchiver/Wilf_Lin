@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Emmanuel Macron",
+          "id": "822153632002904064",
+          "name": "Emmanuel Macron"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Emmanuel Macron",
+          "id": "822153632002904064",
+          "name": "Emmanuel Macron"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Emmanuel Macron",
+          "id": "822153632002904064",
+          "name": "Emmanuel Macron"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1483822657963397121",
+          "name": "France politics"
+        }
+      }
+    ],
+    "conversation_id": "2101011895801295305",
+    "created_at": "2026-09-18T18:14:05.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T19:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101011895801295305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1976143068",
+          "start": 3,
+          "username": "EmmanuelMacron"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101011895801295305",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 684
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100980494263312823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EmmanuelMacron: Nous devons rester unis face aux crises."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1483822657963397121",
+              "name": "France politics"
+            }
+          }
+        ],
+        "conversation_id": "2101011895801295305",
+        "created_at": "2026-09-18T18:14:05.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T19:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101011895801295305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1976143068",
+              "start": 3,
+              "username": "EmmanuelMacron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101011895801295305",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 684
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100980494263312823",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EmmanuelMacron: Nous devons rester unis face aux crises."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976143068",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1483822657963397121",
+              "name": "France politics"
+            }
+          }
+        ],
+        "conversation_id": "2100980494263312823",
+        "created_at": "2026-09-18T16:09:18.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T17:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100980494263312823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100980494263312823",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 275,
+          "impression_count": 411569,
+          "like_count": 6534,
+          "quote_count": 527,
+          "reply_count": 2427,
+          "retweet_count": 684
+        },
+        "reply_settings": "everyone",
+        "text": "Nous devons rester unis face aux crises."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2101011895801295305",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 2215,
+          "like_count": 122607,
+          "listed_count": 5,
+          "media_count": 589,
+          "tweet_count": 11303
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-10-20T19:35:28.000Z",
+        "description": "Président de la République française.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "elysee.fr",
+                "end": 23,
+                "expanded_url": "http://elysee.fr",
+                "start": 0,
+                "url": "https://t.co/n76au37OVm"
+              }
+            ]
+          }
+        },
+        "id": "1976143068",
+        "is_identity_verified": false,
+        "location": "France",
+        "most_recent_tweet_id": "2100980494263312823",
+        "name": "Emmanuel Macron",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976143068/1723452442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550535324501164032/0lTW_4tj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11043593,
+          "following_count": 709,
+          "like_count": 514,
+          "listed_count": 16579,
+          "media_count": 7556,
+          "tweet_count": 15948
+        },
+        "url": "https://t.co/n76au37OVm",
+        "username": "EmmanuelMacron",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

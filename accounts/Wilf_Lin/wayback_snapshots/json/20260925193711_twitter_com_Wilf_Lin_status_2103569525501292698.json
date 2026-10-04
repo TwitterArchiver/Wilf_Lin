@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2103569525501292698",
+    "created_at": "2026-09-25T19:37:11.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T20:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103569525501292698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tianyi/status/…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/tianyi/status/2103534313463783831",
+          "start": 33,
+          "url": "https://t.co/IpzREszain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103569525501292698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103534313463783831",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "devday要是sam和tibo不整点新活，我就要换到dsh去了 https://t.co/IpzREszain"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1250,
+        "media_key": "3_2103533852241301505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTFA5MPaEAEixVz.jpg",
+        "width": 1118
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2103569525501292698",
+        "created_at": "2026-09-25T19:37:11.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T20:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103569525501292698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tianyi/status/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/tianyi/status/2103534313463783831",
+              "start": 33,
+              "url": "https://t.co/IpzREszain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103569525501292698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103534313463783831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "devday要是sam和tibo不整点新活，我就要换到dsh去了 https://t.co/IpzREszain"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103533852241301505"
+          ]
+        },
+        "author_id": "1473591",
+        "conversation_id": "2103534313463783831",
+        "created_at": "2026-09-25T17:17:16.000Z",
+        "display_text_range": [
+          0,
+          179
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T18:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103534313463783831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9E8ZE2maoK",
+              "end": 203,
+              "expanded_url": "https://x.com/tianyi/status/2103534313463783831/photo/1",
+              "media_key": "3_2103533852241301505",
+              "start": 180,
+              "url": "https://t.co/9E8ZE2maoK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103534313463783831",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103533852241301505"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "从 DeepSeek 官方 API 处统计的数据来看，约有 60% 的 DeepSeek Harness 用户使用了至少一个第三方插件。第三方插件是 DeepSeek Harness 用户体验中最具特色且不可缺少的一部分。DeepSeek Harness 团队将持续支持第三方插件生态的繁荣发展，并推动插件 API 趋于稳定，在将来减少和尽量避免破坏性更新。\n\n接下来的几天我个人将每天推荐一个优质的 DSH 第三方插件，欢迎 DSH 插件作者在本 thread 下自荐。我会结合插件质量及后台实际统计到的插件使用量择优推荐。\n\nDeepSeek Harness 团队祝大家中秋快乐阖家幸福！\n\n（注：在用户使用官方 API 及模型时，DSH 会向官方 API 上报实际使用的插件包名和版本。此类上报不额外消耗 tokens。）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 12262,
+          "like_count": 248,
+          "quote_count": 6,
+          "reply_count": 43,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "从 DeepSeek 官方 API 处统计的数据来看，约有 60% 的 DeepSeek Harness 用户使用了至少一个第三方插件。第三方插件是 DeepSeek Harness 用户体验中最具特色且不可缺少的一部分。DeepSeek Harness 团队将持续支持第三方插件生态的繁荣发展，并推动插件 API 趋于稳定，在将来减少和尽量避免破坏性更新。 https://t.co/9E8ZE2maoK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2103569525501292698",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1982,
+          "following_count": 2254,
+          "like_count": 129063,
+          "listed_count": 6,
+          "media_count": 613,
+          "tweet_count": 11652
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-03-19T05:24:31.000Z",
+        "description": "Member of Technical Staff @ DeepSeek, Harness Team\n\nI'd love to connect with members of international frontier LLM labs! DM is open. Opinions are my own.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tianyicui.com",
+                "end": 23,
+                "expanded_url": "https://tianyicui.com",
+                "start": 0,
+                "url": "https://t.co/llGaZbRlM3"
+              }
+            ]
+          }
+        },
+        "id": "1473591",
+        "is_identity_verified": false,
+        "location": "Beijing",
+        "most_recent_tweet_id": "2103534313463783831",
+        "name": "Tianyi Cui",
+        "pinned_tweet_id": "2096975270578139273",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000650737082/b849b67d6470fafe8b3deb2ae97acfda_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44363,
+          "following_count": 471,
+          "like_count": 815,
+          "listed_count": 311,
+          "media_count": 51,
+          "tweet_count": 7221
+        },
+        "url": "https://t.co/llGaZbRlM3",
+        "username": "tianyi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

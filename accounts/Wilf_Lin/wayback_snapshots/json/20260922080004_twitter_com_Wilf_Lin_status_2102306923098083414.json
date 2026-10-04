@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2102298440629940506",
+    "created_at": "2026-09-22T08:00:04.000Z",
+    "display_text_range": [
+      16,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T09:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102306923098083414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "28530405",
+          "start": 0,
+          "username": "manateelazycat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "hypr.land/plugins",
+          "end": 69,
+          "expanded_url": "https://hypr.land/plugins",
+          "start": 46,
+          "status": 200,
+          "unwound_url": "https://hypr.land/plugins/",
+          "url": "https://t.co/IA8IfhJuaL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102306923098083414",
+    "in_reply_to_user_id": "28530405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102298440629940506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manateelazycat 这堆东西里面的一部分应该进入hyprland的插件推荐目录 https://t.co/IA8IfhJuaL\n去掉qomarchy依赖就好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 775,
+        "media_key": "3_2102298227857104896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSzdGYtbIAAvoa3.jpg",
+        "width": 914
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2102298440629940506",
+        "created_at": "2026-09-22T08:00:04.000Z",
+        "display_text_range": [
+          16,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T09:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102306923098083414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "28530405",
+              "start": 0,
+              "username": "manateelazycat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "hypr.land/plugins",
+              "end": 69,
+              "expanded_url": "https://hypr.land/plugins",
+              "start": 46,
+              "status": 200,
+              "unwound_url": "https://hypr.land/plugins/",
+              "url": "https://t.co/IA8IfhJuaL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102306923098083414",
+        "in_reply_to_user_id": "28530405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102298440629940506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manateelazycat 这堆东西里面的一部分应该进入hyprland的插件推荐目录 https://t.co/IA8IfhJuaL\n去掉qomarchy依赖就好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102298227857104896"
+          ]
+        },
+        "author_id": "28530405",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2102298440629940506",
+        "created_at": "2026-09-22T07:26:21.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T08:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102298440629940506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q3Bhg5XFJz",
+              "end": 99,
+              "expanded_url": "https://x.com/manateelazycat/status/2102298440629940506/photo/1",
+              "media_key": "3_2102298227857104896",
+              "start": 76,
+              "url": "https://t.co/q3Bhg5XFJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102298440629940506",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102298227857104896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Omarchy 的插件商店还是有个性\n\n提交审核通过之前，如果你更新了github，审核是不通过的，哈哈哈哈\n\n我今天就不更新插件了，去西园寺耍一会儿 https://t.co/q3Bhg5XFJz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2102306923098083414",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 2237,
+          "like_count": 125870,
+          "listed_count": 6,
+          "media_count": 603,
+          "tweet_count": 11476
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-04-03T09:01:38.000Z",
+        "description": "懒猫微服CEO | 前Deepin CTO | Omarchy Geek\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lazycat.cloud",
+                "end": 70,
+                "expanded_url": "https://lazycat.cloud/",
+                "start": 47,
+                "url": "https://t.co/KVqgWHDvJj"
+              },
+              {
+                "display_url": "x.com/manateelazycat…",
+                "end": 103,
+                "expanded_url": "https://x.com/manateelazycat/status/1970815014861930775",
+                "start": 80,
+                "url": "https://t.co/SF9p24BuTk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manateelazycat.github.io",
+                "end": 23,
+                "expanded_url": "https://manateelazycat.github.io",
+                "start": 0,
+                "url": "https://t.co/twDx1twu9o"
+              }
+            ]
+          }
+        },
+        "id": "28530405",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2102301548449771736",
+        "name": "Andy Stewart",
+        "pinned_tweet_id": "2095385038552736036",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28530405/1766732508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53602,
+          "following_count": 568,
+          "like_count": 21715,
+          "listed_count": 391,
+          "media_count": 10157,
+          "tweet_count": 65682
+        },
+        "url": "https://t.co/twDx1twu9o",
+        "username": "manateelazycat",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

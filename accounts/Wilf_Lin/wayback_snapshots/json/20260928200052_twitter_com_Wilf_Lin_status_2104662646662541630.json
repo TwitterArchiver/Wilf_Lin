@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104662643093217280"
+      ]
+    },
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      }
+    ],
+    "conversation_id": "2104662646662541630",
+    "created_at": "2026-09-28T20:00:52.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T21:00:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104662646662541630"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P2uSyMRrQ1",
+          "end": 23,
+          "expanded_url": "https://x.com/Wilf_Lin/status/2104662646662541630/photo/1",
+          "media_key": "3_2104662643093217280",
+          "start": 0,
+          "url": "https://t.co/P2uSyMRrQ1"
+        },
+        {
+          "display_url": "x.com/hac959/status/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/hac959/status/2103421758187720830",
+          "start": 24,
+          "url": "https://t.co/8bRYP2nHJT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104662646662541630",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2104662643093217280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103421758187720830",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/P2uSyMRrQ1 https://t.co/8bRYP2nHJT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2104662643093217280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTVDhd2bIAAGgrg.jpg",
+        "width": 900
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2103421750784765952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTDa8BxbMAAbzT2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104662643093217280"
+          ]
+        },
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "2104662646662541630",
+        "created_at": "2026-09-28T20:00:52.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T21:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104662646662541630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P2uSyMRrQ1",
+              "end": 23,
+              "expanded_url": "https://x.com/Wilf_Lin/status/2104662646662541630/photo/1",
+              "media_key": "3_2104662643093217280",
+              "start": 0,
+              "url": "https://t.co/P2uSyMRrQ1"
+            },
+            {
+              "display_url": "x.com/hac959/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/hac959/status/2103421758187720830",
+              "start": 24,
+              "url": "https://t.co/8bRYP2nHJT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104662646662541630",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2104662643093217280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103421758187720830",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/P2uSyMRrQ1 https://t.co/8bRYP2nHJT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103421750784765952"
+          ]
+        },
+        "author_id": "1163265445199110144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "2103421758187720830",
+        "created_at": "2026-09-25T09:50:01.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T10:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103421758187720830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vnt2NjiXN3",
+              "end": 78,
+              "expanded_url": "https://x.com/hac959/status/2103421758187720830/photo/1",
+              "media_key": "3_2103421750784765952",
+              "start": 55,
+              "url": "https://t.co/vnt2NjiXN3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103421758187720830",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103421750784765952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 742,
+          "impression_count": 1213439,
+          "like_count": 17812,
+          "quote_count": 219,
+          "reply_count": 494,
+          "retweet_count": 2379
+        },
+        "reply_settings": "everyone",
+        "text": "彭 麗媛　63才\n高市早苗　65才\n\n画像は左より2026/3，2026/9  のモノ\n\nこの差はキツイな… https://t.co/vnt2NjiXN3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2104662646662541630",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2004,
+          "following_count": 2295,
+          "like_count": 133233,
+          "listed_count": 5,
+          "media_count": 634,
+          "tweet_count": 11824
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-19T01:44:40.000Z",
+        "description": "SNSで天皇家をお守りしてるメンバー）秋篠宮家に皇統を移してはならない/統一協会と高市早苗と自民党/統一協会が画策する皇室破壊を徹底的に研究/護憲・尊皇派/競馬・野球/憲法改悪大反対/アイコンは変えない！🐧クソリプ研究家",
+        "id": "1163265445199110144",
+        "is_identity_verified": false,
+        "location": "日本 ",
+        "most_recent_tweet_id": "2104661084947009785",
+        "name": "DOBOON",
+        "pinned_tweet_id": "2037705190862962775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1163265445199110144/1613818430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1428305946422349829/6XhuTMMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10083,
+          "following_count": 763,
+          "like_count": 527318,
+          "listed_count": 173,
+          "media_count": 4750,
+          "tweet_count": 67079
+        },
+        "url": "",
+        "username": "hac959",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2104661276114960709",
+    "created_at": "2026-09-28T19:55:25.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T20:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104661276114960709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/artificialanly…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/artificialanlys/status/2104640155843989864",
+          "start": 20,
+          "url": "https://t.co/F4iQLbGL0U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104661276114960709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104640155843989864",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这尼玛啥啊\nA\\把外星人招公司里来了？ https://t.co/F4iQLbGL0U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2007,
+        "media_key": "3_2104639076767064064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUuFucbYAAx-9o.jpg",
+        "width": 2342
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2104661276114960709",
+        "created_at": "2026-09-28T19:55:25.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T20:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104661276114960709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/artificialanly…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/artificialanlys/status/2104640155843989864",
+              "start": 20,
+              "url": "https://t.co/F4iQLbGL0U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104661276114960709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104640155843989864",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这尼玛啥啊\nA\\把外星人招公司里来了？ https://t.co/F4iQLbGL0U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104639076767064064"
+          ]
+        },
+        "author_id": "1743487864934162432",
+        "conversation_id": "2104640155843989864",
+        "created_at": "2026-09-28T18:31:30.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T19:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104640155843989864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aunF6RTycN",
+              "end": 304,
+              "expanded_url": "https://x.com/ArtificialAnlys/status/2104640155843989864/photo/1",
+              "media_key": "3_2104639076767064064",
+              "start": 281,
+              "url": "https://t.co/aunF6RTycN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104640155843989864",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104639076767064064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "Anthropic has launched Claude Sonnet 5.5: it scores 56 on the Artificial Analysis Intelligence Index, just 2 points behind Opus 5.5 (max), but at the highest Output Tokens per Task we’ve seen\n\nWith max effort, Sonnet 5.5 gains 18 points over Sonnet 5 and to #2 on the Intelligence Index behind only Opus 5.5 (max). Anthropic has priced Sonnet 5.5 identically to Sonnet 5 at $0.2/$2/$10 per 1M cache input/input/output tokens, however it outputs a higher number of Output Tokens per Task and costs $7.60 per task (~50% higher than Sonnet 5’s Cost per Task)\n\nKey takeaways:\n\n➤ Meets leading models on agentic terminal use and knowledge work: in Terminal-Bench 4.0, Claude Sonnet 5.5 reaches 64% against 60% for Opus 5.5 and GPT-6 Astra. On AA-Briefcase (1811 vs 1822 Elo), GDPval-AA (1844 vs 1846 Elo), and AutomationBench-AA (71% vs 70% headline score), Sonnet 5.5 reaches parity with Opus 5.5, albeit with significantly higher token usage to achieve it\n\n➤ Heaviest token use we have measured: at max effort, where it reaches performance nearing that of Opus 5.5, Claude Sonnet 5.5 used ~193k Output Tokens per Intelligence Index Task. This is the highest token use we have measured on around 60% higher than Opus 5.5 (max) or Sonnet 5 (max) and ~7x GPT-6 Astra (max)\n\n➤ Pricing remains at $2/$10 per million tokens of input/output, matching GPT-6 Sol. At this pricing Claude Sonnet 5.5 sits off the Intelligence vs. Cost per Task Pareto Frontier. At high effort levels it sits behind Opus 5.5, while lower efforts have GPT-6 Astra or Sol configurations delivering equivalent performance for lower cost. The high effort setting is the most competitive on this basis, sitting very narrowly behind GPT-6 Sol on Intelligence at effectively the same Cost per Task\n\n➤ Behind Opus 5.5 on factual knowledge and scientific reasoning: as a smaller class model, Sonnet 5.5 still lags on factual knowledge in AA-Omniscience compared to Opus 5.5. It scores 54% against 66% for factual accuracy, though with a lower hallucination rate (47% against 59%). It also sits ~6 points lower on Humanity's Last Exam and SciCode compared to Opus\n\nThese evaluations were conducted on a pre-release deployment of Claude Sonnet 5.5, which Anthropic found to have a bug that can degrade responses to requests that use structured outputs. This is fixed for the public release and Anthropic expects minimal change or slightly understated performance, but we will be re-running relevant evaluations soon.\n\nOther model details:\n\n➤ Context window: 1 million tokens with image and text input, unchanged from Sonnet 5\n\n➤ Pricing: unchanged from Sonnet 5’s latest $2/$10 per 1M input/output tokens; cache writes at $2.5, cache reads $0.2\n\n➤ Effort settings: five (low, medium, high, xhigh, max). Intelligence Index evaluations were run at all five with Anthropic's default fallback enabled. We see Sonnet 5.5 fall back in ~0.1% of tasks across the Intelligence Index, primarily in TerminalBench 4.0, falling back to Sonnet 5 in all cases."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 219,
+          "impression_count": 97246,
+          "like_count": 1562,
+          "quote_count": 121,
+          "reply_count": 95,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "Anthropic has launched Claude Sonnet 5.5: it scores 56 on the Artificial Analysis Intelligence Index, just 2 points behind Opus 5.5 (max), but at the highest Output Tokens per Task we’ve seen\n\nWith max effort, Sonnet 5.5 gains 18 points over Sonnet 5 and to #2 on the Intelligence https://t.co/aunF6RTycN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2104661276114960709",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2004,
+          "following_count": 2294,
+          "like_count": 133214,
+          "listed_count": 5,
+          "media_count": 633,
+          "tweet_count": 11821
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-06T04:21:21.000Z",
+        "description": "Independent analysis of AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "artificialanalysis.ai",
+                "end": 23,
+                "expanded_url": "http://artificialanalysis.ai/",
+                "start": 0,
+                "url": "https://t.co/hEm5Kv0ktE"
+              }
+            ]
+          }
+        },
+        "id": "1743487864934162432",
+        "is_identity_verified": true,
+        "location": "San Francisco",
+        "most_recent_tweet_id": "2104640165104976338",
+        "name": "Artificial Analysis",
+        "pinned_tweet_id": "1809670091778207901",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1743487864934162432/1775781574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042402069320290304/A8C1lP07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151447,
+          "following_count": 682,
+          "like_count": 2704,
+          "listed_count": 2291,
+          "media_count": 2374,
+          "tweet_count": 3394
+        },
+        "url": "https://t.co/hEm5Kv0ktE",
+        "username": "ArtificialAnlys",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

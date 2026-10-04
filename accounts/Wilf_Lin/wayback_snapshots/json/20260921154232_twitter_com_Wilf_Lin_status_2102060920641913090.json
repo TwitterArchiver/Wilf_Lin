@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2102046996760822028",
+    "created_at": "2026-09-21T15:42:32.000Z",
+    "display_text_range": [
+      16,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T16:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102060920641913090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "28530405",
+          "start": 0,
+          "username": "manateelazycat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102060920641913090",
+    "in_reply_to_user_id": "28530405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102046996760822028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manateelazycat 我等这一天很久了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2102046689087672320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSv4U5xbUAAYpsw.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2102046996760822028",
+        "created_at": "2026-09-21T15:42:32.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T16:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102060920641913090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "28530405",
+              "start": 0,
+              "username": "manateelazycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102060920641913090",
+        "in_reply_to_user_id": "28530405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102046996760822028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manateelazycat 我等这一天很久了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102046689087672320"
+          ]
+        },
+        "author_id": "28530405",
+        "conversation_id": "2102046996760822028",
+        "created_at": "2026-09-21T14:47:12.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102046996760822028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pxWY2Rxj16",
+              "end": 124,
+              "expanded_url": "https://x.com/manateelazycat/status/2102046996760822028/photo/1",
+              "media_key": "3_2102046689087672320",
+              "start": 101,
+              "url": "https://t.co/pxWY2Rxj16"
+            },
+            {
+              "display_url": "x.com/manateelazycat…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/manateelazycat/status/2101998832498438229",
+              "start": 125,
+              "url": "https://t.co/VFaNsfOUtP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102046996760822028",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102046689087672320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1324,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101998832498438229",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同时拥有懒猫和 Omarchy 的用户有福了😎\n\n我已经让所有懒猫App适配了 Hyprland 窗口管理器\n\n懒猫 App 不会在 Hyprland 下显示自绘的标题栏，我再测试一会就推送到代码仓库 https://t.co/pxWY2Rxj16 https://t.co/VFaNsfOUtP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2102060920641913090",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1974,
+          "following_count": 2237,
+          "like_count": 124907,
+          "listed_count": 6,
+          "media_count": 596,
+          "tweet_count": 11418
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-04-03T09:01:38.000Z",
+        "description": "懒猫微服CEO | 前Deepin CTO | Omarchy Geek\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lazycat.cloud",
+                "end": 70,
+                "expanded_url": "https://lazycat.cloud/",
+                "start": 47,
+                "url": "https://t.co/KVqgWHDvJj"
+              },
+              {
+                "display_url": "x.com/manateelazycat…",
+                "end": 103,
+                "expanded_url": "https://x.com/manateelazycat/status/1970815014861930775",
+                "start": 80,
+                "url": "https://t.co/SF9p24BuTk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manateelazycat.github.io",
+                "end": 23,
+                "expanded_url": "https://manateelazycat.github.io",
+                "start": 0,
+                "url": "https://t.co/twDx1twu9o"
+              }
+            ]
+          }
+        },
+        "id": "28530405",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2102058727209832538",
+        "name": "Andy Stewart",
+        "pinned_tweet_id": "2095385038552736036",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28530405/1766732508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53587,
+          "following_count": 564,
+          "like_count": 21696,
+          "listed_count": 391,
+          "media_count": 10148,
+          "tweet_count": 65645
+        },
+        "url": "https://t.co/twDx1twu9o",
+        "username": "manateelazycat",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,456 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2104994723102642525",
+    "created_at": "2026-09-29T20:17:34.000Z",
+    "display_text_range": [
+      9,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T21:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105029238135160974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1471482271441960961",
+          "start": 0,
+          "username": "birdabo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "dots.ai",
+          "end": 36,
+          "expanded_url": "https://dots.ai",
+          "start": 13,
+          "status": 200,
+          "title": "点点",
+          "unwound_url": "https://dots.ai",
+          "url": "https://t.co/U7Ei8Hl1Tr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105029238135160974",
+    "in_reply_to_user_id": "1471482271441960961",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104994723102642525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@birdabo and https://t.co/U7Ei8Hl1Tr belone to rednote"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1074,
+        "media_key": "3_2104994717364875264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZxiu6bcAAYahq.jpg",
+        "width": 1206
+      },
+      {
+        "height": 480,
+        "media_key": "3_2104994717213818880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZxiuWagAAphQB.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2104994723102642525",
+        "created_at": "2026-09-29T20:17:34.000Z",
+        "display_text_range": [
+          9,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T21:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105029238135160974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1471482271441960961",
+              "start": 0,
+              "username": "birdabo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "dots.ai",
+              "end": 36,
+              "expanded_url": "https://dots.ai",
+              "start": 13,
+              "status": 200,
+              "title": "点点",
+              "unwound_url": "https://dots.ai",
+              "url": "https://t.co/U7Ei8Hl1Tr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105029238135160974",
+        "in_reply_to_user_id": "1471482271441960961",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104994723102642525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@birdabo and https://t.co/U7Ei8Hl1Tr belone to rednote"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104994717364875264",
+            "3_2104994717213818880"
+          ]
+        },
+        "author_id": "1471482271441960961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Behavior around Fashion",
+              "id": "1006277139233103872",
+              "name": "Behavior around fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2104994723102642525",
+        "created_at": "2026-09-29T18:00:25.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T19:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104994723102642525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "dots.com",
+              "end": 53,
+              "expanded_url": "https://dots.com",
+              "images": [
+                {
+                  "height": 483,
+                  "url": "https://pbs.twimg.com/news_img/2104988578917068800/Sng4O8MF?format=jpg&name=orig",
+                  "width": 483
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2104988578917068800/Sng4O8MF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 30,
+              "status": 200,
+              "title": "HOME | Dots",
+              "unwound_url": "https://www.dots.com/",
+              "url": "https://t.co/UPDZhmXDVi"
+            },
+            {
+              "display_url": "pic.x.com/1TQ1x79n8t",
+              "end": 134,
+              "expanded_url": "https://x.com/birdabo/status/2104994723102642525/photo/1",
+              "media_key": "3_2104994717364875264",
+              "start": 111,
+              "url": "https://t.co/1TQ1x79n8t"
+            },
+            {
+              "display_url": "pic.x.com/1TQ1x79n8t",
+              "end": 134,
+              "expanded_url": "https://x.com/birdabo/status/2104994723102642525/photo/1",
+              "media_key": "3_2104994717213818880",
+              "start": 111,
+              "url": "https://t.co/1TQ1x79n8t"
+            },
+            {
+              "display_url": "x.com/birdabo/status…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/birdabo/status/2104987275813917076",
+              "start": 135,
+              "url": "https://t.co/e8C2fCHIYF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104994723102642525",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104994717364875264"
+          },
+          {
+            "media_key": "3_2104994717213818880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 145702,
+          "like_count": 213,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104987275813917076",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "the official domain for dots (https://t.co/UPDZhmXDVi) is a dead clothing store too.\n\n$70 billion company btw. https://t.co/1TQ1x79n8t https://t.co/e8C2fCHIYF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2105029238135160974",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2010,
+          "following_count": 2315,
+          "like_count": 134025,
+          "listed_count": 5,
+          "media_count": 656,
+          "tweet_count": 11912
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-16T14:08:15.000Z",
+        "description": "chief shitposting officer @SpaceXAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "SpaceXAI"
+              }
+            ]
+          }
+        },
+        "id": "1471482271441960961",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105006114198974501",
+        "name": "sui",
+        "pinned_tweet_id": "2029840406670889430",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471482271441960961/1772170397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060589895706652672/xA9gyIr__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34448,
+          "following_count": 666,
+          "like_count": 110001,
+          "listed_count": 284,
+          "media_count": 2503,
+          "tweet_count": 11343
+        },
+        "url": "",
+        "username": "birdabo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

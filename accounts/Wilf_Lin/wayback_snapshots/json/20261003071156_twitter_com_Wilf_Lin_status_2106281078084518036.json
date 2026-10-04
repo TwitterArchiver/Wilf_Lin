@@ -1,0 +1,737 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2106270289474814398",
+    "created_at": "2026-10-03T07:11:56.000Z",
+    "display_text_range": [
+      22,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T08:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106281078084518036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1339490167451574272",
+          "start": 0,
+          "username": "Lina_Hoshino"
+        },
+        {
+          "end": 21,
+          "id": "2850482629",
+          "start": 14,
+          "username": "VRChat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106281078084518036",
+    "in_reply_to_user_id": "1339490167451574272",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106270289474814398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lina_Hoshino @VRChat prevent people from steal paid model\nbut i believe this game can run on linux with proton"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2106270289474814398",
+        "created_at": "2026-10-03T07:11:56.000Z",
+        "display_text_range": [
+          22,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T08:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106281078084518036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1339490167451574272",
+              "start": 0,
+              "username": "Lina_Hoshino"
+            },
+            {
+              "end": 21,
+              "id": "2850482629",
+              "start": 14,
+              "username": "VRChat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106281078084518036",
+        "in_reply_to_user_id": "1339490167451574272",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106270289474814398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lina_Hoshino @VRChat prevent people from steal paid model\nbut i believe this game can run on linux with proton"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339490167451574272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          }
+        ],
+        "conversation_id": "2106270289474814398",
+        "created_at": "2026-10-03T06:29:04.000Z",
+        "display_text_range": [
+          0,
+          253
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T07:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106270289474814398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 167,
+              "id": "2850482629",
+              "start": 160,
+              "username": "VRChat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Lina_Hoshino/s…",
+              "end": 277,
+              "expanded_url": "https://twitter.com/Lina_Hoshino/status/2105982322696651020",
+              "start": 254,
+              "url": "https://t.co/CplhlRUhwY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106270289474814398",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 826,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105982322696651020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I give up. The docs don't work and nothing I try works. There are sketchier things possible but they involve patching QEMU and the kernel.\n\nThis is really sad. @VRChat is blocking legitimate users of the game, and it's not even a competitive game. Why?! https://t.co/CplhlRUhwY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2106281078084518036",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2030,
+          "following_count": 2360,
+          "like_count": 138076,
+          "listed_count": 6,
+          "media_count": 685,
+          "tweet_count": 12147
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-17T08:38:44.000Z",
+        "description": "Hacker & Mad Scientist VTuber!\n💍 @CyanNyan6 🩵 | We are @TokyoHackerGrls ✨\nママ：@heripiro ｜パパ：@otozuki_teru\nAll the links: https://t.co/kFwhALrGVU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "CyanNyan6"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "TokyoHackerGrls"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "heripiro"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "otozuki_teru"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lina.yt/me",
+                "end": 143,
+                "expanded_url": "https://lina.yt/me",
+                "start": 120,
+                "url": "https://t.co/kFwhALrGVU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lina.yt",
+                "end": 23,
+                "expanded_url": "https://lina.yt",
+                "start": 0,
+                "url": "https://t.co/gE4UIHUjtR"
+              }
+            ]
+          }
+        },
+        "id": "1339490167451574272",
+        "is_identity_verified": false,
+        "location": "she/her丨📨 lina@lina.yt",
+        "most_recent_tweet_id": "2106280715302379892",
+        "name": "Hoshino Lina / 星乃リナ 🩵 3D Yuri Wedding prep!!!",
+        "pinned_tweet_id": "2094090720516747531",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1339490167451574272/1751462733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042512973936422912/reYsT_gD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40890,
+          "following_count": 303,
+          "like_count": 12605,
+          "listed_count": 191,
+          "media_count": 757,
+          "tweet_count": 9401
+        },
+        "url": "https://t.co/gE4UIHUjtR",
+        "username": "Lina_Hoshino",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-10T14:22:14.000Z",
+        "description": "Welcome to #VRChat! Create, explore, and socialize in virtual reality. \nServer Status: @VRChat_Status Help & Support: https://t.co/zW9h4tmqg4 日本語: @VRChat_JP",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 11,
+                "tag": "VRChat"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 101,
+                "start": 87,
+                "username": "VRChat_Status"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "VRChat_JP"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "help.vrchat.com",
+                "end": 141,
+                "expanded_url": "http://help.vrchat.com",
+                "start": 118,
+                "url": "https://t.co/zW9h4tmqg4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hello.vrchat.com",
+                "end": 23,
+                "expanded_url": "https://hello.vrchat.com/",
+                "start": 0,
+                "url": "https://t.co/NdybU9lv9A"
+              }
+            ]
+          }
+        },
+        "id": "2850482629",
+        "is_identity_verified": false,
+        "location": "Join us!",
+        "most_recent_tweet_id": "2106126356929245616",
+        "name": "VRChat",
+        "pinned_tweet_id": "2105783227801833555",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2850482629/1763411743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072316958813380609/5HWEs7as_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226219,
+          "following_count": 1061,
+          "like_count": 19763,
+          "listed_count": 1103,
+          "media_count": 1779,
+          "tweet_count": 8786
+        },
+        "url": "https://t.co/NdybU9lv9A",
+        "username": "VRChat",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

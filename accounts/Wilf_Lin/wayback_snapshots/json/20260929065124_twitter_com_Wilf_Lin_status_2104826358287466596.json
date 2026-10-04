@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2104826358287466596",
+    "created_at": "2026-09-29T06:51:24.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T07:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104826358287466596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thsottiaux/sta…",
+          "end": 108,
+          "expanded_url": "https://twitter.com/thsottiaux/status/2104823812042940713",
+          "start": 85,
+          "url": "https://t.co/x5g92zLi21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104826358287466596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104823812042940713",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说实话就现在我都需要两个pro才能勉强维持工作，然后他们还要要把额度砍半。\n考虑到OpenAI的模型最近与A\\相比如此弱势和低效，我没法继续只使用OpenAI的模型了。 https://t.co/x5g92zLi21"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2104826358287466596",
+        "created_at": "2026-09-29T06:51:24.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T07:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104826358287466596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thsottiaux/sta…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/thsottiaux/status/2104823812042940713",
+              "start": 85,
+              "url": "https://t.co/x5g92zLi21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104826358287466596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104823812042940713",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说实话就现在我都需要两个pro才能勉强维持工作，然后他们还要要把额度砍半。\n考虑到OpenAI的模型最近与A\\相比如此弱势和低效，我没法继续只使用OpenAI的模型了。 https://t.co/x5g92zLi21"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953337039510003712",
+        "conversation_id": "2104823812042940713",
+        "created_at": "2026-09-29T06:41:17.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T07:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104823812042940713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104823812042940713",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Hi,\n\nTomorrow we are re-opening the Pro $200 subscriptions to new subscribers, but together with it we are also changing how we calculate the usage for it. In effect, if you do the math, it will net out at half the dollar in API spend compared to the old Pro $200 plan. \n\nNow that it's said, let me explain why this is happening and why you will still get more work done than if you were on the Pro $200 subscription one month ago.\n\n(a) We didn't want to compromise in other ways and are committing to not reintroducing the 5h limit, so that you can fully use the weekly usage when you want.\n(b) On the subscription, we guarantee that over time you always get more work done and with an increasing level of quality. This means that you will continue to get more value per dollar spent as a result of models getting more efficient and us passing down the improvements in the form of API price reductions.\n(c) We don't want to put an incentive on ourselves to artificially inflate the API list prices to make it look like you are getting a lot (and workaround it through discounts, etc). Instead we want to continue to both rapidly reduce prices and increase capabilities of models on the API. This week we introduced GPT-6 Sol and GPT-6 Luna at 50% of their previous price. Over time, we see prices go low enough that it makes sense for most to buy usage as needed without there being a significant gap between what you get in a subscription and what you get in the API for a dollar spent.\n(d) Tomorrow, we are adding more things to the subscription that won't draw on the usage, I won't reveal what that is yet.\n\nI wanted to be transparent before all the big announcements tomorrow. Lots of new exciting things are coming to the subscriptions that will make it super compelling, but I wanted to make sure to share this change ahead of time so you can all understand it before we shower you with good news.\n\nCodexingly,\nTibo"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 164,
+          "impression_count": 56173,
+          "like_count": 1440,
+          "quote_count": 165,
+          "reply_count": 478,
+          "retweet_count": 149
+        },
+        "reply_settings": "everyone",
+        "text": "Hi,\n\nTomorrow we are re-opening the Pro $200 subscriptions to new subscribers, but together with it we are also changing how we calculate the usage for it. In effect, if you do the math, it will net out at half the dollar in API spend compared to the old Pro $200 plan. \n\nNow that"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2104826358287466596",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2002,
+          "following_count": 2302,
+          "like_count": 133727,
+          "listed_count": 5,
+          "media_count": 639,
+          "tweet_count": 11864
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-07T06:07:07.000Z",
+        "description": "Codex & ChatGPT @OpenAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 16,
+                "username": "OpenAI"
+              }
+            ]
+          }
+        },
+        "id": "1953337039510003712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104823812042940713",
+        "name": "Tibo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753958,
+          "following_count": 74,
+          "like_count": 9920,
+          "listed_count": 3608,
+          "media_count": 139,
+          "tweet_count": 3054
+        },
+        "url": "",
+        "username": "thsottiaux",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

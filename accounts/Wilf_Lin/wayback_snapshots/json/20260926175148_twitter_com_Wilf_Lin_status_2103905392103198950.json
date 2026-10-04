@@ -1,0 +1,504 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2103905392103198950",
+    "created_at": "2026-09-26T17:51:48.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T18:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103905392103198950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1601893417549967360",
+          "start": 3,
+          "username": "AcboxLiu"
+        },
+        {
+          "end": 25,
+          "id": "1820087559634202624",
+          "start": 14,
+          "username": "aiandcloud"
+        },
+        {
+          "end": 32,
+          "id": "1551987185372512263",
+          "start": 26,
+          "username": "modal"
+        }
+      ],
+      "urls": [
+        {
+          "description": "🌅 A lightweight, idiomatic AI SDK for Go. Contribute to felinics/twilight development by creating an account on GitHub.",
+          "display_url": "github.com/felinics/twili…",
+          "end": 98,
+          "expanded_url": "https://github.com/felinics/twilight",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2103903595834036224/BBYdxJ4_?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2103903595834036224/BBYdxJ4_?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 75,
+          "status": 200,
+          "title": "GitHub - felinics/twilight: 🌅 A lightweight, idiomatic AI SDK for Go",
+          "unwound_url": "https://github.com/felinics/twilight",
+          "url": "https://t.co/SRTy6vrIt9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103905392103198950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103903552985026904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AcboxLiu: @aiandcloud @modal 我们的agent是用golang构建的，为此我们还写了一个ai框架，目前已开源：\n\nhttps://t.co/SRTy6vrIt9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2103905392103198950",
+        "created_at": "2026-09-26T17:51:48.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T18:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103905392103198950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1601893417549967360",
+              "start": 3,
+              "username": "AcboxLiu"
+            },
+            {
+              "end": 25,
+              "id": "1820087559634202624",
+              "start": 14,
+              "username": "aiandcloud"
+            },
+            {
+              "end": 32,
+              "id": "1551987185372512263",
+              "start": 26,
+              "username": "modal"
+            }
+          ],
+          "urls": [
+            {
+              "description": "🌅 A lightweight, idiomatic AI SDK for Go. Contribute to felinics/twilight development by creating an account on GitHub.",
+              "display_url": "github.com/felinics/twili…",
+              "end": 98,
+              "expanded_url": "https://github.com/felinics/twilight",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2103903595834036224/BBYdxJ4_?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2103903595834036224/BBYdxJ4_?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 75,
+              "status": 200,
+              "title": "GitHub - felinics/twilight: 🌅 A lightweight, idiomatic AI SDK for Go",
+              "unwound_url": "https://github.com/felinics/twilight",
+              "url": "https://t.co/SRTy6vrIt9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103905392103198950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103903552985026904",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AcboxLiu: @aiandcloud @modal 我们的agent是用golang构建的，为此我们还写了一个ai框架，目前已开源：\n\nhttps://t.co/SRTy6vrIt9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "2103900267230187624",
+        "created_at": "2026-09-26T17:44:30.000Z",
+        "display_text_range": [
+          19,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T18:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103903552985026904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1820087559634202624",
+              "start": 0,
+              "username": "aiandcloud"
+            },
+            {
+              "end": 18,
+              "id": "1551987185372512263",
+              "start": 12,
+              "username": "modal"
+            }
+          ],
+          "urls": [
+            {
+              "description": "🌅 A lightweight, idiomatic AI SDK for Go. Contribute to felinics/twilight development by creating an account on GitHub.",
+              "display_url": "github.com/felinics/twili…",
+              "end": 84,
+              "expanded_url": "https://github.com/felinics/twilight",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2103903595834036224/BBYdxJ4_?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2103903595834036224/BBYdxJ4_?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 61,
+              "status": 200,
+              "title": "GitHub - felinics/twilight: 🌅 A lightweight, idiomatic AI SDK for Go",
+              "unwound_url": "https://github.com/felinics/twilight",
+              "url": "https://t.co/SRTy6vrIt9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103903552985026904",
+        "in_reply_to_user_id": "1820087559634202624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103903282330484968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiandcloud @modal 我们的agent是用golang构建的，为此我们还写了一个ai框架，目前已开源：\n\nhttps://t.co/SRTy6vrIt9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2103905392103198950",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1988,
+          "following_count": 2268,
+          "like_count": 130185,
+          "listed_count": 6,
+          "media_count": 617,
+          "tweet_count": 11701
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2071876271307390976/kBmsB0-__bigger.jpg",
+          "description": "Memoh",
+          "url": "https://twitter.com/memoh_ai",
+          "user_id": [
+            "2021509446640562176"
+          ]
+        },
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "https://t.co/hUTrNH9tjK\nCo-founder of https://t.co/gLiVpv7NbV https://t.co/PSLnUgtUxO\n家里有大猫和两只小猫",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "http://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/hUTrNH9tjK"
+              },
+              {
+                "display_url": "memoh.ai",
+                "end": 61,
+                "expanded_url": "http://memoh.ai",
+                "start": 38,
+                "url": "https://t.co/gLiVpv7NbV"
+              },
+              {
+                "display_url": "felinic.ai",
+                "end": 85,
+                "expanded_url": "http://felinic.ai",
+                "start": 62,
+                "url": "https://t.co/PSLnUgtUxO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ac.box",
+                "end": 23,
+                "expanded_url": "https://ac.box",
+                "start": 0,
+                "url": "https://t.co/UNw6tpSBMs"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "is_identity_verified": false,
+        "location": "上海/深圳",
+        "most_recent_tweet_id": "2103904922236604900",
+        "name": "📦Acbox",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601893417549967360/1764649898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038245960967741441/70mSKMEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13572,
+          "following_count": 1540,
+          "like_count": 3690,
+          "listed_count": 67,
+          "media_count": 388,
+          "tweet_count": 5186
+        },
+        "url": "https://t.co/UNw6tpSBMs",
+        "username": "AcboxLiu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T13:21:30.000Z",
+        "description": "@CloudNativeFdn Ambassador, @Microsoft MVP, PyCon China & KCD Beijing organizer.🥑Open Source + Cloud Native + AI Infra. Working at @Kong . Opinions are my own",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "CloudNativeFdn"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "Microsoft"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "username": "Kong"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/tao12345666333",
+                "end": 23,
+                "expanded_url": "https://github.com/tao12345666333",
+                "start": 0,
+                "url": "https://t.co/lvweLkHEDE"
+              }
+            ]
+          }
+        },
+        "id": "1820087559634202624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103903282330484968",
+        "name": "Jintao Zhang 张晋涛",
+        "pinned_tweet_id": "2102021574618726521",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820087559634202624/1778723809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068193836975681536/5Qc2wfSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3158,
+          "following_count": 803,
+          "like_count": 8669,
+          "listed_count": 18,
+          "media_count": 353,
+          "tweet_count": 4069
+        },
+        "url": "https://t.co/lvweLkHEDE",
+        "username": "aiandcloud",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-26T17:46:49.000Z",
+        "description": "AI infrastructure that developers love 💚\n\nRun inference, sandboxes, batch processing, training, and many other things on Modal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "modal.com",
+                "end": 23,
+                "expanded_url": "https://modal.com",
+                "start": 0,
+                "url": "https://t.co/TaFtxmRjBS"
+              }
+            ]
+          }
+        },
+        "id": "1551987185372512263",
+        "is_identity_verified": false,
+        "location": "New York City",
+        "most_recent_tweet_id": "2103686292580225278",
+        "name": "Modal",
+        "pinned_tweet_id": "2082173895407206437",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1551987185372512263/1758919959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899521344766627840/3lInURMw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36956,
+          "following_count": 164,
+          "like_count": 3912,
+          "listed_count": 364,
+          "media_count": 310,
+          "tweet_count": 1664
+        },
+        "url": "https://t.co/TaFtxmRjBS",
+        "username": "modal",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

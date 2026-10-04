@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105051108800401409"
+      ],
+      "media_source_tweet_id": [
+        "2105052569601294798"
+      ]
+    },
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "Conversation from and about the White House, both as a destination and as political voice",
+          "id": "871795678447456256",
+          "name": "The White House"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation from and about the White House, both as a destination and as political voice",
+          "id": "871795678447456256",
+          "name": "The White House"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2105451298321801482",
+    "created_at": "2026-10-01T00:14:41.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T01:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105451298321801482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879644163769335808",
+          "start": 3,
+          "username": "WhiteHouse"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BoTuIhxbTg",
+          "end": 49,
+          "expanded_url": "https://x.com/WhiteHouse/status/2105052569601294798/photo/1",
+          "media_key": "3_2105051108800401409",
+          "start": 26,
+          "url": "https://t.co/BoTuIhxbTg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105451298321801482",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2105051108800401409"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7911
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105052569601294798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WhiteHouse: Official. https://t.co/BoTuIhxbTg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4050,
+        "media_key": "3_2105051108800401409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTak1JYXEAEjlz0.jpg",
+        "width": 3240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105051108800401409"
+          ],
+          "media_source_tweet_id": [
+            "2105052569601294798"
+          ]
+        },
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2105451298321801482",
+        "created_at": "2026-10-01T00:14:41.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T01:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105451298321801482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879644163769335808",
+              "start": 3,
+              "username": "WhiteHouse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BoTuIhxbTg",
+              "end": 49,
+              "expanded_url": "https://x.com/WhiteHouse/status/2105052569601294798/photo/1",
+              "media_key": "3_2105051108800401409",
+              "start": 26,
+              "url": "https://t.co/BoTuIhxbTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105451298321801482",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2105051108800401409"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7911
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105052569601294798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WhiteHouse: Official. https://t.co/BoTuIhxbTg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105051108800401409"
+          ]
+        },
+        "author_id": "1879644163769335808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105052569601294798",
+        "created_at": "2026-09-29T21:50:17.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T22:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105052569601294798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BoTuIhxbTg",
+              "end": 33,
+              "expanded_url": "https://x.com/WhiteHouse/status/2105052569601294798/photo/1",
+              "media_key": "3_2105051108800401409",
+              "start": 10,
+              "url": "https://t.co/BoTuIhxbTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105052569601294798",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2105051108800401409"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2743,
+          "impression_count": 3612136,
+          "like_count": 42042,
+          "quote_count": 1990,
+          "reply_count": 6066,
+          "retweet_count": 7911
+        },
+        "reply_settings": "everyone",
+        "text": "Official. https://t.co/BoTuIhxbTg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2105451298321801482",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 2329,
+          "like_count": 134935,
+          "listed_count": 6,
+          "media_count": 666,
+          "tweet_count": 11987
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-15T21:37:54.000Z",
+        "description": "Welcome to The Golden Age of America. \n📱 Text USA to 45470 to receive alerts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wh.gov",
+                "end": 23,
+                "expanded_url": "http://wh.gov",
+                "start": 0,
+                "url": "https://t.co/0BqS4u2dGX"
+              }
+            ]
+          }
+        },
+        "id": "1879644163769335808",
+        "is_identity_verified": false,
+        "location": "Washington, DC",
+        "most_recent_tweet_id": "2105444614056599671",
+        "name": "The White House",
+        "pinned_tweet_id": "2070270274872738258",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1879644163769335808/1769111449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062605835256127489/atNMwHxg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5307333,
+          "following_count": 5,
+          "like_count": 268,
+          "listed_count": 9437,
+          "media_count": 6968,
+          "tweet_count": 19099
+        },
+        "url": "https://t.co/0BqS4u2dGX",
+        "username": "WhiteHouse",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

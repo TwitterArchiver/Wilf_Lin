@@ -1,0 +1,484 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Wine",
+          "id": "841378993408425985",
+          "name": "Wine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Wine",
+          "id": "841378993408425985",
+          "name": "Wine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Wine",
+          "id": "841378993408425985",
+          "name": "Wine"
+        }
+      }
+    ],
+    "conversation_id": "2100121690558918925",
+    "created_at": "2026-09-16T07:24:09.000Z",
+    "display_text_range": [
+      8,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T08:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100123558831661472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1864739862697644032",
+          "start": 0,
+          "username": "2196F3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100123558831661472",
+    "in_reply_to_user_id": "1864739862697644032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100121690558918925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2196F3 wine现在都这么牛逼了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2100121687928995840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUhjFoaAAAX8rL.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Wine",
+              "id": "841378993408425985",
+              "name": "Wine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Wine",
+              "id": "841378993408425985",
+              "name": "Wine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Wine",
+              "id": "841378993408425985",
+              "name": "Wine"
+            }
+          }
+        ],
+        "conversation_id": "2100121690558918925",
+        "created_at": "2026-09-16T07:24:09.000Z",
+        "display_text_range": [
+          8,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T08:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100123558831661472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864739862697644032",
+              "start": 0,
+              "username": "2196F3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100123558831661472",
+        "in_reply_to_user_id": "1864739862697644032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100121690558918925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2196F3 wine现在都这么牛逼了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100121687928995840"
+          ]
+        },
+        "author_id": "1864739862697644032",
+        "conversation_id": "2100121690558918925",
+        "created_at": "2026-09-16T07:16:44.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T08:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100121690558918925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H3uF8HIdfN",
+              "end": 43,
+              "expanded_url": "https://x.com/2196F3/status/2100121690558918925/photo/1",
+              "media_key": "3_2100121687928995840",
+              "start": 20,
+              "url": "https://t.co/H3uF8HIdfN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100121690558918925",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100121687928995840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再也不敢说医学楼电脑卡了\n已被制裁\n😿 https://t.co/H3uF8HIdfN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2100123558831661472",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1871,
+          "following_count": 2191,
+          "like_count": 120412,
+          "listed_count": 4,
+          "media_count": 585,
+          "tweet_count": 11198
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-05T18:33:59.000Z",
+        "description": "Coser, le\nVirology and RNA researcher at UC\nkaltciit@gmail.com\n\n...But they are indeed only my side projects\n请不要和我讨论Medical Records: HIPAA, 38 U.S. Code § 7332",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "prts.eterea.uk/?quickacc=bull…",
+                "end": 23,
+                "expanded_url": "http://prts.eterea.uk/?quickacc=bulletin",
+                "start": 0,
+                "url": "https://t.co/fVFEeZUeRA"
+              }
+            ]
+          }
+        },
+        "id": "1864739862697644032",
+        "is_identity_verified": true,
+        "location": "Los Angeles, US-WEST-01 ",
+        "most_recent_tweet_id": "2100121690558918925",
+        "name": "凯尔希是猫猫",
+        "pinned_tweet_id": "2081190239117435321",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1864739862697644032/1784100792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952307711271735297/Kt15yKo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2567,
+          "following_count": 3992,
+          "like_count": 6444,
+          "listed_count": 7,
+          "media_count": 826,
+          "tweet_count": 5210
+        },
+        "url": "https://t.co/fVFEeZUeRA",
+        "username": "2196F3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

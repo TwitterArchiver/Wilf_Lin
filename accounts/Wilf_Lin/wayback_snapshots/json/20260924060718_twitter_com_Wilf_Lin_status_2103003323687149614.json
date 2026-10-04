@@ -1,0 +1,528 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202045",
+          "name": "Facebook"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      }
+    ],
+    "conversation_id": "2103003323687149614",
+    "created_at": "2026-09-24T06:07:18.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T07:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103003323687149614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1471482271441960961",
+          "start": 3,
+          "username": "birdabo"
+        },
+        {
+          "end": 78,
+          "id": "2425151",
+          "start": 73,
+          "username": "Meta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/C3xIbVn9",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/C3xIbVn9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103003323687149614",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102993862159417576",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @birdabo: Alexandr Wang just became the chief shitposting officer for @Meta lmao.\n\nbro is taking over my timeline. https://t.co/C3xIbVn9…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1250,
+        "media_key": "3_2102993854077231104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9VxKUaYAAyUIx.jpg",
+        "width": 1250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2103003323687149614",
+        "created_at": "2026-09-24T06:07:18.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T07:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103003323687149614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1471482271441960961",
+              "start": 3,
+              "username": "birdabo"
+            },
+            {
+              "end": 78,
+              "id": "2425151",
+              "start": 73,
+              "username": "Meta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/C3xIbVn9",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/C3xIbVn9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103003323687149614",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102993862159417576",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @birdabo: Alexandr Wang just became the chief shitposting officer for @Meta lmao.\n\nbro is taking over my timeline. https://t.co/C3xIbVn9…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102993854077231104"
+          ]
+        },
+        "author_id": "1471482271441960961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2102993862159417576",
+        "created_at": "2026-09-24T05:29:43.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T06:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102993862159417576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 65,
+              "id": "2425151",
+              "start": 60,
+              "username": "Meta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C3xIbVn9dw",
+              "end": 128,
+              "expanded_url": "https://x.com/birdabo/status/2102993862159417576/photo/1",
+              "media_key": "3_2102993854077231104",
+              "start": 105,
+              "url": "https://t.co/C3xIbVn9dw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102993862159417576",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2102993854077231104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 834,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Alexandr Wang just became the chief shitposting officer for @Meta lmao.\n\nbro is taking over my timeline. https://t.co/C3xIbVn9dw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2103003323687149614",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 2242,
+          "like_count": 127275,
+          "listed_count": 6,
+          "media_count": 609,
+          "tweet_count": 11562
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-16T14:08:15.000Z",
+        "description": "chief shitposting officer @SpaceXAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "SpaceXAI"
+              }
+            ]
+          }
+        },
+        "id": "1471482271441960961",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103000092282339368",
+        "name": "sui",
+        "pinned_tweet_id": "2029840406670889430",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471482271441960961/1772170397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060589895706652672/xA9gyIr__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33966,
+          "following_count": 655,
+          "like_count": 109232,
+          "listed_count": 269,
+          "media_count": 2470,
+          "tweet_count": 11259
+        },
+        "url": "",
+        "username": "birdabo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-03-27T07:29:25.000Z",
+        "description": "Connect with what you love to make things happen.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "meta.com",
+                "end": 23,
+                "expanded_url": "http://meta.com",
+                "start": 0,
+                "url": "https://t.co/NyzhWlkpk2"
+              }
+            ]
+          }
+        },
+        "id": "2425151",
+        "is_identity_verified": false,
+        "location": "Metaverse",
+        "most_recent_tweet_id": "2103000001974874421",
+        "name": "Meta",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2425151/1790201612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102910923958530048/IwxV3cDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9869929,
+          "following_count": 683,
+          "like_count": 1555,
+          "listed_count": 40876,
+          "media_count": 488,
+          "tweet_count": 16232
+        },
+        "url": "https://t.co/NyzhWlkpk2",
+        "username": "Meta",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

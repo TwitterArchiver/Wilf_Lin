@@ -1,0 +1,536 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2104605349148086276",
+    "created_at": "2026-09-28T22:25:28.000Z",
+    "display_text_range": [
+      28,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T23:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104699037119344778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1656173677862596608",
+          "start": 0,
+          "username": "immasiddx"
+        },
+        {
+          "end": 27,
+          "id": "1640277456941637635",
+          "start": 11,
+          "username": "LivingInHarmony"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104699037119344778",
+    "in_reply_to_user_id": "1656173677862596608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104605349148086276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@immasiddx @LivingInHarmony 小问题，重启解（"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23026,
+        "height": 3840,
+        "media_key": "13_2104605193321205761",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104605193321205761/img/7KFJZuQeJPhQF69d.jpg",
+        "public_metrics": {
+          "view_count": 9887
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104605193321205761/vid/avc1/2160x3840/Sz2I1kBsdu-NxWBg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104605193321205761/vid/avc1/720x1280/cx4HyBflroo1wRM6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104605193321205761/vid/avc1/480x852/FvRDfe5PrIin9aU6.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104605193321205761/vid/avc1/1080x1920/6EQ2XUJO1c4U4txb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104605193321205761/pl/ru_M8wSA6s47KsTA.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104605193321205761/vid/avc1/320x568/Yvw9rqnlf_52RYSF.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2104605349148086276",
+        "created_at": "2026-09-28T22:25:28.000Z",
+        "display_text_range": [
+          28,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T23:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104699037119344778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1656173677862596608",
+              "start": 0,
+              "username": "immasiddx"
+            },
+            {
+              "end": 27,
+              "id": "1640277456941637635",
+              "start": 11,
+              "username": "LivingInHarmony"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104699037119344778",
+        "in_reply_to_user_id": "1656173677862596608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104605349148086276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@immasiddx @LivingInHarmony 小问题，重启解（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104605193321205761"
+          ]
+        },
+        "author_id": "1656173677862596608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1697053249440731136",
+              "name": "Apple Event 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1717672666507730944",
+              "name": "Apple Event"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2104605349148086276",
+        "created_at": "2026-09-28T16:13:11.000Z",
+        "display_text_range": [
+          0,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104605349148086276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZpK1MA9HZ5",
+              "end": 185,
+              "expanded_url": "https://x.com/immasiddx/status/2104605349148086276/video/1",
+              "media_key": "13_2104605193321205761",
+              "start": 162,
+              "url": "https://t.co/ZpK1MA9HZ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104605349148086276",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2104605193321205761"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 25429,
+          "like_count": 197,
+          "quote_count": 11,
+          "reply_count": 58,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "My brand new iPhone 18 Pro Max’s App Library is completely blurred out and refuses to open any apps. 😭\n\nWhat is going on with Apple this year?\n\n$2,000 phone btw. https://t.co/ZpK1MA9HZ5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2104699037119344778",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2002,
+          "following_count": 2298,
+          "like_count": 133313,
+          "listed_count": 5,
+          "media_count": 635,
+          "tweet_count": 11830
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-10T05:46:10.000Z",
+        "description": "Intern @frido_official. Sharing the latest in tech and AI with a sprinkle of memes.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "frido_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gridd.agency",
+                "end": 23,
+                "expanded_url": "https://gridd.agency/",
+                "start": 0,
+                "url": "https://t.co/frQf5Gbnhg"
+              }
+            ]
+          }
+        },
+        "id": "1656173677862596608",
+        "is_identity_verified": true,
+        "location": "Pune, India",
+        "most_recent_tweet_id": "2104660859679367602",
+        "name": "sid",
+        "pinned_tweet_id": "1992979078220263720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1656173677862596608/1785527599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809700473655414785/3CquWTgV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20777,
+          "following_count": 829,
+          "like_count": 145762,
+          "listed_count": 131,
+          "media_count": 6876,
+          "tweet_count": 33381
+        },
+        "url": "https://t.co/frQf5Gbnhg",
+        "username": "immasiddx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-27T09:00:10.000Z",
+        "description": "🌎 3rd largest OS & live in Harmony daily, decoupling from misery of Duopoly. My own opinions. Some RT not endorsements #duopolyrefugee #duopolyexit #InExile",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 119,
+                "tag": "duopolyrefugee"
+              },
+              {
+                "end": 147,
+                "start": 135,
+                "tag": "duopolyexit"
+              },
+              {
+                "end": 156,
+                "start": 148,
+                "tag": "InExile"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "atom.bio/livinginharmony",
+                "end": 23,
+                "expanded_url": "https://www.atom.bio/livinginharmony",
+                "start": 0,
+                "url": "https://t.co/9YtLT6tn7s"
+              }
+            ]
+          }
+        },
+        "id": "1640277456941637635",
+        "is_identity_verified": false,
+        "location": "Huawei Station",
+        "most_recent_tweet_id": "2104675818152538223",
+        "name": "Living In Harmony ⭕🔥🥉🏅🕊🦾🆙🆗🎯🔑💼🛡️👑🇨",
+        "pinned_tweet_id": "2102481895917596836",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1640277456941637635/1729657409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976955568452444160/gVJhlK5i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3432,
+          "following_count": 339,
+          "like_count": 173278,
+          "listed_count": 21,
+          "media_count": 13241,
+          "tweet_count": 123017
+        },
+        "url": "https://t.co/9YtLT6tn7s",
+        "username": "LivingInHarmony",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2102643562928308671",
+    "created_at": "2026-09-23T17:07:42.000Z",
+    "display_text_range": [
+      22,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T18:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102807128771833891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2088076772931731456",
+          "start": 0,
+          "username": "JasonC_Dev"
+        },
+        {
+          "end": 21,
+          "id": "1429221486032678914",
+          "start": 12,
+          "username": "NFT_Chen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102807128771833891",
+    "in_reply_to_user_id": "2088076772931731456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102672622031171943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JasonC_Dev @NFT_Chen 编码不通换，输出那边linear头改改就完事了，原始模型支持什么能力改完就支持什么能力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2102643562928308671",
+        "created_at": "2026-09-23T17:07:42.000Z",
+        "display_text_range": [
+          22,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T18:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102807128771833891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2088076772931731456",
+              "start": 0,
+              "username": "JasonC_Dev"
+            },
+            {
+              "end": 21,
+              "id": "1429221486032678914",
+              "start": 12,
+              "username": "NFT_Chen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102807128771833891",
+        "in_reply_to_user_id": "2088076772931731456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102672622031171943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JasonC_Dev @NFT_Chen 编码不通换，输出那边linear头改改就完事了，原始模型支持什么能力改完就支持什么能力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088076772931731456",
+        "conversation_id": "2102643562928308671",
+        "created_at": "2026-09-23T08:13:13.000Z",
+        "display_text_range": [
+          10,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T09:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102672622031171943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1429221486032678914",
+              "start": 0,
+              "username": "NFT_Chen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102672622031171943",
+        "in_reply_to_user_id": "1429221486032678914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 408,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102643562928308671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NFT_Chen 图文一起喂这版，图像是本地 encoder 直接进，还是先转成文字描述？数据不出本地这块你实测过会不会偷偷出网吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2102807128771833891",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1982,
+          "following_count": 2242,
+          "like_count": 126550,
+          "listed_count": 6,
+          "media_count": 608,
+          "tweet_count": 11530
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T01:35:34.000Z",
+        "description": "本地 LLM · Mac · 把内存账算完再吹\n能跑起来 ≠ 用起来爽",
+        "id": "2088076772931731456",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102672622031171943",
+        "name": "JasonC",
+        "pinned_tweet_id": "2094219300328415541",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088076772931731456/1788652625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096387164062076929/NkgGk5-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 269,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 447
+        },
+        "url": "",
+        "username": "JasonC_Dev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-21T23:22:24.000Z",
+        "description": "#BiBiCrew Co-founder｜@Sydney_Uni Master｜Stock & Crypto Trader｜AI Builder｜Not Financial Advice, DYOR",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "BiBiCrew"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "Sydney_Uni"
+              }
+            ]
+          }
+        },
+        "id": "1429221486032678914",
+        "is_identity_verified": false,
+        "location": "Sydney",
+        "most_recent_tweet_id": "2102788710903558436",
+        "name": "SuSu_酥酥👅",
+        "pinned_tweet_id": "2092248643935875507",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429221486032678914/1669871771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948253379005906944/uGx9Ufe-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16750,
+          "following_count": 1968,
+          "like_count": 28742,
+          "listed_count": 82,
+          "media_count": 2259,
+          "tweet_count": 8140
+        },
+        "url": "",
+        "username": "NFT_Chen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

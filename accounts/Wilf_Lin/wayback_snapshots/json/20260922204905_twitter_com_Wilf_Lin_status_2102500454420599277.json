@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2102364026605130003",
+    "created_at": "2026-09-22T20:49:05.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T21:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102500454420599277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1639460977510092803",
+          "start": 0,
+          "username": "seekjourney"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102500454420599277",
+    "in_reply_to_user_id": "1639460977510092803",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102364026605130003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seekjourney DSH谷歌版"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1130,
+        "media_key": "3_2102363995114221568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0Y6i1asAAIA3P.jpg",
+        "width": 808
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2102364026605130003",
+        "created_at": "2026-09-22T20:49:05.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T21:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102500454420599277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1639460977510092803",
+              "start": 0,
+              "username": "seekjourney"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102500454420599277",
+        "in_reply_to_user_id": "1639460977510092803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102364026605130003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seekjourney DSH谷歌版"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102363995114221568"
+          ]
+        },
+        "author_id": "1639460977510092803",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2102364026605130003",
+        "created_at": "2026-09-22T11:46:58.000Z",
+        "display_text_range": [
+          0,
+          210
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T12:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102364026605130003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "z.ai/blog/glm-built…",
+              "end": 210,
+              "expanded_url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+              "images": [
+                {
+                  "height": 768,
+                  "url": "https://pbs.twimg.com/news_img/2100480322852790272/ERIYcMvl?format=jpg&name=orig",
+                  "width": 1376
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2100480322852790272/ERIYcMvl?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 187,
+              "status": 200,
+              "title": "Toward Recursive Self-Improvement: How GLM Built Its Own Inference Infrastructure",
+              "unwound_url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+              "url": "https://t.co/C8jlmQ25AY"
+            },
+            {
+              "display_url": "pic.x.com/MvvCgwYlQE",
+              "end": 234,
+              "expanded_url": "https://x.com/seekjourney/status/2102364026605130003/photo/1",
+              "media_key": "3_2102363995114221568",
+              "start": 211,
+              "url": "https://t.co/MvvCgwYlQE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102364026605130003",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102363995114221568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "z.ai/blog/glm-built…",
+                "end": 210,
+                "expanded_url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+                "start": 187,
+                "url": "https://t.co/OHmy8Vp4Rm"
+              },
+              {
+                "display_url": "huggingface.co/papers/2609.24…",
+                "end": 273,
+                "expanded_url": "https://huggingface.co/papers/2609.24972",
+                "start": 250,
+                "url": "https://t.co/cCc0ZNa7d2"
+              }
+            ]
+          },
+          "text": "一个很强的 RSI 新信号可以关注一波：\n\nGoogle Research 开始研究 Agent Harness 的 Recursive Self-Improvement。\n\n不重新训练模型，直接让 prompt、工具、memory、control flow 自动迭代。\n\n这条路线我很看好。\n\n因为相比之前 glm 发布的 model-level RSI 更清晰了 ：\n\nhttps://t.co/OHmy8Vp4Rm\n\n现在很明显在 Harness 工程上更容易先跑起来，可优化的东西太多了。\n\nhttps://t.co/cCc0ZNa7d2"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 5530,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "一个很强的 RSI 新信号可以关注一波：\n\nGoogle Research 开始研究 Agent Harness 的 Recursive Self-Improvement。\n\n不重新训练模型，直接让 prompt、工具、memory、control flow 自动迭代。\n\n这条路线我很看好。\n\n因为相比之前 glm 发布的 model-level RSI 更清晰了 ：\n\nhttps://t.co/C8jlmQ25AY https://t.co/MvvCgwYlQE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2102500454420599277",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 2238,
+          "like_count": 126088,
+          "listed_count": 6,
+          "media_count": 606,
+          "tweet_count": 11497
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-25T02:55:48.000Z",
+        "description": "AI  Builder ｜大厂 Harness Engineer\n帮助个人品牌与专业团队，把内容创作、发布和增长变成可复用的系统。\n构建 md2wechat https://t.co/BghKKE0KlT｜咨询与定制：DM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/geekjourneyx/m…",
+                "end": 102,
+                "expanded_url": "https://github.com/geekjourneyx/md2wechat-skill",
+                "start": 79,
+                "url": "https://t.co/BghKKE0KlT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jieni.ai",
+                "end": 23,
+                "expanded_url": "http://jieni.ai",
+                "start": 0,
+                "url": "https://t.co/Ec6i5X9PAv"
+              }
+            ]
+          }
+        },
+        "id": "1639460977510092803",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102379142432121127",
+        "name": "极客杰尼",
+        "pinned_tweet_id": "2101926677446340843",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639460977510092803/1780490277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969069943766536192/opyw1L1U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12753,
+          "following_count": 957,
+          "like_count": 6454,
+          "listed_count": 163,
+          "media_count": 981,
+          "tweet_count": 4445
+        },
+        "url": "https://t.co/Ec6i5X9PAv",
+        "username": "seekjourney",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2098710248164868534",
+    "created_at": "2026-09-12T20:07:14.000Z",
+    "display_text_range": [
+      11,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T21:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098866042332135818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "53368690",
+          "start": 0,
+          "username": "rikarends"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098866042332135818",
+    "in_reply_to_user_id": "53368690",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098710248164868534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rikarends google earth for document"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42883,
+        "height": 1916,
+        "media_key": "13_2098709929821720576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098709929821720576/img/26EeXu_v5V_NeOKn.jpg",
+        "public_metrics": {
+          "view_count": 128084
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098709929821720576/vid/avc1/3178x1916/WbPqpS1ZwNfFPJj3.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098709929821720576/vid/avc1/596x360/_Reydiihbj-j7wZK.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098709929821720576/vid/avc1/446x270/uDickzcIPLm9IKD4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098709929821720576/vid/avc1/1194x720/Q0oUS_v9yFDtbD2c.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098709929821720576/pl/8HNw0lIJHDsXkNhd.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098709929821720576/vid/avc1/1790x1080/vNXYf4Ej9YA0IT_7.mp4"
+          }
+        ],
+        "width": 3178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2098710248164868534",
+        "created_at": "2026-09-12T20:07:14.000Z",
+        "display_text_range": [
+          11,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T21:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098866042332135818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "53368690",
+              "start": 0,
+              "username": "rikarends"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098866042332135818",
+        "in_reply_to_user_id": "53368690",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098710248164868534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rikarends google earth for document"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098709929821720576"
+          ]
+        },
+        "author_id": "53368690",
+        "conversation_id": "2098710248164868534",
+        "created_at": "2026-09-12T09:48:09.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T10:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098710248164868534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LUsrmVaI6L",
+              "end": 180,
+              "expanded_url": "https://x.com/rikarends/status/2098710248164868534/video/1",
+              "media_key": "13_2098709929821720576",
+              "start": 157,
+              "url": "https://t.co/LUsrmVaI6L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098710248164868534",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2098709929821720576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1606,
+          "impression_count": 317312,
+          "like_count": 3217,
+          "quote_count": 44,
+          "reply_count": 148,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "Ironed out the last performance issues with my full 2.5m line codebase explorer. 120hz awesomeness. Can only upload 60fps video tho. Much nicer uncompressed https://t.co/LUsrmVaI6L"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2098866042332135818",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1621,
+          "following_count": 2166,
+          "like_count": 117529,
+          "listed_count": 3,
+          "media_count": 570,
+          "tweet_count": 10994
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-07-03T12:13:20.000Z",
+        "description": "Building Makepad, Livecoding Rust for native and web. Find me elsewhere links: https://t.co/BzSSBFcNdl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/makepad/makepad",
+                "end": 102,
+                "expanded_url": "http://github.com/makepad/makepad",
+                "start": 79,
+                "url": "https://t.co/BzSSBFcNdl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/makepad/makepad",
+                "end": 23,
+                "expanded_url": "https://github.com/makepad/makepad",
+                "start": 0,
+                "url": "https://t.co/VPTe9zqgzT"
+              }
+            ]
+          }
+        },
+        "id": "53368690",
+        "is_identity_verified": false,
+        "location": "Amsterdam",
+        "most_recent_tweet_id": "2098864121986924888",
+        "name": "Rik Arends",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/53368690/1423237668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/563726395403014145/C2XOSm9R_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6014,
+          "following_count": 1849,
+          "like_count": 16855,
+          "listed_count": 155,
+          "media_count": 637,
+          "tweet_count": 54179
+        },
+        "url": "https://t.co/VPTe9zqgzT",
+        "username": "rikarends",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

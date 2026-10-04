@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2100893952501305806",
+    "created_at": "2026-09-19T06:52:41.000Z",
+    "display_text_range": [
+      9,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T07:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101202801938289087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "635941366",
+          "start": 0,
+          "username": "unixzii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101202801938289087",
+    "in_reply_to_user_id": "635941366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100893952501305806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unixzii 这个东西的本意是模型可以先去做一些不需要你立即决策就能做的工作，然后等你回答了再来做这一部分，但是如果你持续不回答，他就会替你回答了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2100893952501305806",
+        "created_at": "2026-09-19T06:52:41.000Z",
+        "display_text_range": [
+          9,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T07:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101202801938289087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "635941366",
+              "start": 0,
+              "username": "unixzii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101202801938289087",
+        "in_reply_to_user_id": "635941366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100893952501305806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unixzii 这个东西的本意是模型可以先去做一些不需要你立即决策就能做的工作，然后等你回答了再来做这一部分，但是如果你持续不回答，他就会替你回答了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "635941366",
+        "conversation_id": "2100893952501305806",
+        "created_at": "2026-09-18T10:25:25.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100893952501305806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100893952501305806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 63437,
+          "like_count": 302,
+          "quote_count": 2,
+          "reply_count": 55,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Codex 团队到底谁想出来的脑残设计，ask question 超时就给我自动选择？你那么牛逼就别问啊，问了又不给时间选，什么傻逼 😅"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2101202801938289087",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1962,
+          "following_count": 2220,
+          "like_count": 123103,
+          "listed_count": 6,
+          "media_count": 594,
+          "tweet_count": 11336
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-07-15T05:48:20.000Z",
+        "description": "keep curiosity, keep creativity. he/him. opinions are my own.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cy4n.dev",
+                "end": 23,
+                "expanded_url": "https://cy4n.dev",
+                "start": 0,
+                "url": "https://t.co/eqRNBiQ4DD"
+              }
+            ]
+          }
+        },
+        "id": "635941366",
+        "is_identity_verified": false,
+        "location": "Universe",
+        "most_recent_tweet_id": "2101013637901251042",
+        "name": "Cyandev",
+        "pinned_tweet_id": "2006302911354245624",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/635941366/1740124404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073483311520063489/Wz-2nK7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16754,
+          "following_count": 200,
+          "like_count": 6524,
+          "listed_count": 127,
+          "media_count": 1394,
+          "tweet_count": 10452
+        },
+        "url": "https://t.co/eqRNBiQ4DD",
+        "username": "unixzii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

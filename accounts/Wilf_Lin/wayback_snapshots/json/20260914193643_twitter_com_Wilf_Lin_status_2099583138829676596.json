@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2099583138829676596",
+    "created_at": "2026-09-14T19:36:43.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T20:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099583138829676596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/voidcodead/sta…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/voidcodead/status/2099382791334961417",
+          "start": 55,
+          "url": "https://t.co/Wa3Q7UrlMe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099583138829676596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099382791334961417",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "讲点你们可能不知道的\n华为的三折叠，不管是全景多窗、自由多窗、分屏，还是小窗，最多只能同时在前台运行三个应用 https://t.co/Wa3Q7UrlMe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41578,
+        "height": 1088,
+        "media_key": "13_2099382627300257792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099382627300257792/img/ekU0jtTU0GCUVc1p.jpg",
+        "public_metrics": {
+          "view_count": 440892
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099382627300257792/pl/zU6zzkG1vi07V5ev.m3u8?v=d5c"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099382627300257792/vid/avc1/320x320/T94v9YtwPGIiBV3P.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099382627300257792/vid/avc1/1088x1088/1nbq4mpFn89BLd9G.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099382627300257792/vid/avc1/540x540/01Bb2WYK21ju-2qK.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099382627300257792/vid/avc1/720x720/hkdMF0fMHireucnf.mp4"
+          }
+        ],
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2099583138829676596",
+        "created_at": "2026-09-14T19:36:43.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T20:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099583138829676596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/voidcodead/sta…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/voidcodead/status/2099382791334961417",
+              "start": 55,
+              "url": "https://t.co/Wa3Q7UrlMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099583138829676596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099382791334961417",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讲点你们可能不知道的\n华为的三折叠，不管是全景多窗、自由多窗、分屏，还是小窗，最多只能同时在前台运行三个应用 https://t.co/Wa3Q7UrlMe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099382627300257792"
+          ]
+        },
+        "author_id": "1961670023891881986",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "2099382791334961417",
+        "created_at": "2026-09-14T06:20:36.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T07:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099382791334961417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uopnZFZs5G",
+              "end": 60,
+              "expanded_url": "https://x.com/voidcodead/status/2099382791334961417/video/1",
+              "media_key": "13_2099382627300257792",
+              "start": 37,
+              "url": "https://t.co/uopnZFZs5G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099382791334961417",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2099382627300257792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1695,
+          "impression_count": 746034,
+          "like_count": 14827,
+          "quote_count": 132,
+          "reply_count": 243,
+          "retweet_count": 1142
+        },
+        "reply_settings": "everyone",
+        "text": "“All they do is copy Apple”\n\nXiaomi: https://t.co/uopnZFZs5G"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2099583138829676596",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1852,
+          "following_count": 2176,
+          "like_count": 118776,
+          "listed_count": 3,
+          "media_count": 575,
+          "tweet_count": 11083
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-30T06:00:21.000Z",
+        "description": "technology is cool.",
+        "id": "1961670023891881986",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099569501675422118",
+        "name": "Void",
+        "pinned_tweet_id": "2083433168049524748",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1961670023891881986/1785178365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081815059429543936/8oTRXI6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 504,
+          "like_count": 19031,
+          "listed_count": 5,
+          "media_count": 1315,
+          "tweet_count": 4375
+        },
+        "url": "",
+        "username": "voidcodead",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

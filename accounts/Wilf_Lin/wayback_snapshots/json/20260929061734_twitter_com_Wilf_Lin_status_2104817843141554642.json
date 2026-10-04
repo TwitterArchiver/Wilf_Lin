@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple App Store",
+          "id": "10053298770",
+          "name": "Apple App Store"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046487168",
+          "name": "App Store"
+        }
+      }
+    ],
+    "conversation_id": "2104817843141554642",
+    "created_at": "2026-09-29T06:17:34.000Z",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T07:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104817843141554642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zzxwill/status…",
+          "end": 170,
+          "expanded_url": "https://twitter.com/zzxwill/status/2104790540760064158",
+          "start": 147,
+          "url": "https://t.co/Es0Rr2bnrE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104817843141554642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我认为这个市场是存在的，agent要通用的话有个桌面级执行环境很重要，然后又有那么茫茫多的人只有手机或者在用鸿蒙，他们肯定不会把云端环境当vps用但是基本的比较产品和感受好坏的能力是有的，届时他们会发觉些产品只是在幻觉而另一些真的能把事办了。\n\n至于对于我个人，确实没啥大用，我有PC，Mac mini，懒猫微服，，软路由，UPS，CPE。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104790540760064158",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我认为这个市场是存在的，agent要通用的话有个桌面级执行环境很重要，然后又有那么茫茫多的人只有手机或者在用鸿蒙，他们肯定不会把云端环境当vps用但是基本的比较产品和感受好坏的能力是有的，届时他们会发觉些产品只是在幻觉而另一些真的能把事办了。\n\n至于对于我个人，确实没啥大用，我有PC，Mac https://t.co/Es0Rr2bnrE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2104817843141554642",
+        "created_at": "2026-09-29T06:17:34.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T07:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104817843141554642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zzxwill/status…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/zzxwill/status/2104790540760064158",
+              "start": 147,
+              "url": "https://t.co/Es0Rr2bnrE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104817843141554642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我认为这个市场是存在的，agent要通用的话有个桌面级执行环境很重要，然后又有那么茫茫多的人只有手机或者在用鸿蒙，他们肯定不会把云端环境当vps用但是基本的比较产品和感受好坏的能力是有的，届时他们会发觉些产品只是在幻觉而另一些真的能把事办了。\n\n至于对于我个人，确实没啥大用，我有PC，Mac mini，懒猫微服，，软路由，UPS，CPE。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104790540760064158",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我认为这个市场是存在的，agent要通用的话有个桌面级执行环境很重要，然后又有那么茫茫多的人只有手机或者在用鸿蒙，他们肯定不会把云端环境当vps用但是基本的比较产品和感受好坏的能力是有的，届时他们会发觉些产品只是在幻觉而另一些真的能把事办了。\n\n至于对于我个人，确实没啥大用，我有PC，Mac https://t.co/Es0Rr2bnrE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "137946654",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2104790540760064158",
+        "created_at": "2026-09-29T04:29:04.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T05:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104790540760064158"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104790540760064158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "云端常驻沙箱到底有没有需求？如果非要把任务去搬云端跑，倒是有几个\n\n1. 我的 App 生产工厂在本机回每隔一个小时去 app store connect 上面看看 app 审核信息，不对的怼回去，对的修复打包我真机测试提交新版本\n2. 网站健康监测，每个一小时去访问几个网站的几个大板块，看看挂了没，挂了发邮件或及时信息\n3. 每个四个小时找一次我感兴趣的新闻"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 636,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "云端常驻沙箱到底有没有需求？如果非要把任务去搬云端跑，倒是有几个\n\n1. 我的 App 生产工厂在本机回每隔一个小时去 app store connect 上面看看 app 审核信息，不对的怼回去，对的修复打包我真机测试提交新版本\n2."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2104817843141554642",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2001,
+          "following_count": 2301,
+          "like_count": 133656,
+          "listed_count": 5,
+          "media_count": 639,
+          "tweet_count": 11856
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-04-28T06:06:33.000Z",
+        "description": "AI Infra engineer @alibaba_cloud",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "alibaba_cloud"
+              }
+            ]
+          }
+        },
+        "id": "137946654",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2104806637232099407",
+        "name": "zzxwill",
+        "pinned_tweet_id": "2003695377963450815",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/137946654/1765117397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968671671675678720/Pu87BRd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7116,
+          "following_count": 3654,
+          "like_count": 19844,
+          "listed_count": 37,
+          "media_count": 2849,
+          "tweet_count": 18813
+        },
+        "url": "",
+        "username": "zzxwill",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2101157729037586694",
+    "created_at": "2026-09-19T04:21:07.000Z",
+    "display_text_range": [
+      30,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T05:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101164660674179089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1953337039510003712",
+          "start": 0,
+          "username": "thsottiaux"
+        },
+        {
+          "end": 23,
+          "id": "3946301",
+          "start": 12,
+          "username": "romainhuet"
+        },
+        {
+          "end": 29,
+          "id": "1605",
+          "start": 24,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101164660674179089",
+    "in_reply_to_user_id": "1953337039510003712",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101157729037586694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thsottiaux @romainhuet @sama good"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2101157729037586694",
+        "created_at": "2026-09-19T04:21:07.000Z",
+        "display_text_range": [
+          30,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T05:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101164660674179089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1953337039510003712",
+              "start": 0,
+              "username": "thsottiaux"
+            },
+            {
+              "end": 23,
+              "id": "3946301",
+              "start": 12,
+              "username": "romainhuet"
+            },
+            {
+              "end": 29,
+              "id": "1605",
+              "start": 24,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101164660674179089",
+        "in_reply_to_user_id": "1953337039510003712",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101157729037586694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thsottiaux @romainhuet @sama good"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953337039510003712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2101157729037586694",
+        "created_at": "2026-09-19T03:53:34.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T04:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101157729037586694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 53,
+              "id": "3946301",
+              "start": 42,
+              "username": "romainhuet"
+            },
+            {
+              "end": 63,
+              "id": "1605",
+              "start": 58,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101157729037586694",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 53,
+                "id": "3946301",
+                "start": 42,
+                "username": "romainhuet"
+              },
+              {
+                "end": 63,
+                "id": "1605",
+                "start": 58,
+                "username": "sama"
+              }
+            ]
+          },
+          "text": "We were working on the keynote today with @romainhuet and @sama and most of the fun was trying to figure out how to explain it all to you because there is so much good stuff in there that it's a bit ridiculous all in quick succession. \n\nWe'll have some things next week already to not keep you waiting so long, but very excited to show you all new things we've been working on and how it will all come together in the coming months."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 62218,
+          "like_count": 1230,
+          "quote_count": 33,
+          "reply_count": 272,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "We were working on the keynote today with @romainhuet and @sama and most of the fun was trying to figure out how to explain it all to you because there is so much good stuff in there that it's a bit ridiculous all in quick succession. \n\nWe'll have some things next week already to"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2101164660674179089",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1955,
+          "following_count": 2219,
+          "like_count": 122988,
+          "listed_count": 6,
+          "media_count": 593,
+          "tweet_count": 11326
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-07T06:07:07.000Z",
+        "description": "Codex & ChatGPT @OpenAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 16,
+                "username": "OpenAI"
+              }
+            ]
+          }
+        },
+        "id": "1953337039510003712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101158751290233190",
+        "name": "Tibo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699338,
+          "following_count": 72,
+          "like_count": 9857,
+          "listed_count": 3417,
+          "media_count": 138,
+          "tweet_count": 2988
+        },
+        "url": "",
+        "username": "thsottiaux",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-04-09T21:38:32.000Z",
+        "description": "Head of Developer Experience @OpenAI, working on Codex and our API. Previously @Stripe. You can just build things!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "OpenAI"
+              },
+              {
+                "end": 86,
+                "start": 79,
+                "username": "Stripe"
+              }
+            ]
+          }
+        },
+        "id": "3946301",
+        "is_identity_verified": false,
+        "location": "SF & NYC",
+        "most_recent_tweet_id": "2101158076707680682",
+        "name": "Romain Huet",
+        "pinned_tweet_id": "2098446125925888150",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3946301/1615422647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020288886602366976/TlUC1Ubk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55146,
+          "following_count": 8829,
+          "like_count": 65631,
+          "listed_count": 1147,
+          "media_count": 496,
+          "tweet_count": 6224
+        },
+        "url": "",
+        "username": "romainhuet",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_bigger.jpg",
+          "description": "OpenAI",
+          "url": "https://twitter.com/OpenAI",
+          "user_id": [
+            "4398626122"
+          ]
+        },
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "is_identity_verified": false,
+        "location": "SF",
+        "most_recent_tweet_id": "2100448739328487452",
+        "name": "Sam Altman",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6246545,
+          "following_count": 1031,
+          "like_count": 1019,
+          "listed_count": 31435,
+          "media_count": 394,
+          "tweet_count": 7967
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

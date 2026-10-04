@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2103848803740893201",
+    "created_at": "2026-09-26T16:16:36.000Z",
+    "display_text_range": [
+      16,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T17:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103881432179302462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "28530405",
+          "start": 0,
+          "username": "manateelazycat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103881432179302462",
+    "in_reply_to_user_id": "28530405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103848803740893201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manateelazycat 只是检查某个应用的国际化的话没必要把整个桌面都注销掉吧，临时套一个环境变量给应用会不会更好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1054,
+        "media_key": "3_2103848246032678912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJe1UYbQAAFmd2.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2103848803740893201",
+        "created_at": "2026-09-26T16:16:36.000Z",
+        "display_text_range": [
+          16,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103881432179302462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "28530405",
+              "start": 0,
+              "username": "manateelazycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103881432179302462",
+        "in_reply_to_user_id": "28530405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103848803740893201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manateelazycat 只是检查某个应用的国际化的话没必要把整个桌面都注销掉吧，临时套一个环境变量给应用会不会更好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103848246032678912"
+          ]
+        },
+        "author_id": "28530405",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1492635984709636098",
+              "name": "Ghana Premier League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492635984709636098",
+              "name": "Ghana Premier League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "NVIDIA - AI",
+              "id": "10050907860",
+              "name": "NVIDIA - AI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2103848803740893201",
+        "created_at": "2026-09-26T14:06:57.000Z",
+        "display_text_range": [
+          0,
+          170
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103848803740893201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JeRo9LUEtI",
+              "end": 194,
+              "expanded_url": "https://x.com/manateelazycat/status/2103848803740893201/photo/1",
+              "media_key": "3_2103848246032678912",
+              "start": 171,
+              "url": "https://t.co/JeRo9LUEtI"
+            },
+            {
+              "display_url": "x.com/manateelazycat…",
+              "end": 218,
+              "expanded_url": "https://twitter.com/manateelazycat/status/2103833701478207667",
+              "start": 195,
+              "url": "https://t.co/VJByAzc14I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103848803740893201",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103848246032678912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 202,
+                "id": "14561327",
+                "start": 198,
+                "username": "dhh"
+              },
+              {
+                "end": 216,
+                "id": "1902420673",
+                "start": 203,
+                "username": "Zachary_haha"
+              }
+            ]
+          },
+          "text": "我的第十个 Omarchy 插件\n\n做产品，经常需要切换系统语言去检查英文版的细节，AI跟我说 Omarchy 没有图形化的语言切换程序，要用命令行帮我切换系统语言\n\n我说你别， 我来写一个语言切换插件, omarchy-language-switcher  点击按钮后， 可以快速搜索所有语言，按回车重新注销系统即可\n\n源码稍后以 GPL 3.0 许可证开源放在评论区， Enjoy!\n\ncc @dhh @Zachary_haha"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1234,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103833701478207667",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的第十个 Omarchy 插件\n\n做产品，经常需要切换系统语言去检查英文版的细节，AI跟我说 Omarchy 没有图形化的语言切换程序，要用命令行帮我切换系统语言\n\n我说你别， 我来写一个语言切换插件, omarchy-language-switcher  点击按钮后， 可以快速搜索所有语言，按回车重新注销系统即可\n\n源码稍后以 GPL https://t.co/JeRo9LUEtI https://t.co/VJByAzc14I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2103881432179302462",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1988,
+          "following_count": 2268,
+          "like_count": 130028,
+          "listed_count": 6,
+          "media_count": 615,
+          "tweet_count": 11687
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-04-03T09:01:38.000Z",
+        "description": "懒猫微服CEO | 前Deepin CTO | Omarchy Geek\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lazycat.cloud",
+                "end": 70,
+                "expanded_url": "https://lazycat.cloud/",
+                "start": 47,
+                "url": "https://t.co/KVqgWHDvJj"
+              },
+              {
+                "display_url": "x.com/manateelazycat…",
+                "end": 103,
+                "expanded_url": "https://x.com/manateelazycat/status/1970815014861930775",
+                "start": 80,
+                "url": "https://t.co/SF9p24BuTk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manateelazycat.github.io",
+                "end": 23,
+                "expanded_url": "https://manateelazycat.github.io",
+                "start": 0,
+                "url": "https://t.co/twDx1twu9o"
+              }
+            ]
+          }
+        },
+        "id": "28530405",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2103877863795777723",
+        "name": "Andy Stewart",
+        "pinned_tweet_id": "2095385038552736036",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28530405/1766732508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53601,
+          "following_count": 573,
+          "like_count": 21755,
+          "listed_count": 391,
+          "media_count": 10222,
+          "tweet_count": 65858
+        },
+        "url": "https://t.co/twDx1twu9o",
+        "username": "manateelazycat",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

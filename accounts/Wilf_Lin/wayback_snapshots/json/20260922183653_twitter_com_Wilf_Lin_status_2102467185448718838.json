@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2102302977838960909",
+    "created_at": "2026-09-22T18:36:53.000Z",
+    "display_text_range": [
+      28,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T19:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102467185448718838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "29754906",
+          "start": 0,
+          "username": "night_song"
+        },
+        {
+          "end": 27,
+          "id": "2044779918144507904",
+          "start": 12,
+          "username": "__1__1_1__1__1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102467185448718838",
+    "in_reply_to_user_id": "29754906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102312164459700689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@night_song @__1__1_1__1__1 你只需要做一点简单的prompt工程就可以了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2102302977838960909",
+        "created_at": "2026-09-22T18:36:53.000Z",
+        "display_text_range": [
+          28,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T19:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102467185448718838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "29754906",
+              "start": 0,
+              "username": "night_song"
+            },
+            {
+              "end": 27,
+              "id": "2044779918144507904",
+              "start": 12,
+              "username": "__1__1_1__1__1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102467185448718838",
+        "in_reply_to_user_id": "29754906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102312164459700689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@night_song @__1__1_1__1__1 你只需要做一点简单的prompt工程就可以了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "29754906",
+        "conversation_id": "2102302977838960909",
+        "created_at": "2026-09-22T08:20:53.000Z",
+        "display_text_range": [
+          16,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T09:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102312164459700689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2044779918144507904",
+              "start": 0,
+              "username": "__1__1_1__1__1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102312164459700689",
+        "in_reply_to_user_id": "2044779918144507904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3923,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102302977838960909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__1__1_1__1__1 LLM logits 的意义是训练时预定义好的 token 概率，Jev 是 随 prompt 定义的选项概率，有点区别。都能当分类器没错，就像什么吊炸天模型也是字符串函数一样属于废话。通用+快+便宜+不错的准确率，性能的量变能带来应用场景的质变"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2102467185448718838",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 2237,
+          "like_count": 126027,
+          "listed_count": 6,
+          "media_count": 604,
+          "tweet_count": 11490
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-04-08T16:32:41.000Z",
+        "description": "Nabla Player",
+        "id": "29754906",
+        "is_identity_verified": false,
+        "location": "Hoofzhou",
+        "most_recent_tweet_id": "2102330038716973524",
+        "name": "/)^e^(\\",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724442981342621697/zLUgZeGW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 432,
+          "like_count": 3211,
+          "listed_count": 19,
+          "media_count": 98,
+          "tweet_count": 3298
+        },
+        "url": "",
+        "username": "night_song",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-16T14:09:10.000Z",
+        "description": "",
+        "id": "2044779918144507904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102302977838960909",
+        "name": "_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044779918144507904/1789137545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098572121819824128/_SiMsH6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 70,
+          "like_count": 305,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "__1__1_1__1__1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

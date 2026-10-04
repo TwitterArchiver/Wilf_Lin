@@ -1,0 +1,648 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2102238902127915302",
+    "created_at": "2026-09-22T03:29:46.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T04:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102238902127915302"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 37,
+          "tag": "Omarchy"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "985690156240785408",
+          "start": 3,
+          "username": "Ner0sss"
+        },
+        {
+          "end": 121,
+          "id": "741923186636267520",
+          "start": 114,
+          "username": "x_czyt"
+        },
+        {
+          "end": 139,
+          "id": "50683",
+          "start": 132,
+          "username": "dingyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102238902127915302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102237391180398976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ner0sss: 来了家人们，钱迹 Linux 版现在能自动同步 #Omarchy 主题了，多亏我们的设计师奠定了统一的 UI 规范，效果比预想中还要好🥰\n\n仅需 yay -S qianji-bin 即可体验。\n\n感谢 @x_czyt  做了 AUR 包，@dingyi…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16000,
+        "height": 1080,
+        "media_key": "13_2102233685688979456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102233685688979456/img/lv3nx824DMGnmMFu.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102233685688979456/vid/avc1/480x270/_uWKpXj1W-5sqRAN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102233685688979456/vid/avc1/640x360/Y6p684w2a8xmBxYY.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102233685688979456/vid/avc1/1920x1080/cLX5msWWGN4-tMCk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102233685688979456/pl/9C9BHVa7GvcVwfzi.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102233685688979456/vid/avc1/1280x720/FmtLP5YLZ-HoMJfr.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2102238902127915302",
+        "created_at": "2026-09-22T03:29:46.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T04:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102238902127915302"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 37,
+              "tag": "Omarchy"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "985690156240785408",
+              "start": 3,
+              "username": "Ner0sss"
+            },
+            {
+              "end": 121,
+              "id": "741923186636267520",
+              "start": 114,
+              "username": "x_czyt"
+            },
+            {
+              "end": 139,
+              "id": "50683",
+              "start": 132,
+              "username": "dingyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102238902127915302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102237391180398976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ner0sss: 来了家人们，钱迹 Linux 版现在能自动同步 #Omarchy 主题了，多亏我们的设计师奠定了统一的 UI 规范，效果比预想中还要好🥰\n\n仅需 yay -S qianji-bin 即可体验。\n\n感谢 @x_czyt  做了 AUR 包，@dingyi…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102233685688979456"
+          ]
+        },
+        "author_id": "985690156240785408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2102237391180398976",
+        "created_at": "2026-09-22T03:23:46.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T04:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102237391180398976"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 24,
+              "tag": "Omarchy"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 108,
+              "id": "741923186636267520",
+              "start": 101,
+              "username": "x_czyt"
+            },
+            {
+              "end": 126,
+              "id": "50683",
+              "start": 119,
+              "username": "dingyi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xtnXQm7oEh",
+              "end": 157,
+              "expanded_url": "https://x.com/Ner0sss/status/2102237391180398976/video/1",
+              "media_key": "13_2102233685688979456",
+              "start": 134,
+              "url": "https://t.co/xtnXQm7oEh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102237391180398976",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2102233685688979456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 24,
+                "tag": "Omarchy"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 108,
+                "id": "741923186636267520",
+                "start": 101,
+                "username": "x_czyt"
+              },
+              {
+                "end": 126,
+                "id": "50683",
+                "start": 119,
+                "username": "dingyi"
+              }
+            ]
+          },
+          "text": "来了家人们，钱迹 Linux 版现在能自动同步 #Omarchy 主题了，多亏我们的设计师奠定了统一的 UI 规范，效果比预想中还要好🥰\n\n仅需 yay -S qianji-bin 即可体验。\n\n感谢 @x_czyt  做了 AUR 包，@dingyi 提出的建议。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 65,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "来了家人们，钱迹 Linux 版现在能自动同步 #Omarchy 主题了，多亏我们的设计师奠定了统一的 UI 规范，效果比预想中还要好🥰\n\n仅需 yay -S qianji-bin 即可体验。\n\n感谢 @x_czyt  做了 AUR 包，@dingyi 提出的建议。 https://t.co/xtnXQm7oEh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2102238902127915302",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 2238,
+          "like_count": 125687,
+          "listed_count": 6,
+          "media_count": 602,
+          "tweet_count": 11464
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-16T01:23:41.000Z",
+        "description": "Dev | Flutter | Linux | just for fun :)\n\n会ban掉所有用LLM生成的无脑推文",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.n3r0.cool",
+                "end": 23,
+                "expanded_url": "https://blog.n3r0.cool",
+                "start": 0,
+                "url": "https://t.co/SrNb4E4aqH"
+              }
+            ]
+          }
+        },
+        "id": "985690156240785408",
+        "is_identity_verified": false,
+        "location": "~",
+        "most_recent_tweet_id": "2102238295728218482",
+        "name": "Nero",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/985690156240785408/1715965117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1137275771284643840/mWKVghA0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 797,
+          "like_count": 29164,
+          "listed_count": 14,
+          "media_count": 239,
+          "tweet_count": 2600
+        },
+        "url": "https://t.co/SrNb4E4aqH",
+        "username": "Ner0sss",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-06-12T09:20:46.000Z",
+        "description": "a newbie  Builder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "czyt.tech",
+                "end": 23,
+                "expanded_url": "https://czyt.tech",
+                "start": 0,
+                "url": "https://t.co/0rnmeyjOJ8"
+              }
+            ]
+          }
+        },
+        "id": "741923186636267520",
+        "is_identity_verified": false,
+        "location": "gophers Land",
+        "most_recent_tweet_id": "2102213747389395071",
+        "name": "虫子樱桃",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1254705249446694917/KCIsw3v9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 1344,
+          "like_count": 193,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 1785
+        },
+        "url": "https://t.co/0rnmeyjOJ8",
+        "username": "x_czyt",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2006-12-08T15:10:12.000Z",
+        "description": "promote your product  ‣ dingyi@me.com\nnewsletter ‣ https://t.co/q1JG1yC1nD ‣ https://t.co/ETVDNYt9Hw ‣ https://t.co/46I1zaE1sv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "quaily.com/dingyi",
+                "end": 74,
+                "expanded_url": "http://quaily.com/dingyi",
+                "start": 51,
+                "url": "https://t.co/q1JG1yC1nD"
+              },
+              {
+                "display_url": "topfeed.xyz",
+                "end": 100,
+                "expanded_url": "https://topfeed.xyz",
+                "start": 77,
+                "url": "https://t.co/ETVDNYt9Hw"
+              },
+              {
+                "display_url": "whatships.com",
+                "end": 126,
+                "expanded_url": "https://whatships.com",
+                "start": 103,
+                "url": "https://t.co/46I1zaE1sv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ding.one",
+                "end": 23,
+                "expanded_url": "http://ding.one",
+                "start": 0,
+                "url": "https://t.co/cf71jdwNuO"
+              }
+            ]
+          }
+        },
+        "id": "50683",
+        "is_identity_verified": true,
+        "location": "Remote",
+        "most_recent_tweet_id": "2102238056090927375",
+        "name": "Ding",
+        "pinned_tweet_id": "2100437892359462945",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50683/1582434442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156185,
+          "following_count": 5288,
+          "like_count": 2567,
+          "listed_count": 800,
+          "media_count": 3039,
+          "tweet_count": 64919
+        },
+        "url": "https://t.co/cf71jdwNuO",
+        "username": "dingyi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

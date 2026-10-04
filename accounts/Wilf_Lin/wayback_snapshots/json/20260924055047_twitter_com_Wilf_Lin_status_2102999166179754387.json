@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2102847345444691968"
+      ],
+      "media_source_tweet_id": [
+        "2102847697275568632"
+      ]
+    },
+    "author_id": "1554803647909097472",
+    "conversation_id": "2102999166179754387",
+    "created_at": "2026-09-24T05:50:47.000Z",
+    "display_text_range": [
+      0,
+      132
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T06:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102999166179754387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "767183",
+          "start": 3,
+          "username": "bendiken"
+        },
+        {
+          "end": 108,
+          "id": "14561327",
+          "start": 104,
+          "username": "dhh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZNJoho1zxh",
+          "end": 132,
+          "expanded_url": "https://x.com/bendiken/status/2102847697275568632/video/1",
+          "media_key": "13_2102847345444691968",
+          "start": 109,
+          "url": "https://t.co/ZNJoho1zxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102999166179754387",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2102847345444691968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102847697275568632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bendiken: \"I love Rust! Rust is amazing ...if you never, ever, EVER have to look at it yourself.\" — @dhh https://t.co/ZNJoho1zxh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16000,
+        "height": 1080,
+        "media_key": "13_2102847345444691968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102847345444691968/img/7GIjMYSwpI90p3VS.jpg",
+        "public_metrics": {
+          "view_count": 115465
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102847345444691968/vid/avc1/480x270/BytM8c0k5c0Bnf5p.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102847345444691968/vid/avc1/1920x1080/YocqZ_4lNmApXHTC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102847345444691968/pl/x8W-3m1Q056aC4eB.m3u8?v=908"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102847345444691968/vid/avc1/1280x720/99l9iiJ9TF10Xr1-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102847345444691968/vid/avc1/640x360/5WCc3ED5rEDVY-_z.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102847345444691968"
+          ],
+          "media_source_tweet_id": [
+            "2102847697275568632"
+          ]
+        },
+        "author_id": "1554803647909097472",
+        "conversation_id": "2102999166179754387",
+        "created_at": "2026-09-24T05:50:47.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T06:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102999166179754387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "767183",
+              "start": 3,
+              "username": "bendiken"
+            },
+            {
+              "end": 108,
+              "id": "14561327",
+              "start": 104,
+              "username": "dhh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZNJoho1zxh",
+              "end": 132,
+              "expanded_url": "https://x.com/bendiken/status/2102847697275568632/video/1",
+              "media_key": "13_2102847345444691968",
+              "start": 109,
+              "url": "https://t.co/ZNJoho1zxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102999166179754387",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2102847345444691968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102847697275568632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bendiken: \"I love Rust! Rust is amazing ...if you never, ever, EVER have to look at it yourself.\" — @dhh https://t.co/ZNJoho1zxh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102847345444691968"
+          ]
+        },
+        "author_id": "767183",
+        "conversation_id": "2102847697275568632",
+        "created_at": "2026-09-23T19:48:54.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T20:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102847697275568632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 94,
+              "id": "14561327",
+              "start": 90,
+              "username": "dhh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZNJoho1zxh",
+              "end": 118,
+              "expanded_url": "https://x.com/bendiken/status/2102847697275568632/video/1",
+              "media_key": "13_2102847345444691968",
+              "start": 95,
+              "url": "https://t.co/ZNJoho1zxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102847697275568632",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2102847345444691968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 94,
+                "id": "14561327",
+                "start": 90,
+                "username": "dhh"
+              }
+            ]
+          },
+          "text": "\"I love Rust! Rust is amazing ...if you never, ever, EVER have to look at it yourself.\" — @dhh"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 369,
+          "impression_count": 238203,
+          "like_count": 1794,
+          "quote_count": 61,
+          "reply_count": 83,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "\"I love Rust! Rust is amazing ...if you never, ever, EVER have to look at it yourself.\" — @dhh https://t.co/ZNJoho1zxh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2102999166179754387",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 2242,
+          "like_count": 127206,
+          "listed_count": 6,
+          "media_count": 609,
+          "tweet_count": 11559
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-02-12T11:37:11.000Z",
+        "description": "Building @ASIMOV_Protocol, the knowledge layer for trustworthy personal AI. Autodidact, coder, cypherpunk, hacker, maker. ex-@NEARProtocol veteran.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "ASIMOV_Protocol"
+              },
+              {
+                "end": 138,
+                "start": 125,
+                "username": "NEARProtocol"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ar.to",
+                "end": 23,
+                "expanded_url": "https://ar.to",
+                "start": 0,
+                "url": "https://t.co/wzt9IPoZOb"
+              }
+            ]
+          }
+        },
+        "id": "767183",
+        "is_identity_verified": false,
+        "location": "San Francisco, CA 🇺🇸",
+        "most_recent_tweet_id": "2102988396633432259",
+        "name": "Arto Bendiken",
+        "pinned_tweet_id": "2080342352888283345",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/767183/1764328366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994341602450661376/2okMCELZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5813,
+          "following_count": 7498,
+          "like_count": 131163,
+          "listed_count": 231,
+          "media_count": 621,
+          "tweet_count": 20012
+        },
+        "url": "https://t.co/wzt9IPoZOb",
+        "username": "bendiken",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1671940407633010689/9P5gi6LF_bigger.jpg",
+          "description": "37signals",
+          "url": "https://twitter.com/37signals",
+          "user_id": [
+            "11132462"
+          ]
+        },
+        "created_at": "2008-04-27T20:19:25.000Z",
+        "description": "Father of three, Creator of Ruby on Rails + Omarchy, Co-owner & CTO of 37signals, Shopify director, NYT best-selling author, and Le Mans 24h class-winner.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dhh.dk",
+                "end": 23,
+                "expanded_url": "https://dhh.dk",
+                "start": 0,
+                "url": "https://t.co/jtVPVMmMQT"
+              }
+            ]
+          }
+        },
+        "id": "14561327",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2102936073642869121",
+        "name": "DHH",
+        "pinned_tweet_id": "2088304854603047019",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14561327/1788808855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093715898204884992/goERjC9G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889166,
+          "following_count": 458,
+          "like_count": 57067,
+          "listed_count": 11759,
+          "media_count": 3570,
+          "tweet_count": 74116
+        },
+        "url": "https://t.co/jtVPVMmMQT",
+        "username": "dhh",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

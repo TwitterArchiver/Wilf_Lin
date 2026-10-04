@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1641907215316533248",
+          "name": "The Algorithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2106206013460488261",
+    "created_at": "2026-10-03T02:13:39.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T03:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106206013460488261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "636513296",
+          "start": 3,
+          "username": "nikitabier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106206013460488261",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 218
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106060043305332833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nikitabier: Head of Product, YouTube"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1641907215316533248",
+              "name": "The Algorithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2106206013460488261",
+        "created_at": "2026-10-03T02:13:39.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T03:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106206013460488261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "636513296",
+              "start": 3,
+              "username": "nikitabier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106206013460488261",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 218
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106060043305332833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nikitabier: Head of Product, YouTube"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "636513296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1641907215316533248",
+              "name": "The Algorithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2106060043305332833",
+        "created_at": "2026-10-02T16:33:37.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T17:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106060043305332833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mariojoos/stat…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/mariojoos/status/2105931751419789313",
+              "start": 25,
+              "url": "https://t.co/5UpwVQEVed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106060043305332833",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1113,
+          "impression_count": 706408,
+          "like_count": 6424,
+          "quote_count": 36,
+          "reply_count": 318,
+          "retweet_count": 218
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105931751419789313",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Head of Product, YouTube https://t.co/5UpwVQEVed"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2106206013460488261",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2030,
+          "following_count": 2354,
+          "like_count": 137447,
+          "listed_count": 6,
+          "media_count": 685,
+          "tweet_count": 12115
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-07-15T22:44:07.000Z",
+        "description": "unemployed. former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 35,
+                "username": "x"
+              },
+              {
+                "end": 60,
+                "start": 50,
+                "username": "thetbhapp"
+              },
+              {
+                "end": 74,
+                "start": 69,
+                "username": "meta"
+              },
+              {
+                "end": 99,
+                "start": 88,
+                "username": "gasappteam"
+              },
+              {
+                "end": 116,
+                "start": 108,
+                "username": "discord"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "intro.co/nikitabier",
+                "end": 23,
+                "expanded_url": "http://intro.co/nikitabier",
+                "start": 0,
+                "url": "https://t.co/RYfuRXHcJV"
+              }
+            ]
+          }
+        },
+        "id": "636513296",
+        "is_identity_verified": false,
+        "location": "LA",
+        "most_recent_tweet_id": "2106148021843218597",
+        "name": "Nikita Bier",
+        "pinned_tweet_id": "2094853541756338533",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/636513296/1777070372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342463,
+          "following_count": 2065,
+          "like_count": 40567,
+          "listed_count": 6140,
+          "media_count": 1680,
+          "tweet_count": 12024
+        },
+        "url": "https://t.co/RYfuRXHcJV",
+        "username": "nikitabier",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

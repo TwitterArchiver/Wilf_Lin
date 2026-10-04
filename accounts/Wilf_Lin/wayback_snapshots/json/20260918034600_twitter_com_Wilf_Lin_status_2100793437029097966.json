@@ -1,0 +1,558 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2100793437029097966",
+    "created_at": "2026-09-18T03:46:00.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T04:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100793437029097966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ScarletKc/stat…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/ScarletKc/status/2100781635310682215",
+          "start": 28,
+          "url": "https://t.co/yrSCTPn7Gs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100793437029097966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100781635310682215",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当年在cursor里claude的使用体验真是遥遥领先 https://t.co/yrSCTPn7Gs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2100793437029097966",
+        "created_at": "2026-09-18T03:46:00.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T04:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100793437029097966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ScarletKc/stat…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/ScarletKc/status/2100781635310682215",
+              "start": 28,
+              "url": "https://t.co/yrSCTPn7Gs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100793437029097966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100781635310682215",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当年在cursor里claude的使用体验真是遥遥领先 https://t.co/yrSCTPn7Gs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "756779273155858432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2100781635310682215",
+        "created_at": "2026-09-18T02:59:07.000Z",
+        "display_text_range": [
+          0,
+          184
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T03:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100781635310682215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/scarletkc/stat…",
+              "end": 208,
+              "expanded_url": "https://twitter.com/scarletkc/status/2100586478426525814",
+              "start": 185,
+              "url": "https://t.co/YDub6BnyPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100781635310682215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Claude 写代码的口碑，在 Claude Code 出现之前就已经有了。2024 年的 Cursor + Claude 3 Opus，很值得回顾一下。\n\n那时候用 AI 编程，一个很常见的流程是在 ChatGPT 里贴代码、描述需求，再把回答复制回编辑器。Copilot 则主要负责边写边补全，人还得自己组织整个修改过程。\n\n2024 年 3 月，Claude 3 发布，Cursor 也在当月接入了这个系列。Opus 有 20 万 token 的上下文窗口，配合编辑器提供的相关代码文件，可以把更多业务背景一起交给模型，讨论跨文件的逻辑和修改方案。\n\n当时很实际的关注点，就是代码能不能写完整、能不能理解文件之间的关系、改完会不会把原来的功能弄坏。Claude 开始成为 GPT-4 之外值得认真考虑的编程选择。\n\n同年 6 月，Claude 3.5 Sonnet 又进一步提升了编程能力，速度比 Opus 更快，API 价格也更低。随后 Cursor 的 Composer 把多文件修改整合进工作流，用自然语言开发的体验继续往前走。\n\n直到 2025 年 2 月，Claude Code 才以研究预览的形式出现。模型可以在终端里自己查找代码、修改文件、运行测试，再根据结果继续处理问题。\n\n从在聊天框里反复补一句“请输出完整代码，不要省略”，到把一个任务交给 Agent，让它自己改完再跑测试，中间其实也就几年。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 876,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100586478426525814",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Claude 写代码的口碑，在 Claude Code 出现之前就已经有了。2024 年的 Cursor + Claude 3 Opus，很值得回顾一下。\n\n那时候用 AI 编程，一个很常见的流程是在 ChatGPT 里贴代码、描述需求，再把回答复制回编辑器。Copilot 则主要负责边写边补全，人还得自己组织整个修改过程。\n\n2024 年 3 月，Claude 3 https://t.co/YDub6BnyPO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2100793437029097966",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 2212,
+          "like_count": 122134,
+          "listed_count": 5,
+          "media_count": 589,
+          "tweet_count": 11285
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-23T09:13:33.000Z",
+        "description": "Indie developer building games & open-source tools\nSharing AI news, model impressions, and opinions\nOccasional thoughts on life",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scarletkc.com",
+                "end": 23,
+                "expanded_url": "https://scarletkc.com/",
+                "start": 0,
+                "url": "https://t.co/YTKXMPiBzd"
+              }
+            ]
+          }
+        },
+        "id": "756779273155858432",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100788139711504836",
+        "name": "KC",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/756779273155858432/1546229475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059328812463304704/BXaYGP9k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4777,
+          "following_count": 1032,
+          "like_count": 97795,
+          "listed_count": 16,
+          "media_count": 338,
+          "tweet_count": 9979
+        },
+        "url": "https://t.co/YTKXMPiBzd",
+        "username": "ScarletKc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,556 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2105120782267682918",
+    "created_at": "2026-09-30T02:21:20.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T03:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105120782267682918"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bridgemindai/s…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/bridgemindai/status/2105016612365770809",
+          "start": 25,
+          "url": "https://t.co/zyrlEAeDpJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105120782267682918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105016612365770809",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "单线程满负荷工作的费用现在是每月168000美元 https://t.co/zyrlEAeDpJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 550,
+        "media_key": "3_2105016482123952128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTaFVm9XMAAerfA.jpg",
+        "width": 1592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2105120782267682918",
+        "created_at": "2026-09-30T02:21:20.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T03:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105120782267682918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bridgemindai/s…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/bridgemindai/status/2105016612365770809",
+              "start": 25,
+              "url": "https://t.co/zyrlEAeDpJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105120782267682918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105016612365770809",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "单线程满负荷工作的费用现在是每月168000美元 https://t.co/zyrlEAeDpJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105016482123952128"
+          ]
+        },
+        "author_id": "1767869376496107520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2105016612365770809",
+        "created_at": "2026-09-29T19:27:24.000Z",
+        "display_text_range": [
+          0,
+          172
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T20:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105016612365770809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GP3vE0ypl6",
+              "end": 196,
+              "expanded_url": "https://x.com/bridgemindai/status/2105016612365770809/photo/1",
+              "media_key": "3_2105016482123952128",
+              "start": 173,
+              "url": "https://t.co/GP3vE0ypl6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105016612365770809",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2105016482123952128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 309,
+          "impression_count": 259390,
+          "like_count": 4483,
+          "quote_count": 146,
+          "reply_count": 496,
+          "retweet_count": 212
+        },
+        "reply_settings": "everyone",
+        "text": "I ran out of my entire weekly limit on the $500 ChatGPT Pro Max plan in under 30 minutes.\n\nGPT 6 Astra Ultrafast. \n\n0% left until October 6.\n\nOpenAI just scammed everybody. https://t.co/GP3vE0ypl6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2105120782267682918",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 2312,
+          "like_count": 134151,
+          "listed_count": 6,
+          "media_count": 660,
+          "tweet_count": 11924
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-13T11:04:48.000Z",
+        "description": "The home of the vibe coding movement.\nFounded by @matthewmillerai. 110k+ on YouTube.\nBuilding to $1M in public. https://t.co/wRtHrQMXKA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "matthewmillerai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bridgemind.ai/discord",
+                "end": 135,
+                "expanded_url": "http://bridgemind.ai/discord",
+                "start": 112,
+                "url": "https://t.co/wRtHrQMXKA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bridgemind.ai",
+                "end": 23,
+                "expanded_url": "http://bridgemind.ai",
+                "start": 0,
+                "url": "https://t.co/ANnI8HyjJ6"
+              }
+            ]
+          }
+        },
+        "id": "1767869376496107520",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2105075987465621961",
+        "name": "BridgeMind",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767869376496107520/1766059730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011440113071382528/e2Qscbca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63420,
+          "following_count": 21,
+          "like_count": 9031,
+          "listed_count": 442,
+          "media_count": 1136,
+          "tweet_count": 8729
+        },
+        "url": "https://t.co/ANnI8HyjJ6",
+        "username": "bridgemindai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

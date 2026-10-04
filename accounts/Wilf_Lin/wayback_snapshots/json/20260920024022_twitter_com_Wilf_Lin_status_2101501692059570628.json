@@ -1,0 +1,724 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2101231478327976417",
+    "created_at": "2026-09-20T02:40:22.000Z",
+    "display_text_range": [
+      8,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T03:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101501692059570628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "367249904",
+          "start": 0,
+          "username": "lijy91"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101501692059570628",
+    "in_reply_to_user_id": "367249904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101231478327976417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lijy91 wayland下好像是要用xdg desktop protal"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21300,
+        "height": 960,
+        "media_key": "13_2101229877093699584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101229877093699584/img/htZHbT1d01VlHTF1.jpg",
+        "public_metrics": {
+          "view_count": 1416
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101229877093699584/vid/avc1/478x270/OYodDarrO5-lVM8T.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101229877093699584/vid/avc1/638x360/8K2QyKZ2UWVH_eC8.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101229877093699584/vid/avc1/1278x720/vxgwQxWn-yCMIdx-.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101229877093699584/pl/OK3XJANQjNN53UDk.m3u8?tag=14"
+          }
+        ],
+        "width": 1706
+      },
+      {
+        "duration_ms": 28600,
+        "height": 800,
+        "media_key": "13_2101229877114593280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101229877114593280/img/DIwzh04iEOhtcetQ.jpg",
+        "public_metrics": {
+          "view_count": 223
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101229877114593280/vid/avc1/480x270/TPgz3KWpPHuuOI8_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101229877114593280/vid/avc1/640x360/S8EPvBqO21vplcz6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101229877114593280/vid/avc1/1280x720/gN7PhhEKcbrutHIu.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101229877114593280/pl/Wp3FdS85t8btp8V2.m3u8?tag=14"
+          }
+        ],
+        "width": 1424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2101231478327976417",
+        "created_at": "2026-09-20T02:40:22.000Z",
+        "display_text_range": [
+          8,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T03:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101501692059570628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "367249904",
+              "start": 0,
+              "username": "lijy91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101501692059570628",
+        "in_reply_to_user_id": "367249904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101231478327976417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijy91 wayland下好像是要用xdg desktop protal"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101229877093699584",
+            "13_2101229877114593280"
+          ]
+        },
+        "author_id": "367249904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1238186761110433792",
+              "name": "Mobile development"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1238187996706246656",
+              "name": "iOS development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1238186761110433792",
+              "name": "Mobile development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1238187996706246656",
+              "name": "iOS development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "MacOS",
+              "id": "848959509653356544",
+              "name": "MacOS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "MacOS",
+              "id": "848959509653356544",
+              "name": "MacOS"
+            }
+          }
+        ],
+        "conversation_id": "2101231478327976417",
+        "created_at": "2026-09-19T08:46:38.000Z",
+        "display_text_range": [
+          0,
+          184
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T09:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101231478327976417"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 105,
+              "tag": "Flutter"
+            },
+            {
+              "end": 129,
+              "start": 114,
+              "tag": "FlutterDesktop"
+            },
+            {
+              "end": 140,
+              "start": 130,
+              "tag": "NativeAPI"
+            },
+            {
+              "end": 145,
+              "start": 141,
+              "tag": "多窗口"
+            },
+            {
+              "end": 151,
+              "start": 146,
+              "tag": "桌面开发"
+            },
+            {
+              "end": 159,
+              "start": 153,
+              "tag": "macOS"
+            },
+            {
+              "end": 168,
+              "start": 160,
+              "tag": "Windows"
+            },
+            {
+              "end": 175,
+              "start": 169,
+              "tag": "Linux"
+            },
+            {
+              "end": 184,
+              "start": 176,
+              "tag": "Wayland"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "github.com/libnativeapi/n…",
+              "end": 103,
+              "expanded_url": "https://github.com/libnativeapi/nativeapi-flutter/tree/main/examples/floating_toolbar_example",
+              "start": 80,
+              "unwound_url": "https://github.com/libnativeapi/nativeapi-flutter/tree/main/examples/floating_toolbar_example",
+              "url": "https://t.co/RWs8BieYkM"
+            },
+            {
+              "display_url": "pic.x.com/txgpVtTOMI",
+              "end": 208,
+              "expanded_url": "https://x.com/lijy91/status/2101231478327976417/video/1",
+              "media_key": "13_2101229877093699584",
+              "start": 185,
+              "url": "https://t.co/txgpVtTOMI"
+            },
+            {
+              "display_url": "pic.x.com/txgpVtTOMI",
+              "end": 208,
+              "expanded_url": "https://x.com/lijy91/status/2101231478327976417/video/1",
+              "media_key": "13_2101229877114593280",
+              "start": 185,
+              "url": "https://t.co/txgpVtTOMI"
+            },
+            {
+              "display_url": "x.com/lijy91/status/…",
+              "end": 232,
+              "expanded_url": "https://twitter.com/lijy91/status/2100221485495562347",
+              "start": 209,
+              "url": "https://t.co/vtWg1tan4r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101231478327976417",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2101229877093699584"
+          },
+          {
+            "media_key": "13_2101229877114593280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5303,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100221485495562347",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "继续折腾多窗口的交互，实现了类似 iOS 模拟器顶部悬浮工具条的效果，不过 Wayland 的限制实在太多，折腾了一圈也没成，没招了就这样吧。\n\n代码在这里： https://t.co/RWs8BieYkM\n\n#Flutter #FlutterDesktop #NativeAPI #多窗口 #桌面开发  #macOS #Windows #Linux #Wayland https://t.co/txgpVtTOMI https://t.co/vtWg1tan4r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2101501692059570628",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1974,
+          "following_count": 2220,
+          "like_count": 123571,
+          "listed_count": 6,
+          "media_count": 595,
+          "tweet_count": 11361
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-09-03T17:02:36.000Z",
+        "description": "Flutter dev & open-source enthusiast 🚀 | Contributing actively to the Flutter community via #LeanFlutter 🛠️ | Crafting plugins with the team 💡 #Flutter 🌐",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 104,
+                "start": 92,
+                "tag": "LeanFlutter"
+              },
+              {
+                "end": 151,
+                "start": 143,
+                "tag": "Flutter"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "leanflutter.dev",
+                "end": 23,
+                "expanded_url": "http://leanflutter.dev",
+                "start": 0,
+                "url": "https://t.co/46XXfU0r6m"
+              }
+            ]
+          }
+        },
+        "id": "367249904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101288876379984355",
+        "name": "痕迹",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/514231578231181312/MAi_uGLJ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 456,
+          "like_count": 424,
+          "listed_count": 6,
+          "media_count": 42,
+          "tweet_count": 229
+        },
+        "url": "https://t.co/46XXfU0r6m",
+        "username": "lijy91",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

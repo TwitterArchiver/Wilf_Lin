@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2105345191486042237",
+    "created_at": "2026-09-30T17:13:03.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T18:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105345191486042237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902420673",
+          "start": 3,
+          "username": "ZacharyZhang"
+        },
+        {
+          "end": 22,
+          "id": "14561327",
+          "start": 18,
+          "username": "dhh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/zv6h",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/zv6h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105345191486042237",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105153370721861747",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZacharyZhang: @dhh \nI love Rust, so I create this GPUI library called ELY-GPUI\nReally hope it worth a star or repost!\nhttps://t.co/zv6h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30000,
+        "height": 1080,
+        "media_key": "13_2105153336471130112",
+        "preview_image_url": "https://pbs.twimg.com/media/HTcB1ZJXoAAo45o.jpg",
+        "public_metrics": {
+          "view_count": 10229
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105153336471130112/pl/4ly3vb5kMJM-w9Jf.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105153336471130112/vid/avc1/480x270/f-RWCwwYg4FKlm-E.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105153336471130112/vid/avc1/1280x720/6D3agxate6Wft72P.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105153336471130112/vid/avc1/1920x1080/X3xFe-JZgT4tLXBW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105153336471130112/vid/avc1/640x360/3moXjDbpJXCkM5Rm.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2105345191486042237",
+        "created_at": "2026-09-30T17:13:03.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T18:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105345191486042237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902420673",
+              "start": 3,
+              "username": "ZacharyZhang"
+            },
+            {
+              "end": 22,
+              "id": "14561327",
+              "start": 18,
+              "username": "dhh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/zv6h",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/zv6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105345191486042237",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105153370721861747",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZacharyZhang: @dhh \nI love Rust, so I create this GPUI library called ELY-GPUI\nReally hope it worth a star or repost!\nhttps://t.co/zv6h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105153336471130112"
+          ]
+        },
+        "author_id": "1902420673",
+        "conversation_id": "2105153370721861747",
+        "created_at": "2026-09-30T04:30:50.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T05:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105153370721861747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 4,
+              "id": "14561327",
+              "start": 0,
+              "username": "dhh"
+            }
+          ],
+          "urls": [
+            {
+              "description": "A component library for GPUI. Every part runs live in the browser, compiled from Rust to WebAssembly.",
+              "display_url": "ely-gpui.zacharyzhang.com",
+              "end": 127,
+              "expanded_url": "https://ely-gpui.zacharyzhang.com",
+              "images": [
+                {
+                  "height": 1260,
+                  "url": "https://pbs.twimg.com/news_img/2105153374333149184/1fdTyr5y?format=jpg&name=orig",
+                  "width": 2400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2105153374333149184/1fdTyr5y?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 104,
+              "status": 200,
+              "title": "Ely · GPUI components",
+              "unwound_url": "https://ely-gpui.zacharyzhang.com",
+              "url": "https://t.co/zv6hMeoVzs"
+            },
+            {
+              "description": "A component library for GPUI, in light and dark. Every component runs live in the browser. - ZacharyZhang-NY/Ely-GPUI-Components",
+              "display_url": "github.com/ZacharyZhang-N…",
+              "end": 152,
+              "expanded_url": "https://github.com/ZacharyZhang-NY/Ely-GPUI-Components",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2105153375876661248/lSWSrx6Q?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2105153375876661248/lSWSrx6Q?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 129,
+              "status": 200,
+              "title": "GitHub - ZacharyZhang-NY/Ely-GPUI-Components: A component library for GPUI, in light and dark. Every component runs live in the browser.",
+              "unwound_url": "https://github.com/ZacharyZhang-NY/Ely-GPUI-Components",
+              "url": "https://t.co/WR1tKyvT8M"
+            },
+            {
+              "display_url": "pic.x.com/lGe421LN7T",
+              "end": 303,
+              "expanded_url": "https://x.com/ZacharyZhang/status/2105153370721861747/video/1",
+              "media_key": "13_2105153336471130112",
+              "start": 280,
+              "url": "https://t.co/lGe421LN7T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105153370721861747",
+        "in_reply_to_user_id": "14561327",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2105153336471130112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 389,
+          "impression_count": 39255,
+          "like_count": 375,
+          "quote_count": 9,
+          "reply_count": 42,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "@dhh \nI love Rust, so I create this GPUI library called ELY-GPUI\nReally hope it worth a star or repost!\nhttps://t.co/zv6hMeoVzs\n\nhttps://t.co/WR1tKyvT8M\nIt contains 1272 components with 43 different categories \nIt is still initial launch, need some more polish. Hope you like it! https://t.co/lGe421LN7T"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2105345191486042237",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2017,
+          "following_count": 2320,
+          "like_count": 134329,
+          "listed_count": 6,
+          "media_count": 662,
+          "tweet_count": 11945
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-09-25T01:16:52.000Z",
+        "description": "我只想有点活人感\n💜NYU Alumni\n创业者，AI产品经理，摄影师，乐队主唱/节奏吉他，美食博主\nAlways Open For Opportunity\n如果你有任何创业想法，有兴趣可以和我聊聊，我会给你最中肯的建议，是否值得创业。如果连我都过不去，那就不要浪费时间了。\n目前，我更加关注政府和企业AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zacharyzhang.com",
+                "end": 23,
+                "expanded_url": "https://zacharyzhang.com",
+                "start": 0,
+                "url": "https://t.co/NDEf2PTbpi"
+              }
+            ]
+          }
+        },
+        "id": "1902420673",
+        "is_identity_verified": true,
+        "location": "New York, USA",
+        "most_recent_tweet_id": "2105345124133711897",
+        "name": "雷电芽衣",
+        "pinned_tweet_id": "2096810959461368119",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902420673/1757185845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056395323581329408/ht0svjIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2900,
+          "following_count": 2457,
+          "like_count": 3424,
+          "listed_count": 15,
+          "media_count": 438,
+          "tweet_count": 7190
+        },
+        "url": "https://t.co/NDEf2PTbpi",
+        "username": "ZacharyZhang",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1671940407633010689/9P5gi6LF_bigger.jpg",
+          "description": "37signals",
+          "url": "https://twitter.com/37signals",
+          "user_id": [
+            "11132462"
+          ]
+        },
+        "created_at": "2008-04-27T20:19:25.000Z",
+        "description": "Father of three, Creator of Ruby on Rails + Omarchy, Co-owner & CTO of 37signals, Shopify director, NYT best-selling author, and Le Mans 24h class-winner.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dhh.dk",
+                "end": 23,
+                "expanded_url": "https://dhh.dk",
+                "start": 0,
+                "url": "https://t.co/jtVPVMmMQT"
+              }
+            ]
+          }
+        },
+        "id": "14561327",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2105343778693492972",
+        "name": "DHH",
+        "pinned_tweet_id": "2102936073642869121",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14561327/1788808855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093715898204884992/goERjC9G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908375,
+          "following_count": 462,
+          "like_count": 57819,
+          "listed_count": 11834,
+          "media_count": 3599,
+          "tweet_count": 74373
+        },
+        "url": "https://t.co/jtVPVMmMQT",
+        "username": "dhh",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

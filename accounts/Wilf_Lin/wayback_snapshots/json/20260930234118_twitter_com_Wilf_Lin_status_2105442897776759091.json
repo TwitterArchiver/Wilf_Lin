@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2105442897776759091",
+    "created_at": "2026-09-30T23:41:18.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T00:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105442897776759091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2870102861",
+          "start": 3,
+          "username": "thdxr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105442897776759091",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105350537860305104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thdxr: i'm begging you once again can we please kill the redirect to localhost oauth flow\n\nit's so bad, such bad ux so brittle in so ma…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2105442897776759091",
+        "created_at": "2026-09-30T23:41:18.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T00:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105442897776759091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2870102861",
+              "start": 3,
+              "username": "thdxr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105442897776759091",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105350537860305104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thdxr: i'm begging you once again can we please kill the redirect to localhost oauth flow\n\nit's so bad, such bad ux so brittle in so ma…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2870102861",
+        "conversation_id": "2105350537860305104",
+        "created_at": "2026-09-30T17:34:18.000Z",
+        "display_text_range": [
+          0,
+          194
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T18:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105350537860305104"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105350537860305104",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 238,
+          "impression_count": 86418,
+          "like_count": 1740,
+          "quote_count": 9,
+          "reply_count": 56,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "i'm begging you once again can we please kill the redirect to localhost oauth flow\n\nit's so bad, such bad ux so brittle in so many situations\n\nthe client can poll for a code please please please"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2105442897776759091",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 2328,
+          "like_count": 134883,
+          "listed_count": 6,
+          "media_count": 666,
+          "tweet_count": 11979
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2086904083462426624/x7sGmBWz_bigger.jpg",
+          "description": "Anomaly",
+          "url": "https://twitter.com/anomalyco",
+          "user_id": [
+            "18323344"
+          ]
+        },
+        "created_at": "2014-11-10T04:50:37.000Z",
+        "description": "building @opencode at @anomalyco\nnot the ceo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "opencode"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "anomalyco"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thdxr.com",
+                "end": 23,
+                "expanded_url": "https://thdxr.com",
+                "start": 0,
+                "url": "https://t.co/bWom5srB32"
+              }
+            ]
+          }
+        },
+        "id": "2870102861",
+        "is_identity_verified": false,
+        "location": "Miami, FL",
+        "most_recent_tweet_id": "2105413758151438534",
+        "name": "dax",
+        "pinned_tweet_id": "2101725767092625712",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2870102861/1787203427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602333093485891584/mmVqjFNI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174745,
+          "following_count": 501,
+          "like_count": 91160,
+          "listed_count": 1633,
+          "media_count": 2845,
+          "tweet_count": 45063
+        },
+        "url": "https://t.co/bWom5srB32",
+        "username": "thdxr",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

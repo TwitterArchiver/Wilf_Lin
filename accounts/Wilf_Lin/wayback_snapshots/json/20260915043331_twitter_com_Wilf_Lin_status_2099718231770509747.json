@@ -1,0 +1,598 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2099718231770509747",
+    "created_at": "2026-09-15T04:33:31.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T05:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099718231770509747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/landiantech/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/landiantech/status/2099657448869318679",
+          "start": 20,
+          "url": "https://t.co/ce9qlLHzPz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099718231770509747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099657448869318679",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "即将分不清codex的手鼠标和我的鼠标 https://t.co/ce9qlLHzPz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1043,
+        "media_key": "3_2099509989174026240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSL1NiMaIAAXUqm.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1159,
+        "media_key": "3_2099509989190856704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSL1NiQa8AA1Kqa.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2099718231770509747",
+        "created_at": "2026-09-15T04:33:31.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T05:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099718231770509747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/landiantech/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/landiantech/status/2099657448869318679",
+              "start": 20,
+              "url": "https://t.co/ce9qlLHzPz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099718231770509747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099657448869318679",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "即将分不清codex的手鼠标和我的鼠标 https://t.co/ce9qlLHzPz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099509989174026240",
+            "3_2099509989190856704"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2099657448869318679",
+        "created_at": "2026-09-15T00:32:00.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T01:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099657448869318679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "#系统资讯 微软似乎在为 Windows 11 设计新的鼠标指针样式，采用现代化几何设计，不再留着长长的尾巴。这个样式与微软在 Mi…",
+              "display_url": "ourl.co/126857?x",
+              "end": 152,
+              "expanded_url": "https://ourl.co/126857?x",
+              "start": 129,
+              "status": 200,
+              "title": "微软似乎在为Windows 11设计新的默认鼠标指针 替换沿用多年的默认样式 - 蓝点网",
+              "unwound_url": "https://www.landian.news/archives/126857.html?utm_source=x.com&utm_medium=social&utm_campaign=share&utm_content=landiantech&utm_term=%E5%BE%AE%E8%BD%AF%E4%BC%BC%E4%B9%8E%E5%9C%A8%E4%B8%BAWindows+11%E8%AE%BE%E8%AE%A1%E6%96%B0%E7%9A%84%E9%BB%98%E8%AE%A4%E9%BC%A0%E6%A0%87%E6%8C%87%E9%92%88+%E6%9B%BF%E6%8D%A2%E6%B2%BF%E7%94%A8%E5%A4%9A%E5%B9%B4%E7%9A%84%E9%BB%98%E8%AE%A4%E6%A0%B7%E5%BC%8F",
+              "url": "https://t.co/5vdevMXR5g"
+            },
+            {
+              "display_url": "pic.x.com/BwqGhfLegG",
+              "end": 176,
+              "expanded_url": "https://x.com/landiantech/status/2099657448869318679/photo/1",
+              "media_key": "3_2099509989174026240",
+              "start": 153,
+              "url": "https://t.co/BwqGhfLegG"
+            },
+            {
+              "display_url": "pic.x.com/BwqGhfLegG",
+              "end": 176,
+              "expanded_url": "https://x.com/landiantech/status/2099657448869318679/photo/1",
+              "media_key": "3_2099509989190856704",
+              "start": 153,
+              "url": "https://t.co/BwqGhfLegG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099657448869318679",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099509989174026240"
+          },
+          {
+            "media_key": "3_2099509989190856704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2872,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "微软似乎在为 Windows 11 设计新的鼠标指针样式，采用现代化几何设计，不再留着长长的尾巴。\n\n这个样式与微软在 Microsoft Fluent UI 仓库中提到的光标样式非常类似，待微软测试完毕后有可能后续版本就会默认采用这个新样式。\n\n查看全文：https://t.co/5vdevMXR5g https://t.co/BwqGhfLegG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2099718231770509747",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1855,
+          "following_count": 2182,
+          "like_count": 119304,
+          "listed_count": 3,
+          "media_count": 576,
+          "tweet_count": 11117
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / 重度 Codex & Claude Code 用户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landian.news",
+                "end": 23,
+                "expanded_url": "https://www.landian.news/",
+                "start": 0,
+                "url": "https://t.co/AQRoCx3e7F"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "is_identity_verified": false,
+        "location": "土卫六",
+        "most_recent_tweet_id": "2099714072111685733",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2095707381397434728",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37676,
+          "following_count": 811,
+          "like_count": 6488,
+          "listed_count": 283,
+          "media_count": 6655,
+          "tweet_count": 17977
+        },
+        "url": "https://t.co/AQRoCx3e7F",
+        "username": "landiantech",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

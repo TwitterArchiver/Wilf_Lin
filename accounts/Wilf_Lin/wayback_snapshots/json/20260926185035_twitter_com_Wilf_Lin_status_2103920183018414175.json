@@ -1,0 +1,695 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1553037640982638592",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1814293649485643776",
+          "name": "Dell Inspire"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1814293649485643776",
+          "name": "Dell Inspire"
+        }
+      }
+    ],
+    "conversation_id": "2103498682532253734",
+    "created_at": "2026-09-26T18:50:35.000Z",
+    "display_text_range": [
+      35,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T19:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103920183018414175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1883205292596359168",
+          "start": 0,
+          "username": "trycua"
+        },
+        {
+          "end": 12,
+          "id": "14561327",
+          "start": 8,
+          "username": "dhh"
+        },
+        {
+          "end": 26,
+          "id": "17575419",
+          "start": 13,
+          "username": "SpencerGBull"
+        },
+        {
+          "end": 34,
+          "id": "812737065767096320",
+          "start": 27,
+          "username": "vaxryy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103920183018414175",
+    "in_reply_to_user_id": "1883205292596359168",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103498682532253734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trycua @dhh @SpencerGBull @vaxryy how you dell with x11 apps?"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15500,
+        "height": 1080,
+        "media_key": "13_2103492570374361089",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103492570374361089/img/2e6nWkV1GaGBbUgK.jpg",
+        "public_metrics": {
+          "view_count": 85155
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103492570374361089/vid/avc1/640x360/2c8vSIIty7VwQPVV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103492570374361089/vid/avc1/1280x720/c1K54Jd6VlDVOq2X.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103492570374361089/pl/nSpT5rrckEfQRRsn.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103492570374361089/vid/avc1/1920x1080/zsUL_mx5k5UBhaCP.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103492570374361089/vid/avc1/480x270/TsWqqD20mtYT7gFf.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1553037640982638592",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1814293649485643776",
+              "name": "Dell Inspire"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1814293649485643776",
+              "name": "Dell Inspire"
+            }
+          }
+        ],
+        "conversation_id": "2103498682532253734",
+        "created_at": "2026-09-26T18:50:35.000Z",
+        "display_text_range": [
+          35,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T19:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103920183018414175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1883205292596359168",
+              "start": 0,
+              "username": "trycua"
+            },
+            {
+              "end": 12,
+              "id": "14561327",
+              "start": 8,
+              "username": "dhh"
+            },
+            {
+              "end": 26,
+              "id": "17575419",
+              "start": 13,
+              "username": "SpencerGBull"
+            },
+            {
+              "end": 34,
+              "id": "812737065767096320",
+              "start": 27,
+              "username": "vaxryy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103920183018414175",
+        "in_reply_to_user_id": "1883205292596359168",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103498682532253734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trycua @dhh @SpencerGBull @vaxryy how you dell with x11 apps?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103492570374361089"
+          ]
+        },
+        "author_id": "1883205292596359168",
+        "conversation_id": "2103498682532253734",
+        "created_at": "2026-09-25T14:55:41.000Z",
+        "display_text_range": [
+          0,
+          277
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T15:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103498682532253734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 193,
+              "id": "14561327",
+              "start": 189,
+              "username": "dhh"
+            },
+            {
+              "end": 208,
+              "id": "17575419",
+              "start": 195,
+              "username": "SpencerGBull"
+            },
+            {
+              "end": 220,
+              "id": "812737065767096320",
+              "start": 213,
+              "username": "vaxryy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IBt10oGkL7",
+              "end": 301,
+              "expanded_url": "https://x.com/trycua/status/2103498682532253734/video/1",
+              "media_key": "13_2103492570374361089",
+              "start": 278,
+              "url": "https://t.co/IBt10oGkL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103498682532253734",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2103492570374361089"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 193,
+                "id": "14561327",
+                "start": 189,
+                "username": "dhh"
+              },
+              {
+                "end": 208,
+                "id": "17575419",
+                "start": 195,
+                "username": "SpencerGBull"
+              },
+              {
+                "end": 220,
+                "id": "812737065767096320",
+                "start": 213,
+                "username": "vaxryy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/trycua/cua",
+                "end": 414,
+                "expanded_url": "https://github.com/trycua/cua",
+                "start": 391,
+                "url": "https://t.co/0R5fWjfpGg"
+              }
+            ]
+          },
+          "text": "1/ Today we're announcing the stable Cua Driver release for Omarchy - a new foundation for computer use, built into the OS from the ground up.\n\nOver the last month, we worked directly with @dhh, @SpencerGBull and @vaxryy to bring a native synthetic cursor to Omarchy's Hyprland compositor, enabling true multi-cursor computer use at the OS level.\n\nCua Driver is open source and available at https://t.co/0R5fWjfpGg"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1207,
+          "impression_count": 270508,
+          "like_count": 1787,
+          "quote_count": 51,
+          "reply_count": 110,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "1/ Today we're announcing the stable Cua Driver release for Omarchy - a new foundation for computer use, built into the OS from the ground up.\n\nOver the last month, we worked directly with @dhh, @SpencerGBull and @vaxryy to bring a native synthetic cursor to Omarchy's Hyprland https://t.co/IBt10oGkL7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2103920183018414175",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1988,
+          "following_count": 2268,
+          "like_count": 130240,
+          "listed_count": 6,
+          "media_count": 618,
+          "tweet_count": 11708
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T17:28:35.000Z",
+        "description": "Close the loop with Cua Driver: /bin/bash -c \"$(curl -fsSL https://t.co/eIQYZCD6OG https://t.co/FPlvZ2DeKx)\"",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cua.ai/driver/",
+                "end": 82,
+                "expanded_url": "http://cua.ai/driver/",
+                "start": 59,
+                "url": "https://t.co/eIQYZCD6OG"
+              },
+              {
+                "display_url": "install.sh",
+                "end": 106,
+                "expanded_url": "http://install.sh",
+                "start": 83,
+                "url": "https://t.co/FPlvZ2DeKx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cua.ai",
+                "end": 23,
+                "expanded_url": "https://cua.ai",
+                "start": 0,
+                "url": "https://t.co/EIf47c6rhH"
+              }
+            ]
+          }
+        },
+        "id": "1883205292596359168",
+        "is_identity_verified": false,
+        "location": "San Francisco, CA",
+        "most_recent_tweet_id": "2103900568741978390",
+        "name": "Cua",
+        "pinned_tweet_id": "2103498682532253734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883205292596359168/1789684471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002463997820342272/0F6s0iDn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20465,
+          "following_count": 2367,
+          "like_count": 5788,
+          "listed_count": 178,
+          "media_count": 217,
+          "tweet_count": 1248
+        },
+        "url": "https://t.co/EIf47c6rhH",
+        "username": "trycua",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1671940407633010689/9P5gi6LF_bigger.jpg",
+          "description": "37signals",
+          "url": "https://twitter.com/37signals",
+          "user_id": [
+            "11132462"
+          ]
+        },
+        "created_at": "2008-04-27T20:19:25.000Z",
+        "description": "Father of three, Creator of Ruby on Rails + Omarchy, Co-owner & CTO of 37signals, Shopify director, NYT best-selling author, and Le Mans 24h class-winner.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dhh.dk",
+                "end": 23,
+                "expanded_url": "https://dhh.dk",
+                "start": 0,
+                "url": "https://t.co/jtVPVMmMQT"
+              }
+            ]
+          }
+        },
+        "id": "14561327",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2103919155468763603",
+        "name": "DHH",
+        "pinned_tweet_id": "2102936073642869121",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14561327/1788808855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093715898204884992/goERjC9G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896902,
+          "following_count": 460,
+          "like_count": 57390,
+          "listed_count": 11798,
+          "media_count": 3581,
+          "tweet_count": 74165
+        },
+        "url": "https://t.co/jtVPVMmMQT",
+        "username": "dhh",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-11-23T17:30:13.000Z",
+        "description": "Family - Software - Dell Technologies",
+        "id": "17575419",
+        "is_identity_verified": false,
+        "location": "Houston, Texas",
+        "most_recent_tweet_id": "2103708731519496259",
+        "name": "Spencer Bull",
+        "pinned_tweet_id": "2091756749002789097",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17575419/1628799403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1453049261994790912/jXN5Zc7v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3278,
+          "following_count": 749,
+          "like_count": 1001,
+          "listed_count": 32,
+          "media_count": 26,
+          "tweet_count": 375
+        },
+        "url": "",
+        "username": "SpencerGBull",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-12-24T19:09:51.000Z",
+        "description": "Either your favorite, or your least favorite desktop Linux developer. I make Hyprland and other stuff-\n\nSegmentation fault (core dumped)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vaxry.net",
+                "end": 23,
+                "expanded_url": "https://vaxry.net",
+                "start": 0,
+                "url": "https://t.co/3qkfFVp4v8"
+              }
+            ]
+          }
+        },
+        "id": "812737065767096320",
+        "is_identity_verified": false,
+        "location": "Poland",
+        "most_recent_tweet_id": "2103919215594078396",
+        "name": "vaxry",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/812737065767096320/1715117590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787959548474540032/yjyBDXjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27435,
+          "following_count": 93,
+          "like_count": 9441,
+          "listed_count": 104,
+          "media_count": 1779,
+          "tweet_count": 12875
+        },
+        "url": "https://t.co/3qkfFVp4v8",
+        "username": "vaxryy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

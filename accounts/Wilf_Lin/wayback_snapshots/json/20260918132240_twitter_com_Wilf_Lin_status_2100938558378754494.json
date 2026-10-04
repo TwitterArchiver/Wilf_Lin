@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2100673609198899365",
+    "created_at": "2026-09-18T13:22:40.000Z",
+    "display_text_range": [
+      13,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T14:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100938558378754494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2160479969",
+          "start": 0,
+          "username": "hegargarcia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100938558378754494",
+    "in_reply_to_user_id": "2160479969",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100673609198899365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hegargarcia Astra: don’t ditch me do do dhing!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2100673609198899365",
+        "created_at": "2026-09-18T13:22:40.000Z",
+        "display_text_range": [
+          13,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100938558378754494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2160479969",
+              "start": 0,
+              "username": "hegargarcia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100938558378754494",
+        "in_reply_to_user_id": "2160479969",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100673609198899365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hegargarcia Astra: don’t ditch me do do dhing!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2160479969",
+        "conversation_id": "2100673609198899365",
+        "created_at": "2026-09-17T19:49:51.000Z",
+        "display_text_range": [
+          0,
+          188
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T20:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100673609198899365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100673609198899365",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 80695,
+          "like_count": 2543,
+          "quote_count": 12,
+          "reply_count": 181,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "Dear Astra,\n\nWhen I ask you to fix something, I mean write the three lines that fix it.\n\nNot 400 lines of code, 17 tests, and a 12-page essay documenting the bug’s final days.\n\nBest,\nHegar"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2100938558378754494",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 2212,
+          "like_count": 122350,
+          "listed_count": 5,
+          "media_count": 589,
+          "tweet_count": 11293
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2095569926249668608/ZrO-gxaJ_bigger.jpg",
+          "description": "Fonzi",
+          "url": "https://twitter.com/FonziAI",
+          "user_id": [
+            "1963330246020825088"
+          ]
+        },
+        "created_at": "2013-10-30T16:10:00.000Z",
+        "description": "building the future of recruiting @FonziAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 34,
+                "username": "FonziAI"
+              }
+            ]
+          }
+        },
+        "id": "2160479969",
+        "is_identity_verified": false,
+        "location": "New York, NY",
+        "most_recent_tweet_id": "2100818025116995802",
+        "name": "Hegar",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2160479969/1767812722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008978282704760833/IW5OL9-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 856,
+          "like_count": 1896,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "hegargarcia",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

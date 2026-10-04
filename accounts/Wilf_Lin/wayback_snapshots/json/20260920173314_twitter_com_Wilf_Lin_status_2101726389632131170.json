@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2101726389632131170",
+    "created_at": "2026-09-20T17:33:14.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T18:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101726389632131170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "296593919",
+          "start": 3,
+          "username": "vikingmute"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101726389632131170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101674606151278785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vikingmute: Cloudflare 的 MCP 服务器也太好用了，我所有和 CF 相关 操作都已经让 agent 完成了有一段时间了，而且它设计的非常巧妙，授权直接 Remote + OAuth 授权\n\n操作的时候 2500+ API 不暴露成 2500 个…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1072,
+        "media_key": "3_2101674403625082880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqlvCWaoAAnp-i.jpg",
+        "width": 1594
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2101726389632131170",
+        "created_at": "2026-09-20T17:33:14.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T18:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101726389632131170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "296593919",
+              "start": 3,
+              "username": "vikingmute"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101726389632131170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101674606151278785",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vikingmute: Cloudflare 的 MCP 服务器也太好用了，我所有和 CF 相关 操作都已经让 agent 完成了有一段时间了，而且它设计的非常巧妙，授权直接 Remote + OAuth 授权\n\n操作的时候 2500+ API 不暴露成 2500 个…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101674403625082880"
+          ]
+        },
+        "author_id": "296593919",
+        "conversation_id": "2101674606151278785",
+        "created_at": "2026-09-20T14:07:27.000Z",
+        "display_text_range": [
+          0,
+          198
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T15:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101674606151278785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vvPYikBW0v",
+              "end": 222,
+              "expanded_url": "https://x.com/vikingmute/status/2101674606151278785/photo/1",
+              "media_key": "3_2101674403625082880",
+              "start": 199,
+              "url": "https://t.co/vvPYikBW0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101674606151278785",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101674403625082880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "Cloudflare 的 MCP 服务器也太好用了，我所有和 CF 相关 操作都已经让 agent 完成了有一段时间了，而且它设计的非常巧妙，授权直接 Remote + OAuth 授权\n\n操作的时候 2500+ API 不暴露成 2500 个 tool 只有 docs /search / execute 三个工具 agent 写 JS 去查 spec 再调 API ，这个真的很赞，token 消耗非常小\n\n如果大家还没有用 强烈建议用起来 codex 可以直接装插件"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 8631,
+          "like_count": 94,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Cloudflare 的 MCP 服务器也太好用了，我所有和 CF 相关 操作都已经让 agent 完成了有一段时间了，而且它设计的非常巧妙，授权直接 Remote + OAuth 授权\n\n操作的时候 2500+ API 不暴露成 2500 个 tool 只有 docs /search / execute 三个工具 agent 写 JS 去查 spec 再调 API ，这个真的很赞，token https://t.co/vvPYikBW0v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2101726389632131170",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1973,
+          "following_count": 2228,
+          "like_count": 124063,
+          "listed_count": 6,
+          "media_count": 595,
+          "tweet_count": 11379
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-05-11T02:08:52.000Z",
+        "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tinyship.cn",
+                "end": 47,
+                "expanded_url": "http://tinyship.cn",
+                "start": 24,
+                "url": "https://t.co/o0BI6W8DRb"
+              },
+              {
+                "display_url": "easycv.cn",
+                "end": 120,
+                "expanded_url": "http://easycv.cn",
+                "start": 97,
+                "url": "https://t.co/xMu5JFIGnr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vikingz.me",
+                "end": 23,
+                "expanded_url": "http://vikingz.me",
+                "start": 0,
+                "url": "https://t.co/6Zj0nAx1OI"
+              }
+            ]
+          }
+        },
+        "id": "296593919",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2101674606151278785",
+        "name": "Viking",
+        "pinned_tweet_id": "1998566358779617506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/296593919/1461731223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68245,
+          "following_count": 279,
+          "like_count": 1320,
+          "listed_count": 744,
+          "media_count": 1839,
+          "tweet_count": 3796
+        },
+        "url": "https://t.co/6Zj0nAx1OI",
+        "username": "vikingmute",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2099745998050320671",
+    "created_at": "2026-09-15T06:23:51.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T07:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099745998050320671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 56,
+          "id": "2021509446640562176",
+          "start": 47,
+          "username": "memoh_ai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Wilf_Lin/statu…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/Wilf_Lin/status/2099737353577255021",
+          "start": 57,
+          "url": "https://t.co/HnLRNoeFre"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099745998050320671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 56,
+            "id": "2021509446640562176",
+            "start": 47,
+            "username": "memoh_ai"
+          },
+          {
+            "end": 216,
+            "id": "1988455688323166215",
+            "start": 207,
+            "username": "evermind"
+          }
+        ]
+      },
+      "text": "讲一下这个里面最核心的两个pr，他们把codex遥控器变成了codex工作伙伴\n\n第一个，从 @memoh_ai 抄来的，discuss模式，由模型自主判断是否需要回复，但我进行了一些优化，我的版本会在一轮对话结束后，fork当前对话，在独立会话中判断是否需要回复，如果为是，则交由主会话回复，期间新消息依旧由fork判断是否需要插入，这里的关键是主会话上下文不受干扰，fork会话上下文缓存复用。\n\n第二个，受 @evermind 启发，独立消息简史系统，由一个5.6luna模型维护一个持续更新的消息简史，并在主模型收到请求时先找出可能相关的对话历史，主模型保留搜索全部聊天记录的能力"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099737353577255021",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "讲一下这个里面最核心的两个pr，他们把codex遥控器变成了codex工作伙伴\n\n第一个，从 @memoh_ai https://t.co/HnLRNoeFre"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.note.mentions.username: [1988455688323166215].",
+      "parameter": "entities.note.mentions.username",
+      "resource_id": "1988455688323166215",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1988455688323166215"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2232,
+        "media_key": "3_2099737347512246273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPD_iAWoAE-99D.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2099745998050320671",
+        "created_at": "2026-09-15T06:23:51.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T07:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099745998050320671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 56,
+              "id": "2021509446640562176",
+              "start": 47,
+              "username": "memoh_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Wilf_Lin/statu…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/Wilf_Lin/status/2099737353577255021",
+              "start": 57,
+              "url": "https://t.co/HnLRNoeFre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099745998050320671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 56,
+                "id": "2021509446640562176",
+                "start": 47,
+                "username": "memoh_ai"
+              },
+              {
+                "end": 216,
+                "id": "1988455688323166215",
+                "start": 207,
+                "username": "evermind"
+              }
+            ]
+          },
+          "text": "讲一下这个里面最核心的两个pr，他们把codex遥控器变成了codex工作伙伴\n\n第一个，从 @memoh_ai 抄来的，discuss模式，由模型自主判断是否需要回复，但我进行了一些优化，我的版本会在一轮对话结束后，fork当前对话，在独立会话中判断是否需要回复，如果为是，则交由主会话回复，期间新消息依旧由fork判断是否需要插入，这里的关键是主会话上下文不受干扰，fork会话上下文缓存复用。\n\n第二个，受 @evermind 启发，独立消息简史系统，由一个5.6luna模型维护一个持续更新的消息简史，并在主模型收到请求时先找出可能相关的对话历史，主模型保留搜索全部聊天记录的能力"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099737353577255021",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讲一下这个里面最核心的两个pr，他们把codex遥控器变成了codex工作伙伴\n\n第一个，从 @memoh_ai https://t.co/HnLRNoeFre"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099737347512246273"
+          ]
+        },
+        "author_id": "1554803647909097472",
+        "conversation_id": "2099737353577255021",
+        "created_at": "2026-09-15T05:49:30.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099737353577255021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D3Smak0zvi",
+              "end": 58,
+              "expanded_url": "https://x.com/Wilf_Lin/status/2099737353577255021/photo/1",
+              "media_key": "3_2099737347512246273",
+              "start": 35,
+              "url": "https://t.co/D3Smak0zvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099737353577255021",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099737347512246273"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "由于我对飞书官方推荐的飞书codex连接器过于不满\n我连开了五个pr https://t.co/D3Smak0zvi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2099745998050320671",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1855,
+          "following_count": 2183,
+          "like_count": 119475,
+          "listed_count": 3,
+          "media_count": 579,
+          "tweet_count": 11125
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-11T09:00:00.000Z",
+        "description": "Cloud-first multi-agent platform.\nEvery agent has its own desktop, files, and network, running 24/7.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "memoh.ai",
+                "end": 23,
+                "expanded_url": "http://memoh.ai",
+                "start": 0,
+                "url": "https://t.co/gW1mArK5ts"
+              }
+            ]
+          }
+        },
+        "id": "2021509446640562176",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2099549676186059108",
+        "name": "Memoh",
+        "pinned_tweet_id": "2023333509323210856",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2021509446640562176/1789100463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071876271307390976/kBmsB0-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 14,
+          "like_count": 6,
+          "listed_count": 4,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "url": "https://t.co/gW1mArK5ts",
+        "username": "memoh_ai",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

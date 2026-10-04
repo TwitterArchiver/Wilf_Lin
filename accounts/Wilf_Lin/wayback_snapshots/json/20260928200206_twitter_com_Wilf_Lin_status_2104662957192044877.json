@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple App Store",
+          "id": "10053298770",
+          "name": "Apple App Store"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046487168",
+          "name": "App Store"
+        }
+      }
+    ],
+    "conversation_id": "2104525005300396483",
+    "created_at": "2026-09-28T20:02:06.000Z",
+    "display_text_range": [
+      11,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T21:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104662957192044877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1904556522900013056",
+          "start": 0,
+          "username": "alterxyz4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104662957192044877",
+    "in_reply_to_user_id": "1904556522900013056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104525005300396483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alterxyz4 是这样的吗的头一回碰到App Store的软件要翻回国才能下载"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2104525005300396483",
+        "created_at": "2026-09-28T20:02:06.000Z",
+        "display_text_range": [
+          11,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T21:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104662957192044877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1904556522900013056",
+              "start": 0,
+              "username": "alterxyz4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104662957192044877",
+        "in_reply_to_user_id": "1904556522900013056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104525005300396483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alterxyz4 是这样的吗的头一回碰到App Store的软件要翻回国才能下载"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904556522900013056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2104525005300396483",
+        "created_at": "2026-09-28T10:53:56.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104525005300396483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/czy194/status/…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/czy194/status/2104183269243953442",
+              "start": 59,
+              "url": "https://t.co/pV0Sg0MZW3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104525005300396483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 403,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104183269243953442",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "字节家的软件是我见过唯一真的用地区限制的。\n换句话说，豆包输入法、飞书，你切了中国 APP Store，也下载不了。 https://t.co/pV0Sg0MZW3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2104662957192044877",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2004,
+          "following_count": 2295,
+          "like_count": 133243,
+          "listed_count": 5,
+          "media_count": 634,
+          "tweet_count": 11825
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-25T15:30:41.000Z",
+        "description": "Walk with worlds, toward infinity. | \nHead of Product @dify_ai | 仅代表个人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 54,
+                "username": "dify_ai"
+              }
+            ]
+          }
+        },
+        "id": "1904556522900013056",
+        "is_identity_verified": false,
+        "location": "Menlo Park, CA",
+        "most_recent_tweet_id": "2104659776865288628",
+        "name": "Jerome.Y.",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904556815314268160/K75nQnJ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1667,
+          "following_count": 543,
+          "like_count": 61996,
+          "listed_count": 4,
+          "media_count": 122,
+          "tweet_count": 5291
+        },
+        "url": "",
+        "username": "alterxyz4",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

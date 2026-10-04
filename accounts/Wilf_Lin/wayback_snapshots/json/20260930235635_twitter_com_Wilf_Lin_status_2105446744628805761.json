@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2105446744628805761",
+    "created_at": "2026-09-30T23:56:35.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T00:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105446744628805761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1924942531734994947",
+          "start": 3,
+          "username": "yoitsmanan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105446744628805761",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 267
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104990913886031993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoitsmanan: Introducing Phonon-2: a new standard in speech recognition per byte.\n\nAt just a tiny 164MB download, it is more accurate on…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2104973203517124608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZd-dlasAAzw60.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2105446744628805761",
+        "created_at": "2026-09-30T23:56:35.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T00:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105446744628805761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1924942531734994947",
+              "start": 3,
+              "username": "yoitsmanan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105446744628805761",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 267
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104990913886031993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoitsmanan: Introducing Phonon-2: a new standard in speech recognition per byte.\n\nAt just a tiny 164MB download, it is more accurate on…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104973203517124608"
+          ]
+        },
+        "author_id": "1924942531734994947",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Macbook",
+              "id": "972168210182111232",
+              "name": "Apple Macbook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2104990913886031993",
+        "created_at": "2026-09-29T17:45:17.000Z",
+        "display_text_range": [
+          0,
+          277
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T18:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104990913886031993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jh8mtm5paY",
+              "end": 301,
+              "expanded_url": "https://x.com/yoitsmanan/status/2104990913886031993/photo/1",
+              "media_key": "3_2104973203517124608",
+              "start": 278,
+              "url": "https://t.co/Jh8mtm5paY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104990913886031993",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104973203517124608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 297,
+                "id": "2080764543899512832",
+                "start": 286,
+                "username": "fermion_ai"
+              }
+            ]
+          },
+          "text": "Introducing Phonon-2: a new standard in speech recognition per byte.\n\nAt just a tiny 164MB download, it is more accurate on average than OpenAI's Whisper large ( a model 10X its size)\n\nTranscribe an hour of audio in just 20 seconds on a  MacBook Air! \n\nOpen weights, CC-BY-4.0, today.\n\n@fermion_ai"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5123,
+          "impression_count": 306363,
+          "like_count": 4376,
+          "quote_count": 51,
+          "reply_count": 161,
+          "retweet_count": 267
+        },
+        "reply_settings": "everyone",
+        "text": "Introducing Phonon-2: a new standard in speech recognition per byte.\n\nAt just a tiny 164MB download, it is more accurate on average than OpenAI's Whisper large ( a model 10X its size)\n\nTranscribe an hour of audio in just 20 seconds on a  MacBook Air! \n\nOpen weights, CC-BY-4.0, https://t.co/Jh8mtm5paY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2105446744628805761",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 2329,
+          "like_count": 134924,
+          "listed_count": 6,
+          "media_count": 666,
+          "tweet_count": 11985
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-20T21:37:29.000Z",
+        "description": "Building @fermion_ai, also i am very cool. @mercatus fellow. @solofounders cohort 5 ,  prev @fdotinc @localhosthq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "fermion_ai"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "mercatus"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "solofounders"
+              },
+              {
+                "end": 100,
+                "start": 92,
+                "username": "fdotinc"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "localhosthq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fermionresearch.com",
+                "end": 23,
+                "expanded_url": "http://fermionresearch.com",
+                "start": 0,
+                "url": "https://t.co/3Ew8Cswh94"
+              }
+            ]
+          }
+        },
+        "id": "1924942531734994947",
+        "is_identity_verified": false,
+        "location": "TON-618",
+        "most_recent_tweet_id": "2105395001035456569",
+        "name": "Manan Gupta",
+        "pinned_tweet_id": "2104990913886031993",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1924942531734994947/1777484128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924944908361846784/n-GoUJzY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1941,
+          "following_count": 260,
+          "like_count": 638,
+          "listed_count": 8,
+          "media_count": 32,
+          "tweet_count": 311
+        },
+        "url": "https://t.co/3Ew8Cswh94",
+        "username": "yoitsmanan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

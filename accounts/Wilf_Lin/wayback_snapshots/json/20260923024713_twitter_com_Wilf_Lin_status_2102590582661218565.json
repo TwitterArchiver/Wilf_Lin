@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2102300726500397275",
+    "created_at": "2026-09-23T02:47:13.000Z",
+    "display_text_range": [
+      10,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T03:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102590582661218565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1429221486032678914",
+          "start": 0,
+          "username": "NFT_Chen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102590582661218565",
+    "in_reply_to_user_id": "1429221486032678914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102300726500397275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NFT_Chen 毕竟是个llm\nbert都多久没人训练了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13141,
+        "height": 684,
+        "media_key": "13_2102295789037035520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102295789037035520/img/GFBMkS7lfqHefNIt.jpg",
+        "public_metrics": {
+          "view_count": 22045
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102295789037035520/vid/avc1/504x270/tgNnuf5x_XnRzdu4.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102295789037035520/vid/avc1/672x360/BnYwShTcIHBCr7zy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102295789037035520/vid/avc1/1280x684/9Z6Ip3cRf4b4tRWv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102295789037035520/pl/VR_yGN0zjWp_NeMA.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2102300726500397275",
+        "created_at": "2026-09-23T02:47:13.000Z",
+        "display_text_range": [
+          10,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T03:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102590582661218565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1429221486032678914",
+              "start": 0,
+              "username": "NFT_Chen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102590582661218565",
+        "in_reply_to_user_id": "1429221486032678914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102300726500397275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NFT_Chen 毕竟是个llm\nbert都多久没人训练了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102295789037035520"
+          ]
+        },
+        "author_id": "1429221486032678914",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2102300726500397275",
+        "created_at": "2026-09-22T07:35:26.000Z",
+        "display_text_range": [
+          0,
+          202
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T08:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102300726500397275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QaYKDGe0uf",
+              "end": 226,
+              "expanded_url": "https://x.com/NFT_Chen/status/2102300726500397275/video/1",
+              "media_key": "13_2102295789037035520",
+              "start": 203,
+              "url": "https://t.co/QaYKDGe0uf"
+            },
+            {
+              "display_url": "x.com/nft_chen/statu…",
+              "end": 250,
+              "expanded_url": "https://x.com/nft_chen/status/2102297992179200329?s=46",
+              "start": 227,
+              "url": "https://t.co/l6bu2Mt7Di"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102300726500397275",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2102295789037035520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 320,
+                "start": 311,
+                "tag": "AgentJev"
+              },
+              {
+                "end": 326,
+                "start": 321,
+                "tag": "Laya"
+              },
+              {
+                "end": 331,
+                "start": 327,
+                "tag": "Jev"
+              },
+              {
+                "end": 342,
+                "start": 332,
+                "tag": "SystemOne"
+              },
+              {
+                "end": 348,
+                "start": 343,
+                "tag": "开源AI"
+              },
+              {
+                "end": 354,
+                "start": 349,
+                "tag": "本地模型"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/malevrigns/age…",
+                "end": 282,
+                "expanded_url": "https://github.com/malevrigns/agent-jev",
+                "start": 259,
+                "url": "https://t.co/WlnzLgq7r8"
+              },
+              {
+                "display_url": "huggingface.co/aimeigaoshou/a…",
+                "end": 309,
+                "expanded_url": "https://huggingface.co/aimeigaoshou/agent-jev",
+                "start": 286,
+                "url": "https://t.co/NFrsc0lS8s"
+              },
+              {
+                "display_url": "x.com/nft_chen/statu…",
+                "end": 379,
+                "expanded_url": "https://x.com/nft_chen/status/2102297992179200329?s=46",
+                "start": 356,
+                "url": "https://t.co/l6bu2Mt7Di"
+              }
+            ]
+          },
+          "text": "😱 什么？！仅 0.6B 本地开源决策模型在 Typed Decisions 上压过 Laya ！\n\nAgentJev-0.6B vs Laya：\n🔹准确率 79.25% vs 77.00%（+2.25）\n🔹64 候选一次前向，KV 前缀复用，计算量砍 92.4%，约 2× 加速\n🔹68ms 反射决策，0 输出 token，无 JSON 解析\n🔹选项位置无关 + 概率校准，可直接做 routing / risk gate\n🔹上下文 2048 vs 1024 • 权重开源，本机跑，不走闭源 API\n\nGitHub：https://t.co/WlnzLgq7r8\nHF：https://t.co/NFrsc0lS8s\n\n#AgentJev #Laya #Jev #SystemOne #开源AI #本地模型\n\nhttps://t.co/l6bu2Mt7Di"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 826,
+          "impression_count": 58763,
+          "like_count": 682,
+          "quote_count": 7,
+          "reply_count": 23,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102297992179200329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😱 什么？！仅 0.6B 本地开源决策模型在 Typed Decisions 上压过 Laya ！\n\nAgentJev-0.6B vs Laya：\n🔹准确率 79.25% vs 77.00%（+2.25）\n🔹64 候选一次前向，KV 前缀复用，计算量砍 92.4%，约 2× 加速\n🔹68ms 反射决策，0 输出 token，无 JSON 解析\n🔹选项位置无关 + 概率校准，可直接做 routing / https://t.co/QaYKDGe0uf https://t.co/l6bu2Mt7Di"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2102590582661218565",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1982,
+          "following_count": 2239,
+          "like_count": 126216,
+          "listed_count": 6,
+          "media_count": 608,
+          "tweet_count": 11509
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-21T23:22:24.000Z",
+        "description": "#BiBiCrew Co-founder｜@Sydney_Uni Master｜Stock & Crypto Trader｜AI Builder｜Not Financial Advice, DYOR",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "BiBiCrew"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "Sydney_Uni"
+              }
+            ]
+          }
+        },
+        "id": "1429221486032678914",
+        "is_identity_verified": false,
+        "location": "Sydney",
+        "most_recent_tweet_id": "2102491839878361173",
+        "name": "SuSu_酥酥👅",
+        "pinned_tweet_id": "2092248643935875507",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429221486032678914/1669871771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948253379005906944/uGx9Ufe-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16537,
+          "following_count": 1965,
+          "like_count": 28680,
+          "listed_count": 80,
+          "media_count": 2234,
+          "tweet_count": 8089
+        },
+        "url": "",
+        "username": "NFT_Chen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

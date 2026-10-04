@@ -1,0 +1,615 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "JavaScript",
+          "id": "898659750950207489",
+          "name": "JavaScript"
+        }
+      }
+    ],
+    "conversation_id": "2103926845288964485",
+    "created_at": "2026-09-26T19:17:03.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T20:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103926845288964485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/awesomekling/s…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/awesomekling/status/2103636839043105019",
+          "start": 19,
+          "url": "https://t.co/0X6uh8jbL7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103926845288964485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103636839043105019",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这事终于有人干了\n\n去死吧react https://t.co/0X6uh8jbL7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12370,
+        "height": 1542,
+        "media_key": "13_2103632503059763200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103632503059763200/img/l2l-UuNVzsuiS-9O.jpg",
+        "public_metrics": {
+          "view_count": 13537
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103632503059763200/vid/avc1/560x360/ggWPplAgg3YF9ROH.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103632503059763200/vid/avc1/2400x1542/YJOMlRvp3xIsTcXq.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103632503059763200/vid/avc1/420x270/xgzLQsDSr5U0oVO2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103632503059763200/pl/2CgvCYWyM78Pe-AZ.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103632503059763200/vid/avc1/1680x1080/Upu5j-jHpdRmZZR_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103632503059763200/vid/avc1/1120x720/2C52_UaDDT_1cHee.mp4"
+          }
+        ],
+        "width": 2400
+      },
+      {
+        "duration_ms": 15008,
+        "height": 1542,
+        "media_key": "13_2103635376631881728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103635376631881728/img/ZqDDuQlT8-RRdBGA.jpg",
+        "public_metrics": {
+          "view_count": 1989
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103635376631881728/pl/EU6VR6agov0Kq0l5.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103635376631881728/vid/avc1/2400x1542/exalQniSHLnbAfZp.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103635376631881728/vid/avc1/420x270/sYHJnEPLmd_rnqIn.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103635376631881728/vid/avc1/560x360/EWVfyBHfBh0jRRlv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103635376631881728/vid/avc1/1120x720/psnrsa1YdH40v36B.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103635376631881728/vid/avc1/1680x1080/qQanCagzhba5nLNZ.mp4"
+          }
+        ],
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "JavaScript",
+              "id": "898659750950207489",
+              "name": "JavaScript"
+            }
+          }
+        ],
+        "conversation_id": "2103926845288964485",
+        "created_at": "2026-09-26T19:17:03.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T20:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103926845288964485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/awesomekling/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/awesomekling/status/2103636839043105019",
+              "start": 19,
+              "url": "https://t.co/0X6uh8jbL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103926845288964485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103636839043105019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这事终于有人干了\n\n去死吧react https://t.co/0X6uh8jbL7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103632503059763200",
+            "13_2103635376631881728"
+          ]
+        },
+        "author_id": "1118652581310545922",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2103636839043105019",
+        "created_at": "2026-09-26T00:04:40.000Z",
+        "display_text_range": [
+          0,
+          275
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T01:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103636839043105019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 144,
+              "id": "1566471428299440128",
+              "start": 128,
+              "username": "ladybirdbrowser"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zgxhgyUV4c",
+              "end": 299,
+              "expanded_url": "https://x.com/awesomekling/status/2103636839043105019/video/1",
+              "media_key": "13_2103632503059763200",
+              "start": 276,
+              "url": "https://t.co/zgxhgyUV4c"
+            },
+            {
+              "display_url": "pic.x.com/zgxhgyUV4c",
+              "end": 299,
+              "expanded_url": "https://x.com/awesomekling/status/2103636839043105019/video/1",
+              "media_key": "13_2103635376631881728",
+              "start": 276,
+              "url": "https://t.co/zgxhgyUV4c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103636839043105019",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2103632503059763200"
+          },
+          {
+            "media_key": "13_2103635376631881728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 144,
+                "id": "1566471428299440128",
+                "start": 128,
+                "username": "ladybirdbrowser"
+              }
+            ]
+          },
+          "text": "Work in progress, but this is so fucking cool I just have to share..\n\nI'm moving the entire CSS pipeline off the main thread in @ladybirdbrowser. This allows us to animate any CSS properties we want and they just keep going smoothly despite heavy JS execution!\n\nVideo demo is animating a bunch of flex and grid layouts while JS churns on the main thread. Same demo in Chrome for comparison.\n\nWelcome to the future, bros 😎"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 23949,
+          "like_count": 924,
+          "quote_count": 7,
+          "reply_count": 34,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "Work in progress, but this is so fucking cool I just have to share..\n\nI'm moving the entire CSS pipeline off the main thread in @ladybirdbrowser. This allows us to animate any CSS properties we want and they just keep going smoothly despite heavy JS execution!\n\nVideo demo is https://t.co/zgxhgyUV4c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2103926845288964485",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 2270,
+          "like_count": 130268,
+          "listed_count": 6,
+          "media_count": 618,
+          "tweet_count": 11711
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-17T23:08:53.000Z",
+        "description": "building @ladybirdbrowser. recovering addict. husband of @katalinkult. uncle. gymnasium brother.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "ladybirdbrowser"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "katalinkult"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awesomekling.com",
+                "end": 23,
+                "expanded_url": "https://awesomekling.com/",
+                "start": 0,
+                "url": "https://t.co/lUAi45o0lr"
+              }
+            ]
+          }
+        },
+        "id": "1118652581310545922",
+        "is_identity_verified": false,
+        "location": "Sweden",
+        "most_recent_tweet_id": "2103844432424456504",
+        "name": "Andreas Kling",
+        "pinned_tweet_id": "2096545668261093494",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1118652581310545922/1690908496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000586443077373955/2BQTH8rC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64370,
+          "following_count": 2167,
+          "like_count": 46210,
+          "listed_count": 328,
+          "media_count": 2260,
+          "tweet_count": 11764
+        },
+        "url": "https://t.co/lUAi45o0lr",
+        "username": "awesomekling",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

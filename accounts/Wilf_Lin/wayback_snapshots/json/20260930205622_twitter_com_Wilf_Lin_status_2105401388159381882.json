@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2105393162365591961",
+    "created_at": "2026-09-30T20:56:22.000Z",
+    "display_text_range": [
+      14,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T21:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105401388159381882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1902420673",
+          "start": 0,
+          "username": "ZacharyZhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105401388159381882",
+    "in_reply_to_user_id": "1902420673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105393162365591961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZacharyZhang 参考一下huggingface被攻击事件中的那个情况\n如果是agent自发的组织，或许真的有用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2105393162365591961",
+        "created_at": "2026-09-30T20:56:22.000Z",
+        "display_text_range": [
+          14,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T21:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105401388159381882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1902420673",
+              "start": 0,
+              "username": "ZacharyZhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105401388159381882",
+        "in_reply_to_user_id": "1902420673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105393162365591961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZacharyZhang 参考一下huggingface被攻击事件中的那个情况\n如果是agent自发的组织，或许真的有用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902420673",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2105393162365591961",
+        "created_at": "2026-09-30T20:23:40.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T21:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105393162365591961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Local-first desktop control plane for autonomous AI companies. Set a goal, let an AI CEO assemble specialists, delegate work, and deliver code, research, content, and operations from your desktop.",
+              "display_url": "agent-company.dev",
+              "end": 41,
+              "expanded_url": "https://agent-company.dev",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2082151490773225472/M5odGlIS?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2082151490773225472/M5odGlIS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 18,
+              "status": 200,
+              "title": "AgentCompany - Launch an Autonomous AI Company from Your Desktop",
+              "unwound_url": "https://agent-company.dev",
+              "url": "https://t.co/9G8Rn5M7bK"
+            },
+            {
+              "display_url": "x.com/gengzishunli/s…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/gengzishunli/status/2105380577289629965",
+              "start": 127,
+              "url": "https://t.co/VBfwESiTiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105393162365591961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105380577289629965",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还是觉得这种伪命题。去年我就尝试过https://t.co/9G8Rn5M7bK\n让Agent像一个公司架构一样互相交流互相汇报。甚至CEO可以招聘新的Agent Onboard.\n这种情况下，不同agent之间上下文污染严重。很有可能导致直接爆炸。 https://t.co/VBfwESiTiq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2105401388159381882",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 2322,
+          "like_count": 134639,
+          "listed_count": 6,
+          "media_count": 662,
+          "tweet_count": 11956
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-09-25T01:16:52.000Z",
+        "description": "我只想有点活人感\n💜NYU Alumni\n创业者，AI产品经理，摄影师，乐队主唱/节奏吉他，美食博主\nAlways Open For Opportunity\n如果你有任何创业想法，有兴趣可以和我聊聊，我会给你最中肯的建议，是否值得创业。如果连我都过不去，那就不要浪费时间了。\n目前，我更加关注政府和企业AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zacharyzhang.com",
+                "end": 23,
+                "expanded_url": "https://zacharyzhang.com",
+                "start": 0,
+                "url": "https://t.co/NDEf2PTbpi"
+              }
+            ]
+          }
+        },
+        "id": "1902420673",
+        "is_identity_verified": true,
+        "location": "New York, USA",
+        "most_recent_tweet_id": "2105401265135976711",
+        "name": "雷电芽衣",
+        "pinned_tweet_id": "2096810959461368119",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902420673/1757185845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056395323581329408/ht0svjIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2911,
+          "following_count": 2464,
+          "like_count": 3454,
+          "listed_count": 15,
+          "media_count": 440,
+          "tweet_count": 7220
+        },
+        "url": "https://t.co/NDEf2PTbpi",
+        "username": "ZacharyZhang",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

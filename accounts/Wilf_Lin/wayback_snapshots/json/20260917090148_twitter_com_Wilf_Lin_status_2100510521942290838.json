@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2100510521942290838",
+    "created_at": "2026-09-17T09:01:48.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100510521942290838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x_czyt/status/…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/x_czyt/status/2100497113301893238",
+          "start": 28,
+          "url": "https://t.co/tdF1Ezfd4Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100510521942290838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100497113301893238",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "尝试阅读天书中\n（我是不是该搓个简单的agent练练了 https://t.co/tdF1Ezfd4Q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2100510521942290838",
+        "created_at": "2026-09-17T09:01:48.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100510521942290838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x_czyt/status/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/x_czyt/status/2100497113301893238",
+              "start": 28,
+              "url": "https://t.co/tdF1Ezfd4Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100510521942290838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100497113301893238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尝试阅读天书中\n（我是不是该搓个简单的agent练练了 https://t.co/tdF1Ezfd4Q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "741923186636267520",
+        "conversation_id": "2100497113301893238",
+        "created_at": "2026-09-17T08:08:31.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T09:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100497113301893238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 73,
+              "id": "2061397204934479872",
+              "start": 62,
+              "username": "DimAgentai"
+            }
+          ],
+          "urls": [
+            {
+              "description": "本文基于 felinics/Memoh （commit 1aaef83）源码写作。所有代码引用均为仓库内相对路径与行号，可直接到 GitHub 对应行查看。 写作目标：一是拆解这个生产级多 Agent 平台的模块划分、权限设计、AI 调度与流转；二是提炼出你可以直接借鉴的设计模式。如果你没开发过 agent，先读第 1 章的入门部分。 0. 项目速览：Memoh 是什么 Memoh 是一个开源多 Agent 平台，核心卖点是给每个 AI agent 一台自己的\"云电脑\"：独立的容器 workspace（文件系统、桌面、浏览器、网络），24/7 在线，通过 Telegram / Discord / 飞书 / 微信 / Matrix / 邮件等渠道对话，带长期记忆，支持定时任务，还能托管 Claude Code、Codex 等外部 CLI agent。 技术栈：Go + Echo + Uber FX（后端）、Vue 3（Web）、PostgreSQL（主存储）、Qdrant（向量记忆）、Docker/containerd/Apple Virtualization（workspace 容器）、可选 Redis（集群模式队列）。 代码规模：internal/ 下 76 个领域包，仅 internal/agent 就约 9MB 源码，是一个认真做过生产级调度设计的项目。这正是值得读它的原因。大多数开源 agent 项目把\"调度\"做成内存里的一个循环，而 Memoh 把 turn 的准入、所有权、幂等、恢复全部持久化到了 PostgreSQL，用数据库约束解决并发问题。这是本文最想讲清楚的部分。 1. Agent 运行原理入门（写给没写过 agent 的人） 在深入 Memoh 之前，先用它的真实代码把四个基础概念讲明白：编排（orchestration）、调度（scheduling）、上下文注入（context injection）、输出获取（output consumption）。",
+              "display_url": "czyt.tech/post/memoh-sou…",
+              "end": 61,
+              "expanded_url": "https://czyt.tech/post/memoh-source-code-analysis/",
+              "start": 38,
+              "status": 200,
+              "title": "Memoh 源码解读：一个多 Agent 平台的架构设计参考",
+              "unwound_url": "https://czyt.tech/post/memoh-source-code-analysis/",
+              "url": "https://t.co/DPCuqGYQpu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100497113301893238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "使用dimagent  让dimagent写了一篇memoh的源码解读文章 https://t.co/DPCuqGYQpu @DimAgentai"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2100510521942290838",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882,
+          "following_count": 2203,
+          "like_count": 121501,
+          "listed_count": 5,
+          "media_count": 586,
+          "tweet_count": 11247
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-06-12T09:20:46.000Z",
+        "description": "a coder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "czyt.tech",
+                "end": 23,
+                "expanded_url": "https://czyt.tech",
+                "start": 0,
+                "url": "https://t.co/0rnmeykmyG"
+              }
+            ]
+          }
+        },
+        "id": "741923186636267520",
+        "is_identity_verified": false,
+        "location": "gophers Land",
+        "most_recent_tweet_id": "2100497113301893238",
+        "name": "虫子樱桃",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1254705249446694917/KCIsw3v9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 1323,
+          "like_count": 192,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 1701
+        },
+        "url": "https://t.co/0rnmeykmyG",
+        "username": "x_czyt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

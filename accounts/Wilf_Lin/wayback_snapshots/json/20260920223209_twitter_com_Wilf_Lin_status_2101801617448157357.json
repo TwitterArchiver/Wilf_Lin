@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554803647909097472",
+    "conversation_id": "2101797648936411197",
+    "created_at": "2026-09-20T22:32:09.000Z",
+    "display_text_range": [
+      11,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T23:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101801617448157357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "756779273155858432",
+          "start": 0,
+          "username": "ScarletKc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101801617448157357",
+    "in_reply_to_user_id": "756779273155858432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101797648936411197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScarletKc 对于现代模型+GB2/300来说NVFP4几乎是唯一可选项，不太可能有其他量化，但是路由到错误的模型或者后端偷调思考强度是有可能的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2101797648936411197",
+        "created_at": "2026-09-20T22:32:09.000Z",
+        "display_text_range": [
+          11,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T23:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101801617448157357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "756779273155858432",
+              "start": 0,
+              "username": "ScarletKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101801617448157357",
+        "in_reply_to_user_id": "756779273155858432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101797648936411197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScarletKc 对于现代模型+GB2/300来说NVFP4几乎是唯一可选项，不太可能有其他量化，但是路由到错误的模型或者后端偷调思考强度是有可能的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "756779273155858432",
+        "conversation_id": "2101797648936411197",
+        "created_at": "2026-09-20T22:16:23.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T23:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101797648936411197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101797648936411197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近 Astra 的体感确实变差了，我怀疑服务端用了更激进的量化。\n\n看到有人说，模型训练完权重就固定了，所以不存在降智，只是输出有随机性。这个解释漏掉了部署环节。\n\n我自己也训过模型，对精度这些事情并不陌生。同一个 checkpoint，部署时可以使用不同精度。量化把原来的数值映射到更有限的取值范围，省显存、降低推理成本，同时也会引入误差。模型名字完全可以不变。\n\n这些误差会影响计算结果和 token 的概率分布。一旦某一步生成了不同内容，后面的推理就可能沿着另一条路径继续。损失明显时，用户感受到的就是原来能做对的任务，现在做不对了。\n\n这也能解释为什么有些模型刚发布时很惊艳，过几天感觉实力下降。如果后续为了提高吞吐、降低成本，换了损失更大的量化配置，体验就可能跟着退步，根本不需要重新训练模型。\n\n具体损失取决于精度、量化方法和任务，做得好的低精度版本也可以很接近原始表现。我怀疑 Astra 最近的变化与此有关。\n\n拿训练完权重固定来证明服务不可能变差，或者把所有退步都归结为随机性，这个结论下得太轻松了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近 Astra 的体感确实变差了，我怀疑服务端用了更激进的量化。\n\n看到有人说，模型训练完权重就固定了，所以不存在降智，只是输出有随机性。这个解释漏掉了部署环节。\n\n我自己也训过模型，对精度这些事情并不陌生。同一个"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2101801617448157357",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1974,
+          "following_count": 2230,
+          "like_count": 124287,
+          "listed_count": 6,
+          "media_count": 595,
+          "tweet_count": 11384
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-23T09:13:33.000Z",
+        "description": "Indie developer building games & open-source tools\nSharing AI news, model impressions, and opinions\nOccasional thoughts on life",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scarletkc.com",
+                "end": 23,
+                "expanded_url": "https://scarletkc.com/",
+                "start": 0,
+                "url": "https://t.co/YTKXMPiBzd"
+              }
+            ]
+          }
+        },
+        "id": "756779273155858432",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2101798414531063911",
+        "name": "KC",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/756779273155858432/1546229475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059328812463304704/BXaYGP9k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4972,
+          "following_count": 963,
+          "like_count": 99054,
+          "listed_count": 17,
+          "media_count": 348,
+          "tweet_count": 10159
+        },
+        "url": "https://t.co/YTKXMPiBzd",
+        "username": "ScarletKc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
